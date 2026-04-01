@@ -15,7 +15,48 @@ location: ~/clawd/brain-pack/
 
 # Jeremiah Krakowski Brain Pack — OpenClaw Skill
 
-**Version:** 2.1 | **Updated:** 2026-04-01
+**Version:** 2.2 | **Updated:** 2026-04-01
+
+## Choose Your Path
+
+There are two ways to use the Brain Pack:
+
+---
+
+### 🔌 Path A — Skill for Any Existing Agent (Quick Install)
+
+Install it once. Any of your OpenClaw agents can call it with a simple phrase.
+
+```bash
+git clone https://github.com/wcabrainpack/brain ~/.openclaw/skills/jeremiah-brain-pack
+```
+
+**Trigger phrases your agent will recognize:**
+- `"use Jeremiah Brain Pack"` / `"pull from Jeremiah's training"`
+- `"apply Jeremiah's frameworks to..."`
+- `"write this in Jeremiah's voice"`
+- `"what would Jeremiah say about..."`
+- `"use the Brain Pack to..."`
+
+Any of these phrases activates this skill in whatever agent you're already using (Jack, a custom agent, etc.). The agent reads CONTENT-MAP.md, pulls the right files, and responds using Jeremiah's frameworks and voice.
+
+**Best for:** Quick access from your existing agents without creating a new one.
+
+---
+
+### 🤖 Path B — Dedicated Jeremiah Agent (Full Setup)
+
+Build a standalone agent that *is* Jeremiah — persistent, voice-calibrated, fully loaded.
+
+```bash
+git clone https://github.com/wcabrainpack/brain ~/.openclaw/skills/jeremiah-brain-pack
+mkdir -p ~/jeremiah-agent
+# Then follow the setup guide below → "Building a Dedicated Jeremiah Agent"
+```
+
+**Best for:** WCA members who want a dedicated coaching AI, content writers who work in Jeremiah's voice daily, or anyone who wants a full agent experience.
+
+---
 
 ## What This Skill Is
 
