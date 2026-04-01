@@ -17,44 +17,39 @@ location: ~/clawd/brain-pack/
 
 **Version:** 2.2 | **Updated:** 2026-04-01
 
-## Choose Your Path
+## Install
 
-There are two ways to use the Brain Pack:
-
----
-
-### 🔌 Path A — Skill for Any Existing Agent (Quick Install)
-
-Install it once. Any of your OpenClaw agents can call it with a simple phrase.
+One command. Everything is included.
 
 ```bash
 git clone https://github.com/wcabrainpack/brain ~/.openclaw/skills/jeremiah-brain-pack
 ```
 
-**Trigger phrases your agent will recognize:**
-- `"use Jeremiah Brain Pack"` / `"pull from Jeremiah's training"`
-- `"apply Jeremiah's frameworks to..."`
-- `"write this in Jeremiah's voice"`
-- `"what would Jeremiah say about..."`
-- `"use the Brain Pack to..."`
-
-Any of these phrases activates this skill in whatever agent you're already using (Jack, a custom agent, etc.). The agent reads CONTENT-MAP.md, pulls the right files, and responds using Jeremiah's frameworks and voice.
-
-**Best for:** Quick access from your existing agents without creating a new one.
+That's it. Your agent now has access to 1,000+ hours of Jeremiah's training. Use it immediately with any trigger phrase — or follow the upgrade path below to spin up a full dedicated Jeremiah agent from the same install.
 
 ---
 
-### 🤖 Path B — Dedicated Jeremiah Agent (Full Setup)
+## Immediate Use — Trigger Phrases
 
-Build a standalone agent that *is* Jeremiah — persistent, voice-calibrated, fully loaded.
+Once installed, any OpenClaw agent will activate this skill when you say:
 
-```bash
-git clone https://github.com/wcabrainpack/brain ~/.openclaw/skills/jeremiah-brain-pack
-mkdir -p ~/jeremiah-agent
-# Then follow the setup guide below → "Building a Dedicated Jeremiah Agent"
-```
+- *"use Jeremiah Brain Pack"*
+- *"apply Jeremiah's frameworks to [topic]"*
+- *"write this in Jeremiah's voice"*
+- *"what would Jeremiah say about [topic]"*
+- *"pull from the Brain Pack"*
 
-**Best for:** WCA members who want a dedicated coaching AI, content writers who work in Jeremiah's voice daily, or anyone who wants a full agent experience.
+The agent reads `CONTENT-MAP.md`, routes to the right files, and responds using Jeremiah's frameworks and voice.
+
+---
+
+## ⬆️ Upgrade: Build a Dedicated Jeremiah Agent
+
+Want to go deeper? The Brain Pack includes everything you need to spin up a **dedicated Jeremiah AI agent** — its own workspace, identity, and persistent memory — all from the files already in your install.
+
+> Tell your OpenClaw agent: **"Build me a dedicated Jeremiah agent using the Brain Pack setup guide"**
+
+Your agent will read the setup guide in this skill and create the full agent for you automatically. Or follow the manual steps below.
 
 ---
 
