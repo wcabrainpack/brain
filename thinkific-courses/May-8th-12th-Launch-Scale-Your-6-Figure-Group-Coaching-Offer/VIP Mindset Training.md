@@ -1,2 +1,0 @@
-# VIP Mindset Training
-

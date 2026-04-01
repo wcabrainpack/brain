@@ -1,2 +1,0 @@
-# Main Session Recording
-

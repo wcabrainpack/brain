@@ -1,2 +1,0 @@
-# Funnel Building Tech Training
-

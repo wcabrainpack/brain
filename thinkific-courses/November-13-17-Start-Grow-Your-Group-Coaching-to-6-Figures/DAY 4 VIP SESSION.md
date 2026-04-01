@@ -1,2 +1,0 @@
-# DAY 4 VIP SESSION
-

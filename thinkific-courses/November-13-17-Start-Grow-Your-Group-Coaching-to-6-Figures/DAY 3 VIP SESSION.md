@@ -1,2 +1,0 @@
-# DAY 3 VIP SESSION
-

@@ -1,2 +1,0 @@
-# Access My ChatGPT Prompts
-

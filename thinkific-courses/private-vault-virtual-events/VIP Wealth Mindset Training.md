@@ -1,2 +1,0 @@
-# VIP Wealth Mindset Training
-
