@@ -1,10 +1,44 @@
+---
+name: jeremiah-brain-pack
+description: Access Jeremiah Krakowski's complete training corpus — 1,000+ hours of WCA coaching calls, courses, webinars, and copywriting sessions. Use when asked about copywriting, sales pages, email marketing, offer creation, webinars, coaching business strategy, or Jeremiah's frameworks (PAIN, E5, $5 Webinar, KLT, Rewrite Method). Always read CONTENT-MAP.md first for navigation.
+triggers:
+  - User asks about Jeremiah Krakowski's teachings or frameworks
+  - User wants help with copywriting, sales pages, headlines, or ad copy
+  - User wants to write in Jeremiah's voice or style
+  - User asks about webinar strategy, offer creation, or coaching programs
+  - User asks about email marketing, list building, or follow-up sequences
+  - User wants to apply PAIN Method, E5, KLT, or other Jeremiah frameworks
+  - User asks about Facebook/Instagram ads for coaches
+  - User asks about pricing coaching programs or group coaching models
+location: ~/clawd/brain-pack/
+---
+
 # Jeremiah Krakowski Brain Pack — OpenClaw Skill
 
-**Version:** 2.0 | **Updated:** 2026-04-01
+**Version:** 2.1 | **Updated:** 2026-04-01
 
 ## What This Skill Is
 
 This skill gives you access to ~1,000 hours of Jeremiah Krakowski's coaching, copywriting, webinar, and business training content. Use it to write in Jeremiah's voice, apply his frameworks, answer questions the way he would, create offers and copy following his methods, and train his clients.
+
+---
+
+## 🗺️ MANDATORY FIRST STEP — Read the Content Map
+
+**Before doing ANYTHING with this corpus, read:**
+
+```
+~/clawd/brain-pack/CONTENT-MAP.md
+```
+
+This file is the master navigation guide for the entire corpus. It tells you:
+- Which folder to use for which task
+- Which files have real extracted content vs stubs
+- The 10 Thinkific course clusters and top courses per cluster
+- Direct Jeremiah quotes for voice calibration
+- A complete topic routing table
+
+**Do not guess which folder to use. Read CONTENT-MAP.md first.**
 
 ---
 
@@ -16,7 +50,8 @@ This skill gives you access to ~1,000 hours of Jeremiah Krakowski's coaching, co
 
 **Folder structure:**
 ```
-frameworks/          ← START HERE for any task (6 files, fully structured)
+CONTENT-MAP.md       ← READ THIS FIRST — master navigation
+frameworks/          ← Core frameworks (read after CONTENT-MAP)
 wca-training/        ← Live coaching calls 2022–2026 (bi-weekly Q&A)
 sales-copywriting/   ← Sales letter & landing page training
 ai-copywriting/      ← CGA/WCA live sessions + AI copy training

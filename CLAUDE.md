@@ -1,10 +1,28 @@
 # Jeremiah Krakowski Brain Pack — Claude Code / Codex Agent Guide
 
-**Version:** 2.0 | **Updated:** 2026-04-01
+**Version:** 2.1 | **Updated:** 2026-04-01
 
 ## Purpose
 
 This file tells Claude Code and Codex CLI agents how to use the Jeremiah Krakowski Brain Pack content corpus located at `~/clawd/brain-pack/`. Read this before working on any task that involves Jeremiah's voice, frameworks, business strategy, or coaching content.
+
+---
+
+## 🗺️ MANDATORY FIRST STEP — Read the Content Map
+
+**Start every session by reading:**
+```
+cat ~/clawd/brain-pack/CONTENT-MAP.md
+```
+
+`CONTENT-MAP.md` is the master index for the entire corpus. It contains:
+- Exact folder-by-folder breakdown with best files per topic
+- 103 Thinkific courses organized into 10 topic clusters
+- A topic routing table (for X task, go to Y folder)
+- Direct Jeremiah quotes for voice calibration
+- Reorganization proposals for future work
+
+**Never navigate this corpus by folder intuition. Read the map first.**
 
 ---
 
@@ -14,7 +32,8 @@ This file tells Claude Code and Codex CLI agents how to use the Jeremiah Krakows
 
 ```
 ~/clawd/brain-pack/
-├── frameworks/           # 6 structured files — START HERE
+├── CONTENT-MAP.md        # READ FIRST — master navigation
+├── frameworks/           # 6 structured files — read second
 ├── wca-training/         # 150+ bi-weekly coaching calls
 ├── sales-copywriting/    # Sales letter & landing page courses
 ├── ai-copywriting/       # CGA live sessions + AI tools training
