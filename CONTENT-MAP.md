@@ -272,17 +272,57 @@ Structured courses + 5-day intensives on building a coaching business.
 
 ---
 
+## Key Updates from Deep Swarm Read (2026-04-01)
+
+These findings update and expand the original map:
+
+### 🔄 Current Model Change (Important)
+**Free-first funnels are now deprecated for cold traffic.** Since ~2024, Jeremiah's front door is a **$4.95–$10 paid micro-offer** (short class, challenge, or event) instead of a free lead magnet. Free content still runs on social, but paid ads go to paid micro-offers.
+- Before: Free lead magnet → email list → webinar → WCA
+- Now: $5–$10 paid class → list → backend ladder → WCA
+
+### 🤖 AI Stack Exploded (2025–2026)
+Jeremiah now runs a 12+ tool AI production pipeline:
+- **Writing:** ChatGPT 5 Thinking, Claude Opus, DeepSeek (Instagram), Gemini 3 Pro
+- **Images:** Nano Banana (Gemini 2.5), Flux Pro, Higgsfield Soul
+- **Video:** Sora 2, ElevenLabs voice cloning, CapCut editing, Kling
+- **Music:** Suno.com (royalty-free custom tracks)
+- **Platform:** Poe.com ($20/mo for unified AI access)
+- **Core workflow:** Record once → AI transcribes → 20 content ideas → pick 2 → expand per platform → VA distributes
+
+### 🧠 Mindset Framework: Decision Matrix (David Bayer)
+Jeremiah's deepest mindset tool — 6 steps: Trigger → Belief → Opposite Belief → Evidence → Gratitude → Faith. Used for blocks on sales, visibility, pricing. Referenced in coaching and youtube-transcripts.
+
+### 💰 New Frameworks Found in Deep Read
+- **Bridging the Trust Gap** — how to use $5–$10 offers to qualify buyers before asking for $197+
+- **Low-Ticket Trojan Horse** — paid micro-offer as the trust-building entry point
+- **SMS Framework** — Ship → Measure → Sustain (AI-enabled execution loop)
+- **Growth vs Nurture Content** — separate content for getting new eyeballs vs keeping current audience warm
+- **The Lighthouse Mindset** — complete 10-minute reset ritual for handling criticism and online hate
+- **Polyvagal Business** — nervous system regulation (freeze → fight-flight → calm clarity) for high-stakes moments
+
+### 📧 Email Platform Recommendation
+MailerLite ($50/mo) over Mailchimp ($600-800/mo) — same deliverability, 12x cheaper. Jeremiah now teaches MailerLite as the standard. Best files: `ai-copywriting/2024-09-23_Mailerlite - Lesson 1.txt`
+
+### 📞 Sales Call Framework (from deep read)
+Key principle: *"The job of a sales call is to help someone self-select, not to convince them."* Files: `wca-training/` keyword "sales call" + "enrollment"
+
+### 🎯 Offer Creation Key Insight
+First clients are intentionally "guinea pigs" — charge low to learn, raise prices as certainty grows. Specific formula found: **Confidence → Price → Results → More Confidence** (compounding loop).
+
+---
+
 ## Top Recurring Themes
 
 1. **Mindset before strategy** — Self-belief, imposter syndrome, perfectionism are addressed before tactics in every training
 2. **Imperfect action doctrine** — Launch at 70%, don't wait for perfect
 3. **The feedback loop** — Survey audience → use their words → iterate from real data
-4. **Webinar/event as conversion engine** — All content leads to a presentation
+4. **Paid micro-offer as front door** — $5–$10 entry point, not free (current model)
 5. **Email list as the asset** — Not followers — the list is the business
 6. **Specificity sells** — "Gut health for women 40+" beats "health coaching"
 7. **Sales = trust + emotion + logic** — In that order
 8. **Group coaching model** — The path to scale; 1-on-1 is capped
-9. **AI as leverage** — Not a crutch, a multiplier for copy/offer/webinar
+9. **AI as production system** — Full 12-tool stack, not just prompting
 10. **Authenticity over polish** — Being yourself outperforms manufactured professionalism
 
 ---
