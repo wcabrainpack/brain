@@ -1,0 +1,344 @@
+VIP Coaching Call
+Date: 2025-11-18T23:48:47.000Z
+Duration: 62 min
+Otter ID: N-CzXKgxZ-lC-eWOdIM46_yo3M8
+---
+
+[9:55] Jeremiah Krakowski: What's up, David, how are you?
+
+[10:45] Speaker 1: Well, I'm playing with a little toy I got here. Yeah. What do you got? This gal I follow online that's from Vietnam or somewhere, she I'm in her AI school group, and she posted this link where somebody put together this bundle of 45 AI apps. Looks like I built on Google, AI studio for $7
+
+[17:42] Jeremiah Krakowski: well, I was just going to show you something with Google. Ai studio. Have you made an account with that yet?
+
+[19:31] Speaker 1: I do have a workplace account, so I'm able to access it that way.
+
+[20:40] Jeremiah Krakowski: They just updated it today with Gemini three
+
+[21:28] Speaker 1: Pro. Oh, okay.
+
+[22:09] Jeremiah Krakowski: And I just want to show you, like, single prompts. What I was able to do. This is a single prompt. I said, Make me a working skateboarding game. And so it literally, like, went in and made this like, Oh, wow. Right here, just from, like, a single prompt, yeah, with JavaScript, that's that's interesting. But then I was like, let's take it a step further. Make me a working interface to build Legos in, oh, 3d and then one prompt, it literally was able to create an interface, wow, to build and stack the Lego pieces. Crazy. And actually, the first version of it was working a little bit better. This one's the stacking isn't working as well. But yeah, just prompted it just to do this. So Gemini three is really good at doing that. Then I was like, hmm, I wonder if I could prompt it to build a clone of itself. So I used Gemini to create its own AI coding app. Yeah, so you can actually code inside of the coding app. Wow. It uses the same AI engine, and it was that was just with one prompt, yeah. And then I was like, Okay, give me. Let's make a tool that will let me so, like, let's make this practical. It'll let me upload transcripts or paste a transcript in here, and it'll give me concepts and stuff for my business, yeah. And so I can upload an audio file, and then it literally goes ahead and it creates a content strategy, and it wrote all the code and all of that right here inside of AI, Google, AI studio, using the new Gemini 3.0 algorithm. Now I've tried to create little apps that do this before, yeah, and they've never like, they've not worked. They don't actually work. This one actually works. Wow. So I upload it, the audio, the audio files uploading. So now you're waiting for it to process, and then it's going to give me its outputs. But I just thought that that was really crazy, that it was like it was able to do that using this, this AI studio. So yeah, Gemini three, I guess it's beating all the new, all the benchmarks for quality intelligence. There we go. Content introduces a 90 minute confidence through action framework, ship, measure, sustain. Here's some social media post ideas. Uh huh, based on that transcript. Here's some ideas for coaching sessions. Mm, hmm, that we could focus on. This is from an audio I did. Here's 10 podcast ideas that I could create podcasts for, and then here's 10 opt in offer ideas that I could create offers for. So this is like, this is
+
+[75:04] Speaker 1: just something you built with with this tool, yeah, but
+
+[76:00] Jeremiah Krakowski: it was just one prompt. I just prompted it. I told it, give me this output this, and I did that. Now, what is it? What's it missing? It's missing. I don't have anything like a users can't create accounts. There's no way to take payment charge people for apps like this. But I. I can use it internally to create many apps that that basically anything I would prompt myself. I can create a an app really quickly that does it, and now I can just refer back to these little apps that I've created to do different tasks instead of needing like custom GPT or things like that. And so it writes, it writes all the code on the back end here, yeah, this the actual prompt itself. I found it, and then I made it better. I had, I used the Chatbot interface to actually improve what the backend prompting is doing. So it's taking the audio, it's filtering it through this output format, and then it outputs it as a JSON array right here, so and then that outputs it to the to the interface. But I just thought that, and then I like, I told it, okay, make a Zapier hook that might be able to grab every transcript that goes into otter AI and I want to test this out, and if it can actually automatically do this and then send me an email afterwards. Okay, so just building out little applications like that.
+
+[101:58] Speaker 1: Yep. Cool. Well, the this little thing that I bought, I was thinking of putting the ad up, because they pay like 70% commission on this sale, even if I, even if I, I can white label it so I can, take all the apps and do with them what I want individually. I was thinking I could even give one away and get build a list that way. Yeah, there you go.
+
+[109:01] Jeremiah Krakowski: I liked, I like those different affiliate offer apps that you sent me. I think one of the things you said you get hung up on you mentioned was
+
+[112:32] Speaker 1: the creative aspect, you know, the writing of the of the pitch, or the creating of graphics, you know, things like that.
+
+[114:24] Jeremiah Krakowski: Yeah, yeah. And so again, I like, like, just use, use AI to help you with that. But here's what I would do, watch. So for instance, this, there's too many kind of emojis and lists and bullet points in this one. Yeah, it'd be useful. So I would do something like this, reformat this text less emojis, bullet point list, write it, reformat this text less, emojis, bullet point lists, etc, and Just format it as text that would go on a simple landing page built in STEMI, IO.
+
+[130:32] Speaker 1: So the other samples that I gave you, the later ones that didn't have all the emojis I did do that in chat, GPT, okay, and ran them through and had them rewritten as if Dan Kennedy was
+
+[134:23] Jeremiah Krakowski: right, okay. Oh, cool, yeah. These are much better,
+
+[135:13] Speaker 1: yeah, yeah,
+
+[136:25] Jeremiah Krakowski: yeah. This is actually like, this is great as far as sales copy goes. And this new version of chat, GPT is really great at writing sales copy. Oh, okay, again, just kind of like this 5.1 I still, I'll use all the different apps to write sales copy. I'll say deep seek is probably a second to chat GPT, sales copy, but chat GBT is still the best when it comes to, like, marketing copy, okay, yeah, it's, it writes better marketing copy, where, however Claude is better at writing email copy. Oh, it is. Claude writes emails better Interesting, yeah, Claude formats things as emails, much better. Chat. GPT, the it's not very good at writing
+
+[150:30] Speaker 1: emails for whatever, so I should try to, I should use Claude when I want to do my email. Yeah. So that's why I like
+
+[151:51] Jeremiah Krakowski: using Poe. Or if you have a tool that just gives you all these different you know, AI algorithms, Claude Opus, like and see, see, I like Poe. They already, they're already giving you Gemini 3.0 right here. You got GPT 5.1 so write a marketing email to send to my list about this offer. So, like, I'll just paste my offer in there. But then what it'll do is it'll i. I will do a really good job of formatting it as an email, yeah. Oh, you know what the looks like. The Cloudflare bug is hitting them right now. Oh, internal server error. Did you hear about that today?
+
+[165:42] Speaker 1: I did hear about that I was in mail or light earlier trying to authenticate a domain, and it was having trouble getting to Cloudflare. I just waited a few hours and tried it again, then it
+
+[168:08] Jeremiah Krakowski: worked. Yeah, I think I think many chat might maybe having an issue too, because it wasn't sending my automations. Oh, yeah, Claude is going to be better for for that. So again, when it comes to writing sales copy like what you have, what you have here, and what you were able to have it rewrite like, so that work is pretty much done and ready to go. Now, what's missing is any graphics you can use chat GPT to create images or graphics for each section.
+
+[177:20] Speaker 1: Yeah, I did start playing around with that today, and I'm it's like, it's a bit laborious with that thing, because it's sometimes, it's not, doesn't, yeah, doesn't produce. It's kind of sketchy sometimes. But
+
+[180:24] Jeremiah Krakowski: here's how I like to use it, like a section like this, yeah, I'll go to chat GBT, and I will say, generate me a a description of a stock image as a photograph of a person who might be in need of this offer. So what it is, is it's generating me an image of the target customer. And so that's one of my favorite, like, kind of images to put on a sales letter, okay? Is a is a stock image. So it's like, okay, represent somebody who's maybe been burnt out by different programs. Let's see mid 30s woman sitting at kitchen table. Okay, generate this image for me, and to really want realism, go to grok. Yeah, their, their image generator is just, I
+
+[198:19] Speaker 1: was going to try that too sometime today was
+
+[202:33] Jeremiah Krakowski: go to grok imagine, and just see what it imagines. It's just gonna create a bunch of them for us right here. Okay, this is the cool thing. So yeah, grok imagine is right here. You can give it a prompt, and then it'll just start generating you
+
+[207:35] Speaker 1: different variations and dozens of realistic images. Oh, wow, that's pretty cool.
+
+[209:10] Jeremiah Krakowski: That might fit this. Okay, so, like we could say, make her with glasses, brighten the scene a bit, and you can, and you can make her little prettier, yeah, you know,
+
+[215:29] Speaker 1: as for objective as that may be, but you know, whatever?
+
+[216:14] Jeremiah Krakowski: Well, yeah, you just got to tell it what you're wanting, and then let's see what it creates. I
+
+[219:56] Jeremiah Krakowski: Okay, see, can you make this daytime?
+
+[222:37] Speaker 1: Yeah, because in the evening, under the under the 20 watt light bulb in the dining room, on a dining room table, need more sunlight flooding into the Windows or something?
+
+[228:00] Speaker 1: Okay, yeah, it's brighter. It's it's easier to see what's going on here now.
+
+[229:14] Jeremiah Krakowski: So make her not sad, but also not super happy, but less sad. She looks frustrated in all these so, like, doesn't need to be it's like, this is what I like about grok. Imagine is you can kind of like, iterate through changing the image and things like that.
+
+[236:18] Speaker 1: Now on, on X our use, I'm subscribed to their $8 plan. Do I need to? Will that work? No,
+
+[237:52] Jeremiah Krakowski: this will work on the $8 one. Okay, so, like, I mean, so these are, like, really, like, realistic images, right there? Hmm. You could also like chat GPT kind of makes these more these look more like the stock photo type stuff I would put on the landing page, though, which is interesting. So you could, even then, what you can do is you could click on one of these and you could actually see what prompt it's pulling from, right here, yeah. And then it'll, it'll simplify the prompt and give you more simplified versions down here, which are a bit more kind of creative and things like that. So, like, you could go with this one right here, or any of those. Yeah, yep. So you could, like, use an image like this and use that for your for your page. As far as that goes, you could make an image more like this one. You have chat GBT to that. So anyway, so for images when it comes to landing pages for offers,
+
+[258:46] Jeremiah Krakowski: you know, sales copy. Now I like throwing a video of me up here that kind of like, sort of breaks down the headline a little bit. We have this. I'm using photos of myself again right right here, because I find that that works good, because I'm branding me. This one's an AI photo right here. It's kind of like two people that are happy. They're using Instagram ads and it's working for them, yeah, and so, but I don't, I don't have, I don't usually use a lot of pictures, you know, you let the copy kind of speak for itself. Same kind of thing like, this is my mom's offer. She's got this video here. She has a nice photo of herself right there. Still, it's a lot of sales copy, another photo right there. This was generated with chat GPT right there. I told it to make a header image. Yeah. So we don't need to overthink it when it comes to like, making these landing pages, these simple white
+
+[275:36] Speaker 1: that's what I was going to go for. Is something fairly simple. Actually, I wasn't planning on getting all elaborate with graphics and yeah.
+
+[277:58] Jeremiah Krakowski: So where now? Where do we find that we get stuck on that process
+
+[279:16] Speaker 1: right now, the what I'm planning on doing is getting some kind of a template I can use in System IO that's fairly minimal, and then putting a copy and some pictures in there and connecting it to the order page. Great. I want to do the same thing with these other couple of things I have here with these, like, if I have, like, a template that I can use over and over, I can just copy it and then edit it for like, these AI offers, because they'll all be very similar landing pages, right? And then just change the destination where people go after they click through, okay,
+
+[290:02] Jeremiah Krakowski: what? Looking at this? Yeah. So these are these different affiliate pages. This was, that was, that's a chat GPT graphic they have on this one right here. This was made with chat GBT,
+
+[294:54] Speaker 1: yeah, for sure,
+
+[295:13] Jeremiah Krakowski: most of these graphics on this whole landing page were made with chat.
+
+[295:59] Speaker 1: GBT, yeah, right here. That's, what's her name? Who's whose is that? Anyway, she built this app. I don't know what she used to build it, but it's pretty cool, yeah, very simple, nothing, nothing spatial, yeah,
+
+[304:16] Speaker 1: it's kind of a templatized things. If you want to write emails, if you want to do this, if you want to do that, you go into these different sections, and it, I guess, guides you through asking, asking you questions, and it generates copy hooks and different things.
+
+[309:22] Jeremiah Krakowski: So I think we're just, we're at the point where you just got to get get something up,
+
+[311:19] Speaker 1: get a something up, and then once I have something up, then I can use that as a template for the next thing, okay, instead of having it, because right now, it's just the I don't know right this I'm not blocked right this minute, but I've been kind of in the headspace of content manipulation and figuring out how to do images.
+
+[317:44] Jeremiah Krakowski: Yeah, have you? Have you figured out which template you want to
+
+[319:18] Speaker 1: use? I haven't yet, but I saw a couple that might work.
+
+[319:58] Jeremiah Krakowski: Or where do you find those? Do you want to look over
+
+[321:12] Speaker 1: them together? Um, let me see, I was in System IO, because they have some stuff in there, but they have a lot of stuff that's too complicated. It's kind of busy looking, you know, okay, for what I want. But like, an example would be, let me copy this one. I don't know if I can see it without logging in.
+
+[326:47] Jeremiah Krakowski: Look at look at this. This is another way, like, I love using this. So I pasted this image in, like from grok, which, again, that's a great image. And, you know, she's really attractive and but then what it does, it created, like, its own sort of variation of that, oh, yeah, with two other in a different kitchen people, yeah, very similar, but not the same. So chat GBT does a good job of kind of basing itself
+
+[333:49] Speaker 1: off of, if it has something, if it has a reference image, it does better maybe, yeah, if
+
+[334:57] Jeremiah Krakowski: it has a reference image, it does a lot better at creating something like that. Yeah, that's what it did. And then so I kind of like, I like using, I like using Brock imagine and chat GPT for images, and then kind of bringing them together. Okay, we did like one for my mom's Black Friday ads, where I had it, like I showed it yesterday. We had it generate the the ad concept, and then I told it, I said, Go, like, put this character, which is an anime version of my mom, yeah, put this character into an image with this and combine the two together. Oh, okay, and I was able to do that. So she didn't like these ones. She thought they were, didn't look as good.
+
+[347:48] Speaker 1: I like the other one better. Yeah,
+
+[348:59] Jeremiah Krakowski: it looks better. Yeah, I feel like, technically that one looks more like her, right? She likes this one better.
+
+[350:48] Speaker 1: I do too. I do too, actually, honestly, it just looks more fun. Yeah, so
+
+[352:53] Jeremiah Krakowski: that's where sometimes the realism doesn't always work. But yeah, so chat, chat, GPT, grok. There's lots of image generation apps that are out there if you want to generate something that's like, you know, a realistic character, or things like that, and they're okay, talking, communicating. It's really just about like, getting your message in front of people. Because here's here's, like, I want you to think about this big, like, big picture here, if you can for a sec, sure, is all of these efforts that we're doing with our landing pages and our offers and our ads and all that. It's to get people that you haven't met yet to hear about something that you have to offer, make a connection with them, so then they can buy that thing from you. So everything's based around like that singular moment where somebody is connecting the dots with you and an offer that you put out there, right? That?
+
+[369:22] Speaker 1: Yeah, that's, that's exactly what it is. So I was just checking into System IO. Here. I can't really send a link through without logging. You share your screen. It's on my Well, I could let me log into it over here. It was on my other computer. Wow, how many
+
+[374:12] Jeremiah Krakowski: computers you got there.
+
+[374:41] Speaker 1: I just have my MAC studio, and then I have a Mac laptop I'm on right now.
+
+[375:53] Jeremiah Krakowski: Okay, I'm on a Windows laptop on here with a 27 inch monitor. It's a 4k 144 hertz monitor.
+
+[378:52] Speaker 1: Okay, I've got a 30 I got a 34 inch qxd display, 1440
+
+[380:59] Jeremiah Krakowski: and then I have a MacBook Air, the 13 inch that I Oh, those are nice as well. Yeah, it's a 13 inch m1 MacBook Air they got for like 700 bucks.
+
+[384:13] Speaker 1: Yeah, I had a MacBook Pro, I think m1 Pro. Then I sold that to my son and I got an m3 pro about a year ago. Maybe I don't know when it was, something like that. I gotta log in here. It's sending me a code, highly secure. What is system, io? It's highly secure. It always sends me a code when I need to log in. Ah, okay, let's see here. I'm going into my sites. Wait a minute. Did I even log into the right right account here? No, I did not log into my paid account. Okay, where is there?
+
+[398:29] Speaker 1: All right, I gotta look for another code here.
+
+[400:49] Speaker 1: There we go. See All right, let me look at my sites. Here. Applica to me. All right. Now I can share my page.
+
+[410:40] Speaker 1: Alrighty, so I'm at a place here where I can pick a template, and what I'm going to do is I went to they've added a lot of templates in here, and they're getting more sophisticated looking. They used to be pretty crummy looking like a year or two ago. Well, you
+
+[415:15] Jeremiah Krakowski: don't really need anything super sophisticated,
+
+[415:51] Speaker 1: though. No, it's what I know. I know I want, something that like has a minimalist, doesn't have much on it, you know. And I found one here. I'm just a scroll.
+
+[417:59] Jeremiah Krakowski: There was one right there. Go up. No, not that one. This one right there. This one here. No, to the right, yeah. See where the Oh no, it's got a lot more on it than,
+
+[426:04] Speaker 1: yeah, it was. There's one here that I found a lot of them, though, too are, and I can easily fix this the only like, if I look at this one here, it's got, like, all these menus up here and stuff. Oh, this is, this is a long one. I hadn't looked at that one yet. Towards the end. They have more simple ones, but there's one in the middle here somewhere. This is actually kind of a cool looking minimal style, right? You know, for like, a coding thing or something, you know, yeah, just have to get rid of some of the extra blocks. But think it was this one here that I was looking at, oh, there you go. I could pull out some of this stuff. I don't know that looks pretty good, yeah, and it's got, just got a really simple, clean background. The fonts are kind of cool that they programmed in
+
+[441:02] Jeremiah Krakowski: there. Yeah, that's it. That's a good one. I like that.
+
+[442:00] Speaker 1: So I was thinking about this one. I like that one, so probably, probably I'll work with that one. Think there was one other one I saw here that was in here somewhere that was okay.
+
+[446:01] Jeremiah Krakowski: So now the next thing to think about is, how are we sending traffic to these offers?
+
+[447:22] Speaker 1: I want to do. I want to run ads. Okay? I mean, honestly, I don't have the time to figure out how to organic traffic. I just want to run basically, you know, just even if it's $5 a day or $10 a day, to start and do that. And then, you know, I've, the other thing I want to do is, I've, I started making a list of some people who I, who I know, promote affiliate offers to their lists, and I was thinking about approaching them, and, you know, offering them some kind of affiliate commission to Run the offer to their list. Yeah, that's the other thing I was thinking of doing. Okay, I started making a list of those people a while back. I have to find out where it is, but I did make a list of some that I thought might be good candidates for, you know, reaching out to do
+
+[466:07] Speaker 1: this is pretty simple too. Actually, here, of course, it's got some I could easily remove the graphics and put something else in there.
+
+[468:29] Jeremiah Krakowski: But okay, so when you're running ads again. So how are we going to create those ads?
+
+[471:59] Speaker 1: I was going to use AI tools to help me, okay, conceptualize the ads. Okay?
+
+[474:10] Jeremiah Krakowski: I would start playing around with working on like a few of those ideas, while you're getting prepared for all this, right? Because it's going to help you to get all of these pieces conceptualized together. That's something that I frequently do, is. I will work on the ads while I'm building the offer, while I'm building the landing page, okay, because it gives me, it helps make it more tangible, too. Like, okay, like, I have an ad now I could promote like, something. Like, here's an idea for an ad for this. And so I start thinking about what those what those ads are, and how that do you, do you have? Did you get an account with Sora?
+
+[487:04] Speaker 1: So this is a very simple lead capture. Yeah, that's just that could easily be lead form. If I want to do, like, a freebie offer, I want to give away. And just, that's a good one, yeah.
+
+[491:00] Jeremiah Krakowski: Did you get, did you get access to Sora? I did, okay, yeah, you have, yeah, I think you have an account on there,
+
+[493:09] Speaker 1: yeah. I think
+
+[493:49] Jeremiah Krakowski: those are working really good as far as ads goes. Oh, are they? Yeah, those are probably working some of the best ads because you can generate, you can generate a character in it and then reuse that character over and over again. Final,
+
+[498:01] Speaker 1: largest, okay. And Sora makes videos, right?
+
+[499:37] Jeremiah Krakowski: Yeah. So I generated, like a, like a girl that I can reuse right here, right? And what I'm able to do is I'm able to capture her and then use it as a character, and you can create a bunch of characters, and then you can create videos based on, okay, so I can like I can make anything like this, using this for ads. I
+
+[508:31] Jeremiah Krakowski: me see So play around with like, start using Sora. Start playing around with that.
+
+[511:09] Speaker 1: Okay, can I with Sora? I imagine I can upload a reference image, and it'll
+
+[512:42] Jeremiah Krakowski: Yeah, but the beauty of Sora is where, when you can describe it in text and then see what it kind of creates, okay, well, okay, because I like to use it where I'll either have Sora generate me a character that then I can use. If you can't put a reference image of a person in the Sora.
+
+[517:21] Speaker 1: So even if it's an AI person, you can't do that. No, you can't, but
+
+[518:10] Jeremiah Krakowski: you can generate a person with Sora and then reuse that person again. Okay, Sora video as a character. That's a little bit different way of doing it, but so that I did was I generated a video of that girl, and then I told it, okay, now make this as a character that's saved in my Sora account, and then I can make more videos with her, yeah, after she saved in my account. Okay, but I wasn't, but you can't upload a with Sora. That's the only thing. You can't upload a reference image of a person into it. I don't know if they've changed that. Yeah, um, of course. I was watching something with arcads That was saying that you could Do similar. Let me see Sora. So I throw in
+
+[543:08] Jeremiah Krakowski: trying to see instead of, oh, I'm not logged in. That's why it's not working. Oh, I'm in. Let me see, because I know Higgs field also gives you access to Sora. Oh, okay, but I've been using the Sora app. Let me see.
+
+[550:53] Jeremiah Krakowski: Okay, image, character. We have a character there. Video, Sora two. You can't use human faces as input images. See, that's the
+
+[555:46] Speaker 1: Okay, crappy thing. Yes, you have to generate it inside the app itself if you want it to be a human. Yeah. Yeah.
+
+[560:19] Jeremiah Krakowski: Yeah, now they have different other like Higgs field, like with cling and Higgs fields another, you can use character, like people and characters and things like that with this. Okay, so, like, if I pasted a scene with VO three and then use 11 labs to change the voice. Yeah, that would work. So there's just, there's just like different ways of of doing, of doing this. But that's why, inside of Sora,
+
+[573:56] Speaker 1: now, in Sora, you had yourself in there somehow, yeah, so I was able to capture myself. Is it you just capture yourself with the with the camera and with my phone, yeah, okay, and then it uses that. You can do that if it's like you,
+
+[577:26] Jeremiah Krakowski: yeah, apparently. Oh, look, take
+
+[578:23] Speaker 2: a sip. I have to love the David Joel, Hi, David Joel,
+
+[580:09] Speaker 1: are you? You want to show that to me so I can see it? You see the screen?
+
+[581:32] Speaker 0: Do you see the screen?
+
+[582:26] Speaker 1: Um, hang on a second here. I see myself, I see you, and I see the notemaker. Do I need to stop sharing my screen? Maybe?
+
+[584:49] Jeremiah Krakowski: Oh, yeah.
+
+[588:17] Jeremiah Krakowski: Do you see my screen? Not yet. Let me share it. Do you see it now?
+
+[590:49] Speaker 2: Yes, okay, I have to send some love to David Joel. Hi, David Joel,
+
+[594:00] Speaker 1: is that your girl that you created to
+
+[594:31] Jeremiah Krakowski: Yeah, yeah, This
+
+[594:53] Speaker 2: cup has your name on it, and so does this moment you show up with that steady goodness.
+
+[597:48] Jeremiah Krakowski: That's how you shop amp. I don't know why it's going it's so slow right now, but I see if I close out of there
+
+[601:51] Speaker 2: might work better.
+
+[604:17] Speaker 2: Right? And take a sip. I hide and take a sip. I have to send some love to David. Joel, Hi, David. Joel,
+
+[605:29] Jeremiah Krakowski: yeah, it's not, it's not like, it's super choppy, I don't know. Yeah, that's pretty cool. So, yeah, so I was able to create the character, and then I was able to tell it to save it as a character. So I just used the prompt. I said, like, make a Latina Instagram model and sweats, yeah. And then it made her as a video. And then I was able to say.
+
+[614:20] Speaker 1: So, how did you get her her voice? You know what? How did you
+
+[615:49] Jeremiah Krakowski: it generated the voice? So
+
+[616:49] Speaker 1: that's just what it generated in the original video. Yeah. Okay, cool. Actually, like that voice. It's fun to listen to.
+
+[619:26] Jeremiah Krakowski: Yeah, so this was, where's the original video that I did. It was,
+
+[622:44] Jeremiah Krakowski: it was this one right here. Oh yeah,
+
+[623:23] Speaker 2: coffee. And I just finished the most insane Facebook ads training by Jeremiah Krakowski. It's only $4.95
+
+[625:05] Jeremiah Krakowski: so that can click this press, create character, and it'll use this clip to create a character with that same voice. And okay, so you can create dogs as characters. You can create like a, like a, a sushi character. You can upload,
+
+[629:56] Speaker 1: you can show my roommate, trishana. She had his she had this. It was a few weeks ago now, when we were talking about this, because we were thinking about creating some kind of AI, kind of a cartoon character. And she always had this from when she was younger, this character in her head called Toad Eddie, like, like, a toad, and have it like, do stuff. And so she sent me some images of a toad. If your hormones are out of balance,
+
+[638:16] Speaker 2: you guys have to check this out. Yeah.
+
+[638:55] Jeremiah Krakowski: So you can have it like, like, generate any kind of character or video. Yeah, and then have it use that character as a reusable character. By creating it as a saved character,
+
+[642:17] Speaker 1: you can have it just do different things in different settings, I guess. Yeah.
+
+[643:20] Jeremiah Krakowski: And yeah, just tell the character to do different things. Yeah, prompt it with like, what, what the clothing is it wearing? What setting is it in? Right?
+
+[645:45] Speaker 1: All that. So that's how long can the videos be in that
+
+[646:47] Jeremiah Krakowski: 15 seconds. So sometimes I'll have to generate, like, three or four and string them together,
+
+[647:58] Speaker 1: string them together, like in cap cut or something.
+
+[648:33] Jeremiah Krakowski: Yeah. So that's what I had to do with, like, with one of the ads that I'm running.
+
+[649:58] Speaker 1: That's fine. I mean, honestly, that's one of the these girls that are doing the AI, like Katie cross and stuff, they're doing clips and then stitching them together.
+
+[652:16] Jeremiah Krakowski: Yeah, so this one was stitched together. It
+
+[653:34] Speaker 2: walks you through creating an ad from scratch, picking the photo or video, writing the caption, what buttons to press, the whole thing, and it doesn't stop there. It shows you how to test them, how to choose audiences so the right people see it and exactly how to get hundreds of customers buying from you with Instagram ads instead of wasting your time and money with old, broken campaigns. Grab it now. It's only 495,
+
+[658:47] Jeremiah Krakowski: listen, cool. To show you how to make Instagram ads that convert that work, that get results with that
+
+[660:59] Speaker 1: that's your that's your little $5 masterclass that you're selling, right? Mm, hmm,
+
+[662:37] Jeremiah Krakowski: Yep, yeah. So far, we've had 30 people jump into that. And I think like nine people have become members of my program in the last okay, like the last week. Okay, so, which is awesome. So it's like one in every three people that grabs the $5 becomes a member, which is that those numbers work really well. You can, I can spend a lot more on my ads that way too. With those, yeah, that's sweet. So yeah, the $5 deals are working really well. So again, if you're running, if you're running ads for this type of stuff, I would create some kind of, like a $5 class, and I'll tell you this, like, long term, if you build a brand around you personally teaching this stuff, that's going to work better, yeah, almost kind of like mirror what? What's that guy that you showed me the other day, the amazing something, or whatever he calls himself. Or he has that girl,
+
+[680:55] Speaker 1: oh, the infamous Joel,
+
+[681:45] Jeremiah Krakowski: Yeah, him. Like, if you kind of built a brand, kind of like what he like, kind of like what he has, where he like, he has his like AI characters, but then he's also showing you that, like he's the guy behind it all, type of a thing,
+
+[685:04] Speaker 1: right? That's kind of what I had in mind, is I'm going to be like the source of it and brains behind it, and I'm not, I'm willing to use my image too, but I want to use these other things registered by David joel.me David Joel ai.com
+
+[689:27] Jeremiah Krakowski: and I think a lot of times people that they'd like to see that you're behind it, because it builds trust that way, right? People trust that there's a person. It's not just you know this. Everybody talks about like faceless AI and all that, but at the end of the day, I think that you need to combine, like, the human touch with the AI, and then that amplifies the sales. It's a lot easier to sell, right? When people feel that it's trustworthy, yeah, and it's something that they can trust. And so that's why, again, like you personally getting good at using these tools as well, not not just relying on your affiliate offers, right? And then you can also, then, like on the flip side of this, you could create your own course on how to do this stuff, and then you could get affiliates promoting it for you, right? So, like, everything that you're seeing the infamous Joel and Katie cross doing like you could do yourself as well.
+
+[706:13] Speaker 1: Yeah, somebody who's a really good marketer is Jonathan Montoya. I'm sure you know who he is. He's from Texas, somewhere. I know he's in New Mexico. Younger, younger engineering guy. He's He's built a multimillion dollar company, and he's going all in on the AI vibe coding stuff now too, you know. He's telling I built 13 apps in the last two weeks, you know, and selling this program on how to do it too, you know.
+
+[713:12] Jeremiah Krakowski: Yeah, yep. So, at the at the end of the day, what, what? What makes a business be profitable in this space is that you have offers that you're making to people and you're selling to people, yeah, because, like, if I can put out content, and I can put out a. All that stuff. But the only thing that actually gets people in my business, same in my mom's business, is when we directly give people a call to action to buy something, right? And so it's like, that's the only activity that really kind of brings people in. Once that trust is built, you direct them to buy something. And so that's where you're at, is like you're at the stage where we gotta start getting you to put yourself out there and put these offers out there, right and utilize the AI as well to help amplify what you're doing. Mm, hmm. And any always remind yourself of this. Anytime you get stuck with literally anything, you can use AI to help you do it.
+
+[733:13] Speaker 1: Yeah, you can tell and go chat and log into the AI and describe what you're stuck at and
+
+[734:26] Jeremiah Krakowski: that as well too. Yeah, yeah, exactly.
+
+[735:19] Speaker 1: What should I do next? You know? Why am I stuck? And help me figure out the next thing I can do to move forward.
+
+[736:56] Jeremiah Krakowski: Yep, well, and that's where too, if you use the AI that I have in my members area, you can also log into that, and it'll be more focused on, like, these specific stages of where you're at in your business, yeah,
+
+[740:32] Speaker 1: because you've had yours is trained on all the teachings you've done. So it could be even more relevant than, yeah, you know, generic. It's pulling from who knows
+
+[742:36] Jeremiah Krakowski: where. Yeah, let's say you're stuck on something that's like, technical, or it's like, I don't like, I'm having trouble coming up with ideas for these graphics for my landing page, or things like that. There's, there's not any reason to be stuck when we have all these tools available to
+
+[746:37] Speaker 1: us. Yeah, it's just a matter of knowing that the tools are available, and then, yeah,
+
+[747:53] Jeremiah Krakowski: but again, I mean, I get I'll tell you, I'll tell you this I was, I was stuck today for a while, and I didn't even know, like, why it was happening. Oh, really, yeah, I had to launch some new ads, and I realized for like, two hours I was procrastinating, just wasting time this afternoon. And so I finally was like, You know what? I'm going to get it, I'm going to get them up. And I got them up. I got them up, like, two hours ago. They're running, yeah, and so. But like, I yeah, I got I found myself just, I ended up, like, laying on the couch and not doing anything for two hours. Okay, I got stuck. And it's just because internally I was, like, dreading, like, well, what, you know, what if it like, what if these don't work the way that I want them to? Or things, which is so silly, because my ads, like, they always work, but I always still feel that internally, like, what if they don't work?
+
+[762:33] Speaker 1: And so I even though, even though it's been, even though they have been working,
+
+[763:24] Jeremiah Krakowski: yeah, but I still get stuck on the same things. And so I have to, like, intentionally tell myself, Okay, I'm gonna get unstuck. I'm gonna go do something. I'm gonna take action on this.
+
+[766:49] Speaker 1: Um, speaking of getting not gonna
+
+[767:12] Jeremiah Krakowski: do anything else until I get at least one thing done off of my list.
+
+[768:13] Speaker 1: Speaking of getting unstuck, I was on a Russell Brunson event here a few days ago, and he is, oh, this is what it's, yeah, so it was, he's on the on the front cover of Success Magazine. Yeah, see this? And he was selling an autographed copy for $10 Oh, he has every Success magazine I can think that's ever been printed his library anyway. So one of the things he's working on is next here is this idea of persuading yourself. Was it? What do you call it here? Hang on, that was on the back of this page, the ability to persuade yourself when you you know if you're feeling like down or whatever, you're getting roadblocks, hidden metal roadblocks and stuff, getting stuck, being able to persuade yourself to keep going, you know, instead of just taking a time out and sitting around, you know, it's the mental game, yeah.
+
+[787:23] Jeremiah Krakowski: What did he say? It says,
+
+[787:44] Speaker 1: Here, let me, let me read this to you here. So
+
+[789:53] Speaker 1: he's talking about this magazine or this whatever here. I know most people buy something like this and it ends up on a shelf collecting dust. Please don't do that. Take 20 minutes and read through the cover story and the other articles inside, you'll see the exact mindset shifts and habits that took me from a broke college kid selling DVDs online to building a 10 figure company then, and this is important, keep your signed copy somewhere visible, your desk, your nightstand, somewhere you'll see it every single day as a reminder of what's possible when you stay in the game. Here's the thing, most people who invest in something like this never actually consume it. They never read it. They never think about it again. But that's not you. You're someone who acts you, who follows through, who. Is every ounce of value out of every opportunity. That's exactly what separates the entrepreneurs who drift through life from the ones who dominate. Most people never pause long enough to just celebrate their wins, big or small. So let me say it congratulations anyway, but listen to the moment doesn't end here. If you haven't registered, blah, blah, blah, this live event is happening. It's pulling back the curtain on a single most powerful skill I've discovered in over 20 years of doing this, the ability to persuade yourself, not your customers, not your team, yourself, you'll discover how to eliminate the hidden mental roadblocks keeping 99% of people stuck in the same place year after year, the internal frameworks I've personally used to scale 10 figures and how you can use them too, and most importantly, how to finally close the gap between knowing what to do and actually doing it. What's that? He doesn't give a technique there. He's he's just promoting. He's advertising his self, persuasion secrets if, oh, okay,
+
+[815:48] Jeremiah Krakowski: so that's a great example, too, of just, like, sales copy, because it's, like, it makes you interested. Like, you think he's going to give it to you right there, but he's actually just advertising the thing that he's going to, yeah, when you write. And so that's that's oftentimes, like, so interesting when it comes to marketing is many times we're like, oh, we're going to, I'm going to make content where I'm going to share value, and it's going to give people all this when it really when it really it's just advertising what the potential value
+
+[822:49] Speaker 1: is. And he's, he bought, I think he, what, a year ago or something. I think he bought Dan Kennedy's
+
+[824:26] Jeremiah Krakowski: assets, or, yeah, that was a couple years ago. He bought
+
+[825:27] Speaker 1: IP or something, and all that, his whole business. And now Dan Kennedy kind of is a mouthpiece for I mean, he's still Dan Kennedy, but he's kind of connected to Russell's operation. Somehow,
+
+[828:44] Jeremiah Krakowski: my mom coached with Dan Kennedy and Bill Bill Glazer for like, four years. Oh, when, personally, when she was doing she was a one on one client of theirs. Oh, okay, when she was doing a lot of that, that stuff. So a lot of the strategies that she's learned have come from Dan Kennedy and all that. And then I've just, I picked it up just by being around it all. Right. For so long, I've just been, I've just been around it all. It's like, I can't point to, oh, I learned this from this mentor. It's like, oh, I learned.
+
+[837:27] Speaker 1: Just picked up things by osmosis, here and there. I picked it up because I've
+
+[838:44] Jeremiah Krakowski: been involved for so long, right? Is the thing so, yeah, yeah, all right. Well, is there anything else we want to go over here today before we wrap up?
+
+[844:21] Speaker 1: No, I think I've got some good things to work on right now. I mean, I'd
+
+[846:07] Jeremiah Krakowski: love to see like next time I talk with you, just like, some ads
+
+[847:50] Speaker 1: a full My intention was to get an offer and an ad of at least an ad running this this week I'm probably going to be, I'm still in Chattanooga. We're planning this week or next week, yeah, and I wanted to get one going before I leave, yeah, so, because then I'll be on the road for like, four days, yeah, four or five days. So that's what my that's what my intention is. I'm working towards that perfect and with my daughter's situation, something seemingly stabilized at this point, even though she's now got to pay all of that apartment expenses. Yeah, I think she can do it. It's going to be a tough one, but I think she can barely make it so, and then she's getting a small raise as well, she told me, and we'll see. I don't always believe everything that she tells me, but
+
+[860:33] Jeremiah Krakowski: here's so last thing I'll kind of leave with you with is over the next week or so, I want you to really pay attention to as you're building the offer, as you're getting it out there, as things are happening, I'll notice kind of two, like, I'll have like, three, three modes that I'll look at of my nervous system and emotions and focus particularly around building my business itself. But I'll also notice, like, how things snowball as well, and starting to look at like, okay, when certain things end up shifting our emotional state into certain things, like, I can look at the last the last two days has been very my emotional state has been very even, and I'm going to tell you, I have had more creative ideas for my business and conversations that have been profit producing in the last 48 hours than I have in like, the last two months. Oh, wow. Okay, simply because my nervous system has been in this sort of like. Even slash confident place, not like overly confident, not overly excited, but just kind of being able to sense and feel where that my emotions are coming from and things like that. Yeah. Three days prior to that, I will tell you my own version of like, was some of the hardest days that I had. My wife and I were just bickering non stop for, like, three days ago, I went to bed. I'm just like, you know, I I'm done with this happening. Like, we're not we don't need to bicker. There's no point. Yeah, I realized part of it is just I, I I get frustrated when she doesn't do something like the way that I think she should. And then I, if I vocalize it, it turns into something, but 99% of the time, it's not that big of a deal. So if I just kind of, like, don't even like, worry about it or say anything those nasty expectations, there's so many like, there's so much more like, kind of peace and even keel in our home, and then everything kind of works out well. So yeah, it's one of those things, like, when I'm hyper critical everything around me, I get critical of myself and others and all that, but all that to say as I pay attention to and I and I write down when I'm feeling my emotions starting to really rise or or like when I'm starting to feel like they're they're falling, or things like that. And I pay attention to and I write down those moments where I'm not at my best, and then I try to trace back to what got what got me there. Why am I feeling that way, what's behind that feeling of I'm not at my best right now, and then I and then what I've been doing is I just, I just type it into chat, GPT and grok, and I just kind of get to the bottom of what's causing this inside of me. And it's been really helpful, because it's like, as I've been doing that I've, like, been discovering, like, it might be, like one thing that compounds, but like, learning how to build a framework of this emotional stability internally, this, really, it's like, it's, it's not being shaken or triggered by all the stuff that goes on in our life. Yeah? So like, this crazy situation with your daughter, I think it would be amazing if you were able to, like, go through it with her, but then it's still, like, it doesn't throw you off when it comes to business stuff, yeah, and getting to that place, and I feel like, like, that's a powerful thing. That's a hard one, right? But like, besides that, what are other things that come up throughout your day, or things like that, where, when you get stuck, or things like that, and then you start to feel like the tension? Because what I find is that when I'm not feeling that way, everything is so much easier to do in my business. Like, I just Yeah, I don't I'm like, I'm not hesitating, I'm not pausing, I'm not slowing down unnecessarily, yeah. And I feel like, just like, learning to self, be self aware of okay, what creates those rises and falls in our emotions. And it's not that we're like, like, like, they're gonna happen. But then here's what I figured out, is, how do I stabilize from there as quickly as possible? So that's what I've been really trying to master, is like, okay, I can have a really crazy rise in emotions. How do I get back to a stable, centered place within like, five minutes, to where I'm back to where I like I want to be. And it doesn't necessarily throw me off in that way. This morning was a crazy situation. I was feeling so good this morning for like an hour, while I was getting ready and doing that and had all these business ideas. And then I look on the floor, and there's like 100 ants on the floor.
+
+[944:04] Speaker 1: Where did those come from, right?
+
+[944:53] Jeremiah Krakowski: So then I had to vacuum the floor, and then I'm really allergic to ants, like ant, like ant bites, I swell up like crazy. Oh, okay. And, like, anaphylactic type, yeah, my whole body swells up so, like, my whole body literally went into fight or flight in that moment. And I'll tell you, like it derailed my whole morning. No kidding, you know, but like it didn't derail it so much that it made today a failure. I would say that it probably contributed to why I ended up procrastinating on the couch for like, three hours. Probably, I think my nervous system was trying to, like, help itself out through that. Because honestly, like, it's scary for me when I see that many ants. There's so little, but like, you know, so anyways, and it's like, just finding Okay, where does that? Come from, like, Why did I let such a small thing grow into something so big and then throw me off? Because those things are going to happen. There's going to be in the house. Like, never know. There's, I have the kids might have left a snack open on the floor that I didn't see before going to bed. Right? Is actually the issue. There's a little, there's a, literally, a piece of cheese by the by the crack in the door, and then there's like another then there's like an apple slice halfway across. So they, like, they were to spread between, like the cheese and the apple slice feeding their whole community.
+
+[969:43] Speaker 1: No kidding, Yep, yeah. I tell you what that's that's one of the things that was a problem with my daughter when she was living at my house, is she just wouldn't put anything away, food all over the place, in the place I was living before, before I moved here, you know, stuff. Things would come in and find it, and then they Yeah, all their friends, you know, yeah.
+
+[974:59] Jeremiah Krakowski: Well, we usually, we usually pick up the house before, before bed. But I didn't like, fully pick up all the stuff that was out. I always do it in the morning before everybody gets up, at least, yeah. But I'm realizing, Oh, I can't even, like, leave stuff out, because now that it's cold out, all those critters are wanting to come in the house. They want to come into the more it's warm, yeah, yeah. When it was when it's warm out, we didn't deal with that because they're all outside, yeah, but when it's cold out, they're all trying to come inside to find stuff so but it was just like, What did I do with that? I literally, like, looked at, okay, how can I get back to being centered and work on this reaction internally inside of me so that I'm not thrown off in my business next time something like this happens, right? And just making that like a part of like, what I my lifestyle that's helped me be successful is finding any of the little triggers or things that throw me off and figuring out how to sort of rewire them mentally, the big thing. So hopefully that might be helpful for you to just do because we all have things like that, so absolutely. All right. All right, see ya, you bet Have a good one. Bye.
+

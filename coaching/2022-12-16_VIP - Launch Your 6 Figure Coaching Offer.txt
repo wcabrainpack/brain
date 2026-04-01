@@ -1,0 +1,392 @@
+VIP - Launch Your 6 Figure Coaching Offer
+Date: 2022-12-16T02:43:05.000Z
+Duration: 58 min
+Otter ID: _wbXVFJE8Jlb_4BzTdivkHQUEZ0
+---
+
+[7:26] Speaker 0: All right. Great stuff.
+
+[8:24] Speaker 1: Thanks.
+
+[8:49] Speaker 0: Yeah, it was really, really good.
+
+[9:58] Speaker 2: Awesome. Good stuff. Jeremiah. Thank
+
+[10:28] Speaker 0: you. Appreciate it.
+
+[12:06] Jeremiah Krakowski: We were at Baby Center for half the
+
+[12:49] Speaker 0: day. And then we're like, we're
+
+[14:36] Jeremiah Krakowski: less than two weeks away. So my wife's downstairs, her whole family is staying with us right now. So they're, they're kind of helping her while I do this here, and then I'm not gonna be doing any virtual events until after the baby gets here sometime in January. So
+
+[20:20] Speaker 0: our mom and baby feeling great.
+
+[21:26] Jeremiah Krakowski: Yeah, I mean, she's tired. But no, I mean, babies great. He's happy and active, very active. He loves He loves barbecue and chicken wings. He's definitely his dad's son. Yeah, Texas, baby. No. Yeah. All right. All right. So any any questions anybody's got raise your hand? Then we'll go for it, Bobby.
+
+[30:08] Speaker 2: All right. I got a couple of questions. First one, hold on. Regarding Zapier and the Facebook convergence, can you go over that again?
+
+[33:17] Speaker 0: Um,
+
+[33:33] Jeremiah Krakowski: yes. What part?
+
+[34:05] Speaker 2: So I that's on Udemy. I mean, I use Zapier. I never knew about that. Conversions. I'm not capturing that I'm still using a pixel I use Kajabi. Got it? Yeah. What you mentioned, hey, this is different better way to do it. If you're
+
+[38:00] Jeremiah Krakowski: using Kajabi. It is. That is okay. Do you have their conversions API turned on? Yes. Okay. So then that's using it that way. But I found out so click funnels 2.0 turned off using that type of integration. And I don't know if it's fully even working still with Kajabi because it's registering as a browser Pixel THING. Um, so what Zapier does is basically it just takes, it just takes the event of them registering for something and then it sends it back to Facebook through the Zapier integration. And so that's how that's what I use for my conversions because Squarespace doesn't actually have conversion API built into it.
+
+[50:24] Speaker 2: Okay, so I googled after I saw you, I Googled it, and there's like four different events, which ones specifically using?
+
+[52:49] Jeremiah Krakowski: There's no, there's more than four events. They have one of the events, it's called other. And so inside of other, there's like eight more events over on Zapier, so but I generally hardly ever use, I usually use initiate checkout, complete registration leads or purchases, so I usually only use those four. But yeah, if you use the Facebook conversions right here, let's say that we're just let's say, just for the sake of the example, we're going to link this to Kajabi, you have a form submission. So like it's where it says send other event, that's where complete registration or initiate checkout are as under other event, otherwise, obviously is lead or purchase. Which is different than you selecting Facebook lead ads, it's not the same, or Facebook pages, its Facebook conversions. It's a little bit confusing there. And then that allows you to basically to send the information from the form to the Facebook ad. And we've just found better accuracy with our our leads numbers that way and that targeting so
+
+[72:33] Speaker 0: awesome.
+
+[73:06] Speaker 2: My second question regarding zoom events. Yeah, so that first zoom event, are you doing a zoom event or a Zoom meeting for that first free one. And when you automate the emails, I noticed that you're doing a really good job of it's that seems to be set up ahead of time. Or you're just creating an event a multiple Day event in zoom.
+
+[78:31] Speaker 0: Um, so yeah,
+
+[79:19] Jeremiah Krakowski: there's for zoom. I'm just using Their zoom like meetings function. And then I used to like their zoom webinar.
+
+[81:39] Speaker 0: For a private one.
+
+[82:46] Jeremiah Krakowski: The emails are in MailChimp that I'm using. So, yeah, I just set it up as multi day. So the same link is working.
+
+[84:58] Speaker 2: Okay. Yeah, that's the same link, or the multiday.
+
+[86:23] Jeremiah Krakowski: That makes sense. Yeah, yeah. And then what we found is, yeah, we were able to, I guess I didn't touch on it fully. You can automate this, this is what I forgot to mention. I knew there was like, one thing I forgot to mention in the main training. So I use OBS to, and I tested this a month ago,
+
+[91:29] Speaker 0: to
+
+[92:02] Jeremiah Krakowski: I ran a pre recorded video into zoom. So I was I made people register for a zoom event. The reason why we're using Zoom events, is because people tend to, like, take an event that's on Zoom more seriously, and think it's more legit, than like, some of these webinars, software's. And really, like, if it's, if it is live, and you have live q&a, people will trust what you're actually offering better. And so OBS though, allowed me to we had one event, we're actually pre recorded the main training. So I wasn't even there on the training, but I was interacting as if I was, and then I just showed up for the q&a at the end.
+
+[105:03] Speaker 0: And just made sure I wore the same shirt.
+
+[105:53] Jeremiah Krakowski: But I didn't do that on the last the last two weeks. So and part of it was because I had to get a haircut and my hair would have looked weird. So um, so yeah, so these are all live, this is not an AI, this is not fake. But if you do want to do like pre recorded you, you can do that. If you let people know that it is pre recorded, like they know that it's pre recorded, your conversion rates usually dropped by almost half.
+
+[111:56] Speaker 0: So so
+
+[112:56] Jeremiah Krakowski: same content, we've tested this, okay, well, we're on the same webinar live on Zoom.
+
+[114:48] Speaker 0: Same content,
+
+[115:30] Jeremiah Krakowski: new leads, conversions are half because people know that it's not live. Now, if you're getting like a 20x conversion, you'll still get a 10x conversion on your ad spend running the recording. And so that saves you time. Now you can be like my mom and go be on a beach somewhere and have her webinar running the whole time and literally not even think about her ads. So that but like you get there by doing more sales presentations. And that's really the thing, like there's no way around, if you want to make six figures
+
+[124:42] Speaker 0: in any industry.
+
+[125:44] Jeremiah Krakowski: You have to you have to, you have to sell and you have to get good at selling. And then you can take that really good at selling, you bottle it up and you can automate it. And so but it starts by you really understand the nuance of how to communicate better. So now if you're really good salesperson, in general, you can get away with just pre recording, and it'll probably be really good. Like if you know, okay, every time I talk to a room, I closed this many people then go ahead and pre record but if you're like, Oh, I've never sold before live like you're gonna actually do better doing it live than trying to pre record it.
+
+[136:20] Speaker 2: Yeah, I don't see myself recording for probably a year. You know, I gotta practice the recommendation.
+
+[137:52] Jeremiah Krakowski: Yeah, and even Russell Brunson says that, as he tells people do like, do one live event once a month for 12 months straight, and you will get really good at your sales pitch, you will be able to close sales really well. What I found is by doing these live events every month, I had like a three month law that I didn't do it. But by doing these every single month, I found that my message changed so much between each one, like my messaging next year is gonna be so different off of this event. Off of the questions that everybody's giving me right here, because that's why like I said, like, I actually missed the mark on what I planned to teach for these five days.
+
+[150:24] Speaker 0: Because I just
+
+[151:40] Jeremiah Krakowski: I was guessing, and that's the thing, I'll tell you half of our offers like that we put out there. They're not that great. They're not that like they're not perfect. I know for a fact that they're probably not the perfect offer. Most of my offers are still only 60 to 70 to 80% of the way where I want them to be. But we're still testing and we're dialing in and we're getting our conversion rates optimized, and it's profitable. So when you're in profitability, you still want to optimize by But yeah, you just you just got to get better at selling. That's really that's really the biggest thing.
+
+[161:52] Speaker 2: Let me add this Jeremiah. Thank you. I gotta say thank you, again. Because I think I told you on day one that, you know, I was getting Facebook ads at $23. Oh, yeah, I don't know if I don't know if you remember that. But I'm down to $4 Because of you Because of using the AI. I've been doing it. I've keep telling you it works. And I just reset everything restarted everything. I'm getting conversions. It's like
+
+[168:31] Jeremiah Krakowski: dollars. Yeah, it works. Awesome. It works. Yeah,
+
+[169:30] Speaker 2: it does work. Thank you. Yeah.
+
+[170:34] Jeremiah Krakowski: That's awesome. I love hear that. That's great. All right, Ian Carroll. Hey, good evening.
+
+[172:38] Speaker 4: A couple a couple of questions. Again, Jeremiah. First one is, so the the funnel? So if I have a value ladder does that where does that go? Does that go in the upsell piece? Is that like at what point do you say? And when there's more? You know, what, where does that all come in? And tactically HOW IS THAT SO at the minute I have it going from the fill in a jot form for something for the initial offer to purchase something, right? They've actually bought something and they get redirected to Squarespace Squarespace page. That gives them Hey, but with here's another couple of add ons, is that it? Or is there a more effective way of doing it? Because that's kind of where I lose people.
+
+[185:22] Speaker 0: Okay. Um,
+
+[186:29] Jeremiah Krakowski: what you that's one upsell, like if they sign up for a free event. And then you got like, a paid like a $27?
+
+[188:16] Speaker 4: Well, no, if there's no sign up for, like, $1,000 thing.
+
+[189:27] Jeremiah Krakowski: Oh, yeah. $1,000 pitch, like inside of the content itself? Because generally, people aren't just gonna go from opt in to $1,000 without going through your content first. Yeah. Because they need to like, listen to you.
+
+[194:11] Speaker 4: Yeah. So they've made the $1,000 purchase. Okay. And then there are a couple of other options, you know, they can Oh, gotcha. Yeah, bring me in for the day. Yeah, they can sign up for three months to have me on Voxer. And, you know, some personal stuff and all that kind of stuff. But they're part of this group for $1,000 for three months. So what? Is there a better way of pitching it?
+
+[201:40] Speaker 0: Um,
+
+[202:23] Jeremiah Krakowski: so you got the like, the box, but you're just doing those upsells? On like, the next page, right?
+
+[203:28] Speaker 4: Yeah. I mean, if it feels very limp, it feels like
+
+[204:25] Jeremiah Krakowski: Yeah, cuz, because, again, they're not yes, I would just remove those from there. And then what I would do is have, again, upsell options, I would have maybe one upsell bundle that you mentioned, every other week to your live group, and just be like, Hey, listen, the people who got the upsell bundle, they're getting more access. They're, they're, they're succeeding, if you want this, you can still grab it. And you mentioned that while you're doing your training to people, because you're able to sell them on that nuance, while they're in that, that state of mind of being a buyer. Like not being a buyer, but like they want something more they want something more from you versus if they've already spent $1,000. They feel like okay, I got everything. And then if you're asking for more, right, they're there. They're like, wait. So I wouldn't do I wouldn't do a bump offer on that is what I'm saying. I would actually sell it to them while they're in the program. Okay. And then that, and then you also invite people to like, and your value letter to like a 5k, or a 10k. Program to?
+
+[222:21] Speaker 4: Yeah, so what what kind of, like, is there a normal percentage for conversions on those things? Like, percent,
+
+[225:30] Jeremiah Krakowski: again, I've seen a range from 5%, up to 50. So it all just depends on how dialed in each of those offers are and how, like, how much like people really want that next step with you. And so that nuance comes from okay, you could actually increase those conversions by pulling features out of your $1,000 program. And basically, making the $1,000 program no longer have that feature. Now you got to pay five grand for it. Yeah. So like, for instance, my program, I offer a lot of support with copywriting and ad writing and all that. If we have like 10,000 members in it. If we have 500 Members, I might, I haven't decided yet, but pull that out of that and make that now you have to go to the next level with me Just because the capacity of how many people I can help serve at that level. So right now, we haven't hit capacity. Because most of the people that are in the program don't even take advantage of what's available to them. And that's also something to understand is that most people won't take advantage of what's available to them. Because they'll come up with 1001 excuses
+
+[245:17] Speaker 0: and reasons not to.
+
+[245:48] Speaker 4: Yeah, so on the CGA stuff, like many people are in it is this a visit a zoo is 100 People talking for 10 minutes each, and there's 150
+
+[248:09] Jeremiah Krakowski: people on the Zoom calls us usually about 50. And the with the questions, you'll notice, we got 22 people on here, but there's like only four people who ask, there's like 10 people who actually only ever ask questions. That's the way that it goes.
+
+[252:45] Speaker 4: Useful for everybody. Right?
+
+[253:09] Jeremiah Krakowski: Yeah, that's the way that it goes to with a lot of coaching programs, is most people just they don't speak up. They don't ask questions. They, they, they want to sit in the background or learn. But the ones who lean in and the ones that are asking questions, just to get the most out of
+
+[257:04] Speaker 4: it. My wife will tell you and like I think there's whatever juice you're given out is like sparks me coming off. Uh, you know, I just, I'm coming up with all sorts of like, ways to change the world. So thank
+
+[261:10] Jeremiah Krakowski: you. That is one thing I've heard a lot from people is like, if they just listened to me, they'll come up with ideas because I, I, I'll say that was one of my biggest downfalls for years, as I had 1,000,001 ideas for ways to change the world. And I was never doing any of them. I was constantly sitting around, trying to give them to other people for them to do. And so this business right here is really the first one that I'm really doing myself, and not working for somebody else on. Um, I have had multiple ideas. It was like I literally had the idea that like, like I saw like, it became a billion dollar company. I had thought about like, I wish there was Jasper's two years before Jasper came out. And I was like, Man, how would you make that? And then I came out, I was like, Oh, thank you, Lord. Sometimes I'll just pray about the ideas that I have put them in the atmosphere and release them. And I noticed they come to pass to just that way for fun. But yeah, if you guys got ideas, that's the thing. But I want you to start thinking about the ideas that you have, how do they come into alignment with you being able to increase your revenue? And that's the that's the biggest thing for me. I always still prioritize what, what is revenue first. Versus like, in the past, I always prioritize what is like impact first. And that's why I started with my podcasts for free and all this free content and did that. But I wasn't making more than 500 $1,000 a month. And now I put revenue first. And I'm impacting more people by actually making revenue, the most important thing. And I found that that in this business, by making sales and marketing your supreme priority, you actually become a better coach, which is pretty cool. Unless you just have a heart that is greedy and doesn't want to help people then either way, you'll get rich.
+
+[290:56] Speaker 4: So it's almost like your treasure is your heart is so
+
+[292:00] Jeremiah Krakowski: yeah, yep. Yep, totally. All right. Ken, Kevin, you had your hand raised?
+
+[294:43] Speaker 1: Yeah, I just wanted. I know, yesterday, you said you don't do joint ventures. So. So with the order bumps and all that stuff? Have you tried to bring on? Comment, come come with my tongue tied here. complementary services, in regards to like a bonus would be another coach kind of thing to get into their audience
+
+[302:12] Jeremiah Krakowski: we have with other clients that we've worked with, okay, and their funnels. So like Rick Pitino did that where he had a partnership with two other coaches, that then they were coaching and they would produce your record for you. So like they would actually as a production deal where they would actually record and produce and write songs with you. And that was sold to everybody who joined his 10k program for another additional 10,000. And so, that was one way of doing that. Again, I wouldn't do it just like on the form. If you're going to do a JV type thing, I would do it either through your email list or you're on a video or you're actually doing it during the presentation. I have done as well were some of my clients. So because I have I have like three tiers people can work with me on. One is the group coaching client growth accelerator. Then I have I have my one on one coaching, but then I have one on one consulting and one on one consulting is different from one on one coaching and the fact that I actually go in there with you as part of you your team to make your landing pages write your ads, write your copy, analyze the results and look over everything. And for my consulting clients, I will join them on their live events and help them do the sales pitch. And I'll bundle my courses as part of that sales pitch. I'll usually work out like a 10% of the sale deal. So like if my client does 150,000, I'll get 14 to that 15 of that for bundling. So I've done that, here's what I found is interesting, though, every time I've done that, the quality of the client that I get, or the quality of the person that comes from that is terrible. They're just they're not. They're not my people at all. They they in fact, they write me the nastiest emails. So, you know,
+
+[333:36] Speaker 1: because I've been in the JV world, or in my connections over the last couple of years and the JV affiliate Commission's a little bit higher than 10%. Yeah, that's yeah, it's more quality over quantity. I mean, sorry, the other way around. Like, it's if you don't have a list, you could be the best expert in the world. But, you know, so that's importance of the list comes in, right. So, yeah.
+
+[340:48] Speaker 0: Thanks. Yeah,
+
+[341:05] Jeremiah Krakowski: we've, we've just we've made social media our JV partner.
+
+[342:25] Speaker 1: Yeah, no, because the way I look at it as who, as a financial planner, who can I refer to? And who can refer
+
+[343:50] Jeremiah Krakowski: to me, right? Yeah, in the financial planning world, definitely having JV partners is is a is a helpful for sure.
+
+[345:28] Speaker 1: Yeah. But it's a stumbling block because of the it's not like a quick fix kind of thing. Right. Right. So but yeah, so I'll interesting with what you're saying about the Jasper and all that stuff. To look at that to add better copy to, to do what I'm doing. So thanks. Yeah. Awesome.
+
+[351:52] Jeremiah Krakowski: All right. Anyone else have any questions? Right now want to raise your hand? Angela? Rose? What's up, Angela?
+
+[353:56] Speaker 0: Real quick, just curious. Right? Right at the beginning of started running Facebook ads again. Did you say that you recommended a budget between three and $500.
+
+[357:53] Jeremiah Krakowski: Minimum, that as a minimum budget. Okay, again, only spend what you're willing to lose. So like one of my clients, he's like, Okay, well, I have allocated four grand to add some, I'm like, great, but 1000 of that across four offers over the next three months, three to four months. So he's able to spend $1,000, once a month to test out as his offer. And the goal is obviously to break even on but you don't want to you want to make sure whatever you spend, you could you could lose and it wouldn't destroy you.
+
+[366:56] Speaker 0: Okay, and how long are you testing? That? Like, let's say you put in $500? And how long are you going to run those ads to test it before you analyze the data and then tweak it and run it again? Um,
+
+[371:52] Jeremiah Krakowski: I mean, after the first month that you do it, you can analyze that and run it again.
+
+[373:14] Speaker 0: It needs are one test. It needs a full 30 days. Well,
+
+[374:49] Jeremiah Krakowski: no, I think I think maybe you're not asking me what I think you're asking. We can test it the ads are working, we can usually talk for three days.
+
+[376:52] Speaker 0: Okay, that's, yeah.
+
+[377:39] Jeremiah Krakowski: Yeah, usually after three days, and then I'll go in there. And I'll turn off the ones that like the lead cost is higher. Yeah, I'll also turn off the ones that are not getting any leads, but it's delivering. And then here's one that I've started to do is I'll sort by total budget spent. And I'll turn off the top one that's using up most of my budget. Even if the lead cost is good, but it's using 90% of my budget, I'll turn that one off. Okay, because it's creating artificial ad fatigue, because it's using all my budget to run one ad. Right. So, so yeah, so we'll sort it by when you run ads, you got no data, and this is the data you got you got. Okay. How many clicks are you getting? How many leads are you getting? What's the cost per lead? What's the total spent on that ad? And I'll sort it by Okay, cost per lead, I'll start to remove the most expensive. And then what I'll do is I'll rank it, I'll say, Okay, if total budget spent on an ad, let's say your cost per lead is $10. But then there's an ad that's spent 15. But it hasn't gotten any leads, I'll turn that off as well, because it's not getting any results. Right. And then I'll sort by total spent and what I might have, I might have an ad that's getting $5 And then below it is 789 and 10. But that $5 is spending 90% of my budget. Yeah, I will actually turn that $5 one off because it's using all my budget Oh, yep. Even though
+
+[400:49] Speaker 0: it's not the most expensive one, yeah.
+
+[402:20] Jeremiah Krakowski: Because it's creating the ad fatigue, I might let it run for a day or two. But you'll notice its daily price start to go up. And that's when you know that the ad fatigue is kicking in. Because the same people are seeing the same ad and they're ignoring it.
+
+[406:31] Speaker 0: That's why, okay, I had an ad that we were running in 2019 that was generating 50 cent leads, and but they weren't targeted enough. And so is it possible since there been a lot of changes to go back in and turn those ads back on? Okay,
+
+[413:37] Jeremiah Krakowski: no, definitely. Definitely wouldn't I would recreate them remake them. Not from 2019 Definitely not.
+
+[416:08] Speaker 0: Okay. So,
+
+[417:05] Jeremiah Krakowski: don't even use the same video. Well, you can use the same video. Yeah. Okay, you can try it out. Again. Why would you though, that's what I don't understand. Because it was working. Yeah, that's, that's a really bad reason to use something that that'll with running ads, because we record new videos every single time because of ad fatigue. So that it's fresh, so that the energy is fresh. And and this this belief of I do it once and then it just pays me money is a fantasy. It doesn't exist. It's not reality.
+
+[426:16] Speaker 0: You're right. So
+
+[427:19] Jeremiah Krakowski: yeah, like, it doesn't exist. It exists for when you reach the top level of your game, and you're making millions already, then you can like, let go. And here's usually what'll happen. You're making 10 million you let go and your income drops to a million, but it'll stay there on autopilot. But you won't be making that 10 million. That's usually what I see happen when people retire or stop working. Until they get their systems in order and their money is working for them. And they're actually have staff that's running everything and doing all that. But yeah, this whole like trying to run old ads and get them to work because they did work. It's not as I would always rerecord the new ad, you're gonna want to add some captions to it. Record it with your cell phone. Again, test the old video out. Test it out. But
+
+[441:36] Speaker 0: I wouldn't. Yeah, what you're saying is resonating.
+
+[442:31] Jeremiah Krakowski: Yeah. So. Alright, this this. Okay.
+
+[444:15] Speaker 5: Can you hear me? Okay. Okay, cuz I don't have my regular mic today. So, um, would you run ads on Christmas Eve and Christmas? If my event is the 28th? Even though it's free? Nope. Okay. I wasn't gonna but I wasn't sure. So do I start it? I wouldn't.
+
+[450:00] Speaker 0: What would you do?
+
+[450:33] Jeremiah Krakowski: You're gonna you're doing your event on the 28th?
+
+[451:20] Speaker 5: Yeah. Should I not? Why? I've done them before. It's a Planning Day event members. So it's about the turn of the year. It's about getting ready. And I've done them that week before. Okay, and done very well. And I've done them.
+
+[455:16] Jeremiah Krakowski: And part of the reason why is this year, Christmas Eve and Christmas Day are on the weekend, and a lot of ads don't do good on Saturday and Sunday, either,
+
+[457:36] Speaker 0: regardless.
+
+[458:07] Speaker 5: So do I start? Okay, so what would you do? Would you start at like the 21st? Run it through the 23rd? And then pick it back up again on the 26th? Or should I just go
+
+[461:01] Jeremiah Krakowski: full? You can do that you can see what kind of ad costs you get. Here's the thing that I don't want as you're like I can't it's really hard for me to tell you either way. Should you or shouldn't you because now I'm responsible for what kind of results you get.
+
+[464:33] Speaker 5: Yeah, I'm saying what would you do? I'm not asking.
+
+[465:39] Jeremiah Krakowski: I wouldn't run the ads on Christmas Day at all. Okay. I would turn them off on Friday and then start them back up Monday.
+
+[467:47] Speaker 5: But but you would run them like the two days before Christmas Eve.
+
+[469:06] Jeremiah Krakowski: Okay, yeah, you could run them like the two three days before and then up to the 28th Sure.
+
+[470:28] Speaker 5: Okay, and I haven't finished all your videos yet. In VIP, I'm working through them Are you because of that? I don't know the answer to this and maybe you answer that there so I'm sorry if you do are you saying do video with our ads to these free events do not do like because I noticed you did just a graphic now I know you're known. I'm not known. So is the video are you suggesting that we do video for our ads to get no or are we doing just a graphic
+
+[479:08] Jeremiah Krakowski: and the copy? No, you want to run video and a graphic Come together side by side. Oh, and if you don't run a graphic you need to at bare minimum do a video, but I would never run ads to just a graphic.
+
+[483:00] Speaker 5: Oh, wow. Okay, this is very good info. Yeah. Okay, thank you
+
+[484:11] Jeremiah Krakowski: coaching. Now for this event, I ran a graphic that I retargeted this event to people and that was the one that was getting the most clicks. I ran a graphic on my other events with the videos are still what was getting us the most leads.
+
+[487:44] Speaker 5: So was I retargeted? Because I saw the graph. Yeah. Ah, okay.
+
+[489:11] Jeremiah Krakowski: Yeah, so you were retargeted. So what I did then was I retargeted. Everybody who visited my website in the last six months with the graphic of this five day event. Okay, and I only ran that for like three days.
+
+[492:15] Speaker 0: Yeah, I saw it a couple times. Okay, thank you. Yeah. Awesome. Bobby.
+
+[495:40] Speaker 2: All right. So Facebook ads. If I were doing a, you know, weekly, one day event, like you suggested, are you running into those one day events, one, and then another set of ads, another one day event, then go into a five day event.
+
+[499:21] Jeremiah Krakowski: That's what I'm doing. But here's the thing is we started by doing five or six, five day events by themselves, I would say just run your ads straight to a multi day three or five day initially. The one day event what ends up happening is your lead cost and your conversion start sucking on your five day event by going straight to it. So then you add that one day event to it as as like a lead in and it helps you qualify people better it's just more work. But we found if you've never if you have you ever done a multi day event like this before, no just come out the gate with just the multi day event. Don't even worry about doing a one day as well. Me doing a one day is just it's it's definitely more work. It qualifies a little better. But it's crazy is still because every person who signed up for this unless they saw a different ad that I was running was on one of those almost almost everybody except for Angela, I'm not sure how you squeak through but
+
+[515:24] Speaker 2: I never saw any of your ads. They did. I saw you in Kajabi. That's how I saw your your answering.
+
+[517:12] Speaker 3: Oh, well. That was Yeah, yeah. Yeah, I I hit the Kajabi group as it today because I just I get too amped up by the stupid answers in there. Some good answers. That's
+
+[521:35] Jeremiah Krakowski: I'm like, I literally just want to like tell people I'm like, Okay. Your man, the one. Okay, I'll just, I'm an event on this one, the one guy saying that. It should be criminal to have a deadline on your offers. Because it's manipulative and pushy to people. I'm like, bro,
+
+[527:28] Speaker 2: like, marketing 101? Yeah, it's
+
+[528:02] Jeremiah Krakowski: just a very weird, like, advice that people give in there. I was, I was using the group to really sort of pull it to see what responses I was gonna get while I was writing copy for this event. That was the whole purpose behind it was was sort of like just trying to pull a group of people that were out there and see what the masses say and what you got. I tried to stay out of Facebook groups because they just annoy me. I waste my time.
+
+[534:36] Speaker 2: So my other question is regarding the Facebook ads, reallocation, after doing analysis, are you reallocating the money to those two or three or whatever ads? And what percentage are you doing that? I've heard people say not to do too much, because it'll mess up the algorithm. What do you
+
+[539:16] Jeremiah Krakowski: know? Yeah, I'll just turn off all of them put into those three and then I'll take whatever I said in those videos that were working well, and I'll rerecord for more videos where I say the same script in the same order. Because Because the difference of having different backdrops behind me in the videos makes it convert more.
+
+[544:43] Speaker 2: Gotcha. So what happened in my my I did nine, and my videos actually didn't do well. It's a very simple white background with the headline. That's that's what's doing really well.
+
+[548:12] Jeremiah Krakowski: Okay, yeah, that's cool. Whatever works best for you works works good again. What's your What are you marketing?
+
+[550:46] Speaker 2: I'm marketing to 40 year old women with hormone so I'm a pharmacist. I'm okay.
+
+[552:23] Jeremiah Krakowski: Gotcha. Yeah, yeah. Yeah. That works good for that.
+
+[553:50] Speaker 2: flashes, menopause, perimenopause. Yep,
+
+[555:02] Jeremiah Krakowski: we have a doctor that we were helping with a similar offer. That's one of our one on one clients. So there's, there's like the four part script to that we use for video ads. That works really well.
+
+[560:05] Speaker 0: Did I go over that at all? No.
+
+[560:57] Jeremiah Krakowski: Okay, yeah, see, I went over that in my one day event. It's so funny like, the people who are actually showing up to this VIP weren't on the one day events that I did about growing your email list.
+
+[565:12] Speaker 1: But the best for last I was
+
+[565:52] Jeremiah Krakowski: done people were. Yeah, I'm surprised he was like actually showing up on this is not who I thought they were people like, they were like, writing me like, I'm so thankful for your five day event, it's gonna change my life. I haven't seen him on one session. I'm like,
+
+[570:38] Speaker 0: Y'all,
+
+[571:13] Jeremiah Krakowski: like, but that's the thing like, it's they weren't, they're not ready yet. They're not ready yet for this level of content
+
+[573:51] Speaker 0: to trying to log in here. So okay, so
+
+[575:49] Jeremiah Krakowski: the four step script that we use for video ads is this, I'm just going to try to share my screen here and show you. And we use this for almost all of our video ads. And Jasper can help you write it right these up to. So we make a lot of our ads in the style of TiC tock videos, vertical or horizontal or vertical videos, not horizontal anymore. And then we add the captions to them with Instagram captions. But here's the four step script. So it starts with an attention grabbing question that frames both the solution and the problem they have in one opening sentence. So the one that works really best like if for me, as are you a coach, trainer mentor, who's struggling to get clients or grow your email list and want to know how to succeed and make six figures in your business. So that's an attention grabbing question. That phrase, what's the solution of the problem and my target client in one sentence, and then it's who you are your qualifications to help them by the way, don't feel like you're not qualified. Everybody who's listening to this has some kind of a qualification. That's, that will help people. So one big result of validates your track record. So I'll say my name is Jeremiah Krakowski. And for the last 19 years, I've been helping coaches, trainers and mentors make 10s of millions of dollars in their businesses. And then I go to this sentence that tells them what to offer and the result they can expect to get, as well as something that helps qualify that it works for beginners. I'm hosting a free one day strategy session this Saturday where I walk you through how to grow your email list and get that first 1000 people on your list so that you can start to get more sales and make more money in your coaching business instead of struggling and wondering, how can I make this work. And so then you do a call to action based basically as simple as, click the link register now, and I can't wait to see you this Saturday. And so this four part script. That's why I always tell people, your offer copy is the most important because the offer copy is what determines which actually say in these four parts, whatever your free offer you're sending them to determines what you're going to actually say. And so like, how would I make an ad for the client growth accelerator? I'd be like, Listen, if you're a coach, trainer, mentor, and you need more support and guidance on your funnels, your copywriting your ads, and you'd like me with my 19 years of experience to come into your business with you every single week, helping you to build it, jump into my client growth accelerator, and then I go into the pitch on that. So that's like how I would how I would frame that that way. Sometimes I'll combine these first two questions like I just did there. So. So that's a script that really works well for video ads.
+
+[620:35] Speaker 0: Yeah. Awesome. Thank you. All right. Angela. Quick question, do you teach anything about learning how to read and analyze Google Analytics? Not a whole lot? No.
+
+[626:16] Jeremiah Krakowski: We don't I don't really use that that much. I mean, I just look at basic like, okay, are people going to this page on my site? I'll have it installed. I'll look at like which pages they're going to, but I don't look at it that much. Or I use Google Analytics is pretty interesting. The way that I've been using it as after an event like this, I actually look at the number of people who get to the offer page, versus how many registered and how many went on certain days. And I can correlate that and almost pinpoint how many people are going to join my program the same every time. So you can use Google Analytics more to predict how something is going to go
+
+[638:48] Speaker 0: than anything else. So you look at the number of people that look at your offer. Pay Ah, as well as what?
+
+[641:09] Jeremiah Krakowski: As well as, like, which day those people are on there? And it just gives a prediction, but it's not like it doesn't really, I don't really care. But
+
+[644:12] Speaker 0: can you use that data to then tweak your Facebook ads?
+
+[646:20] Jeremiah Krakowski: What do you mean by that?
+
+[646:46] Speaker 0: Well, um, if you're looking at the number of people, and what day can you then when you run it again? Like, if it's a certain number of days before your your offer closes? ramp up the Facebook ads on that day?
+
+[652:49] Jeremiah Krakowski: No. Okay. Generally to most of those people are coming in through email, as well. Okay, so I might send more emails out. But the ads I don't turn, there's a point where you can't turn your ads up at all anymore, where Facebook will charge you more but not give you more results. Wow. Yeah. So like, you could turn it up to 10 grand, they'll take your money, but only show it to the same amount of people as if you spent 100 bucks.
+
+[660:49] Speaker 0: Interesting.
+
+[661:21] Jeremiah Krakowski: So that's based off of the frequency number is how often you're showing the ad to people. So the frequency number what I aim for is on a cold offer, I try to keep it under two, two and a half and on retargeting. I tried to keep it under like seven or eight. Above that seven or eight, you're just wasting your money. And the more times you show the ad to the same person, they charge you more for it. So, but they actually there's actually a limited amount of times that they will actually show your ad to people. They're not just going to show it to everybody all the time. Like just giving them more money isn't actually going to
+
+[672:24] Speaker 0: make more. Okay, thank you. All right, Bess. Okay.
+
+[674:39] Speaker 5: I'm not on tick tock. Do I need to get on tick tock? Because I'm looking at your lesson? No, you don't have to. Okay, so take that same training and apply it to Facebook and Instagram because I am on there.
+
+[678:24] Jeremiah Krakowski: Yeah. Yeah. It's also it's also on the Facebook ads training to the same script. Um,
+
+[680:01] Speaker 5: do you see are kind of people on Tik Tok? I've always wondered if people see are
+
+[681:26] Jeremiah Krakowski: what are you marketing? Christian health coach? Oh, yeah, there's a ton of them on Tik Tok? A ton of them.
+
+[683:44] Speaker 5: Mm hmm. Because I'm, I keep hearing bad things like don't go on tick tock because of the whole country that owns that thing.
+
+[686:59] Speaker 0: Yeah, not a big deal.
+
+[687:43] Speaker 1: That's your personal choice. Huh?
+
+[688:39] Jeremiah Krakowski: That's a personal choice of your own. Okay, so just, I mean, I know we were running ads for my mom on Tik Tok. So, I'm doing well. Yeah. Okay, the leads are coming in at a at about the same cost as Facebook. So, um, but it's just a, it's just another platform where people are.
+
+[695:00] Speaker 5: And it's hot. I mean, everybody's over there.
+
+[695:39] Jeremiah Krakowski: Yeah. And so what we always set up is we set up a conversion based goal, to where you can basically determine what is the cost per lead that's actually signing up. So we run everything based off of conversions. Okay? Because then it optimizes the algorithm. The cool thing about tick tock is you can target based on the hashtags, and then we're starting to test as well on on Twitter ads to Twitter ads is we haven't had very good results last month with it. We're gonna try again this month. But still, Facebook and Instagram is still pretty much King and still gives us our most predictable.
+
+[707:32] Speaker 5: Okay. Okay, that's good to know. And so, when you're doing your content on Squarespace, because I was actually very shocked when you said you use Squarespace. I love Squarespace. I've been using them for a few years now. But a lot of x, I know your mom was WordPress and a lot of ex WordPress people cuss out Squarespace and I just want to tell them give it a chance. It's amazing over there. But do you worry about SEO? Right now SEO is the only reason I have clients. I have not done well on social media because I have not taken the time to learn it. That's the only reason I have
+
+[716:43] Jeremiah Krakowski: no SEO experience and we don't use SEO for my business. You don't even
+
+[717:45] Speaker 5: use it on your regular site on Squarespace. Because I'm I'm doing well with SEO but I didn't know if you were
+
+[719:36] Jeremiah Krakowski: saying doing Keep doing what's working well for you. And then ad, it's just a traffic source. It's a, it's a, it's a, an avenue to send people to your offers, whether you're doing SEO or not, you got to send people to offers, or you won't make money.
+
+[724:23] Speaker 5: And what I noticed with my audience is, they're coming in finding me on Google from all over the place, they're coming in ready to buy, ready to buy, like, I've never experienced this before. And all the stuff I've done online, it's awesome that you're ready to buy audience, so I need to
+
+[728:09] Jeremiah Krakowski: just sign up. And so then you could even create a whole course on how you did that.
+
+[729:36] Speaker 0: I don't. I did it. It's just the niche.
+
+[730:47] Speaker 5: Okay, thank you.
+
+[731:02] Jeremiah Krakowski: But you could make a course for your niche on how to do that.
+
+[732:15] Speaker 5: Okay, but they have a different niche than I do. Okay, so I guess I would wonder, like, if it would actually work, I feel like I would have to test it if it would work for them, you know? Maybe not?
+
+[736:11] Jeremiah Krakowski: No, I'm saying like you would you would you would you would sell it to your competitors.
+
+[737:30] Speaker 5: Oh, not to my end user? To my Yeah. Okay, I love it.
+
+[739:27] Jeremiah Krakowski: That's, that'd be a whole nother market that opens up right there, which is, okay. That's something like, that's why I talk so much like, we have to let like,
+
+[742:30] Speaker 3: we have to let go of attachment to like just one vision. Because otherwise, the thought of even selling something to your competitors doesn't come up. Because it's like, it's not in that realm. If we're so attached to the way we've done something. Whereas for me, if I can, like, not really be attached to any one way of doing anything, I a spark of an idea can come in. And then that actually becomes a path for for millions of dollars. And we've actually found that ends up happening with a lot of our clients is we will have a spark of an idea come in, that's the opposite of what we thought we were going to do. It's happened a lot when I was working with my mom. And I don't teach on this, like at all, because I really try to keep a lot of what I'm teaching to the practical side, that can be utilized by everybody. But I really do believe like, when you calm your nervous system down, when you are not in fight or flight all the time. When you operate from a high level of confidence and courage, and you take care of your body and you eat well, you'll have these sparks of ideas pop in your head that like are like, okay, that's not what I Why would I do that. But then if you explore that bunny trail just a little bit, you might discover something that you can apply to your business, or give to somebody else that might make you millions of dollars.
+
+[767:49] Jeremiah Krakowski: And so that's why I talked so much about like, start moving on some of those intuition ideas, instead of just like second guessing them more often. Now, if you have an intuition idea to like, you know, go get drunk and drive your car off a cliff, I'm not not suggesting you do that. So, but if it like relates to your business, you know, it's you got to discern which are good ideas. Like if your idea is I'm just gonna shut my whole business down and do nothing like that's, that's probably not very wise. Like, I've had those feelings when I'm hungry and forgot to eat. You know, I've trust me. I get those days literally, like, I got so many great people and my client really accelerator. And like two weeks ago, I was like, I don't want to coach anybody ever again. And my wife was like, have you eaten lunch yet? I'm like, oh, it's two o'clock. No, I haven't eat lunch. And then after I'm just like, I love these people. So it's like, you know, sometimes it can be your blood sugar too. That's why learning to know yourself is really valuable. All right, Nina. So be the last question. We take
+
+[786:34] Speaker 6: the nights probably a very easy one actually. You know, when you're running Facebook ads, and you're running the same ads on Instagram and you're finding that there's different results for the same ad, is it possible to keep one running and switch to OFF the other one?
+
+[790:32] Jeremiah Krakowski: You can we did that for a while. I don't. Okay. I just really so here's a big part of my I didn't It's another thing I didn't touch on today. I'm making a list of like three things I didn't touch on and now we need to talk about Facebook ads we need to talk about selling tomorrow. Again, that's why there's gonna be the bonus days and all that and but I try to keep however many steps that I do to a minimum and I'm constantly trying to remove steps to the process. So if me so splitting out the ads between Facebook and Instagram and trying to operate operate between the two. If it's not producing a, at least a 50% gain in my sales on the back end, I eliminate that. And I simplify it. And I will just go with whatever is the easiest route. So I really, really, really try to optimize for ease and habit and not having to really think a whole lot and create systems that are duplicatable that then I could train somebody how to do. And so like we're getting down to, like I said, it takes me about 48 hours to roll out an offer from idea to writing copy to creating the whole funnel to launching it with an ad 48 hours. And the reason why is I usually need to sleep at least once in between there to get to come up with better ideas for the ads and the copy. I, by the way, that's a copywriting strategy. If you're stuck, go to bed, come back two days later, and look at your copy again. And you'll come up with these ideas. So,
+
+[818:39] Speaker 1: Jeremy, or is that what's up? Are you dreaming those? Or is it when you wake up, you come up with better ideas,
+
+[820:50] Jeremiah Krakowski: now usually wake up and come up with better ones. The other day, I actually drempt an email from my mom woke up, wrote it in my phone, and then went back to bed. That was pretty interesting. I have had that happen. That not often, but it happens. So when that does happen, I if it's not super weird, I'll write it down. And I'll look at it in the morning. You know, so I'm always keeping my phone, no a notebook by my bed just to write what some of those dreams and ideas are too. Um, if I'm going if I go to bed, here's, here's the filter for that. If I go to bed, stressed out, that will never happen. And any of those ideas I come up with are not going to usually work if I go to bed really joyful and happy. And that could even be I'll spend some time in worship a couple hours before bed, and just really like, spend some time in prayer. Literally, I'll come back and I'll start dreaming these ideas because it's like, I'm in my like, I'm in my zone that works best for me. And I'm even sleeping in that energy. So
+
+[838:02] Speaker 0: yeah, it happens. can happen.
+
+[839:26] Jeremiah Krakowski: So yeah, whatever you can do to really simplify your life and your business and work less.
+
+[841:19] Speaker 0: That's a big part of it. Like
+
+[842:19] Jeremiah Krakowski: there's a quote.
+
+[843:20] Speaker 0: Well, I'm all all for
+
+[843:39] Jeremiah Krakowski: work less, make more. Yeah, there's a quote from Bill Gates. Not lazy, it's Lazy, Lazy person. Right here, lazy people make the best employees. So Bill, so he says, I choose the lazy person to do a hard job because they'll find the easy way to do it. And so I took that and made that actually part of my business principle, my mom does the same thing is how can I get the same result while working less or within a 20 percentile. So if I make 20% less, but I'm working 90% loss, that's actually an increase. See, so the idea is is like, and this this is how I actually transitioned from doing services for people to coaching
+
+[858:05] Speaker 0: is I would figure out
+
+[859:36] Jeremiah Krakowski: how I can work less and less of that person, but they keep their retainer at the same rate with me. And so like when I first started working with with Rick Pino, I did like, all of his marketing for two grand, by the end of it, I was only reading his copy for eight grand. Because I started working less and less my value started changing, I started adding and removing different features. And now the only thing that I really do and consult people on is their copywriting and scripting their videos. And so if you can look at that, suppose that was a big thing that when my mom and I were coaching people we found this is the whole lesson and of itself. We found some people have this thing inside them that we think that okay, the more I work, the more money I'll make. And so to make more money, I got to work more hours. And if you and then you feel guilty if you work less hours, and it produces the same result. That thing is something to really learn to rewire. I'm still working on that one myself even. So I'm not an expert at this, but I know that it's important and my mom lives it is she like learn to work less not feel guilty about making more money. Look at what can I remove if I removed this thing. But I'm making 20% less, but it was costing me 90% of my time, it's actually an increase in my overall income to remove that thing. And then ads, and then increase the amount of volume of that thing that made me more money. And then you, you keep you, you remove things, and then you expand by doing more of what makes you more money. And you look at that, and this is literally my mom's entire business career as her doing this. Okay, remove that, expand that out. And that's where she's gotten to now being a professional stock market trader, because she found you know, if she only spends 30 minutes a day, and she's able to make a half a million dollars, that's a pretty, pretty good return on her time, right there. And so it's just about really prioritizing, optimizing. That's how you're able to work as much or as little as you want. And if you want to only work five hours a week, that's why I know when I have a new baby on the way, our business isn't going to suffer. And yet, I'm still going to be fully present in there as much as I need to be for the new baby as much as I want to be.
+
+[899:19] Speaker 0: So is that helpful?
+
+[900:09] Jeremiah Krakowski: All right, Bobby, you raised your hand. So
+
+[901:13] Speaker 2: I know you said the last question. I got the book. Cool. Is your is there? What chapter I'm gonna read it eventually. But can you direct me to the meat and potatoes? I know all these books have bluffed, but what's the meat and potatoes?
+
+[905:20] Jeremiah Krakowski: Meat and potatoes is?
+
+[907:02] Speaker 0: Chapter
+
+[907:40] Jeremiah Krakowski: C. Okay, so chapter one. It's kind of throughout chapter one, chapter three.
+
+[909:46] Speaker 0: And then
+
+[910:21] Jeremiah Krakowski: 910 11 and 12. Got it? 139 1011 12. Yep. Perfect. Thank you. I mean, the rest of what's in between. There's pretty cool, too.
+
+[912:40] Speaker 2: Yeah. I'm listening to it on Audible. And it's really good. He's got
+
+[913:55] Jeremiah Krakowski: on chapter number five about state management. I really liked that one. And I know Tony Robbins teaches that a lot. But just getting yourself into a state of mind that is, like you, you're, you're a badass type state of mind, like you're ready to sell, you're ready to be a trained assassin. And part of what he says if you could have like a strong scent, he'll even using a Vicks Vapor Rub type thing when he's in that state. And He'll smell that strong scent. And they'll put themselves back into that because the smell memory will bring you into that if you and, and it's really it's just triggering you in a positive way to get into a sales state of mind. And so, what I found is, you know, I'll, I'll do that before I hop on calls like this. For me, I walked around my neighborhood for 30 minutes before I came on here, because that's actually what gets me into that. The best state of mind to teach is if I go for a 30 minute walk.
+
+[929:09] Speaker 2: Love it, man. Thank you.
+
+[929:30] Jeremiah Krakowski: Yep. All right. Thanks, everybody. Again, excited to see everybody tomorrow. We'll talk then have a good one.
+

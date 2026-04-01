@@ -1,0 +1,2 @@
+# DAY 1 VIP SESSION
+

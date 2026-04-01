@@ -1,0 +1,19 @@
+{
+  "name": "@jeremiahkrakowski/brain",
+  "version": "1.0.0",
+  "description": "Jeremiah Krakowski's complete training corpus — 7,800+ transcripts from WCA calls, VIP sessions, Thinkific courses, webinars, and YouTube. For use as an AI agent skill/knowledge base.",
+  "main": "install.js",
+  "bin": {
+    "jk-brain": "install.js"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "keywords": ["ai", "coaching", "copywriting", "skill", "knowledge-base", "jeremiah-krakowski"],
+  "author": "Jeremiah Krakowski",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremykraklist/jeremiah-brain-pack.git"
+  }
+}

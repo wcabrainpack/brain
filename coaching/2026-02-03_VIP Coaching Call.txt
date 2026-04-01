@@ -1,0 +1,562 @@
+VIP Coaching Call
+Date: 2026-02-03T21:51:12.000Z
+Duration: 64 min
+Otter ID: Z6VYiUEAa9c9-ROMJeSjsYXl0NM
+---
+
+[39:30] Speaker 0: Hello, David. I am back at home for a while.
+
+[40:51] Jeremiah Krakowski: Yeah, good. Is that a good thing or
+
+[42:38] David T: Well, it's a transition thing. I got this new job, and it's a lesson I was making before. So now can't afford this place, so I talked to the landlord, and he's willing to let me out of the lease, but he's going to sell the sell the house when it bounced.
+
+[46:35] Jeremiah Krakowski: Oh, well, that that actually isn't a bad situation as a landlord, he probably was wanting to sell the house anyways,
+
+[48:30] David T: yeah, the market's been kind of stagnant the last couple of years. I would say he hasn't, yeah,
+
+[49:28] Jeremiah Krakowski: but he probably wants to get out of it. So landlord says that he's probably think, like, secretly he's probably like, thankful a little bit.
+
+[51:51] David T: Yeah, I think my rent was basically paying his mortgage, but not much more.
+
+[52:52] Jeremiah Krakowski: So yeah, well, pays the mortgage, and then it adds to it's, it's a, basically, a big tax deduction for him. And then what's the other part? Oh, the principal he gets to keep pocket as well. So, yeah, yeah.
+
+[58:14] David T: Well, he owns some other property, and he used to live here. They moved out because there's too many stairs. They have little kids, so, yeah,
+
+[60:46] Jeremiah Krakowski: okay, well, let's see. I know we talked about setting up your billing for your ads and getting all that stuff going and things like that. That was a couple weeks ago. Did we get any of that stuff running? Did we start to Jeremi?
+
+[64:53] David T: I've done nothing because I was and I don't want to make an excuse. I was so buried in what I was doing over there. I finally, I'm glad I'm going, Yeah, I got you. So I want to spend two days when I'm not working getting something up and running here, because this is like, becoming imperative now for me. Yeah, definitely. So what I want to do is maybe we've obviously talked about AD account, we've talked about doing the AI, yeah,
+
+[72:15] Jeremiah Krakowski: I'll tell you this, there's a huge opportunity with the AI agents right now, with open claw,
+
+[73:55] Speaker 0: yeah? So,
+
+[74:35] David T: so anything, anything that can help me get that going. Really, what I want to do is I just want to maybe get myself a bullet list of things that I need to, need to have finished so I can actually take an order and fulfill it. Yeah, yeah. I have my product essentially. Then I probably might want to tweak it a little bit, but just to make sure it's there's no errors in it, but yeah, the delivery and, you know, the follow up, getting people just make sure when they buy it, that they're feel supported, and, you know, stay in the vibe. I guess you might say, Well,
+
+[83:45] Jeremiah Krakowski: I think that's good to have set up right now. So what's kind of your plan for that, as far as engaging with the client and follow up with them afterwards and things like that.
+
+[86:31] David T: Well, I would say definitely want to set up a sequence, short sequence of E, maybe just highlighting some of the things that they should be working on or focusing on as they get kind of ramped up with this little side hustle. And I just did another one here about a week ago. I set up another thing that'll net me 400 bucks soon as I meet the requirements. So, yeah, you know, and I, I feel like, as I as I am bombarded with all the emails from the things I've signed up for, programs or mailing lists or whatever, I'm finding that it kind of gets overwhelming. The thing I'm doing is so simple, it'd be something to give somebody an easy win. I just want to make sure that they understand how easy of a win it is. Yeah, perfect.
+
+[100:18] Jeremiah Krakowski: So how are we getting people into, like, a community, a way that they're going to engage with you and things like that.
+
+[102:05] David T: I haven't thought about doing a community. I don't, I don't know if I should. I feel like I don't really need one, but maybe it'd be beneficial.
+
+[104:24] Jeremiah Krakowski: Yeah, I would just have a, I would Facebook group where they can ask questions. It adds a huge bonus
+
+[105:50] David T: to your I think I did put I think I did create a Facebook group for this project, just so people can feel like there's a place where they can go if there's questions, and maybe get some camaraderie or, I mean, I don't know how much they'll need, but I would certainly go in there and interact with people. Yeah, yeah.
+
+[111:47] Speaker 0: Okay. Um,
+
+[112:55] Jeremiah Krakowski: so get that, get that set up, if you can.
+
+[113:56] David T: Yeah, let me make a list here while I'm working on this.
+
+[114:30] Jeremiah Krakowski: Yeah, definitely. Let's do that, and then let me see right here. This is, this is great. This is why I'm loving these, these bots. I'm telling you, because you you would understand, like how to sell. You understand how to set up like a virtual machine and tail scale, right?
+
+[118:33] David T: I understand about virtual machines. I haven't done one in tail scale, but this concepts are pretty much similar. Yeah, whatever
+
+[120:24] Jeremiah Krakowski: you tailscale is super easy. I didn't know how to do it. I watched a couple YouTube videos. Basically it sets a it sets what's called a tail net. And so I have all my devices on the tail net, and only those devices can access my bot.
+
+[124:19] David T: Oh, okay, so
+
+[124:38] Jeremiah Krakowski: nobody could remote in to my devices unless they're on my authorized network. Okay, which is
+
+[126:46] David T: pretty cool. Does it create, like a virtual network for you in the cloud that connects all your devices on this, like private
+
+[128:40] Jeremiah Krakowski: VIP, yeah, yeah, vipn with tailscale, and it's got rotating keys and all that. And it's real sophisticated. And then what you do is I have, I have a couple cloud ones that are like a Linux server, and then they have a webtop Docker, okay, virtual machine on them. But then on my Mac, right here, I have this book air and I ordered a Mac Mini. I used a UTM just to set up a Mac OS operating system, like a, like a, like a virtual Mac inside of my Mac. So it's kind of
+
+[137:35] David T: like a virtual machine, yeah, yeah, okay.
+
+[138:01] Jeremiah Krakowski: The idea is you set it up sort of inside of, like a castled fortress that comes in and out, and then that's what makes it because, well, because the best way that it can work is if you give it access to all your accounts. Okay, so I you give it access to like your system, io account, you give it access to your Facebook Ads account, you give it that, and it can literally start to set all this stuff. Start to set all this stuff up for you. Oh, okay, that's the beauty of it. I have it, setting up servers, making apps for me, really, downloading all of my content, all of my coaching sessions. So like, right before this call, I just want to, I just want to show you this, and that's why I'm saying this is also another opportunity, because I've had three people this week tell me they want to hire me to set these up and pay me a few grand to do so.
+
+[151:34] Speaker 0: So, like, I'm down for that. There's an
+
+[152:39] Jeremiah Krakowski: opportunity right now to, like, kind of set these up right now too, if you, if you know what you're doing. Oh, wait, I was gonna, I was gonna show you this. So this is how one of the ways that I'm, I'm using it is. So I communicate with all my bots in Slack, right here. Okay, they're all right. Here I have, I have four of them right there. I have a fifth one I'm adding, named Alfred. He's a home bot. There's his little icon. I told the bots to make an icon for me, literally. I just tell them. I'm like, Okay, go make an icon for his graphic. Go set all this up for me. And the bots are literally going to work into Slack to build it. Oh, your
+
+[163:28] David T: Slack is connected to something on the other end that's getting getting messages from, yeah,
+
+[164:55] Jeremiah Krakowski: this slack is connected to this macbook over here.
+
+[166:06] Speaker 0: Oh, okay, yeah.
+
+[166:46] Jeremiah Krakowski: And then the Mac, that MacBook, has the Clawd bot server on it, the open claw server, okay, so then I'm able to talk with all these bots in here. And then, so this
+
+[169:52] David T: gives you, like, a central place to communicate with,
+
+[170:53] Jeremiah Krakowski: yeah, well, and they can do it. They can do any number of tasks for me. So what I did before this call is I went over here to Jill. She's my research agent. I told her, make me a VIP call prep from transcripts in the last two calls, and two minutes later, she sent me this PDF file right here from our last two sessions. Okay, look at this. Made this PDF with all the topics that we talked about, everything that's
+
+[178:48] David T: pretty cool,
+
+[179:06] Jeremiah Krakowski: yeah, and it really is cool because it's just like and I had to create like offers for me and everything, sales, copy ideas. Anyways, this is what we talked about. Action steps for you are right here. Okay, so we want to, did you get we got the Facebook pixel set up?
+
+[184:07] David T: You know, here's the thing, you know, we have a phone call, we talk about stuff, and then I don't have the, I have to go back and make myself an action step, because I'm not doing it while we're talking.
+
+[186:40] Jeremiah Krakowski: Let me. Let me do this. Jill, can you go through the last three calls I did in VIP and for David T, find the specific action steps for his offer that I gave him. Make a stylized pdf of it that I can send him. So there you go.
+
+[193:26] Speaker 0: Okay, and this is how,
+
+[193:44] Jeremiah Krakowski: this is how I'm starting to use this is like, is to be able to serve my clients by because how long would that, that would that would take me, like, a half hour to do on my own. I don't need to take a half hour to do that. I don't need to hire somebody. It could take longer. Yeah, I don't need to hire somebody for $10 an hour in the Philippines to do it, even when the cost of this bot, basically, it'd be like maybe 10 cents to do this. Maybe five cents less than that.
+
+[201:50] Speaker 0: Yeah. So,
+
+[202:47] David T: so what do you use to connect I've got slack. I'm not using it right now. Is using it for some other things in the past. What do you use to connect slack into these other what's already
+
+[205:29] Jeremiah Krakowski: pre programmed to have slack support, so it's
+
+[206:29] David T: got an API in it.
+
+[206:47] Jeremiah Krakowski: You just, yeah, it has an API. And then you go, Slack has this little thing where you create apps and slack you associate the app you created with your Slack account, and you can use the free slack account. They have a discord, a telegram and a Slack Android. The problem with telegram is I want to use group chats with my them so they can group together. As soon as you add bots and telegram to group chat, that can be chatted with publicly by anybody.
+
+[214:02] Speaker 0: Oh, that's not safe.
+
+[215:07] David T: So that's why you're using Yeah.
+
+[215:57] Jeremiah Krakowski: So slack is a fully secure so is discord. Those are probably the two best you can use, WhatsApp or iMessage too. IMessage isn't bad. But again, if somebody has your I message number, they could essentially get in there. But yeah, so she's going ahead and she's making us it'll take her a couple minutes. She's making a list of action steps that we had talked about over the last three sessions, that we had, just to kind of make sure that we got, like, what we're going to go down the list here. We're going to make sure that sure that you got those executed.
+
+[225:36] Speaker 0: So the
+
+[226:26] Jeremiah Krakowski: biggest thing that it like it identified by reading the transcript. It's like David deals with tapping into his creative flow during the rest of the middle of the day, versus after hours, nighttime, sometimes decision fatigue, with so many options, and then The areas that we need help with. Are specifically executing, really having the permission to execute, rather than feeling like you got to have it all figured out, type of a thing, yeah, you know, and that's, that's a big thing, right there. Okay, here we go. Look at we pulled up from December 16. Your step by step plan to launch the $37 payouts playbook with meta ads. It's just so cool, right? Yeah, so
+
+[242:00] David T: that'll be good, because I'll be able to read something and check things off make sure I've done some the basic Yeah, just actually run an offer. I'm gonna send this over
+
+[244:33] Jeremiah Krakowski: to you a simple system people can set up in 30 minutes, no selling, no recruiting. This is not a check. Check programs that will qualify for its direct bank offered clear outcome, not a lottery. Why $37 in the ad matters. Put the price in the ad copy of meta will stop sending you freebie seekers. Target people who are tired of making money online, non technical people. Sales page. Note, your sales page looks good overall responsive design issues. That's what we talked about. Did you fix the responsive design issues? I did, yeah. Okay. So set up the meta pixel, the data set. I think we did that together. We did okay. Campaign structure, the outer container, the campaign budget, images
+
+[256:49] David T: just going into the ad setup, setting
+
+[257:30] Jeremiah Krakowski: up the add to cart functionality, setting up the targeting right there, and then we have some ad copy here. Everything you tried online has failed. Here's the truth. It probably wasn't you. Most systems are complicated on purpose. Give yourself a raise without a boss, business or anyone's permission. If tech isn't your thing, this is for you. The payouts. Playbook is a simple guide. 30 I don't know where, I don't know where it pulled that one from. That one's kind of weird. But $37 no business or selling, needed, set up in 30 minutes. Use AI generated images, Sora videos, you plus Sora videos, text on the video. I shared with you, the meta ads, copy coach that we made, right the GPT
+
+[271:32] David T: you may have, I don't remember.
+
+[272:00] Jeremiah Krakowski: Okay, we'll resend you that. And then I was talking about the different stuff that's out there. So make the data set. Got the pixel AddToCart purchase, set up the campaign with the sales objective. Oh, invite me to your ads manager so I can look at the ads.
+
+[276:53] David T: Oh, yeah, I wonder if I could do that.
+
+[277:32] Jeremiah Krakowski: Select the best AI generated graphics and at least one Sora video.
+
+[280:36] Jeremiah Krakowski: And that's it. That's your checklist that we went over couple
+
+[282:12] Speaker 0: weeks ago. Yeah, okay,
+
+[282:55] Jeremiah Krakowski: right, so I'll send that over to you.
+
+[283:53] Speaker 0: You'll have that.
+
+[286:13] David T: Now, when I invite somebody, I invite them to a specific
+
+[287:26] Speaker 0: account, I guess probably
+
+[288:42] Jeremiah Krakowski: yes, invite somebody, you got to invite me to your business manager.
+
+[289:51] Speaker 0: Business Manager, okay, yeah, can you, you share your screen with me? Yeah, I can do a quick look and take a look at this. I Oops.
+
+[295:51] Jeremiah Krakowski: Oh, interesting. You can't send PDFs in Voxer. I'll send it on Facebook. Okay, do
+
+[306:51] Jeremiah Krakowski: so do you have a business manager account? I do. Oh no,
+
+[309:18] David T: I get there. I knew I went to the
+
+[310:45] Speaker 0: I know. I know there is one. Oh, I'm an ads manager right now. Should be business.
+
+[313:24] David T: Stuff. What's up? Shouldn't be business. Dot something.
+
+[315:15] Speaker 0: Um, something. Yeah, there's
+
+[315:51] David T: no minute. But when I go there, I'm not logged in here,
+
+[317:08] Speaker 0: go back to your ads manager. Start New button here,
+
+[319:41] Jeremiah Krakowski: click on the All tools button, click on
+
+[321:56] Speaker 0: business settings.
+
+[324:39] Jeremiah Krakowski: So those are the two you have. You have no ad accounts or pages loaded in them. What's that one?
+
+[326:12] Speaker 0: This is the main one here. Okay, great.
+
+[328:19] Jeremiah Krakowski: So that has all your profiles and your pages.
+
+[329:47] Speaker 0: Yeah, okay. So where do i
+
+[331:04] Jeremiah Krakowski: So where it says invite people that blue button there.
+
+[332:46] David T: What's your email address?
+
+[333:14] Jeremiah Krakowski: Type in, J, E, R, E, M, y, k r, a, k, l, i, s t@gmail.com, I it
+
+[337:45] David T: what you want access to.
+
+[338:26] Jeremiah Krakowski: Just put manage. Oh, no, you don't have to give me full control, but you're turn that off. Go to Advanced Options. Scroll down.
+
+[341:57] Speaker 0: Can it scroll down more? No, I can't.
+
+[343:36] Speaker 1: Oh no, okay, okay,
+
+[344:40] Speaker 0: go back. Just
+
+[345:53] Jeremiah Krakowski: leave it at basic press next, yeah, that's fine. Basic is fun. Okay, select the pages that you're going to run ads on.
+
+[348:57] Speaker 0: Okay, probably this and this for now,
+
+[351:03] Jeremiah Krakowski: okay, so select the tabs for content, community, activity, ads, insights, revenue
+
+[354:39] Speaker 0: and scroll down,
+
+[355:36] Jeremiah Krakowski: click on that one right There, partial access. There we go. Okay, next. Invite two assets. Okay, great.
+
+[360:41] Speaker 0: When
+
+[366:32] Speaker 0: Okay, that's done.
+
+[369:58] Jeremiah Krakowski: You go to my Gmail to access it, so I have to now accept it. Okay?
+
+[375:38] Jeremiah Krakowski: View invitation,
+
+[377:32] Speaker 0: log in to Facebook.
+
+[379:06] Jeremiah Krakowski: Accept invitation. All right, press, press refresh on that page. You should see me right there. Okay, there we go. Okay, just click on that user one more time.
+
+[385:15] Speaker 0: This one here, yep, scroll down.
+
+[386:27] Jeremiah Krakowski: All right. Do I have any access to add accounts? Click on add accounts.
+
+[389:22] Jeremiah Krakowski: On the sidebar over to the left. Which one are you running the ads on the davidjoel one? Yeah. Assign people.
+
+[392:48] David T: There you go. What should I turn on here? Partial access,
+
+[394:15] Jeremiah Krakowski: manage campaigns. Now, do manage a full control manage ad account.
+
+[396:52] Speaker 0: Cool, great. All right, that's good.
+
+[399:31] Jeremiah Krakowski: Now I can view your ads inside of here, once you get them going,
+
+[401:08] David T: once I get something posted in there, and we can review it before I let it fly, I guess.
+
+[402:23] Jeremiah Krakowski: Yeah, now let's try something cool. I created this, this bot that will be helpful for you. I'm not giving access to it to anybody just yet. I did this a week ago.
+
+[408:02] Jeremiah Krakowski: Allow, where's your landing page again? You send me the link to it.
+
+[410:06] David T: Yeah, that's what it is right now.
+
+[411:22] Jeremiah Krakowski: So I program this to create the best possible image ads that you can run on meta. There's a full AD pipeline system. Oh, yeah,
+
+[415:37] Speaker 0: yep, where's my No. I little chat thingy here, there I am
+
+[421:40] David T: okay number in reading a lot about the Mac Minis online, people are using them. I guess there's a kind of a flood of people using them for this AI stuff now,
+
+[424:39] Speaker 0: yep. So
+
+[425:43] David T: I have one upstairs. I bought one for trishana last spring because it can
+
+[426:39] Jeremiah Krakowski: run is a what which processor is on it?
+
+[427:24] David T: Sam, for
+
+[427:51] Jeremiah Krakowski: nice that's a great one to run these on. How much RAM does it have?
+
+[429:53] David T: I think she has 16. I think so base right now,
+
+[430:40] Jeremiah Krakowski: yeah, you can create a virtual machine with eight gigs on it and or even six gigs, and then use that to run a bot through.
+
+[432:55] David T: Maybe I'll have to get me one of those. Get one. I like it with 32 gigs and give me a little extra headroom. Yeah, a
+
+[434:55] Jeremiah Krakowski: lot of people, they're getting the Mac studios.
+
+[435:57] David T: That's what I have on my desk. It's but it's one of the original ones. But I have one with I think it has 64 gigs of RAM, and it's got the m1 Max chip.
+
+[439:47] Jeremiah Krakowski: Oh, wow. Have you tried running any large language models locally on it?
+
+[440:47] Speaker 0: I have not. No,
+
+[441:19] Jeremiah Krakowski: you should. You should check this out. Look at k, k 2.5 it's open source. It's from China, but if you run it locally, nothing, apparently, nothing goes back to China. But it's one of the smartest models. It's as good as the highest level OpenAI, and even better than in most comparisons. Oh, really and so, but you can run it locally.
+
+[448:43] David T: So are you going to show are you sharing something, or do you want me to see something? Oh, yeah, yeah,
+
+[449:44] Jeremiah Krakowski: I'm showing my screen now.
+
+[450:07] David T: I stopped sharing my screen just so I could see what you're doing.
+
+[450:53] Jeremiah Krakowski: Yeah. So Kimmy 2.5 local model. You can pay for it and get in, get it that way, but to run it locally, yeah, it's, it's one of the smartest models. You can run it locally without being connected to the internet. And then you could run your Clawd bot on Mac Studio, even
+
+[457:05] David T: I'm trying to, oh, wait, there's, there's your screen. It's in a different tab.
+
+[458:17] Jeremiah Krakowski: Yeah, there it is. Let's see MAC studio m2 ultra with 192 gigs. Yeah, okay, so that's the thing people are getting, like, the servers with like 512 gigs of RAM that they run them. So, yeah, you would probably wouldn't be able to run this on yours. They're spending almost like 10 to 20,000 on
+
+[464:23] David T: Oh, I know. I mean, once you start the thing with Apple is, you know, you have to buy the RAM from them, yeah, is it solder to the motherboards?
+
+[466:35] Jeremiah Krakowski: But a lot of these large language models, they need a $20,000 machine to run on, yeah? So that's why you got to pay subscription fees to all the companies right right to run their models, but yeah, if you want to do a local, do it locally.
+
+[470:55] David T: I'm just curious now what it cost to buy one of these things with so much RAM in it.
+
+[471:55] Jeremiah Krakowski: I got it right here. Look M
+
+[472:37] David T: for Mac, M
+
+[473:01] Jeremiah Krakowski: for Max chip memory on your computer too. 128 gigs of RAM. More Options. Oh, look at they. Yeah. Accept changes. $10,000 for 512 go. Let's go the four terabyte storage. So, yeah, so you're looking at $10,500 800 bucks a month. But, oh, wow, you can run a lot of AI agents on that machine, though, no
+
+[483:19] David T: kidding, right?
+
+[483:36] Jeremiah Krakowski: And they would be using local models, not ones that you have to pay for. So the idea is, like, you could rack up pretty easily, spending, even if you run a lot of models, like, $1,000 a month. So within a year, I could
+
+[487:13] David T: see somebody taking some of these things and sticking them in a data center, or, I mean, making one at their house with a, you know, 10 gig fiber connection or something, you know, and even doing client work, like,
+
+[491:18] Jeremiah Krakowski: yeah, they didn't even ship until the 24th
+
+[492:11] David T: Oh, three weeks out.
+
+[492:49] Jeremiah Krakowski: Yeah, after the large, the large one, yeah, for the small Mac Mini, obviously, that's just, those are, those are great.
+
+[495:26] Speaker 0: But, oh yeah,
+
+[496:01] Jeremiah Krakowski: yeah, you couldn't run a local model, all right, so I'm going to load this up into my ads genius right here. We're going to press generate. I want to see it's going through an AI and Google's pipeline, and it's going to be generating you 12 ads.
+
+[500:16] David T: Okay, so
+
+[500:32] Jeremiah Krakowski: I made this app last week, and it's really intuitive as far as how well it works, and so we'll actually see what it's producing here in real time. Oh, that's cool. Oh, you know what? I just realized, I don't think I have credits on my OpenAI account.
+
+[506:01] Speaker 0: Do I? I don't know that's
+
+[507:58] Jeremiah Krakowski: the thing, once you start building these apps and stuff you gotta maintain, like API
+
+[509:01] Speaker 0: keys and right? So,
+
+[510:07] Jeremiah Krakowski: no, I have $10 credits. I have it set. It adds $10 every time it drops to $5
+
+[511:46] David T: okay, it's not a refill thing.
+
+[515:21] Jeremiah Krakowski: We go, yeah, so we have this, then we have the Google one as well. Google's running. We'll see what graphics this generates for you. So we put some reference images in here. We put in some some of your copy,
+
+[519:56] Speaker 0: okay, and then it's
+
+[520:14] Jeremiah Krakowski: going to make some images that you can run with an ad. I made this app in lovable okay?
+
+[523:58] Jeremiah Krakowski: But now my AI agents can make apps for me. Okay, here's a, here's a, here's an ad. Look at that. Payout's playbook.
+
+[528:04] David T: That's a really nice image, you know, sitting on a desk that got that bokeh focus, you know, like you're using a f2 lens or something, you know, to blow the background out.
+
+[531:01] Jeremiah Krakowski: Yeah, here's one from OpenAI right here. Give yourself a raise without a boss, a business or anyone's permission.
+
+[534:07] Speaker 0: Look at that. Very nice.
+
+[535:26] Jeremiah Krakowski: So these are, it's going to generate you some ads, and I'll send them to you. And I can run this like four times and send you like 50 ads. Oh, wow. And you can see which ones you can play around with those as far as when you're running ads, because now you got images, you got images you can run these ads with that are perfectly made for your offer. So I have it generating me concept that was a base image, and then it's generating us concepts for these. Here we go. Concept number one, look at this. Stop performing, start collecting. That's pretty cool. And it's got the same kind of the same book from the original editor here, right and the website graphic right there that we fed into it. Yeah. Isn't that cool?
+
+[549:09] David T: That is cool. Yeah, yep.
+
+[549:51] Jeremiah Krakowski: I thought that this app was just, would just be incredible. I'd like to actually offer it as a paid app to people to make their ads off the charge for like, credits for the image generation, but
+
+[553:25] David T: yeah, figure out what the minimum would have to be and whatever. I guess they can add more credits. If they Yeah,
+
+[555:29] Jeremiah Krakowski: they can buy a bundle of credits, and they can do something like that. It's usually works. Here's another one from OpenAI. Give yourself a raise. Add 300 to 500 months and six to four to six weeks. This one says your site, com, so you could edit that in Canva, yeah, get the playbook. Example. Results not guaranteed, no selling, no recruiting, no social media.
+
+[563:20] Jeremiah Krakowski: Now we want to test these out. The reason why we want to test them, we want to see is, is meta going to let us run this, or do we need to adjust our copy to be something that Meta's going to let us run, or do we need to run or do we need to run with a different
+
+[566:39] David T: offer because they do don't like the income claims and all that.
+
+[567:36] Jeremiah Krakowski: So only thing we want to make sure of as well
+
+[568:56] Speaker 0: for that, I
+
+[575:49] Speaker 0: deposit received,
+
+[577:32] Jeremiah Krakowski: so anyways, we don't need to necessarily watch all these generate, but those are some some ad
+
+[580:49] Speaker 0: images for You.
+
+[581:28] Jeremiah Krakowski: Then you could, with the Sora app, you could either put yourself in there or make a character. You can make like a, make it like, like a female character in Sora, right? And have her kind of do something. Oh, this one's cool. Look at this. The difference is simple, predictable, predictable payouts.
+
+[588:02] David T: I'm seeing your Windows desktop. Oh,
+
+[591:06] Speaker 0: that, there we go. Oh,
+
+[593:34] David T: yeah, it's pretty cool, too.
+
+[595:08] Jeremiah Krakowski: So these are just all concepts that we can do for your ads for you, okay, what next on, on this, what else is, is missing. Obviously, you got your videos.
+
+[599:39] David T: You know? What I want to do is I want to, this is what I've been thinking of. Once somebody buys something, what happens? I mean, I need to send them something. So obviously I have a place where the book, booklet can be downloaded from, and I think I have that set up already to go back. It's been a few weeks since I've done some of this, so I have to go back and remind myself where it's at. But it's all I think I've all done it inside of the Systemio platform and and I'll be using that to send the emails out. So what I want to do is I want to, I want to probably just come up with a delivery email once they order, and then maybe a day later, checking in, you know, have you got started yet, just emails that are like one thing I don't want to, like, overwhelm people. Think simple anyway. So I want to make each email just like a very simple follow up of some kind, you know? Yeah, I want to, I want to play up the idea that this isn't hard, you know. So I don't want to give people the idea they got to do all this stuff, you know, because you really don't. I mean, I went online here about a week ago and signed up for an offer because I haven't done this in a few months now, you know, and sign up for an offer, and one of the problems is, you know, you need to have direct deposit going. So with my payroll, I can direct deposit in up to four different accounts. So I could technically do three offers at the same time, or even even four, actually, but awesome, I
+
+[625:27] Jeremiah Krakowski: one of the things I'm going to have my bot do now is they're going to take my content and what we just talked about, and it's going to make you A list of what
+
+[629:20] Speaker 0: what's left to do? Okay,
+
+[630:24] David T: so to me, basically, I've got the landing page done. I've got the order page functioning. I might want to change a couple colors around, but the Fit function, and once the order is placed, there is a trigger that I've set up to send out an email, but I want to send out, like, maybe three or four emails, or maybe five, I don't know, over some period of time, maybe the first week or 10 days. Yeah, and then, you know, I mean, I want to, at some point, I want to put people in some, some other sequence down the road where, you know, I think a lot of times people want the money for maybe to fund they could want money to help fund their next venture online, to buy their next tool. So I want to tell them what I'm doing other than this that is working for me, you know. So it could be an affiliate offer that I'm I'm willing to promote that I believe in, or some other tool I created, or some other education that I might eventually release, you know? So I think I feel like, I feel like people who are interested in creating extra money can be shifted into other areas that they can make money with. So, yeah, well,
+
+[649:53] Jeremiah Krakowski: and that's where the nurture and the connection comes down with all that,
+
+[651:14] David T: and in that, in that scenario, maybe once I get to that point, maybe I would want to have a community, you know, where I'm, you know, this was level one. Let's go to level two, you know. And it's gonna be more, you know, it's gonna be obviously more energy and more more and maybe a little more time commitment, but the results, the potential payout, then could be more, you know, but it's what I feel when I don't want to just be a an offer pusher. I want to be, I want to be somebody people trust because they've already gotten from something from you that actually works,
+
+[659:57] Jeremiah Krakowski: yeah, so at the same time you do got to keep promoting offers. That's what, that's what gets the trust built. Yeah, important too,
+
+[662:04] David T: yeah, to continue to find offers that align with what I'm what I'm about. You know?
+
+[663:43] Jeremiah Krakowski: Yeah, let's see. David is right here.
+
+[665:10] Speaker 0: I can send you.
+
+[667:06] Speaker 0: Great This is good. Send you your
+
+[669:34] Jeremiah Krakowski: action guide.
+
+[671:34] Jeremiah Krakowski: This is going into Facebook right here. Then what we have is we have your checklist of what happens after they buy. Complete checklist for post purchase sequences, back end offers turning $37 buyers in the long term revenue, big picture where the money is front end. Offer. You can have a back end membership. You can have a back end course or high ticket program. You want to confirm the purchase. You're in email. Here's your email sequences, right here, okay, set expectations. Tell them exactly what happens next. Quick win, give them one thing to do immediately, maybe mention a one time offer.
+
+[684:21] David T: I will, I will do an OTO. And I think the OTO is going to be something along the lines of ongoing support for me, like me, hand picking offers that they can or something, maybe even, even, maybe even walking them through their first offer, you know, one on one. So that would be a higher one. But the thing is, it doesn't take that long. It's very simple, you know. But some people might just have the the extra confidence of having somebody look over their shoulder the first time they do it, you know.
+
+[692:33] Jeremiah Krakowski: So here's a great example, right here. After they purchase, you're in. Here's your access to Payout's playbook, login, Link, one action step, and then look at here's a draft email that you could kind of use to send them right here.
+
+[695:47] Speaker 0: Okay, I like that.
+
+[696:16] Jeremiah Krakowski: Then there's a consumption sequence. Most people buy digital products. Never use them. Your job is to get them to consume. Nudge them to start. Hey, did you get started? Quick recap of the value. Quick win email. This helps so and so. Do this. Say this helped me do this. Ask how it's going. How's it going with the playbook, and then the back end offer you start adding to day seven to 14. You could throw in any number of these different offers ready for the next level. You got the playbook. Here's what comes next. And I
+
+[704:39] David T: probably, I probably should figure out what comes next here, you know, what am I doing now that I did this little, simple thing to make four or $5,000 what's my next thing to blow it up better, or to whatever, you know, whatever the message is going to be. But there's something beyond just playing, at the edges here, you know,
+
+[712:34] Jeremiah Krakowski: let's have it brainstorm some ideas, and then I'll send you a PDF on that as well. These PDFs are pretty cool, aren't they? They are. This is, I wish I had this like years ago.
+
+[716:19] David T: No kidding, right?
+
+[716:40] Jeremiah Krakowski: I always had the vision to offer this to people, but it's like the amount of effort and energy and then,
+
+[717:53] David T: yeah, it is because, I mean, hire dozens of
+
+[719:03] Jeremiah Krakowski: hours to do it, yeah,
+
+[719:27] David T: dozens of hours, you know, to come up with all the creative ideas and all the brainstorming and all the, you know, and to deliver, and actually deliver a product like this, you know, it's crazy. Yeah, it's fascinating.
+
+[724:24] Jeremiah Krakowski: Yeah. So this is giving you ideas for kind of what you can do. You What's cool is this did all this based on my so I need to look at like making an AI bot based on these agents for myself, Jeremy bot, so I have that one in Delphi. But honestly, this is 10 times better. I hmm,
+
+[732:08] David T: better break out the slack here and start figuring out what you're doing.
+
+[733:36] Jeremiah Krakowski: Oh, here's Alfred. Oh, we can't message him yet.
+
+[734:44] Speaker 0: Alfred's coming in here, coming in hot. Let's see.
+
+[737:37] Jeremiah Krakowski: Yeah, JLL is my researcher. She's able to research anything. I've had her research how to set up all the security for these bots. For me, she's been quantifying and finding all the articles she can. She'll go out and open up all the different AI platforms too and get answers from them.
+
+[742:33] Speaker 0: Oh, all.
+
+[742:55] Jeremiah Krakowski: Instead of me having to go to him, she'll bring it all together.
+
+[743:40] David T: What's who's who's running the JLL, what is it? Is that on your, on your Mac over there that's running
+
+[744:56] Jeremiah Krakowski: right now? It's all on my MacBook Air. I have Megan is on my is on the cloud, and Alfred is on the cloud. Megan is a therapy bot. She learns from me, and I want to turn it into like I could talk to it on the phone, okay? And then Alfred, his whole thing is, is like keeping my family life in order, helping remind me of things. I have it tapped into its own Linux server, like, with the whole interface, yeah, like it has a whole GUI and everything, like web browser and all that. It's logged into a home management system that we have downstairs on our wall. Okay? And so Alfred's in there, and he can watch that, and then he can remind me at night and in the mornings of the To Do lists and checklists of what I need to get done. Okay, we'll see David's next ideas, 10 plus back end. Offer concepts, okay, offer ladder we have. This is our low, ticket, mid, ticket, high, and then premium right here. You don't need all these. Just pack one to two that excite pick one to two that excite you. I would recommend just doing one initially, the payout accelerator pack. This could be an upsell, right? What let's see? Want me to do the heavy lifting for you. Here's the things people read the guide. Wait If you could skip straight to the payouts. Gives you my exact template, scripts and tracking
+
+[767:18] Speaker 0: tools. Okay,
+
+[767:56] Jeremiah Krakowski: okay, the hot list update service. What it is the best paying bank offers right now, top 20 offers. Add the 2026, Hot List membership offers playbook that you started payout insiders, keeps you going, okay, $97 a month includes maybe Voxer access with you, helps you with that, they could add a coaching program, Payout's mastery program, stacking offers, 30 Day payout challenge, premium offers,
+
+[778:48] David T: honestly, the Payout's playbook is such a generic term, I could morph it into some other things that, yep, you know, generate payouts from a different
+
+[781:33] Jeremiah Krakowski: thing, payout tracker, tool you can make, make an app, teach the playbook licensing. You could have a white label of your playbook, and others can promote it themselves. Turn to an affiliate offer. Let me ask. JLL, okay, these are great rate me some based on my strategies, the fringe offer ideas that are related to the demographic of the person who gets this offer, but it's more in demand when it comes to what's on social media, and this could be a bridge offer to make a list of those offers as well. So the idea is that's going to make a list of also stuff that's maybe not Payout's related, but it's connected to the same psychology of that type of person, right? Okay, that would want these offers. So that's my next that's my other thing. And whenever I'm doing kind of offer strategy, offer research, this is what I'm looking for. I used to have to prompt my AI to do this. It would take me two hours just to come up with what we just
+
+[801:36] Speaker 0: didn't find. Oh yeah, no kidding.
+
+[803:00] Jeremiah Krakowski: This is so much better because it's it's, it's, it's trained on our my data. So it's so much better than chat, GPT and all that, and it has a persistent memory and all those things.
+
+[808:11] Speaker 0: All right, let's see.
+
+[808:56] Jeremiah Krakowski: I might load all this up into then a GPT. If somebody wants to use a GPT that's a part of our group, that's what I should do. I should make a GPT that does this for our group members.
+
+[811:43] David T: Oh, that'd be kind of cool.
+
+[812:07] Jeremiah Krakowski: Yeah, just give everybody access to the GPT
+
+[812:48] David T: to share them the GPT, and they could just use it to
+
+[813:34] Jeremiah Krakowski: brainstorm with that'd be cool. See where is my Chrome browser. I'm trying to give you these files here, okay? And what we're moving into now with these, these agents, is, like, I would say, a lot of courses and coaching programs are going to start moving towards using tools like these and
+
+[822:16] Speaker 0: and we're,
+
+[822:58] Jeremiah Krakowski: you know, people can pay for access to talk to an AI agent versus an actual coach that guides them through the agent guides them through the process.
+
+[825:31] Cindy Hudson: Yeah, let's see. Let's pull up some of these next level offers here to tell my AI can't send Alfred's Slack message needs his ability to serve.
+
+[833:24] Jeremiah Krakowski: Let's add Alfred into here.
+
+[835:56] Jeremiah Krakowski: Hey, Alfred. Circumstances,
+
+[844:17] Speaker 0: she's making it right here.
+
+[860:48] Speaker 0: Where'd my agents go?
+
+[861:52] Jeremiah Krakowski: There we go. Here she is. Fringe bridge offers, AI, content, engine, chat, GPT prompts, let's see build. I'm not sure where it's coming up with these faceless content playbook, emails that sell. I'm not sure where it came up with those.
+
+[868:51] Speaker 0: Yeah, for
+
+[869:12] Jeremiah Krakowski: my business, yeah, I wanted these to be fringe offers for David T and his
+
+[872:32] Cindy Hudson: Payout's playbook, from our VIP call to our previous messages. Yeah.
+
+[874:51] Jeremiah Krakowski: Well, anyways, that's a pretty cool stack of offers that I could create. Yeah, yeah, this is for my business. I was pulling that up. Okay, do
+
+[900:07] David T: once I've got this up and running, I want to obviously see how else I can leverage it, but I really want to shift to building more the AI stuff. I'm really fascinated by all this stuff. I think I have tools to easily figure this stuff out. Yeah, I've now, I've run, I've run a hosting business. I'm very good with emails. Yeah, I've got a software educational background, you know, my college and I do it work for a living. So, yeah, I used to have a server rack. I used to have a server rack in my basement. I had a special room built with power and everything in there.
+
+[912:37] Jeremiah Krakowski: I've thought about so to do a high quality virtual machine of these bots, it costs about $10 a month over it's called Hetzner, and so that's it for an eight gig machine on Hetzner, dedicated machine, highest security.
+
+[917:47] David T: It's like a virtual machine for 10 bucks a month or something, yeah,
+
+[919:27] Jeremiah Krakowski: and so wel, no, it's, I think it's a dedicated one,
+
+[921:24] David T: or dedicated wonder how they're pulling that off. That's,
+
+[922:10] Jeremiah Krakowski: yeah, it's the lowest cost. I mean,
+
+[923:02] David T: are they like raspberry pi machines or something?
+
+[923:47] Speaker 0: I don't know, but there.
+
+[925:25] Jeremiah Krakowski: Have you heard it? Have you heard of Hetzner?
+
+[926:10] David T: I haven't heard of that one. What? How do you spell that
+
+[926:57] Speaker 0: right here, Hetzner,
+
+[927:53] Jeremiah Krakowski: web hosting in Germany. Oh, no, they're the cloud servers. Yeah, they're not dedicated servers. Dedicated Servers are 40 bucks. So, yeah, so cloud server,
+
+[932:21] Speaker 0: 40 euros.
+
+[933:04] Jeremiah Krakowski: Yeah, I have an account, and then I was able to
+
+[935:14] David T: what, what made you pick them versus some other US space.
+
+[936:21] Jeremiah Krakowski: I just had the AI analyze all the options that are out there, pricing and like, what included, and it found this one all the AI say that this one is the most cost effective for a Linux based okay server.
+
+[940:57] David T: And then I had a server for had this customer. This is a cool story. I wish it would continue on, but had this insurance company that I met in Yuba City. And before I left there, I sold her a virtual server for 400 bucks a month that was costing me about 75 and she, she did it, she rented it for me for 10 years.
+
+[946:24] Jeremiah Krakowski: Yeah, wow, that's awesome. I'm thinking these cost about $10 a month, really, if you, if you do it across like a larger machine. The AI was saying you could run 15 agents in their own virtual machines, and you could have three sub agents inside each one as wel. So that could be up to 10 to 15 customers for, I think at that level, it's only like $60 a month for the cloud, okay, the 10 customers, it's only six bucks, and I could resell those for even, like, 50 to $100 an agent, yeah. Wel, well, maybe not that much, maybe like 20 to 30. But do that at scale, then what would it take to, like, manage all of that? I have to hire you, huh?
+
+[960:06] David T: Yeah. I mean, you need to, I guess it depends on what kind of systems they are,
+
+[961:53] Speaker 0: yeah, but
+
+[962:26] David T: you do want to keep them patched and stuff. So if you know, with operating system updates and things like that, right?
+
+[964:16] Jeremiah Krakowski: And that's, that's the only side of it that I don't fully have a grasp on, yeah, is the is the right ways of like, what to do on that side of it, yeah, I feel like there's an opportunity there for that, because then I know how to I can market it with ads. You get a ton of people, ton of coaches, at least into something just flow my system,
+
+[972:29] David T: yeah, stuff, yes. I was listening to a webinar by somebody doing that. She was kind of doing that, where she had developed her chat framework, and you just need to load your content into it, you know,
+
+[976:07] Speaker 0: yeah. And there
+
+[976:24] David T: was, if she was going to be like, a do it for you. We'll work with you to get all the content loaded to create this chat thing that's dedicated to your business. You know, right.
+
+[979:17] Jeremiah Krakowski: Okay, here we go. The lazy income checklist. Set it and forget it. Income streams, phone money, 10 apps that actually pay 30 minute side hustles, bank bonus, basics, $1,000 month bank bonus, Free Money Finder, the side income without social media. So you kind of go into this whole lane here, the anti MLM money guide, introvert income, the non techies, extra income guide, copy, you
+
+[987:27] David T: know there is, there is a lot of people who really don't want to be on camera or be the face of their first
+
+[989:16] Jeremiah Krakowski: $100 a week weekend money project. So all of these could be like little micro offers that you do, yeah? And you start promoting these offers retargeting people with your ads to get them back in your pipeline. So that's kind of the thought behind Yeah, all those. Yeah, Hetzner was one. I think fly wel was another one.
+
+[996:16] Speaker 0: That one I've heard of.
+
+[996:46] Jeremiah Krakowski: Yeah, they were another one.
+
+[998:05] David T: I used to be on a company called volter man. That was a really great system. Oh, nice. That's the one that I used for the I was a Windows Server machine I rented to her. It was, it was so fast you would log into that remote desktop, and it was you could not tell that you were on a remote machine. It was so fast, nice. She had her and her other employee log into it as I set it up for them. They used to run, they used to run a remote desktop on a Windows seven machine in her office. It was so slow, it was pathetic. Yeah, once, once she tried running this thing I set up. She was so happy. She was just tickled pink. She couldn't she was beside herself.
+
+[1009:15] Speaker 0: Yeah, happy to pay me the money. There you go.
+
+[1010:49] Jeremiah Krakowski: Alright, wel, I'll send you all this on Facebook, and then let's get start executing on that list of what to do. Yeah, I'm gonna,
+
+[1013:06] David T: I'm going for a haircut here in about 10 minutes, and I'll be back and I'll be back and I'll get going on the list here, because this is what I I want to really dial this in the next couple of days as much as possible so I can start the ads, because I'm really needing to generate some funds. Yeah.
+
+[1016:42] Speaker 0: So awesome. All right. David, cool.
+
+[1017:37] Speaker 1: You got this, buddy? Thanks.
+
+[1018:14] Speaker 0: See ya. Bye, bye, bye.
+
+[1018:55] Speaker null: I.
+

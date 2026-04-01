@@ -1,0 +1,178 @@
+The_90-Minute_Blueprint__Ship,_Measure,_Sustain_Your_Way_to_Sta
+Date: 2025-10-20T17:56:59.000Z
+Duration: 14 min
+Otter ID: 2FXl7S_HV0hg6e2oewFJFaFZzRc
+---
+
+[0:00] Speaker 0: Welcome to the deep dive. Today we're getting into something fundamental, something that really trips people up. Yeah, this whole idea that
+
+[1:36] Speaker 1: you need confidence before you can act, before you can launch something
+
+[2:34] Speaker 0: exactly the confidence paradox. We hear that advice constantly, right? Just feel more confident. But the source material we're diving into today, it says that's totally
+
+[5:16] Speaker 1: backwards. It really does. It lays out this sharp, 90 minute, structured process. They actually call it confidence through action, and it just flips that whole assumption on its head,
+
+[7:43] Speaker 0: which is great, because stable, reliable confidence.
+
+[9:02] Speaker 1: Well, the framework argues it's not something you just conjure up. It's the result, the
+
+[10:14] Speaker 0: inevitable result, yeah, of doing specific things in a controlled way.
+
+[11:16] Speaker 1: I like that focus, because we're not aiming for, you know, feel good quotes here. This is practical,
+
+[13:02] Speaker 0: totally practical. The mission really is to give you a system, something that helps you bypass the overwhelm, the info overload that
+
+[15:02] Speaker 1: stops people, right? So it's about guardrails, reading actual data, not just guessing and crucially managing your energy so you can keep taking action. That's the whole game. It's a process, not a feeling, and it's sequential, broken down neatly into three parts. Takes about 90 minutes total if you really focus, okay, what are the parts? First you ship something, but with safety nets. Second, you measure what actually happens? Read the real signals. And third, you sustain your own energy to keep the cycle going.
+
+[22:41] Speaker 0: Ship, measure, sustain.
+
+[23:18] Speaker 1: Got it. So let's start with shipping that initial inertia, yeah, getting something out the door when you're frankly terrified, yeah. How do we tackle that?
+
+[25:44] Speaker 0: Well, the first 30 minutes of this process, they go straight for the jugular, perfectionism,
+
+[26:51] Speaker 1: ah, the old classic. But how do they define it? Because it feels like high standards sometimes, right?
+
+[28:15] Speaker 0: But they argue it's not really about standards. It's well, it's approval seeking just dressed up to look like quality control.
+
+[29:53] Speaker 1: Ooh, that hits. So waiting for perfect is basically waiting for everyone to clap.
+
+[31:04] Speaker 0: Pretty much, you're waiting for this guarantee that no one will criticize it, which is impossible, obviously, and it just freezes you,
+
+[33:04] Speaker 1: so you get paralyzed. Okay? So the shift has to be what focus on value, not applause. Exactly. The goal isn't pleasing everybody. It's creating value for a specific person or group that changes everything. Okay?
+
+[37:12] Speaker 0: So if approval seeking is the problem, how do we start moving you mentioned focusing on what we
+
+[38:24] Speaker 1: can control. Yeah, this is fundamental. The difference between process goals and outcome goals. Explain that, okay, outcome goals are the results you want, but don't fully control, like hitting a certain sales number, getting ex subscribers, going viral. You can influence them, but you can't dictate them,
+
+[43:28] Speaker 0: right? Lots of external factors. There loads
+
+[44:09] Speaker 1: process goals, though, are the actions you take. Did I work on the draft for two hours today? Did I actually hit publish on the beta? Did I ask three people for honest
+
+[46:40] Speaker 0: feedback? So you focus entirely on the doing, not the result of the doing?
+
+[47:43] Speaker 1: Exactly, it takes away that huge emotional weight of waiting for something you can't guarantee. It enables action.
+
+[49:11] Speaker 0: Now, okay, that makes sense, but there's still fear, right? Even if you focus on process, which leads to this seven layers deep exercise you mentioned. Sounds intense, it
+
+[51:36] Speaker 1: can be, yeah, but it's quick and powerful. It's about getting past the surface excuses for why you're not
+
+[53:02] Speaker 0: shipping. How does it work? You just keep asking, why?
+
+[53:45] Speaker 1: Pretty much, yeah, you start with the resistance. You feel I'm not ready to ship because maybe the first answer is technical, like, I need to tweak the design. Okay. Then you ask, why does that really matter? Maybe the answer is because, if it looks unprofessional, people won't take it seriously. Okay? Why does that matter? Keep digging. You keep digging past the technical stuff, past the market worries down to the raw feeling, they'll think, I'm an amateur. Why is that bad? They'll laugh at me. Why Does that scare you? And eventually you hit the sources say, almost always by layer six or seven, you land on one of two core fears, deep public judgment or some kind of catastrophic failure. Wow.
+
+[64:01] Speaker 0: Okay, so naming the fear helps, but you still need to feel safe enough to act that's where the wrist box comes in. Sounds like it might slow things down, though you'd
+
+[66:32] Speaker 1: think so. But no, speed is the goal here. The wrist box isn't about adding red tape. It's about creating minimal safety guardrails specifically to enable speed. What's in this box? It's super simple stuff. You draft immediately. Three things. One, simple disclaimer, language, just set expectations low. Hey, this is a beta or this viewpoint. Five, feedback wanted takes the pressure off. Okay? Two, clear scope boundaries. What is this thing right now? And just as importantly, what is it not? Prevents scope creep anxiety, you know, keeps it contained in the third three basic refund or revision terms if there's money involved, or even just reputation, have a simple exit, like full refund within seven days or one round of revisions included, remove that fear of trapping someone or looking unprofessional if it flops.
+
+[79:37] Speaker 0: Got it so it's like pre. Managing the potential downsize. It reduces the perceived stakes.
+
+[80:54] Speaker 1: Exactly, it's psychological safety. So when the task is draft and publish one small thing. Now maybe a social post, single email, a tiny bit of code,
+
+[83:03] Speaker 0: you actually do it because the risk box makes the potential failure feel less terrifying.
+
+[84:16] Speaker 1: Precisely, you ship. That's the end of part one. Okay, so we
+
+[85:19] Speaker 0: ship something small, armed with our wrist box. Now what part two measure
+
+[86:31] Speaker 1: right? The focus shifts immediately from output to learning, and the absolute key here is learning to distinguish real signal from noise.
+
+[88:47] Speaker 0: Signal versus noise sounds important. What's the danger?
+
+[89:51] Speaker 1: The danger is self deception. We all do it. We latch onto that one nice comment, that one positive sign, and ignore, well, ignore the data that doesn't fit our hopes. The sources call these approval stories.
+
+[93:28] Speaker 0: Approval stories, yeah, can see that filtering reality to feel better, we have
+
+[94:32] Speaker 1: to stop that. Variance is just noise. A few random opinions, positive or negative. That's noise. We need objective measurement to see the real pattern the signal,
+
+[96:46] Speaker 0: which means defining metrics before you even look at the feedback.
+
+[97:32] Speaker 1: Critically important, you define success first, then you look otherwise. Like you said, you just hunt for proof you were right.
+
+[99:12] Speaker 0: So what metrics should we be using? The sources narrow it down, right to avoid vanity metrics.
+
+[100:32] Speaker 1: They do just two or three core things focused on actual user behavior and value, okay, like, what number one activation? What percentage of people who engage actually reach that first key moment, that first win, or aha moment? It's not just signing up, it's say, completing the first step in your onboarding.
+
+[105:54] Speaker 0: Got it? Did they actually start using it properly? Exactly number
+
+[106:57] Speaker 1: two completion of those who activate, what percentage actually finish the core experience? If it's a five day email course, did they open all five? Did they finish the main workflow? Okay, so did they stick with it? Right? And third sentiment, this is more qualitative. You look for patterns in open ended feedback, or you can use something standardized like net promoter score, NPS,
+
+[112:23] Speaker 0: activation, Completion, sentiment, Okay, makes sense. But data alone can be confusing. People argue about what it means. How does this decision tree workshop thing help? Sounds potentially slow.
+
+[115:27] Speaker 1: It's actually the opposite. It's designed to eliminate the arguments and the ambiguity before they happen. It forces you to decide right now what you'll do based on the data you
+
+[117:51] Speaker 0: get. Pre deciding the actions. Yes, you
+
+[118:47] Speaker 1: set thresholds. So when the data comes in, the decision's already made. No emotional debate. Basically three paths. You iterate. If activation is good, people are starting, but maybe sentiment shows some friction points, small problems. So you fix those small things, tweak it and relaunch fast. Okay, small fixes, you pivot if the data shows something more fundamental is wrong, like the wrong people are signing up entirely, or the feedback reveals you're solving a totally different problem than you thought. The core idea needs rethinking. Big change needed, or you sunset it if all the key metrics fall below a specific level you define beforehand. They call this level Z, Z, the kill switch. Exactly. You decide up front, if activation is below X percent and completion is below y percent and centimeters negative, we stop. We sunset this version or this idea.
+
+[132:16] Speaker 0: That takes guts, but I see how it builds real confidence. You're not just hoping anymore. You're responding to evidence, absolutely.
+
+[133:46] Speaker 1: There's a case study in the source about a founder who's beta. Well, it bombed by the numbers, activation Year Zero, completion zero. But five people had signed up, so he felt it was okay. The approval story right? The decision tree forced the comparison his belief versus the stark data he had to sunset. It brutal, but necessary. It makes your next move defensible based on reality. So the
+
+[139:26] Speaker 0: outcome here is a clear 30 day test plan, metrics, defined threshold, set you know what you're looking for and what you'll do.
+
+[141:36] Speaker 1: Okay, so we've shipped, we've measured objectively. Now part three brings it all inward. How do you keep this cycle going, sustain your engine?
+
+[143:42] Speaker 0: Right? Because that external loop of shipping and measuring. It takes energy, lots of
+
+[145:10] Speaker 1: it. It really does. And you can't have stable confidence if your energy is all over the place. The key quote here is powerful. Stable energy equals stable
+
+[147:16] Speaker 0: confidence. I like that. Stable energy stable confidence. It's not about those manic bursts of overnight work,
+
+[148:37] Speaker 1: no motivation spikes. But confidence is built on consistency, and the sources argue that finding sustainable rhythms is way more effective than chasing productivity hacks, one rhythm change beats, 10 productivity hacks, okay,
+
+[152:16] Speaker 0: so stop looking for the magic app and fix the underlying schedule
+
+[153:05] Speaker 1: pretty much, which starts with honesty. You need to do a quick time and energy audit.
+
+[154:09] Speaker 0: How does that work? Look back at the last week, yeah,
+
+[155:05] Speaker 1: just map it out roughly. When did you have high energy? When did you feel drained? What activities were energy sinks? Then the crucial step, find one swap, one swap, just one to start. Find something low energy or low leverage that you do, maybe mindlessly. Rolling social media or sitting in a meeting you don't need to be in and swap it, reclaim at least 90 minutes of focused
+
+[161:41] Speaker 0: time and put that 90 minutes where you put it where you're naturally
+
+[162:33] Speaker 1: sharpest. Use it to design a predictable, maybe two block deep work schedule, protect that time. The confidence comes from knowing you reliably get your most important work done well,
+
+[165:21] Speaker 0: instead of just hoping you'll find time or forcing it when you're already tired.
+
+[166:30] Speaker 1: And then finally, you need plans for when things that inevitably go wrong, yeah, because you will procrastinate, you will feel overwhelmed. Stuff will fail, right? The dips are unavoidable, so you need structured routines to handle them. Think of them as recovery plans. They fall into two types, okay? What's the first type? Pre performance rituals? These are tiny routines you do right before demanding activities to shift your mindset. Like what? Give me an example, super short, like a five minute visualization before you sit down to create content, or a three minute review of your key points before a sales call. Maybe just two minutes of deep breathing before you launch a new ad campaign.
+
+[175:39] Speaker 0: Ah, like mental triggers to get into focus mode
+
+[176:38] Speaker 1: exactly, simple, repeatable cues. The second type is reactive, if then tilt plans,
+
+[178:16] Speaker 0: if then tilt plans, okay, these sound like emergency procedures. They
+
+[179:11] Speaker 1: kind of are. They're for when you're already feeling the negative motion, the tilt you predefine the trigger and the specific, small action you'll take removes the need to think when you're already stressed. Okay, give me some examples, like, if I feel overwhelmed by my inbox, then I will close all tabs, take five deep breaths and write down the single most important task on paper, simple, actionable. Or if I find myself procrastinating on writing, then I will set a timer for just two minutes and write only the headline or the first sentence, just to start two minute rule, yeah. Or if I feel completely depleted and burnt out, then I will execute my predefined recovery protocol. Maybe that's a 15 minute walk outside. No phone. Got
+
+[190:25] Speaker 0: it so you plan for the failure states. That removes a lot of the fear around them, too. Hashtag, tag, tag, tag, outro, outro.
+
+[192:07] Speaker 1: And that brings us to the end of the 90 minute process. But it doesn't just end with learning. The final piece is integration, making it real,
+
+[194:16] Speaker 0: right? It's not just theory. The sources insist you have to commit to action immediately. Yeah, the
+
+[195:35] Speaker 1: final step is called the commitment circle. It basically forces you to translate everything we've discussed into immediate, concrete, next steps within 48 hours.
+
+[197:59] Speaker 0: Okay, so this is the challenge for everyone listening right now. What are the commitments?
+
+[199:11] Speaker 1: Three specific questions you need to answer for yourself. Maybe write them down. First,
+
+[200:25] Speaker 0: what is your very next ship? What's that minimum viable thing you will put out into the world using your Ritz box within the next 48 hours?
+
+[202:32] Speaker 1: Second? What is your specific, measurable success metric for that thing over the next 30 days? What's your iterate threshold? What's your z number, the point where you'd sunset it? Define
+
+[205:06] Speaker 0: success and failure upfront. Okay, and the third,
+
+[206:23] Speaker 1: what is the one energy rhythm change, that time swap that you will start implementing tomorrow, that 90 plus minutes you're reclaiming
+
+[208:37] Speaker 0: ship measure, sustain the commitments, lock it in exactly.
+
+[209:57] Speaker 1: Because remember the core principle underlying this whole thing, action creates confidence, not the other way around, not the other way around. Confidence doesn't magically appear and then you act. You act, maybe imperfectly, maybe nervously, but within these controlled guardrails,
+
+[214:01] Speaker 0: using the risk box, the decision tree, the if then plans right, you use
+
+[215:13] Speaker 1: the tools to lower the barrier to that first action, and the result of that action and the learning from it, that's what builds real, stable confidence.
+
+[217:15] Speaker 0: So the final thought for everyone listening, where are you waiting right now? Waiting for confidence, waiting for permission, waiting for certainty that will never come. And
+
+[219:20] Speaker 1: what's the smallest possible risk box to action you could take today, not next week, but today. Just start the engine. Yeah.
+

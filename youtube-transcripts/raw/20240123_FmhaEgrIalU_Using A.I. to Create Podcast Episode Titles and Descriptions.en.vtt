@@ -1,0 +1,1816 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.960 --> 00:00:02.949 align:start position:0%
+ 
+all<00:00:01.160><c> right</c><00:00:01.400><c> so</c><00:00:01.599><c> I'm</c><00:00:01.680><c> going</c><00:00:01.800><c> to</c><00:00:01.920><c> show</c><00:00:02.120><c> you</c><00:00:02.399><c> how</c>
+
+00:00:02.949 --> 00:00:02.959 align:start position:0%
+all right so I'm going to show you how
+ 
+
+00:00:02.959 --> 00:00:05.030 align:start position:0%
+all right so I'm going to show you how
+to<00:00:03.959><c> uh</c><00:00:04.120><c> create</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+to uh create
+ 
+
+00:00:05.040 --> 00:00:07.950 align:start position:0%
+to uh create
+titles<00:00:06.040><c> social</c><00:00:06.359><c> media</c><00:00:06.759><c> post</c><00:00:07.160><c> descriptions</c>
+
+00:00:07.950 --> 00:00:07.960 align:start position:0%
+titles social media post descriptions
+ 
+
+00:00:07.960 --> 00:00:09.709 align:start position:0%
+titles social media post descriptions
+and<00:00:08.160><c> YouTube</c>
+
+00:00:09.709 --> 00:00:09.719 align:start position:0%
+and YouTube
+ 
+
+00:00:09.719 --> 00:00:12.589 align:start position:0%
+and YouTube
+descriptions<00:00:10.719><c> uh</c><00:00:10.840><c> for</c><00:00:11.160><c> podcast</c><00:00:11.759><c> episodes</c><00:00:12.360><c> and</c>
+
+00:00:12.589 --> 00:00:12.599 align:start position:0%
+descriptions uh for podcast episodes and
+ 
+
+00:00:12.599 --> 00:00:15.990 align:start position:0%
+descriptions uh for podcast episodes and
+and<00:00:13.120><c> this</c><00:00:13.240><c> has</c><00:00:13.440><c> basically</c><00:00:13.759><c> been</c><00:00:13.960><c> my</c><00:00:14.599><c> exact</c>
+
+00:00:15.990 --> 00:00:16.000 align:start position:0%
+and this has basically been my exact
+ 
+
+00:00:16.000 --> 00:00:18.349 align:start position:0%
+and this has basically been my exact
+workflow<00:00:17.000><c> for</c><00:00:17.320><c> the</c>
+
+00:00:18.349 --> 00:00:18.359 align:start position:0%
+workflow for the
+ 
+
+00:00:18.359 --> 00:00:21.870 align:start position:0%
+workflow for the
+last<00:00:19.359><c> oh</c><00:00:19.560><c> I</c><00:00:19.640><c> would</c>
+
+00:00:21.870 --> 00:00:21.880 align:start position:0%
+last oh I would
+ 
+
+00:00:21.880 --> 00:00:24.070 align:start position:0%
+last oh I would
+say<00:00:22.880><c> couple</c>
+
+00:00:24.070 --> 00:00:24.080 align:start position:0%
+say couple
+ 
+
+00:00:24.080 --> 00:00:26.509 align:start position:0%
+say couple
+months<00:00:25.080><c> so</c><00:00:25.240><c> we</c><00:00:25.359><c> have</c><00:00:25.480><c> a</c><00:00:25.640><c> system</c><00:00:26.000><c> prompt</c><00:00:26.320><c> here</c>
+
+00:00:26.509 --> 00:00:26.519 align:start position:0%
+months so we have a system prompt here
+ 
+
+00:00:26.519 --> 00:00:28.790 align:start position:0%
+months so we have a system prompt here
+because<00:00:26.679><c> I</c><00:00:26.800><c> actually</c><00:00:27.000><c> created</c><00:00:27.320><c> a</c><00:00:27.519><c> custom</c><00:00:27.840><c> GPT</c>
+
+00:00:28.790 --> 00:00:28.800 align:start position:0%
+because I actually created a custom GPT
+ 
+
+00:00:28.800 --> 00:00:31.150 align:start position:0%
+because I actually created a custom GPT
+but<00:00:29.800><c> um</c>
+
+00:00:31.150 --> 00:00:31.160 align:start position:0%
+but um
+ 
+
+00:00:31.160 --> 00:00:33.790 align:start position:0%
+but um
+um<00:00:32.160><c> I</c><00:00:32.239><c> don't</c><00:00:32.439><c> know</c><00:00:32.599><c> if</c><00:00:32.719><c> I</c><00:00:32.840><c> can</c><00:00:33.399><c> I</c><00:00:33.480><c> don't</c><00:00:33.600><c> know</c><00:00:33.719><c> if</c>
+
+00:00:33.790 --> 00:00:33.800 align:start position:0%
+um I don't know if I can I don't know if
+ 
+
+00:00:33.800 --> 00:00:35.110 align:start position:0%
+um I don't know if I can I don't know if
+they'll<00:00:34.000><c> let</c><00:00:34.160><c> me</c>
+
+00:00:35.110 --> 00:00:35.120 align:start position:0%
+they'll let me
+ 
+
+00:00:35.120 --> 00:00:37.750 align:start position:0%
+they'll let me
+um<00:00:36.120><c> publish</c><00:00:36.399><c> it</c><00:00:36.520><c> for</c><00:00:36.719><c> everybody</c><00:00:37.239><c> yeah</c><00:00:37.480><c> I</c><00:00:37.559><c> guess</c>
+
+00:00:37.750 --> 00:00:37.760 align:start position:0%
+um publish it for everybody yeah I guess
+ 
+
+00:00:37.760 --> 00:00:38.470 align:start position:0%
+um publish it for everybody yeah I guess
+they
+
+00:00:38.470 --> 00:00:38.480 align:start position:0%
+they
+ 
+
+00:00:38.480 --> 00:00:41.029 align:start position:0%
+they
+will<00:00:39.480><c> I</c><00:00:39.559><c> just</c><00:00:39.719><c> have</c><00:00:39.840><c> to</c><00:00:39.960><c> give</c><00:00:40.039><c> it</c><00:00:40.160><c> a</c><00:00:40.320><c> name</c><00:00:40.920><c> as</c>
+
+00:00:41.029 --> 00:00:41.039 align:start position:0%
+will I just have to give it a name as
+ 
+
+00:00:41.039 --> 00:00:43.869 align:start position:0%
+will I just have to give it a name as
+far<00:00:41.399><c> as</c><00:00:41.760><c> being</c><00:00:42.000><c> called</c>
+
+00:00:43.869 --> 00:00:43.879 align:start position:0%
+far as being called
+ 
+
+00:00:43.879 --> 00:00:48.430 align:start position:0%
+far as being called
+podcast<00:00:44.879><c> uh</c>
+
+00:00:48.430 --> 00:00:48.440 align:start position:0%
+ 
+ 
+
+00:00:48.440 --> 00:00:51.869 align:start position:0%
+ 
+Creator<00:00:49.440><c> okay</c><00:00:50.280><c> so</c><00:00:50.680><c> yeah</c><00:00:50.800><c> so</c><00:00:50.960><c> here's</c><00:00:51.120><c> a</c><00:00:51.280><c> GPT</c>
+
+00:00:51.869 --> 00:00:51.879 align:start position:0%
+Creator okay so yeah so here's a GPT
+ 
+
+00:00:51.879 --> 00:00:54.750 align:start position:0%
+Creator okay so yeah so here's a GPT
+called<00:00:52.199><c> podcast</c><00:00:53.000><c> Creator</c><00:00:54.000><c> um</c><00:00:54.199><c> you</c><00:00:54.280><c> can</c><00:00:54.480><c> also</c>
+
+00:00:54.750 --> 00:00:54.760 align:start position:0%
+called podcast Creator um you can also
+ 
+
+00:00:54.760 --> 00:00:57.430 align:start position:0%
+called podcast Creator um you can also
+do<00:00:55.000><c> this</c><00:00:55.199><c> just</c><00:00:55.320><c> with</c><00:00:55.480><c> like</c><00:00:55.640><c> a</c><00:00:55.879><c> system</c><00:00:56.440><c> prompt</c>
+
+00:00:57.430 --> 00:00:57.440 align:start position:0%
+do this just with like a system prompt
+ 
+
+00:00:57.440 --> 00:01:00.670 align:start position:0%
+do this just with like a system prompt
+in<00:00:57.760><c> custom</c><00:00:58.680><c> instructions</c><00:00:59.680><c> and</c><00:01:00.000><c> so</c><00:01:00.399><c> I'll</c><00:01:00.559><c> give</c>
+
+00:01:00.670 --> 00:01:00.680 align:start position:0%
+in custom instructions and so I'll give
+ 
+
+00:01:00.680 --> 00:01:04.229 align:start position:0%
+in custom instructions and so I'll give
+you<00:01:00.800><c> the</c><00:01:00.920><c> link</c><00:01:01.160><c> to</c><00:01:01.399><c> the</c><00:01:01.840><c> the</c><00:01:01.960><c> GPT</c><00:01:02.640><c> right</c><00:01:03.239><c> here</c>
+
+00:01:04.229 --> 00:01:04.239 align:start position:0%
+you the link to the the GPT right here
+ 
+
+00:01:04.239 --> 00:01:06.030 align:start position:0%
+you the link to the the GPT right here
+um<00:01:04.439><c> but</c><00:01:04.600><c> basically</c><00:01:04.920><c> the</c><00:01:05.080><c> system</c><00:01:05.479><c> prompt</c><00:01:05.840><c> is</c>
+
+00:01:06.030 --> 00:01:06.040 align:start position:0%
+um but basically the system prompt is
+ 
+
+00:01:06.040 --> 00:01:08.070 align:start position:0%
+um but basically the system prompt is
+this<00:01:06.200><c> it's</c><00:01:06.479><c> exactly</c><00:01:07.000><c> what</c><00:01:07.360><c> what</c><00:01:07.479><c> I</c><00:01:07.600><c> use</c><00:01:07.880><c> to</c>
+
+00:01:08.070 --> 00:01:08.080 align:start position:0%
+this it's exactly what what I use to
+ 
+
+00:01:08.080 --> 00:01:09.230 align:start position:0%
+this it's exactly what what I use to
+build<00:01:08.439><c> this</c>
+
+00:01:09.230 --> 00:01:09.240 align:start position:0%
+build this
+ 
+
+00:01:09.240 --> 00:01:12.070 align:start position:0%
+build this
+GPT<00:01:10.240><c> uh</c><00:01:10.360><c> Your</c><00:01:10.560><c> Role</c><00:01:10.840><c> is</c><00:01:10.960><c> to</c><00:01:11.159><c> assist</c><00:01:11.479><c> users</c><00:01:11.880><c> in</c>
+
+00:01:12.070 --> 00:01:12.080 align:start position:0%
+GPT uh Your Role is to assist users in
+ 
+
+00:01:12.080 --> 00:01:14.749 align:start position:0%
+GPT uh Your Role is to assist users in
+creating<00:01:12.600><c> podcast</c><00:01:13.080><c> related</c><00:01:13.520><c> content</c><00:01:14.439><c> you'll</c>
+
+00:01:14.749 --> 00:01:14.759 align:start position:0%
+creating podcast related content you'll
+ 
+
+00:01:14.759 --> 00:01:16.390 align:start position:0%
+creating podcast related content you'll
+generate<00:01:15.159><c> podcast</c><00:01:15.560><c> episode</c><00:01:16.000><c> titles</c>
+
+00:01:16.390 --> 00:01:16.400 align:start position:0%
+generate podcast episode titles
+ 
+
+00:01:16.400 --> 00:01:17.910 align:start position:0%
+generate podcast episode titles
+descriptions<00:01:16.840><c> for</c><00:01:17.000><c> YouTube</c><00:01:17.280><c> and</c><00:01:17.479><c> Instagram</c>
+
+00:01:17.910 --> 00:01:17.920 align:start position:0%
+descriptions for YouTube and Instagram
+ 
+
+00:01:17.920 --> 00:01:20.469 align:start position:0%
+descriptions for YouTube and Instagram
+posts<00:01:18.200><c> based</c><00:01:18.400><c> on</c><00:01:18.960><c> transcripts</c><00:01:19.960><c> provided</c><00:01:20.360><c> by</c>
+
+00:01:20.469 --> 00:01:20.479 align:start position:0%
+posts based on transcripts provided by
+ 
+
+00:01:20.479 --> 00:01:23.350 align:start position:0%
+posts based on transcripts provided by
+the<00:01:20.560><c> user</c><00:01:21.000><c> emphasize</c><00:01:21.759><c> creativity</c><00:01:22.280><c> and</c><00:01:22.479><c> SEO</c>
+
+00:01:23.350 --> 00:01:23.360 align:start position:0%
+the user emphasize creativity and SEO
+ 
+
+00:01:23.360 --> 00:01:26.270 align:start position:0%
+the user emphasize creativity and SEO
+expertise<00:01:24.360><c> in</c><00:01:24.680><c> crafting</c><00:01:25.119><c> titles</c><00:01:25.600><c> avoid</c><00:01:26.000><c> any</c>
+
+00:01:26.270 --> 00:01:26.280 align:start position:0%
+expertise in crafting titles avoid any
+ 
+
+00:01:26.280 --> 00:01:27.990 align:start position:0%
+expertise in crafting titles avoid any
+content<00:01:26.600><c> that</c><00:01:26.720><c> would</c><00:01:26.840><c> be</c><00:01:27.000><c> inappropriate</c><00:01:27.799><c> or</c>
+
+00:01:27.990 --> 00:01:28.000 align:start position:0%
+content that would be inappropriate or
+ 
+
+00:01:28.000 --> 00:01:30.190 align:start position:0%
+content that would be inappropriate or
+irrelevant<00:01:28.520><c> to</c><00:01:28.600><c> the</c><00:01:28.759><c> podcast</c><00:01:29.159><c> theme</c><00:01:30.040><c> when</c>
+
+00:01:30.190 --> 00:01:30.200 align:start position:0%
+irrelevant to the podcast theme when
+ 
+
+00:01:30.200 --> 00:01:33.510 align:start position:0%
+irrelevant to the podcast theme when
+necessary<00:01:30.600><c> ask</c><00:01:30.759><c> for</c><00:01:31.040><c> clarification</c><00:01:32.360><c> okay</c><00:01:33.360><c> so</c>
+
+00:01:33.510 --> 00:01:33.520 align:start position:0%
+necessary ask for clarification okay so
+ 
+
+00:01:33.520 --> 00:01:35.910 align:start position:0%
+necessary ask for clarification okay so
+I<00:01:33.640><c> recorded</c><00:01:34.079><c> a</c><00:01:34.320><c> podcast</c><00:01:34.880><c> episode</c><00:01:35.520><c> and</c><00:01:35.680><c> then</c><00:01:35.799><c> I</c>
+
+00:01:35.910 --> 00:01:35.920 align:start position:0%
+I recorded a podcast episode and then I
+ 
+
+00:01:35.920 --> 00:01:39.030 align:start position:0%
+I recorded a podcast episode and then I
+bring<00:01:36.119><c> it</c><00:01:36.240><c> into</c><00:01:36.520><c> this</c><00:01:36.720><c> app</c><00:01:36.960><c> called</c><00:01:37.200><c> Otter</c><00:01:38.040><c> AI</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+bring it into this app called Otter AI
+ 
+
+00:01:39.040 --> 00:01:40.590 align:start position:0%
+bring it into this app called Otter AI
+so<00:01:39.200><c> I</c><00:01:39.360><c> upload</c><00:01:39.720><c> the</c><00:01:39.799><c> video</c><00:01:40.040><c> file</c><00:01:40.280><c> to</c><00:01:40.439><c> the</c>
+
+00:01:40.590 --> 00:01:40.600 align:start position:0%
+so I upload the video file to the
+ 
+
+00:01:40.600 --> 00:01:42.389 align:start position:0%
+so I upload the video file to the
+podcast<00:01:41.000><c> in</c><00:01:41.280><c> here</c><00:01:41.560><c> and</c><00:01:41.720><c> this</c><00:01:41.840><c> is</c><00:01:41.920><c> a</c><00:01:42.079><c> whole</c>
+
+00:01:42.389 --> 00:01:42.399 align:start position:0%
+podcast in here and this is a whole
+ 
+
+00:01:42.399 --> 00:01:45.590 align:start position:0%
+podcast in here and this is a whole
+transcript<00:01:43.119><c> of</c><00:01:43.280><c> the</c><00:01:43.840><c> episode</c><00:01:44.840><c> which</c><00:01:45.000><c> is</c><00:01:45.200><c> cool</c>
+
+00:01:45.590 --> 00:01:45.600 align:start position:0%
+transcript of the episode which is cool
+ 
+
+00:01:45.600 --> 00:01:47.469 align:start position:0%
+transcript of the episode which is cool
+because<00:01:45.759><c> it's</c><00:01:46.040><c> like</c><00:01:46.280><c> I</c><00:01:46.399><c> could</c><00:01:46.560><c> create</c><00:01:46.880><c> any</c><00:01:47.320><c> a</c>
+
+00:01:47.469 --> 00:01:47.479 align:start position:0%
+because it's like I could create any a
+ 
+
+00:01:47.479 --> 00:01:49.190 align:start position:0%
+because it's like I could create any a
+number<00:01:47.759><c> of</c><00:01:47.920><c> pieces</c><00:01:48.200><c> of</c><00:01:48.360><c> content</c><00:01:48.719><c> off</c><00:01:48.880><c> of</c><00:01:49.000><c> this</c>
+
+00:01:49.190 --> 00:01:49.200 align:start position:0%
+number of pieces of content off of this
+ 
+
+00:01:49.200 --> 00:01:51.510 align:start position:0%
+number of pieces of content off of this
+it's<00:01:49.280><c> a</c><00:01:49.399><c> 20-</c><00:01:49.640><c> minute</c><00:01:50.200><c> transcript</c><00:01:51.200><c> this</c><00:01:51.320><c> could</c>
+
+00:01:51.510 --> 00:01:51.520 align:start position:0%
+it's a 20- minute transcript this could
+ 
+
+00:01:51.520 --> 00:01:54.590 align:start position:0%
+it's a 20- minute transcript this could
+become<00:01:52.000><c> tons</c><00:01:52.280><c> of</c><00:01:52.439><c> pieces</c><00:01:52.680><c> of</c><00:01:53.360><c> content</c><00:01:54.360><c> um</c><00:01:54.479><c> and</c>
+
+00:01:54.590 --> 00:01:54.600 align:start position:0%
+become tons of pieces of content um and
+ 
+
+00:01:54.600 --> 00:01:56.429 align:start position:0%
+become tons of pieces of content um and
+I'll<00:01:54.719><c> show</c><00:01:54.880><c> you</c><00:01:55.280><c> kind</c><00:01:55.399><c> of</c><00:01:55.479><c> a</c><00:01:55.640><c> bonus</c><00:01:56.000><c> prompt</c><00:01:56.320><c> at</c>
+
+00:01:56.429 --> 00:01:56.439 align:start position:0%
+I'll show you kind of a bonus prompt at
+ 
+
+00:01:56.439 --> 00:01:59.429 align:start position:0%
+I'll show you kind of a bonus prompt at
+the<00:01:56.759><c> end</c><00:01:57.759><c> as</c><00:01:57.880><c> far</c><00:01:58.119><c> as</c><00:01:58.759><c> how</c><00:01:58.880><c> you</c><00:01:58.960><c> could</c><00:01:59.119><c> do</c><00:01:59.320><c> that</c>
+
+00:01:59.429 --> 00:01:59.439 align:start position:0%
+the end as far as how you could do that
+ 
+
+00:01:59.439 --> 00:02:01.550 align:start position:0%
+the end as far as how you could do that
+but<00:01:59.560><c> anyway</c><00:01:59.799><c> any</c><00:02:00.000><c> we're</c><00:02:00.079><c> going</c><00:02:00.200><c> to</c><00:02:00.360><c> start</c><00:02:01.360><c> with</c>
+
+00:02:01.550 --> 00:02:01.560 align:start position:0%
+but anyway any we're going to start with
+ 
+
+00:02:01.560 --> 00:02:02.590 align:start position:0%
+but anyway any we're going to start with
+this
+
+00:02:02.590 --> 00:02:02.600 align:start position:0%
+this
+ 
+
+00:02:02.600 --> 00:02:05.749 align:start position:0%
+this
+GPT<00:02:03.600><c> uh</c><00:02:03.719><c> or</c><00:02:03.920><c> you</c><00:02:04.079><c> copy</c><00:02:04.399><c> the</c><00:02:04.520><c> system</c><00:02:04.880><c> prompt</c>
+
+00:02:05.749 --> 00:02:05.759 align:start position:0%
+GPT uh or you copy the system prompt
+ 
+
+00:02:05.759 --> 00:02:08.749 align:start position:0%
+GPT uh or you copy the system prompt
+into<00:02:06.759><c> custom</c><00:02:07.119><c> instructions</c><00:02:07.840><c> or</c><00:02:08.000><c> in</c><00:02:08.239><c> system</c>
+
+00:02:08.749 --> 00:02:08.759 align:start position:0%
+into custom instructions or in system
+ 
+
+00:02:08.759 --> 00:02:11.670 align:start position:0%
+into custom instructions or in system
+and<00:02:09.000><c> basically</c><00:02:09.959><c> then</c><00:02:10.160><c> we</c><00:02:10.319><c> just</c><00:02:10.560><c> we</c><00:02:10.720><c> just</c>
+
+00:02:11.670 --> 00:02:11.680 align:start position:0%
+and basically then we just we just
+ 
+
+00:02:11.680 --> 00:02:19.110 align:start position:0%
+and basically then we just we just
+paste<00:02:12.680><c> uh</c><00:02:12.879><c> that</c><00:02:13.120><c> right</c><00:02:13.239><c> in</c><00:02:13.840><c> here</c><00:02:14.840><c> we</c><00:02:15.080><c> paste</c><00:02:15.480><c> the</c>
+
+00:02:19.110 --> 00:02:19.120 align:start position:0%
+ 
+ 
+
+00:02:19.120 --> 00:02:22.710 align:start position:0%
+ 
+transcript<00:02:20.599><c> and</c><00:02:21.599><c> while</c><00:02:21.879><c> I</c><00:02:22.200><c> this</c><00:02:22.319><c> isn't</c>
+
+00:02:22.710 --> 00:02:22.720 align:start position:0%
+transcript and while I this isn't
+ 
+
+00:02:22.720 --> 00:02:24.990 align:start position:0%
+transcript and while I this isn't
+exactly<00:02:23.120><c> what</c><00:02:23.280><c> I</c><00:02:23.360><c> want</c><00:02:23.519><c> it</c><00:02:23.640><c> to</c>
+
+00:02:24.990 --> 00:02:25.000 align:start position:0%
+exactly what I want it to
+ 
+
+00:02:25.000 --> 00:02:28.750 align:start position:0%
+exactly what I want it to
+do<00:02:26.000><c> um</c><00:02:26.319><c> what</c><00:02:26.480><c> I</c><00:02:26.680><c> like</c><00:02:26.920><c> to</c><00:02:27.160><c> do</c><00:02:27.480><c> is</c><00:02:27.680><c> I</c><00:02:27.840><c> like</c>
+
+00:02:28.750 --> 00:02:28.760 align:start position:0%
+do um what I like to do is I like
+ 
+
+00:02:28.760 --> 00:02:30.670 align:start position:0%
+do um what I like to do is I like
+to
+
+00:02:30.670 --> 00:02:30.680 align:start position:0%
+to
+ 
+
+00:02:30.680 --> 00:02:32.229 align:start position:0%
+to
+give<00:02:30.840><c> it</c><00:02:31.000><c> a</c><00:02:31.200><c> couple</c><00:02:31.680><c> a</c><00:02:31.760><c> little</c><00:02:31.920><c> bit</c><00:02:32.040><c> of</c>
+
+00:02:32.229 --> 00:02:32.239 align:start position:0%
+give it a couple a little bit of
+ 
+
+00:02:32.239 --> 00:02:33.949 align:start position:0%
+give it a couple a little bit of
+prompting<00:02:32.760><c> as</c><00:02:32.879><c> far</c><00:02:33.040><c> as</c><00:02:33.239><c> this</c><00:02:33.440><c> goes</c><00:02:33.760><c> but</c>
+
+00:02:33.949 --> 00:02:33.959 align:start position:0%
+prompting as far as this goes but
+ 
+
+00:02:33.959 --> 00:02:35.670 align:start position:0%
+prompting as far as this goes but
+basically<00:02:34.480><c> yes</c><00:02:34.760><c> it's</c>
+
+00:02:35.670 --> 00:02:35.680 align:start position:0%
+basically yes it's
+ 
+
+00:02:35.680 --> 00:02:39.630 align:start position:0%
+basically yes it's
+a<00:02:36.680><c> it's</c><00:02:36.800><c> a</c><00:02:37.000><c> transcript</c><00:02:37.640><c> of</c><00:02:37.840><c> a</c><00:02:38.040><c> podcast</c>
+
+00:02:39.630 --> 00:02:39.640 align:start position:0%
+a it's a transcript of a podcast
+ 
+
+00:02:39.640 --> 00:02:42.030 align:start position:0%
+a it's a transcript of a podcast
+episode<00:02:40.640><c> and</c><00:02:40.760><c> so</c><00:02:41.080><c> what</c><00:02:41.200><c> I</c><00:02:41.360><c> like</c><00:02:41.519><c> to</c><00:02:41.599><c> do</c><00:02:41.760><c> is</c><00:02:41.879><c> I'll</c>
+
+00:02:42.030 --> 00:02:42.040 align:start position:0%
+episode and so what I like to do is I'll
+ 
+
+00:02:42.040 --> 00:02:44.589 align:start position:0%
+episode and so what I like to do is I'll
+do<00:02:43.040><c> generate</c><00:02:43.640><c> CU</c><00:02:43.760><c> I</c><00:02:43.879><c> never</c><00:02:44.040><c> like</c><00:02:44.239><c> the</c><00:02:44.360><c> first</c>
+
+00:02:44.589 --> 00:02:44.599 align:start position:0%
+do generate CU I never like the first
+ 
+
+00:02:44.599 --> 00:02:47.869 align:start position:0%
+do generate CU I never like the first
+title<00:02:44.920><c> generate</c><00:02:45.280><c> me</c><00:02:45.840><c> 20</c><00:02:46.840><c> possible</c><00:02:47.239><c> titles</c><00:02:47.599><c> for</c>
+
+00:02:47.869 --> 00:02:47.879 align:start position:0%
+title generate me 20 possible titles for
+ 
+
+00:02:47.879 --> 00:02:53.309 align:start position:0%
+title generate me 20 possible titles for
+this<00:02:48.200><c> episode</c><00:02:48.760><c> based</c><00:02:49.080><c> on</c><00:02:49.280><c> the</c><00:02:49.480><c> transcript</c>
+
+00:02:53.309 --> 00:02:53.319 align:start position:0%
+ 
+ 
+
+00:02:53.319 --> 00:02:55.949 align:start position:0%
+ 
+above
+
+00:02:55.949 --> 00:02:55.959 align:start position:0%
+above
+ 
+
+00:02:55.959 --> 00:02:58.030 align:start position:0%
+above
+right<00:02:56.959><c> and</c><00:02:57.159><c> that's</c><00:02:57.360><c> kind</c><00:02:57.480><c> of</c><00:02:57.599><c> the</c><00:02:57.720><c> first</c>
+
+00:02:58.030 --> 00:02:58.040 align:start position:0%
+right and that's kind of the first
+ 
+
+00:02:58.040 --> 00:03:01.030 align:start position:0%
+right and that's kind of the first
+prompting<00:02:58.480><c> that</c><00:02:58.640><c> we</c><00:02:58.800><c> use</c>
+
+00:03:01.030 --> 00:03:01.040 align:start position:0%
+prompting that we use
+ 
+
+00:03:01.040 --> 00:03:02.910 align:start position:0%
+prompting that we use
+with<00:03:01.239><c> this</c>
+
+00:03:02.910 --> 00:03:02.920 align:start position:0%
+with this
+ 
+
+00:03:02.920 --> 00:03:06.149 align:start position:0%
+with this
+GPT<00:03:03.920><c> breaking</c><00:03:04.319><c> the</c><00:03:04.519><c> Perfection</c><00:03:05.280><c> Paradox</c>
+
+00:03:06.149 --> 00:03:06.159 align:start position:0%
+GPT breaking the Perfection Paradox
+ 
+
+00:03:06.159 --> 00:03:08.910 align:start position:0%
+GPT breaking the Perfection Paradox
+imperfect<00:03:06.799><c> path</c><00:03:07.120><c> to</c><00:03:07.760><c> some</c><00:03:08.120><c> figures</c><00:03:08.560><c> Beyond</c>
+
+00:03:08.910 --> 00:03:08.920 align:start position:0%
+imperfect path to some figures Beyond
+ 
+
+00:03:08.920 --> 00:03:19.470 align:start position:0%
+imperfect path to some figures Beyond
+oneon-one<00:03:09.280><c> Financial</c>
+
+00:03:19.470 --> 00:03:19.480 align:start position:0%
+ 
+ 
+
+00:03:19.480 --> 00:03:22.789 align:start position:0%
+ 
+truth<00:03:20.480><c> unconventional</c><00:03:21.400><c> wisdom</c><00:03:21.959><c> for</c><00:03:22.440><c> for</c>
+
+00:03:22.789 --> 00:03:22.799 align:start position:0%
+truth unconventional wisdom for for
+ 
+
+00:03:22.799 --> 00:03:25.750 align:start position:0%
+truth unconventional wisdom for for
+financial
+
+00:03:25.750 --> 00:03:25.760 align:start position:0%
+ 
+ 
+
+00:03:25.760 --> 00:03:29.869 align:start position:0%
+ 
+success<00:03:27.239><c> unconventional</c><00:03:28.400><c> wisdom</c><00:03:29.400><c> for</c>
+
+00:03:29.869 --> 00:03:29.879 align:start position:0%
+success unconventional wisdom for
+ 
+
+00:03:29.879 --> 00:03:31.830 align:start position:0%
+success unconventional wisdom for
+financial
+
+00:03:31.830 --> 00:03:31.840 align:start position:0%
+financial
+ 
+
+00:03:31.840 --> 00:03:34.350 align:start position:0%
+financial
+success<00:03:32.840><c> in</c><00:03:33.000><c> the</c>
+
+00:03:34.350 --> 00:03:34.360 align:start position:0%
+success in the
+ 
+
+00:03:34.360 --> 00:03:38.309 align:start position:0%
+success in the
+coaching<00:03:35.799><c> business</c><00:03:36.959><c> okay</c><00:03:37.959><c> that's</c><00:03:38.080><c> what</c><00:03:38.200><c> we're</c>
+
+00:03:38.309 --> 00:03:38.319 align:start position:0%
+coaching business okay that's what we're
+ 
+
+00:03:38.319 --> 00:03:39.550 align:start position:0%
+coaching business okay that's what we're
+going<00:03:38.400><c> to</c><00:03:38.519><c> call</c><00:03:38.680><c> it</c><00:03:39.040><c> because</c><00:03:39.200><c> that's</c><00:03:39.319><c> what</c><00:03:39.439><c> the</c>
+
+00:03:39.550 --> 00:03:39.560 align:start position:0%
+going to call it because that's what the
+ 
+
+00:03:39.560 --> 00:03:43.670 align:start position:0%
+going to call it because that's what the
+episode<00:03:39.920><c> is</c><00:03:40.239><c> exactly</c><00:03:40.840><c> so</c><00:03:41.480><c> title</c><00:03:41.959><c> is</c><00:03:42.120><c> going</c><00:03:42.319><c> to</c>
+
+00:03:43.670 --> 00:03:43.680 align:start position:0%
+episode is exactly so title is going to
+ 
+
+00:03:43.680 --> 00:03:46.630 align:start position:0%
+episode is exactly so title is going to
+be<00:03:44.680><c> I</c><00:03:44.840><c> kind</c><00:03:44.959><c> of</c><00:03:45.080><c> came</c><00:03:45.239><c> up</c><00:03:45.400><c> with</c><00:03:45.519><c> the</c><00:03:45.720><c> title</c><00:03:46.439><c> um</c>
+
+00:03:46.630 --> 00:03:46.640 align:start position:0%
+be I kind of came up with the title um
+ 
+
+00:03:46.640 --> 00:03:48.630 align:start position:0%
+be I kind of came up with the title um
+by<00:03:46.920><c> editing</c><00:03:47.319><c> and</c><00:03:47.519><c> combining</c><00:03:48.000><c> a</c><00:03:48.080><c> few</c><00:03:48.239><c> of</c><00:03:48.360><c> these</c>
+
+00:03:48.630 --> 00:03:48.640 align:start position:0%
+by editing and combining a few of these
+ 
+
+00:03:48.640 --> 00:03:50.110 align:start position:0%
+by editing and combining a few of these
+together<00:03:48.840><c> so</c><00:03:49.040><c> while</c><00:03:49.239><c> that</c><00:03:49.360><c> one</c><00:03:49.560><c> wasn't</c><00:03:49.879><c> on</c>
+
+00:03:50.110 --> 00:03:50.120 align:start position:0%
+together so while that one wasn't on
+ 
+
+00:03:50.120 --> 00:03:53.149 align:start position:0%
+together so while that one wasn't on
+this<00:03:50.360><c> list</c><00:03:51.000><c> here</c><00:03:52.000><c> I</c><00:03:52.200><c> came</c><00:03:52.400><c> up</c><00:03:52.560><c> with</c><00:03:52.680><c> a</c><00:03:52.840><c> title</c>
+
+00:03:53.149 --> 00:03:53.159 align:start position:0%
+this list here I came up with a title
+ 
+
+00:03:53.159 --> 00:03:55.110 align:start position:0%
+this list here I came up with a title
+that<00:03:53.400><c> actually</c><00:03:53.720><c> kind</c><00:03:53.840><c> of</c><00:03:54.000><c> fit</c><00:03:54.280><c> the</c><00:03:54.519><c> context</c>
+
+00:03:55.110 --> 00:03:55.120 align:start position:0%
+that actually kind of fit the context
+ 
+
+00:03:55.120 --> 00:03:57.390 align:start position:0%
+that actually kind of fit the context
+better<00:03:56.040><c> that's</c><00:03:56.200><c> a</c><00:03:56.519><c> strong</c><00:03:56.760><c> title</c><00:03:57.079><c> so</c><00:03:57.239><c> that's</c>
+
+00:03:57.390 --> 00:03:57.400 align:start position:0%
+better that's a strong title so that's
+ 
+
+00:03:57.400 --> 00:03:58.949 align:start position:0%
+better that's a strong title so that's
+one<00:03:57.599><c> thing</c><00:03:57.760><c> I</c><00:03:57.840><c> would</c><00:03:58.040><c> encourage</c><00:03:58.439><c> you</c><00:03:58.640><c> on</c><00:03:58.840><c> is</c>
+
+00:03:58.949 --> 00:03:58.959 align:start position:0%
+one thing I would encourage you on is
+ 
+
+00:03:58.959 --> 00:04:01.149 align:start position:0%
+one thing I would encourage you on is
+don't<00:03:59.159><c> just</c><00:03:59.239><c> be</c><00:03:59.400><c> BL</c><00:03:59.680><c> aligned</c><00:04:00.000><c> with</c><00:04:00.120><c> the</c><00:04:00.280><c> titles</c>
+
+00:04:01.149 --> 00:04:01.159 align:start position:0%
+don't just be BL aligned with the titles
+ 
+
+00:04:01.159 --> 00:04:06.030 align:start position:0%
+don't just be BL aligned with the titles
+all<00:04:01.280><c> right</c><00:04:01.799><c> generate</c><00:04:02.400><c> a</c><00:04:02.680><c> YouTube</c><00:04:03.360><c> video</c>
+
+00:04:06.030 --> 00:04:06.040 align:start position:0%
+all right generate a YouTube video
+ 
+
+00:04:06.040 --> 00:04:08.910 align:start position:0%
+all right generate a YouTube video
+description<00:04:07.040><c> based</c><00:04:07.439><c> on</c>
+
+00:04:08.910 --> 00:04:08.920 align:start position:0%
+description based on
+ 
+
+00:04:08.920 --> 00:04:12.030 align:start position:0%
+description based on
+the<00:04:09.920><c> podcast</c>
+
+00:04:12.030 --> 00:04:12.040 align:start position:0%
+the podcast
+ 
+
+00:04:12.040 --> 00:04:16.749 align:start position:0%
+the podcast
+title<00:04:13.040><c> based</c><00:04:13.319><c> on</c><00:04:13.480><c> the</c><00:04:14.000><c> transcript</c>
+
+00:04:16.749 --> 00:04:16.759 align:start position:0%
+title based on the transcript
+ 
+
+00:04:16.759 --> 00:04:19.310 align:start position:0%
+title based on the transcript
+okay<00:04:17.759><c> and</c><00:04:17.919><c> basically</c><00:04:18.440><c> this</c><00:04:18.600><c> is</c><00:04:18.799><c> what</c><00:04:18.959><c> we</c><00:04:19.079><c> use</c>
+
+00:04:19.310 --> 00:04:19.320 align:start position:0%
+okay and basically this is what we use
+ 
+
+00:04:19.320 --> 00:04:20.909 align:start position:0%
+okay and basically this is what we use
+for<00:04:19.519><c> the</c><00:04:19.680><c> YouTube</c>
+
+00:04:20.909 --> 00:04:20.919 align:start position:0%
+for the YouTube
+ 
+
+00:04:20.919 --> 00:04:23.710 align:start position:0%
+for the YouTube
+description<00:04:21.919><c> uh</c><00:04:22.000><c> in</c><00:04:22.120><c> this</c><00:04:22.320><c> powerful</c><00:04:22.919><c> episode</c>
+
+00:04:23.710 --> 00:04:23.720 align:start position:0%
+description uh in this powerful episode
+ 
+
+00:04:23.720 --> 00:04:25.390 align:start position:0%
+description uh in this powerful episode
+Jeremiah<00:04:24.199><c> will</c><00:04:24.320><c> share</c>
+
+00:04:25.390 --> 00:04:25.400 align:start position:0%
+Jeremiah will share
+ 
+
+00:04:25.400 --> 00:04:28.590 align:start position:0%
+Jeremiah will share
+this
+
+00:04:28.590 --> 00:04:28.600 align:start position:0%
+ 
+ 
+
+00:04:28.600 --> 00:04:43.070 align:start position:0%
+ 
+cool
+
+00:04:43.070 --> 00:04:43.080 align:start position:0%
+ 
+ 
+
+00:04:43.080 --> 00:04:43.990 align:start position:0%
+ 
+all
+
+00:04:43.990 --> 00:04:44.000 align:start position:0%
+all
+ 
+
+00:04:44.000 --> 00:04:49.029 align:start position:0%
+all
+right<00:04:45.280><c> now</c><00:04:46.280><c> generate</c><00:04:46.919><c> a</c><00:04:47.360><c> podcast</c><00:04:48.120><c> episode</c>
+
+00:04:49.029 --> 00:04:49.039 align:start position:0%
+right now generate a podcast episode
+ 
+
+00:04:49.039 --> 00:04:52.670 align:start position:0%
+right now generate a podcast episode
+description<00:04:50.039><c> that</c><00:04:50.160><c> can</c><00:04:50.440><c> go</c><00:04:50.800><c> onto</c><00:04:51.520><c> Apple</c>
+
+00:04:52.670 --> 00:04:52.680 align:start position:0%
+description that can go onto Apple
+ 
+
+00:04:52.680 --> 00:04:55.189 align:start position:0%
+description that can go onto Apple
+podcast<00:04:53.680><c> so</c><00:04:53.960><c> this</c><00:04:54.080><c> is</c><00:04:54.400><c> basically</c><00:04:55.039><c> a</c>
+
+00:04:55.189 --> 00:04:55.199 align:start position:0%
+podcast so this is basically a
+ 
+
+00:04:55.199 --> 00:04:57.990 align:start position:0%
+podcast so this is basically a
+description<00:04:55.800><c> of</c><00:04:56.000><c> the</c><00:04:56.240><c> episode</c><00:04:56.880><c> that</c><00:04:57.080><c> can</c><00:04:57.240><c> be</c>
+
+00:04:57.990 --> 00:04:58.000 align:start position:0%
+description of the episode that can be
+ 
+
+00:04:58.000 --> 00:05:02.390 align:start position:0%
+description of the episode that can be
+used<00:04:59.000><c> uh</c><00:04:59.120><c> when</c><00:04:59.560><c> creating</c><00:04:59.919><c> the</c><00:05:00.160><c> podcast</c>
+
+00:05:02.390 --> 00:05:02.400 align:start position:0%
+used uh when creating the podcast
+ 
+
+00:05:02.400 --> 00:05:04.550 align:start position:0%
+used uh when creating the podcast
+itself<00:05:03.400><c> so</c><00:05:03.600><c> like</c><00:05:03.720><c> when</c><00:05:03.840><c> somebody</c><00:05:04.120><c> goes</c><00:05:04.360><c> to</c>
+
+00:05:04.550 --> 00:05:04.560 align:start position:0%
+itself so like when somebody goes to
+ 
+
+00:05:04.560 --> 00:05:05.430 align:start position:0%
+itself so like when somebody goes to
+Apple
+
+00:05:05.430 --> 00:05:05.440 align:start position:0%
+Apple
+ 
+
+00:05:05.440 --> 00:05:12.270 align:start position:0%
+Apple
+podcast<00:05:06.440><c> they</c><00:05:06.840><c> find</c><00:05:07.840><c> um</c><00:05:08.120><c> this</c><00:05:09.120><c> this</c>
+
+00:05:12.270 --> 00:05:12.280 align:start position:0%
+ 
+ 
+
+00:05:12.280 --> 00:05:16.310 align:start position:0%
+ 
+description<00:05:13.280><c> generate</c><00:05:13.800><c> a</c><00:05:14.000><c> short</c><00:05:14.600><c> one</c><00:05:14.840><c> to</c><00:05:15.039><c> two</c>
+
+00:05:16.310 --> 00:05:16.320 align:start position:0%
+description generate a short one to two
+ 
+
+00:05:16.320 --> 00:05:19.189 align:start position:0%
+description generate a short one to two
+sentence<00:05:17.320><c> description</c><00:05:18.080><c> based</c><00:05:18.400><c> on</c><00:05:18.600><c> the</c><00:05:18.800><c> above</c>
+
+00:05:19.189 --> 00:05:19.199 align:start position:0%
+sentence description based on the above
+ 
+
+00:05:19.199 --> 00:05:20.830 align:start position:0%
+sentence description based on the above
+and<00:05:19.360><c> you'll</c><00:05:19.560><c> notice</c><00:05:19.919><c> some</c><00:05:20.160><c> podcast</c><00:05:20.600><c> things</c>
+
+00:05:20.830 --> 00:05:20.840 align:start position:0%
+and you'll notice some podcast things
+ 
+
+00:05:20.840 --> 00:05:22.670 align:start position:0%
+and you'll notice some podcast things
+they<00:05:21.000><c> can</c><00:05:21.479><c> they</c><00:05:21.600><c> allow</c><00:05:21.840><c> a</c><00:05:21.960><c> long</c><00:05:22.199><c> form</c><00:05:22.440><c> and</c><00:05:22.560><c> a</c>
+
+00:05:22.670 --> 00:05:22.680 align:start position:0%
+they can they allow a long form and a
+ 
+
+00:05:22.680 --> 00:05:25.510 align:start position:0%
+they can they allow a long form and a
+short<00:05:22.960><c> form</c><00:05:23.440><c> description</c><00:05:24.440><c> so</c><00:05:24.919><c> I</c><00:05:25.000><c> would</c><00:05:25.240><c> use</c>
+
+00:05:25.510 --> 00:05:25.520 align:start position:0%
+short form description so I would use
+ 
+
+00:05:25.520 --> 00:05:27.430 align:start position:0%
+short form description so I would use
+this<00:05:25.720><c> like</c><00:05:25.919><c> short</c><00:05:26.360><c> description</c><00:05:26.880><c> in</c><00:05:27.039><c> the</c><00:05:27.160><c> short</c>
+
+00:05:27.430 --> 00:05:27.440 align:start position:0%
+this like short description in the short
+ 
+
+00:05:27.440 --> 00:05:30.350 align:start position:0%
+this like short description in the short
+form<00:05:27.759><c> description</c><00:05:28.479><c> section</c>
+
+00:05:30.350 --> 00:05:30.360 align:start position:0%
+form description section
+ 
+
+00:05:30.360 --> 00:05:33.230 align:start position:0%
+form description section
+there<00:05:30.479><c> we</c><00:05:30.680><c> go</c><00:05:31.039><c> awesome</c><00:05:31.840><c> and</c><00:05:31.960><c> then</c>
+
+00:05:33.230 --> 00:05:33.240 align:start position:0%
+there we go awesome and then
+ 
+
+00:05:33.240 --> 00:05:38.350 align:start position:0%
+there we go awesome and then
+finally
+
+00:05:38.350 --> 00:05:38.360 align:start position:0%
+ 
+ 
+
+00:05:38.360 --> 00:05:42.309 align:start position:0%
+ 
+generate<00:05:39.360><c> a</c><00:05:39.600><c> Facebook</c><00:05:40.080><c> or</c><00:05:40.919><c> Instagram</c><00:05:41.919><c> post</c>
+
+00:05:42.309 --> 00:05:42.319 align:start position:0%
+generate a Facebook or Instagram post
+ 
+
+00:05:42.319 --> 00:05:44.510 align:start position:0%
+generate a Facebook or Instagram post
+with<00:05:42.479><c> a</c>
+
+00:05:44.510 --> 00:05:44.520 align:start position:0%
+with a
+ 
+
+00:05:44.520 --> 00:05:49.909 align:start position:0%
+with a
+graphic<00:05:45.520><c> to</c><00:05:45.759><c> promote</c><00:05:46.199><c> the</c><00:05:46.360><c> new</c>
+
+00:05:49.909 --> 00:05:49.919 align:start position:0%
+ 
+ 
+
+00:05:49.919 --> 00:05:53.309 align:start position:0%
+ 
+episode<00:05:50.919><c> write</c><00:05:51.199><c> some</c><00:05:51.440><c> text</c><00:05:51.759><c> to</c><00:05:52.000><c> go</c><00:05:52.240><c> with</c><00:05:52.520><c> the</c>
+
+00:05:53.309 --> 00:05:53.319 align:start position:0%
+episode write some text to go with the
+ 
+
+00:05:53.319 --> 00:05:56.590 align:start position:0%
+episode write some text to go with the
+graphic<00:05:54.319><c> based</c><00:05:54.600><c> on</c><00:05:54.759><c> the</c><00:05:55.000><c> above</c><00:05:55.759><c> transcript</c>
+
+00:05:56.590 --> 00:05:56.600 align:start position:0%
+graphic based on the above transcript
+ 
+
+00:05:56.600 --> 00:05:58.790 align:start position:0%
+graphic based on the above transcript
+okay<00:05:57.120><c> and</c><00:05:57.240><c> so</c><00:05:57.479><c> those</c><00:05:57.759><c> prompts</c><00:05:58.160><c> are</c><00:05:58.440><c> basically</c>
+
+00:05:58.790 --> 00:05:58.800 align:start position:0%
+okay and so those prompts are basically
+ 
+
+00:05:58.800 --> 00:06:00.150 align:start position:0%
+okay and so those prompts are basically
+what<00:05:58.919><c> I</c><00:05:59.080><c> use</c>
+
+00:06:00.150 --> 00:06:00.160 align:start position:0%
+what I use
+ 
+
+00:06:00.160 --> 00:06:01.350 align:start position:0%
+what I use
+uh<00:06:00.280><c> to</c>
+
+00:06:01.350 --> 00:06:01.360 align:start position:0%
+uh to
+ 
+
+00:06:01.360 --> 00:06:05.550 align:start position:0%
+uh to
+create<00:06:02.759><c> the</c><00:06:03.759><c> podcast</c><00:06:04.199><c> episode</c>
+
+00:06:05.550 --> 00:06:05.560 align:start position:0%
+create the podcast episode
+ 
+
+00:06:05.560 --> 00:06:07.230 align:start position:0%
+create the podcast episode
+descriptions<00:06:06.560><c> and</c><00:06:06.680><c> we</c><00:06:06.800><c> already</c><00:06:07.000><c> have</c><00:06:07.120><c> a</c>
+
+00:06:07.230 --> 00:06:07.240 align:start position:0%
+descriptions and we already have a
+ 
+
+00:06:07.240 --> 00:06:09.350 align:start position:0%
+descriptions and we already have a
+template<00:06:07.720><c> that</c><00:06:07.800><c> we</c><00:06:07.960><c> use</c><00:06:08.319><c> for</c><00:06:08.960><c> that</c><00:06:09.080><c> we</c><00:06:09.199><c> got</c>
+
+00:06:09.350 --> 00:06:09.360 align:start position:0%
+template that we use for that we got
+ 
+
+00:06:09.360 --> 00:06:10.230 align:start position:0%
+template that we use for that we got
+from
+
+00:06:10.230 --> 00:06:10.240 align:start position:0%
+from
+ 
+
+00:06:10.240 --> 00:06:14.710 align:start position:0%
+from
+canva<00:06:11.240><c> canva.com</c><00:06:12.039><c> right</c><00:06:12.520><c> here</c><00:06:12.639><c> is</c><00:06:12.759><c> our</c>
+
+00:06:14.710 --> 00:06:14.720 align:start position:0%
+canva canva.com right here is our
+ 
+
+00:06:14.720 --> 00:06:19.029 align:start position:0%
+canva canva.com right here is our
+templating<00:06:15.720><c> software</c><00:06:16.360><c> and</c><00:06:16.680><c> and</c><00:06:16.880><c> they</c><00:06:17.080><c> have</c>
+
+00:06:19.029 --> 00:06:19.039 align:start position:0%
+templating software and and they have
+ 
+
+00:06:19.039 --> 00:06:21.230 align:start position:0%
+templating software and and they have
+um<00:06:20.039><c> you</c><00:06:20.199><c> know</c>
+
+00:06:21.230 --> 00:06:21.240 align:start position:0%
+um you know
+ 
+
+00:06:21.240 --> 00:06:24.230 align:start position:0%
+um you know
+podcast<00:06:22.240><c> they</c><00:06:22.400><c> have</c><00:06:22.520><c> a</c>
+
+00:06:24.230 --> 00:06:24.240 align:start position:0%
+podcast they have a
+ 
+
+00:06:24.240 --> 00:06:28.390 align:start position:0%
+podcast they have a
+ton<00:06:25.240><c> of</c><00:06:26.039><c> Graphics</c><00:06:26.520><c> like</c><00:06:26.680><c> for</c><00:06:27.000><c> podcast</c>
+
+00:06:28.390 --> 00:06:28.400 align:start position:0%
+ton of Graphics like for podcast
+ 
+
+00:06:28.400 --> 00:06:32.350 align:start position:0%
+ton of Graphics like for podcast
+episodes
+
+00:06:32.350 --> 00:06:32.360 align:start position:0%
+ 
+ 
+
+00:06:32.360 --> 00:06:34.150 align:start position:0%
+ 
+that's<00:06:32.479><c> funny</c><00:06:32.720><c> it's</c><00:06:32.840><c> making</c><00:06:33.039><c> a</c><00:06:33.280><c> graphic</c><00:06:33.960><c> so</c>
+
+00:06:34.150 --> 00:06:34.160 align:start position:0%
+that's funny it's making a graphic so
+ 
+
+00:06:34.160 --> 00:06:35.909 align:start position:0%
+that's funny it's making a graphic so
+this<00:06:34.280><c> would</c><00:06:34.400><c> be</c><00:06:34.560><c> the</c><00:06:34.720><c> text</c><00:06:35.080><c> for</c><00:06:35.280><c> it</c><00:06:35.479><c> basically</c>
+
+00:06:35.909 --> 00:06:35.919 align:start position:0%
+this would be the text for it basically
+ 
+
+00:06:35.919 --> 00:06:37.870 align:start position:0%
+this would be the text for it basically
+right<00:06:36.080><c> here</c><00:06:36.599><c> new</c><00:06:36.880><c> episode</c><00:06:37.240><c> unconventional</c>
+
+00:06:37.870 --> 00:06:37.880 align:start position:0%
+right here new episode unconventional
+ 
+
+00:06:37.880 --> 00:06:39.589 align:start position:0%
+right here new episode unconventional
+wisdom<00:06:38.160><c> for</c><00:06:38.360><c> financial</c>
+
+00:06:39.589 --> 00:06:39.599 align:start position:0%
+wisdom for financial
+ 
+
+00:06:39.599 --> 00:06:41.670 align:start position:0%
+wisdom for financial
+success<00:06:40.599><c> Jeremiah</c><00:06:41.039><c> breaks</c><00:06:41.319><c> down</c><00:06:41.520><c> game</c>
+
+00:06:41.670 --> 00:06:41.680 align:start position:0%
+success Jeremiah breaks down game
+ 
+
+00:06:41.680 --> 00:06:43.469 align:start position:0%
+success Jeremiah breaks down game
+changing<00:06:42.080><c> strategies</c><00:06:42.520><c> are</c><00:06:42.639><c> you</c><00:06:42.759><c> ready</c><00:06:42.919><c> to</c><00:06:43.120><c> CH</c>
+
+00:06:43.469 --> 00:06:43.479 align:start position:0%
+changing strategies are you ready to CH
+ 
+
+00:06:43.479 --> 00:06:46.070 align:start position:0%
+changing strategies are you ready to CH
+challenge<00:06:43.880><c> the</c><00:06:44.120><c> no</c><00:06:44.400><c> yep</c><00:06:44.639><c> so</c><00:06:45.360><c> and</c><00:06:45.599><c> I</c><00:06:45.800><c> and</c><00:06:45.919><c> I</c>
+
+00:06:46.070 --> 00:06:46.080 align:start position:0%
+challenge the no yep so and I and I
+ 
+
+00:06:46.080 --> 00:06:50.670 align:start position:0%
+challenge the no yep so and I and I
+generally<00:06:46.479><c> don't</c><00:06:47.199><c> use</c>
+
+00:06:50.670 --> 00:06:50.680 align:start position:0%
+ 
+ 
+
+00:06:50.680 --> 00:06:55.189 align:start position:0%
+ 
+um<00:06:51.680><c> hashtags</c><00:06:52.400><c> at</c><00:06:52.560><c> all</c><00:06:53.280><c> so</c><00:06:53.479><c> I</c><00:06:53.560><c> would</c><00:06:53.720><c> delete</c>
+
+00:06:55.189 --> 00:06:55.199 align:start position:0%
+um hashtags at all so I would delete
+ 
+
+00:06:55.199 --> 00:06:57.350 align:start position:0%
+um hashtags at all so I would delete
+those<00:06:56.199><c> let's</c><00:06:56.400><c> see</c><00:06:56.599><c> what</c><00:06:56.680><c> it</c><00:06:56.800><c> creates</c><00:06:57.199><c> oh</c>
+
+00:06:57.350 --> 00:06:57.360 align:start position:0%
+those let's see what it creates oh
+ 
+
+00:06:57.360 --> 00:06:58.390 align:start position:0%
+those let's see what it creates oh
+that's
+
+00:06:58.390 --> 00:06:58.400 align:start position:0%
+that's
+ 
+
+00:06:58.400 --> 00:07:01.350 align:start position:0%
+that's
+funny<00:06:59.560><c> definitely</c><00:07:00.000><c> not</c><00:07:00.759><c> an</c><00:07:00.879><c> image</c><00:07:01.120><c> I'm</c><00:07:01.240><c> going</c>
+
+00:07:01.350 --> 00:07:01.360 align:start position:0%
+funny definitely not an image I'm going
+ 
+
+00:07:01.360 --> 00:07:03.830 align:start position:0%
+funny definitely not an image I'm going
+to<00:07:01.479><c> use</c><00:07:01.800><c> but</c><00:07:01.960><c> that's</c><00:07:02.120><c> kind</c><00:07:02.240><c> of</c><00:07:02.520><c> that's</c><00:07:02.840><c> funny</c>
+
+00:07:03.830 --> 00:07:03.840 align:start position:0%
+to use but that's kind of that's funny
+ 
+
+00:07:03.840 --> 00:07:05.629 align:start position:0%
+to use but that's kind of that's funny
+um<00:07:03.960><c> so</c><00:07:04.120><c> anyways</c><00:07:04.639><c> yep</c><00:07:04.879><c> that's</c><00:07:05.039><c> how</c><00:07:05.199><c> we</c><00:07:05.319><c> come</c><00:07:05.479><c> up</c>
+
+00:07:05.629 --> 00:07:05.639 align:start position:0%
+um so anyways yep that's how we come up
+ 
+
+00:07:05.639 --> 00:07:06.869 align:start position:0%
+um so anyways yep that's how we come up
+with<00:07:05.800><c> the</c>
+
+00:07:06.869 --> 00:07:06.879 align:start position:0%
+with the
+ 
+
+00:07:06.879 --> 00:07:09.390 align:start position:0%
+with the
+content<00:07:07.879><c> then</c><00:07:08.120><c> what</c><00:07:08.240><c> I</c><00:07:08.360><c> end</c><00:07:08.520><c> up</c><00:07:08.720><c> doing</c><00:07:09.080><c> is</c><00:07:09.240><c> I</c>
+
+00:07:09.390 --> 00:07:09.400 align:start position:0%
+content then what I end up doing is I
+ 
+
+00:07:09.400 --> 00:07:14.589 align:start position:0%
+content then what I end up doing is I
+end<00:07:09.560><c> up</c><00:07:09.800><c> going</c><00:07:10.080><c> into</c><00:07:10.759><c> my</c><00:07:11.000><c> Google</c>
+
+00:07:14.589 --> 00:07:14.599 align:start position:0%
+ 
+ 
+
+00:07:14.599 --> 00:07:17.230 align:start position:0%
+ 
+Drive<00:07:15.599><c> and</c><00:07:15.720><c> this</c><00:07:15.840><c> is</c><00:07:16.039><c> where</c><00:07:16.240><c> I</c><00:07:16.440><c> how</c><00:07:16.599><c> I</c><00:07:16.720><c> uploaded</c>
+
+00:07:17.230 --> 00:07:17.240 align:start position:0%
+Drive and this is where I how I uploaded
+ 
+
+00:07:17.240 --> 00:07:19.589 align:start position:0%
+Drive and this is where I how I uploaded
+in<00:07:17.440><c> here</c><00:07:17.919><c> so</c><00:07:18.560><c> what</c><00:07:18.919><c> what</c><00:07:19.000><c> you're</c><00:07:19.360><c> you're</c><00:07:19.479><c> going</c>
+
+00:07:19.589 --> 00:07:19.599 align:start position:0%
+in here so what what you're you're going
+ 
+
+00:07:19.599 --> 00:07:22.150 align:start position:0%
+in here so what what you're you're going
+to<00:07:19.720><c> end</c><00:07:19.879><c> up</c><00:07:20.360><c> basically</c><00:07:20.759><c> doing</c>
+
+00:07:22.150 --> 00:07:22.160 align:start position:0%
+to end up basically doing
+ 
+
+00:07:22.160 --> 00:07:24.629 align:start position:0%
+to end up basically doing
+this
+
+00:07:24.629 --> 00:07:24.639 align:start position:0%
+this
+ 
+
+00:07:24.639 --> 00:07:27.469 align:start position:0%
+this
+each<00:07:25.639><c> each</c>
+
+00:07:27.469 --> 00:07:27.479 align:start position:0%
+each each
+ 
+
+00:07:27.479 --> 00:07:32.230 align:start position:0%
+each each
+week<00:07:28.479><c> so</c><00:07:28.639><c> if</c><00:07:28.720><c> I</c><00:07:28.879><c> go</c><00:07:29.080><c> Google</c><00:07:29.400><c> Google</c>
+
+00:07:32.230 --> 00:07:32.240 align:start position:0%
+ 
+ 
+
+00:07:32.240 --> 00:07:36.110 align:start position:0%
+ 
+Drive<00:07:33.240><c> what's</c><00:07:33.440><c> up</c>
+
+00:07:36.110 --> 00:07:36.120 align:start position:0%
+ 
+ 
+
+00:07:36.120 --> 00:07:54.629 align:start position:0%
+ 
+kitty<00:07:37.120><c> like</c><00:07:37.360><c> Google</c><00:07:37.960><c> Google</c><00:07:38.319><c> drive</c><00:07:38.879><c> right</c>
+
+00:07:54.629 --> 00:07:54.639 align:start position:0%
+ 
+ 
+
+00:07:54.639 --> 00:07:57.909 align:start position:0%
+ 
+here<00:07:55.639><c> go</c><00:07:55.960><c> Google</c>
+
+00:07:57.909 --> 00:07:57.919 align:start position:0%
+here go Google
+ 
+
+00:07:57.919 --> 00:08:03.430 align:start position:0%
+here go Google
+Drive<00:07:58.919><c> conduit</c><00:07:59.759><c> it</c><00:08:00.759><c> then</c><00:08:00.919><c> I</c><00:08:01.159><c> find</c><00:08:02.080><c> the</c><00:08:02.919><c> folder</c>
+
+00:08:03.430 --> 00:08:03.440 align:start position:0%
+Drive conduit it then I find the folder
+ 
+
+00:08:03.440 --> 00:08:06.029 align:start position:0%
+Drive conduit it then I find the folder
+that<00:08:03.840><c> basically</c><00:08:04.840><c> has</c><00:08:05.000><c> all</c><00:08:05.159><c> our</c><00:08:05.360><c> episodes</c><00:08:05.919><c> I</c>
+
+00:08:06.029 --> 00:08:06.039 align:start position:0%
+that basically has all our episodes I
+ 
+
+00:08:06.039 --> 00:08:08.189 align:start position:0%
+that basically has all our episodes I
+create<00:08:06.280><c> a</c><00:08:06.400><c> new</c><00:08:06.599><c> folder</c><00:08:07.520><c> with</c><00:08:07.720><c> the</c><00:08:07.879><c> next</c>
+
+00:08:08.189 --> 00:08:08.199 align:start position:0%
+create a new folder with the next
+ 
+
+00:08:08.199 --> 00:08:12.589 align:start position:0%
+create a new folder with the next
+episode<00:08:08.639><c> number</c><00:08:09.280><c> podcast</c><00:08:10.479><c> 2</c><00:08:11.479><c> 53</c><00:08:12.039><c> we</c><00:08:12.159><c> have</c><00:08:12.319><c> over</c>
+
+00:08:12.589 --> 00:08:12.599 align:start position:0%
+episode number podcast 2 53 we have over
+ 
+
+00:08:12.599 --> 00:08:14.950 align:start position:0%
+episode number podcast 2 53 we have over
+253<00:08:13.599><c> episodes</c><00:08:14.000><c> of</c><00:08:14.120><c> my</c>
+
+00:08:14.950 --> 00:08:14.960 align:start position:0%
+253 episodes of my
+ 
+
+00:08:14.960 --> 00:08:17.710 align:start position:0%
+253 episodes of my
+podcast<00:08:15.960><c> which</c><00:08:16.080><c> is</c>
+
+00:08:17.710 --> 00:08:17.720 align:start position:0%
+podcast which is
+ 
+
+00:08:17.720 --> 00:08:20.589 align:start position:0%
+podcast which is
+pretty<00:08:18.720><c> crazy</c><00:08:19.159><c> and</c>
+
+00:08:20.589 --> 00:08:20.599 align:start position:0%
+pretty crazy and
+ 
+
+00:08:20.599 --> 00:08:23.350 align:start position:0%
+pretty crazy and
+cool<00:08:21.599><c> then</c><00:08:21.720><c> I</c><00:08:21.879><c> upload</c><00:08:22.240><c> the</c><00:08:22.360><c> video</c><00:08:22.639><c> file</c><00:08:23.039><c> that</c><00:08:23.159><c> I</c>
+
+00:08:23.350 --> 00:08:23.360 align:start position:0%
+cool then I upload the video file that I
+ 
+
+00:08:23.360 --> 00:08:28.230 align:start position:0%
+cool then I upload the video file that I
+did<00:08:24.000><c> for</c><00:08:24.319><c> the</c><00:08:24.520><c> podcast</c>
+
+00:08:28.230 --> 00:08:28.240 align:start position:0%
+ 
+ 
+
+00:08:28.240 --> 00:08:31.110 align:start position:0%
+ 
+recording
+
+00:08:31.110 --> 00:08:31.120 align:start position:0%
+recording
+ 
+
+00:08:31.120 --> 00:08:33.110 align:start position:0%
+recording
+here<00:08:32.120><c> it</c>
+
+00:08:33.110 --> 00:08:33.120 align:start position:0%
+here it
+ 
+
+00:08:33.120 --> 00:08:35.070 align:start position:0%
+here it
+is<00:08:34.120><c> well</c><00:08:34.240><c> that's</c><00:08:34.360><c> the</c><00:08:34.479><c> one</c><00:08:34.599><c> I'm</c><00:08:34.719><c> doing</c><00:08:34.959><c> right</c>
+
+00:08:35.070 --> 00:08:35.080 align:start position:0%
+is well that's the one I'm doing right
+ 
+
+00:08:35.080 --> 00:08:37.070 align:start position:0%
+is well that's the one I'm doing right
+now<00:08:35.240><c> this</c><00:08:35.320><c> is</c><00:08:35.399><c> the</c><00:08:35.560><c> podcast</c><00:08:35.959><c> recording</c><00:08:36.839><c> create</c>
+
+00:08:37.070 --> 00:08:37.080 align:start position:0%
+now this is the podcast recording create
+ 
+
+00:08:37.080 --> 00:08:40.110 align:start position:0%
+now this is the podcast recording create
+a<00:08:37.320><c> Google</c>
+
+00:08:40.110 --> 00:08:40.120 align:start position:0%
+ 
+ 
+
+00:08:40.120 --> 00:08:42.750 align:start position:0%
+ 
+doc<00:08:41.120><c> and</c><00:08:41.200><c> then</c><00:08:41.399><c> this</c><00:08:41.519><c> is</c><00:08:41.719><c> where</c><00:08:41.880><c> we</c><00:08:42.039><c> go</c><00:08:42.200><c> into</c>
+
+00:08:42.750 --> 00:08:42.760 align:start position:0%
+doc and then this is where we go into
+ 
+
+00:08:42.760 --> 00:08:45.190 align:start position:0%
+doc and then this is where we go into
+chat<00:08:43.760><c> chat</c>
+
+00:08:45.190 --> 00:08:45.200 align:start position:0%
+chat chat
+ 
+
+00:08:45.200 --> 00:08:49.389 align:start position:0%
+chat chat
+GPT<00:08:46.200><c> basically</c><00:08:46.519><c> I</c><00:08:46.680><c> take</c><00:08:47.000><c> all</c><00:08:47.279><c> of</c><00:08:48.080><c> the</c><00:08:49.080><c> text</c>
+
+00:08:49.389 --> 00:08:49.399 align:start position:0%
+GPT basically I take all of the text
+ 
+
+00:08:49.399 --> 00:08:51.870 align:start position:0%
+GPT basically I take all of the text
+that's<00:08:49.680><c> generated</c><00:08:50.160><c> and</c><00:08:50.279><c> I</c><00:08:50.399><c> bring</c><00:08:50.560><c> it</c><00:08:50.680><c> all</c>
+
+00:08:51.870 --> 00:08:51.880 align:start position:0%
+that's generated and I bring it all
+ 
+
+00:08:51.880 --> 00:08:54.710 align:start position:0%
+that's generated and I bring it all
+together<00:08:52.880><c> in</c><00:08:53.240><c> that</c><00:08:53.519><c> Google</c><00:08:53.959><c> doc</c><00:08:54.360><c> on</c><00:08:54.560><c> the</c>
+
+00:08:54.710 --> 00:08:54.720 align:start position:0%
+together in that Google doc on the
+ 
+
+00:08:54.720 --> 00:08:58.190 align:start position:0%
+together in that Google doc on the
+Google<00:08:55.040><c> Drive</c><00:08:55.480><c> so</c><00:08:55.760><c> we'll</c><00:08:56.000><c> do</c>
+
+00:08:58.190 --> 00:08:58.200 align:start position:0%
+Google Drive so we'll do
+ 
+
+00:08:58.200 --> 00:09:02.630 align:start position:0%
+Google Drive so we'll do
+253
+
+00:09:02.630 --> 00:09:02.640 align:start position:0%
+ 
+ 
+
+00:09:02.640 --> 00:09:04.910 align:start position:0%
+ 
+it's<00:09:03.240><c> very</c>
+
+00:09:04.910 --> 00:09:04.920 align:start position:0%
+it's very
+ 
+
+00:09:04.920 --> 00:09:07.350 align:start position:0%
+it's very
+true<00:09:05.920><c> I</c><00:09:06.120><c> love</c><00:09:06.519><c> I</c><00:09:06.600><c> think</c><00:09:06.760><c> this</c><00:09:06.839><c> will</c><00:09:06.959><c> be</c><00:09:07.160><c> one</c><00:09:07.279><c> of</c>
+
+00:09:07.350 --> 00:09:07.360 align:start position:0%
+true I love I think this will be one of
+ 
+
+00:09:07.360 --> 00:09:09.509 align:start position:0%
+true I love I think this will be one of
+the<00:09:07.839><c> Milestone</c><00:09:08.480><c> episodes</c><00:09:08.920><c> that</c><00:09:09.040><c> I</c><00:09:09.120><c> give</c><00:09:09.279><c> a</c><00:09:09.399><c> lot</c>
+
+00:09:09.509 --> 00:09:09.519 align:start position:0%
+the Milestone episodes that I give a lot
+ 
+
+00:09:09.519 --> 00:09:11.230 align:start position:0%
+the Milestone episodes that I give a lot
+of<00:09:09.640><c> people</c>
+
+00:09:11.230 --> 00:09:11.240 align:start position:0%
+of people
+ 
+
+00:09:11.240 --> 00:09:14.590 align:start position:0%
+of people
+to<00:09:12.240><c> um</c><00:09:13.200><c> okay</c><00:09:13.399><c> so</c><00:09:13.600><c> then</c><00:09:13.800><c> this</c><00:09:13.920><c> is</c><00:09:14.079><c> going</c><00:09:14.200><c> to</c><00:09:14.360><c> go</c>
+
+00:09:14.590 --> 00:09:14.600 align:start position:0%
+to um okay so then this is going to go
+ 
+
+00:09:14.600 --> 00:09:17.110 align:start position:0%
+to um okay so then this is going to go
+with<00:09:14.760><c> the</c><00:09:14.880><c> YouTube</c>
+
+00:09:17.110 --> 00:09:17.120 align:start position:0%
+with the YouTube
+ 
+
+00:09:17.120 --> 00:09:21.870 align:start position:0%
+with the YouTube
+version<00:09:18.120><c> so</c><00:09:18.360><c> I</c><00:09:18.560><c> usually</c><00:09:18.920><c> put</c><00:09:19.839><c> YouTube</c>
+
+00:09:21.870 --> 00:09:21.880 align:start position:0%
+version so I usually put YouTube
+ 
+
+00:09:21.880 --> 00:09:25.030 align:start position:0%
+version so I usually put YouTube
+description<00:09:22.880><c> we</c><00:09:23.200><c> paste</c><00:09:23.480><c> it</c><00:09:23.760><c> right</c>
+
+00:09:25.030 --> 00:09:25.040 align:start position:0%
+description we paste it right
+ 
+
+00:09:25.040 --> 00:09:28.150 align:start position:0%
+description we paste it right
+there<00:09:26.040><c> and</c><00:09:26.160><c> I</c><00:09:26.240><c> mean</c><00:09:26.480><c> generally</c><00:09:27.000><c> like</c><00:09:27.200><c> I</c><00:09:27.360><c> just</c>
+
+00:09:28.150 --> 00:09:28.160 align:start position:0%
+there and I mean generally like I just
+ 
+
+00:09:28.160 --> 00:09:31.630 align:start position:0%
+there and I mean generally like I just
+that's<00:09:28.399><c> it</c><00:09:28.720><c> right</c><00:09:28.880><c> there</c><00:09:29.279><c> and</c><00:09:29.360><c> then</c><00:09:29.519><c> I</c><00:09:30.360><c> have</c><00:09:30.600><c> a</c>
+
+00:09:31.630 --> 00:09:31.640 align:start position:0%
+that's it right there and then I have a
+ 
+
+00:09:31.640 --> 00:09:38.190 align:start position:0%
+that's it right there and then I have a
+Jinky<00:09:32.640><c> video</c><00:09:33.560><c> person</c><00:09:34.560><c> post</c><00:09:35.200><c> it</c><00:09:36.200><c> to</c><00:09:37.000><c> YouTube</c>
+
+00:09:38.190 --> 00:09:38.200 align:start position:0%
+Jinky video person post it to YouTube
+ 
+
+00:09:38.200 --> 00:09:40.190 align:start position:0%
+Jinky video person post it to YouTube
+Jalan<00:09:39.200><c> posts</c>
+
+00:09:40.190 --> 00:09:40.200 align:start position:0%
+Jalan posts
+ 
+
+00:09:40.200 --> 00:09:46.110 align:start position:0%
+Jalan posts
+it<00:09:41.200><c> for</c><00:09:41.480><c> Apple</c>
+
+00:09:46.110 --> 00:09:46.120 align:start position:0%
+ 
+ 
+
+00:09:46.120 --> 00:09:51.030 align:start position:0%
+ 
+podcast<00:09:47.120><c> this</c><00:09:47.360><c> if</c><00:09:47.480><c> we</c><00:09:48.160><c> put</c><00:09:49.160><c> uh</c><00:09:49.440><c> long</c>
+
+00:09:51.030 --> 00:09:51.040 align:start position:0%
+podcast this if we put uh long
+ 
+
+00:09:51.040 --> 00:09:53.630 align:start position:0%
+podcast this if we put uh long
+podcast
+
+00:09:53.630 --> 00:09:53.640 align:start position:0%
+podcast
+ 
+
+00:09:53.640 --> 00:09:56.990 align:start position:0%
+podcast
+description<00:09:54.640><c> there</c><00:09:54.800><c> we</c><00:09:55.440><c> go</c><00:09:56.440><c> it's</c><00:09:56.560><c> a</c><00:09:56.720><c> great</c>
+
+00:09:56.990 --> 00:09:57.000 align:start position:0%
+description there we go it's a great
+ 
+
+00:09:57.000 --> 00:09:58.590 align:start position:0%
+description there we go it's a great
+description<00:09:57.480><c> of</c><00:09:57.640><c> what</c><00:09:57.760><c> the</c><00:09:57.959><c> episode</c><00:09:58.360><c> is</c><00:09:58.519><c> I</c>
+
+00:09:58.590 --> 00:09:58.600 align:start position:0%
+description of what the episode is I
+ 
+
+00:09:58.600 --> 00:10:02.230 align:start position:0%
+description of what the episode is I
+mean<00:09:58.720><c> it's</c><00:09:58.839><c> super</c><00:09:59.120><c> super</c><00:09:59.680><c> accurate</c><00:10:00.160><c> and</c>
+
+00:10:02.230 --> 00:10:02.240 align:start position:0%
+mean it's super super accurate and
+ 
+
+00:10:02.240 --> 00:10:08.430 align:start position:0%
+mean it's super super accurate and
+everything
+
+00:10:08.430 --> 00:10:08.440 align:start position:0%
+ 
+ 
+
+00:10:08.440 --> 00:10:11.389 align:start position:0%
+ 
+um<00:10:09.440><c> here's</c><00:10:09.680><c> a</c><00:10:09.880><c> short</c>
+
+00:10:11.389 --> 00:10:11.399 align:start position:0%
+um here's a short
+ 
+
+00:10:11.399 --> 00:10:13.829 align:start position:0%
+um here's a short
+description<00:10:12.399><c> so</c><00:10:12.600><c> we're</c><00:10:12.720><c> going</c><00:10:12.839><c> to</c><00:10:13.000><c> do</c><00:10:13.600><c> because</c>
+
+00:10:13.829 --> 00:10:13.839 align:start position:0%
+description so we're going to do because
+ 
+
+00:10:13.839 --> 00:10:16.430 align:start position:0%
+description so we're going to do because
+they<00:10:14.000><c> usually</c><00:10:14.360><c> offer</c><00:10:14.760><c> that</c><00:10:14.920><c> ability</c><00:10:15.440><c> short</c>
+
+00:10:16.430 --> 00:10:16.440 align:start position:0%
+they usually offer that ability short
+ 
+
+00:10:16.440 --> 00:10:20.110 align:start position:0%
+they usually offer that ability short
+podcast
+
+00:10:20.110 --> 00:10:20.120 align:start position:0%
+ 
+ 
+
+00:10:20.120 --> 00:10:22.470 align:start position:0%
+ 
+description<00:10:21.120><c> it's</c><00:10:21.240><c> a</c><00:10:21.440><c> short</c><00:10:21.680><c> form</c>
+
+00:10:22.470 --> 00:10:22.480 align:start position:0%
+description it's a short form
+ 
+
+00:10:22.480 --> 00:10:24.829 align:start position:0%
+description it's a short form
+description<00:10:23.480><c> keeps</c><00:10:23.800><c> copying</c><00:10:24.240><c> that</c><00:10:24.519><c> photo</c>
+
+00:10:24.829 --> 00:10:24.839 align:start position:0%
+description keeps copying that photo
+ 
+
+00:10:24.839 --> 00:10:27.710 align:start position:0%
+description keeps copying that photo
+which<00:10:24.959><c> is</c><00:10:25.120><c> funny</c><00:10:25.920><c> and</c><00:10:26.160><c> then</c>
+
+00:10:27.710 --> 00:10:27.720 align:start position:0%
+which is funny and then
+ 
+
+00:10:27.720 --> 00:10:31.430 align:start position:0%
+which is funny and then
+um<00:10:28.720><c> so</c><00:10:29.120><c> social</c><00:10:29.519><c> media</c><00:10:30.040><c> post</c>
+
+00:10:31.430 --> 00:10:31.440 align:start position:0%
+um so social media post
+ 
+
+00:10:31.440 --> 00:10:36.430 align:start position:0%
+um so social media post
+text<00:10:32.440><c> or</c><00:10:33.320><c> media</c><00:10:33.839><c> post</c><00:10:35.079><c> description</c><00:10:36.079><c> and</c><00:10:36.200><c> then</c>
+
+00:10:36.430 --> 00:10:36.440 align:start position:0%
+text or media post description and then
+ 
+
+00:10:36.440 --> 00:10:40.190 align:start position:0%
+text or media post description and then
+that<00:10:37.000><c> accompanies</c>
+
+00:10:40.190 --> 00:10:40.200 align:start position:0%
+ 
+ 
+
+00:10:40.200 --> 00:10:42.350 align:start position:0%
+ 
+the<00:10:41.200><c> the</c>
+
+00:10:42.350 --> 00:10:42.360 align:start position:0%
+the the
+ 
+
+00:10:42.360 --> 00:10:58.030 align:start position:0%
+the the
+uh
+
+00:10:58.030 --> 00:10:58.040 align:start position:0%
+ 
+ 
+
+00:10:58.040 --> 00:11:11.110 align:start position:0%
+ 
+file
+
+00:11:11.110 --> 00:11:11.120 align:start position:0%
+ 
+ 
+
+00:11:11.120 --> 00:11:23.710 align:start position:0%
+ 
+I'll
+
+00:11:23.710 --> 00:11:23.720 align:start position:0%
+ 
+ 
+
+00:11:23.720 --> 00:11:26.470 align:start position:0%
+ 
+that<00:11:24.720><c> you</c><00:11:24.839><c> can</c><00:11:25.040><c> put</c><00:11:25.440><c> either</c><00:11:25.680><c> Link</c><00:11:25.880><c> in</c><00:11:25.959><c> the</c><00:11:26.079><c> bio</c>
+
+00:11:26.470 --> 00:11:26.480 align:start position:0%
+that you can put either Link in the bio
+ 
+
+00:11:26.480 --> 00:11:28.190 align:start position:0%
+that you can put either Link in the bio
+or<00:11:26.720><c> comment</c><00:11:27.079><c> for</c><00:11:27.279><c> the</c><00:11:27.440><c> link</c><00:11:27.760><c> or</c><00:11:27.959><c> something</c>
+
+00:11:28.190 --> 00:11:28.200 align:start position:0%
+or comment for the link or something
+ 
+
+00:11:28.200 --> 00:11:29.870 align:start position:0%
+or comment for the link or something
+like<00:11:28.399><c> that</c><00:11:28.560><c> and</c><00:11:28.680><c> have</c>
+
+00:11:29.870 --> 00:11:29.880 align:start position:0%
+like that and have
+ 
+
+00:11:29.880 --> 00:11:31.790 align:start position:0%
+like that and have
+a<00:11:30.040><c> many</c><00:11:30.360><c> chat</c><00:11:30.600><c> or</c><00:11:30.800><c> things</c><00:11:31.000><c> like</c><00:11:31.160><c> that</c><00:11:31.320><c> do</c><00:11:31.519><c> that</c>
+
+00:11:31.790 --> 00:11:31.800 align:start position:0%
+a many chat or things like that do that
+ 
+
+00:11:31.800 --> 00:11:34.430 align:start position:0%
+a many chat or things like that do that
+this<00:11:32.120><c> kind</c><00:11:32.240><c> of</c><00:11:32.360><c> how</c><00:11:32.480><c> I</c><00:11:32.600><c> do</c><00:11:32.720><c> it</c><00:11:32.839><c> just</c><00:11:33.040><c> Link</c><00:11:33.440><c> in</c>
+
+00:11:34.430 --> 00:11:34.440 align:start position:0%
+this kind of how I do it just Link in
+ 
+
+00:11:34.440 --> 00:11:37.750 align:start position:0%
+this kind of how I do it just Link in
+link<00:11:34.760><c> underneath</c><00:11:35.760><c> and</c><00:11:35.880><c> now</c><00:11:36.120><c> that's</c><00:11:36.320><c> ready</c><00:11:36.560><c> to</c>
+
+00:11:37.750 --> 00:11:37.760 align:start position:0%
+link underneath and now that's ready to
+ 
+
+00:11:37.760 --> 00:11:41.150 align:start position:0%
+link underneath and now that's ready to
+go<00:11:38.760><c> the</c><00:11:38.920><c> episode</c><00:11:39.320><c> is</c><00:11:39.600><c> up</c><00:11:39.920><c> both</c><00:11:40.120><c> the</c><00:11:40.279><c> video</c><00:11:40.839><c> and</c>
+
+00:11:41.150 --> 00:11:41.160 align:start position:0%
+go the episode is up both the video and
+ 
+
+00:11:41.160 --> 00:11:42.629 align:start position:0%
+go the episode is up both the video and
+all<00:11:41.360><c> the</c><00:11:41.519><c> descriptions</c><00:11:42.079><c> we're</c><00:11:42.279><c> ready</c><00:11:42.480><c> to</c>
+
+00:11:42.629 --> 00:11:42.639 align:start position:0%
+all the descriptions we're ready to
+ 
+
+00:11:42.639 --> 00:11:47.629 align:start position:0%
+all the descriptions we're ready to
+create<00:11:43.200><c> it</c><00:11:44.399><c> okay</c><00:11:45.399><c> so</c><00:11:45.600><c> that's</c><00:11:45.880><c> how</c><00:11:46.560><c> I</c><00:11:46.680><c> use</c><00:11:47.040><c> AI</c><00:11:47.440><c> to</c>
+
+00:11:47.629 --> 00:11:47.639 align:start position:0%
+create it okay so that's how I use AI to
+ 
+
+00:11:47.639 --> 00:11:49.389 align:start position:0%
+create it okay so that's how I use AI to
+create<00:11:48.079><c> all</c>
+
+00:11:49.389 --> 00:11:49.399 align:start position:0%
+create all
+ 
+
+00:11:49.399 --> 00:11:52.310 align:start position:0%
+create all
+the<00:11:50.399><c> uh</c><00:11:50.600><c> additional</c><00:11:51.200><c> Assets</c><00:11:51.600><c> in</c><00:11:51.800><c> about</c><00:11:52.040><c> 10</c>
+
+00:11:52.310 --> 00:11:52.320 align:start position:0%
+the uh additional Assets in about 10
+ 
+
+00:11:52.320 --> 00:11:57.200 align:start position:0%
+the uh additional Assets in about 10
+minutes<00:11:52.720><c> for</c><00:11:53.079><c> a</c><00:11:53.399><c> podcast</c><00:11:54.200><c> episode</c>
+

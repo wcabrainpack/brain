@@ -1,0 +1,5 @@
+# Old zip artifacts — content lives in folders
+*.zip
+*.skill
+node_modules/
+.DS_Store

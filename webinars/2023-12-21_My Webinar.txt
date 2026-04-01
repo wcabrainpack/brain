@@ -1,0 +1,8 @@
+My Webinar
+Date: 2023-12-21T18:38:07.000Z
+Duration: 1 min
+Otter ID: EW5QYKH1iqXjrknFtswqZFOEEAE
+---
+
+[0:17] Jeremiah Krakowski: And it's being recorded. And if I have a video file that I want to play, I can do that if I do start virtual camera and then I tell the video it's going to be the OBS virtual camera. It's gonna do this right here. It's gonna play this back right here. Since I'm using this camera right now, it's not gonna let me pull up that camera on here because it can only use the camera in one app and so I'm recording that. But essentially, that's how you would do it is you would go live you would use your camera, you would set it up and you would deliver the webinar just like normal. You could screenshare a countdown timer, you could play back some music. And you would just let zoom kind of do its thing and let it record and then at the end of it, you would you would end it okay.
+

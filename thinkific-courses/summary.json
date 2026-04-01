@@ -1,0 +1,1889 @@
+{
+  "generated_at": "2026-03-30T16:57:19.583155-07:00",
+  "total_courses": 138,
+  "total_lessons": 2773,
+  "lessons_with_text": 153,
+  "stub_only_lessons": 2620,
+  "courses": [
+    {
+      "course_id": 1951779,
+      "name": "Academy Weekly Training Archives",
+      "slug": "academy-weekly-training-archives",
+      "chapter_count": 46,
+      "lesson_count": 230,
+      "text_file_count": 0,
+      "stub_file_count": 230,
+      "content_types": {
+        "Lesson": 8,
+        "HtmlItem": 222
+      },
+      "errors": []
+    },
+    {
+      "course_id": 3107512,
+      "name": "Ultimate VIP 1-on-1 Experience Resources",
+      "slug": "vip-1-on-1-resources",
+      "chapter_count": 3,
+      "lesson_count": 25,
+      "text_file_count": 25,
+      "stub_file_count": 0,
+      "content_types": {
+        "Lesson": 3,
+        "HtmlItem": 22
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2570717,
+      "name": "2023 Black Friday Training Bundle",
+      "slug": "1-99-black-friday-training-bundle",
+      "chapter_count": 8,
+      "lesson_count": 18,
+      "text_file_count": 0,
+      "stub_file_count": 18,
+      "content_types": {
+        "HtmlItem": 16,
+        "Pdf": 2
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2610033,
+      "name": "2024 Income Accelerator: New Years $2.24 Special",
+      "slug": "2024-income-accelerator-new-years-2-24-special",
+      "chapter_count": 6,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 7,
+        "Pdf": 2
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2480326,
+      "name": "5 Minute Content Creation Blueprint",
+      "slug": "5-minute-content-creation-blueprint",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2828682,
+      "name": "7 Figure Squarespace Funnel Building",
+      "slug": "7-figure-squarespace-funnel-building",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2976107,
+      "name": "7 Figure Webinars",
+      "slug": "7-figure-webinars",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 3020811,
+      "name": "8 Figure Funnel Frameworks You Can Copy",
+      "slug": "8-figure-funnel-frameworks-you-can-copy",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2920206,
+      "name": "A.I. eBook Writing Made Easy",
+      "slug": "ai-ebook-writing-made-easy",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2643493,
+      "name": "Ads Optimization Simplified",
+      "slug": "ads-optimization-simplified",
+      "chapter_count": 7,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 7
+      },
+      "errors": []
+    },
+    {
+      "course_id": 3200549,
+      "name": "AI Content Creation Made Easy",
+      "slug": "ai-content-creation-made-easy",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2755869,
+      "name": "Audience Building For Online Mentors",
+      "slug": "audience-building-for-online-mentors",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2166338,
+      "name": "Automated Marketing Secrets",
+      "slug": "automated-marketing-secrets",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2765014,
+      "name": "Beginner Courses",
+      "slug": "beginner-courses",
+      "chapter_count": 9,
+      "lesson_count": 59,
+      "text_file_count": 0,
+      "stub_file_count": 59,
+      "content_types": {
+        "HtmlItem": 59
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2942707,
+      "name": "Black Friday 2024",
+      "slug": "black-friday-2024",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2972795,
+      "name": "Build and Grow Your 6 Figure Group Coaching Membership",
+      "slug": "build-and-grow-your-6-figure-group-coaching-membership",
+      "chapter_count": 1,
+      "lesson_count": 3,
+      "text_file_count": 0,
+      "stub_file_count": 3,
+      "content_types": {
+        "HtmlItem": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1965569,
+      "name": "Build Your Own 6 Figure Coaching Business - VIP Upgrade Package",
+      "slug": "build-your-own-6-figure-coaching-business-vip-upgrade-package",
+      "chapter_count": 4,
+      "lesson_count": 12,
+      "text_file_count": 0,
+      "stub_file_count": 12,
+      "content_types": {
+        "HtmlItem": 2,
+        "Lesson": 5,
+        "Pdf": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1995197,
+      "name": "Build Your Own 6 Figure Coaching Business - VIP Upgrade Package",
+      "slug": "september-build-your-own-6-figure-coaching-business-vip-upgrade-package",
+      "chapter_count": 3,
+      "lesson_count": 19,
+      "text_file_count": 0,
+      "stub_file_count": 19,
+      "content_types": {
+        "Lesson": 12,
+        "HtmlItem": 7
+      },
+      "errors": []
+    },
+    {
+      "course_id": 3176173,
+      "name": "CEO Mindset Mastery",
+      "slug": "ceo-mindset-mastery",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2219099,
+      "name": "Chat GPT Prompt Academy",
+      "slug": "chat-gpt-prompt-academy",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1757935,
+      "name": "Coaching Payment Plan",
+      "slug": "coaching-payment-plan",
+      "chapter_count": 1,
+      "lesson_count": 1,
+      "text_file_count": 0,
+      "stub_file_count": 1,
+      "content_types": {
+        "HtmlItem": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2025558,
+      "name": "Copywriting Mastery",
+      "slug": "copywriting-mastery",
+      "chapter_count": 8,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 8
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2026724,
+      "name": "Create & Launch Your Coaching Business To 6 Figures - VIP Package",
+      "slug": "create-launch-your-coaching-business-to-six-figures",
+      "chapter_count": 4,
+      "lesson_count": 23,
+      "text_file_count": 0,
+      "stub_file_count": 23,
+      "content_types": {
+        "Pdf": 3,
+        "HtmlItem": 19,
+        "Lesson": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2799092,
+      "name": "Creating A World Class Digital Course",
+      "slug": "creating-a-world-class-digital-course",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1313200,
+      "name": "Easy Course Creation Blueprint",
+      "slug": "easy-course-creation-blueprint",
+      "chapter_count": 7,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 8,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2127075,
+      "name": "Effective Communication Skills To Improve Your Teaching & Speaking",
+      "slug": "effective-communication-skills-to-improve-your-teaching-speaking",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 3090367,
+      "name": "Effortless Online Content Creation Blueprint",
+      "slug": "effortless-online-content-creation-blueprint",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2096406,
+      "name": "Email Marketing The Fun Way",
+      "slug": "email-marketing-the-fun-way",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2885105,
+      "name": "Evergreen Marketing Funnel Secrets",
+      "slug": "evergreen-marketing-funnel-secrets",
+      "chapter_count": 7,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 7
+      },
+      "errors": []
+    },
+    {
+      "course_id": 3052826,
+      "name": "Facebook & Instagram Ads For Beginners: 2025 Edition",
+      "slug": "facebook-instagram-ads-for-beginners-2025-edition",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2379465,
+      "name": "Facebook Ad Basics For Total Newbies",
+      "slug": "facebook-ad-basics-for-total-newbies",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2025570,
+      "name": "Facebook and Instagram Ads Made Easy For Total Beginners",
+      "slug": "facebook-and-instagram-ads-made-easy-for-total-beginners",
+      "chapter_count": 9,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 9
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2561504,
+      "name": "Facebook Pixel Clarity",
+      "slug": "facebook-pixel-clarity",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2958062,
+      "name": "Find Your Ultimate Coaching Niche Holiday Bundle",
+      "slug": "find-your-ultimate-coaching-niche-holiday-bundle",
+      "chapter_count": 4,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2120693,
+      "name": "Finding Your Coaching Niche - Holiday Bundle",
+      "slug": "niche-holiday-2022",
+      "chapter_count": 3,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 3,
+        "Lesson": 1,
+        "Pdf": 2
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1988815,
+      "name": "Finding Your Niche - VIP Bonuses",
+      "slug": "finding-your-niche-vip-bonuses",
+      "chapter_count": 6,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "Pdf": 2,
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2019666,
+      "name": "Finding Your Niche: VIP Bonus Package",
+      "slug": "finding-your-niche-vip-bonus-package-october",
+      "chapter_count": 6,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 5,
+        "Pdf": 2
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2608748,
+      "name": "Forbidden Advertising Navigating Ad Restrictions",
+      "slug": "forbidden-advertising-navigating-ad-restrictions",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2259930,
+      "name": "Friendly Followup",
+      "slug": "friendly-followup",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2862180,
+      "name": "Funnel Building in GoHighLevel Made Easy",
+      "slug": "funnel-building-in-gohighlevel-made-easy",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2080326,
+      "name": "Funnel Building Made Easy for Squarespace",
+      "slug": "funnel-building-made-easy-for-squarespace",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2608751,
+      "name": "Funnel Building On Systeme.io Made Easy",
+      "slug": "funnel-building-on-systeme-io-made-easy",
+      "chapter_count": 7,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 7
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2072806,
+      "name": "Funnel Launch Fast Track for ClickFunnels with Steven Robbins",
+      "slug": "funnel-launch-fast-track-with-steven-robbins",
+      "chapter_count": 2,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "Lesson": 4,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1981052,
+      "name": "Funnels & Offer Copy Live",
+      "slug": "funnels-offer-copy-live",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "Lesson": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2068711,
+      "name": "Grow Your Coaching Business To 6 Figures",
+      "slug": "grow-your-coaching-business-to-6-figures",
+      "chapter_count": 5,
+      "lesson_count": 19,
+      "text_file_count": 0,
+      "stub_file_count": 19,
+      "content_types": {
+        "HtmlItem": 8,
+        "Lesson": 9,
+        "Pdf": 2
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2140038,
+      "name": "Grow Your Coaching Program With Paid Ads",
+      "slug": "grow-your-coaching-program-with-paid-ads",
+      "chapter_count": 7,
+      "lesson_count": 14,
+      "text_file_count": 0,
+      "stub_file_count": 14,
+      "content_types": {
+        "HtmlItem": 9,
+        "Pdf": 2,
+        "Lesson": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 587462,
+      "name": "How To Start A 6-Figure Website Building Business",
+      "slug": "how-to-start-a-6-figure-website-building-business",
+      "chapter_count": 2,
+      "lesson_count": 14,
+      "text_file_count": 0,
+      "stub_file_count": 14,
+      "content_types": {
+        "HtmlItem": 13,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2862185,
+      "name": "Instagram Ads Made Easy",
+      "slug": "instagram-ads-made-easy",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2765015,
+      "name": "Intermediate Courses",
+      "slug": "intermediate-courses",
+      "chapter_count": 6,
+      "lesson_count": 39,
+      "text_file_count": 0,
+      "stub_file_count": 39,
+      "content_types": {
+        "HtmlItem": 39
+      },
+      "errors": []
+    },
+    {
+      "course_id": 984424,
+      "name": "Irresistible Offers That Sell",
+      "slug": "irresistible-offers-that-sell",
+      "chapter_count": 16,
+      "lesson_count": 17,
+      "text_file_count": 0,
+      "stub_file_count": 17,
+      "content_types": {
+        "HtmlItem": 16,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 3206913,
+      "name": "Jeremiah's AI Clone",
+      "slug": "ai-clone",
+      "chapter_count": 1,
+      "lesson_count": 1,
+      "text_file_count": 0,
+      "stub_file_count": 1,
+      "content_types": {
+        "HtmlItem": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2219098,
+      "name": "Landing Page Blueprint",
+      "slug": "landing-page-blueprint",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2029330,
+      "name": "Lead Magnet VIP Package",
+      "slug": "lead-magnet-vip-package",
+      "chapter_count": 4,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 4,
+        "Pdf": 2,
+        "Lesson": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2765013,
+      "name": "Learning Library Of Classes",
+      "slug": "learning-library-of-classes",
+      "chapter_count": 43,
+      "lesson_count": 575,
+      "text_file_count": 0,
+      "stub_file_count": 575,
+      "content_types": {
+        "HtmlItem": 548,
+        "Lesson": 18,
+        "Pdf": 8,
+        "Download": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2036692,
+      "name": "Let's Write Your 6-Figure Video Advertising Script",
+      "slug": "6-figure-video-ad",
+      "chapter_count": 7,
+      "lesson_count": 10,
+      "text_file_count": 0,
+      "stub_file_count": 10,
+      "content_types": {
+        "HtmlItem": 5,
+        "Pdf": 3,
+        "Lesson": 2
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2087684,
+      "name": "LIFETIME ACCESS - Black Friday $4.95 Training Bundle - LIFETIME MONEY BACK GUARANTEE",
+      "slug": "black-friday-training-bundle",
+      "chapter_count": 12,
+      "lesson_count": 33,
+      "text_file_count": 0,
+      "stub_file_count": 33,
+      "content_types": {
+        "HtmlItem": 16,
+        "Lesson": 14,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2443567,
+      "name": "Mailchimp Made Easy",
+      "slug": "mailchimp-made-easy",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2891304,
+      "name": "MailerLite Made Easy",
+      "slug": "mailerLite-made-easy",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2192115,
+      "name": "March 7th: Launch Your 6 Figure Coaching Offer",
+      "slug": "march-7th-launch-your-6-figure-coaching-offer",
+      "chapter_count": 6,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 7,
+        "Pdf": 2
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2538806,
+      "name": "Mastering Individual Sales",
+      "slug": "mastering-individual-sales",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2578075,
+      "name": "Mastering Zoom For Coaches",
+      "slug": "mastering-zoom-for-coaches",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2053481,
+      "name": "Mindset Foundations for Coaches and Course Creators (Offer Launchpad 2022)",
+      "slug": "mindset-foundations-offer-launchpad-course",
+      "chapter_count": 1,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "Lesson": 8
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2815316,
+      "name": "New Course",
+      "slug": "new-course",
+      "chapter_count": 1,
+      "lesson_count": 0,
+      "text_file_count": 0,
+      "stub_file_count": 0,
+      "content_types": {},
+      "errors": []
+    },
+    {
+      "course_id": 2840657,
+      "name": "New Course",
+      "slug": "new-course-1",
+      "chapter_count": 2,
+      "lesson_count": 0,
+      "text_file_count": 0,
+      "stub_file_count": 0,
+      "content_types": {},
+      "errors": []
+    },
+    {
+      "course_id": 2129386,
+      "name": "New Years Celebration Training Bundle",
+      "slug": "new-years-bundle",
+      "chapter_count": 9,
+      "lesson_count": 19,
+      "text_file_count": 0,
+      "stub_file_count": 19,
+      "content_types": {
+        "HtmlItem": 17,
+        "Pdf": 2
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2183602,
+      "name": "Offer Launchpad Mastermind Recordings",
+      "slug": "offer-launchpad-mastermind-recordings",
+      "chapter_count": 8,
+      "lesson_count": 54,
+      "text_file_count": 0,
+      "stub_file_count": 54,
+      "content_types": {
+        "HtmlItem": 46,
+        "Lesson": 8
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2427481,
+      "name": "Outsourcing & Team Building Made Easy For Online Mentors & Coaches",
+      "slug": "outsourcing-and-team-building-made-easy-for-online-mentors-and-coaches",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2148826,
+      "name": "Plan Out & Create Your Signature Coaching Program or Online Course The Easy Way",
+      "slug": "plan-out-your-course-or-coaching-vip",
+      "chapter_count": 7,
+      "lesson_count": 11,
+      "text_file_count": 0,
+      "stub_file_count": 11,
+      "content_types": {
+        "HtmlItem": 9,
+        "Pdf": 2
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2007041,
+      "name": "Power of Other People's Stages with Rick Pino & Jeremiah Krakowski",
+      "slug": "power-of-other-people-s-stages-with-rick-pino-jeremiah-krakowski",
+      "chapter_count": 1,
+      "lesson_count": 1,
+      "text_file_count": 0,
+      "stub_file_count": 1,
+      "content_types": {
+        "Lesson": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1988729,
+      "name": "Private Vault of Webinars & Challenges",
+      "slug": "private-vault-virtual-events",
+      "chapter_count": 79,
+      "lesson_count": 395,
+      "text_file_count": 0,
+      "stub_file_count": 395,
+      "content_types": {
+        "HtmlItem": 359,
+        "Pdf": 9,
+        "Lesson": 27
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2735322,
+      "name": "Pro Video Editing Made Easy",
+      "slug": "pro-video-editing-made-easy",
+      "chapter_count": 7,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 7
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2286064,
+      "name": "Recurring Membership Profits",
+      "slug": "recurring-membership-profits",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 3180537,
+      "name": "Robin Ernst Recordings",
+      "slug": "robin-ernst-recordings",
+      "chapter_count": 1,
+      "lesson_count": 2,
+      "text_file_count": 0,
+      "stub_file_count": 2,
+      "content_types": {
+        "HtmlItem": 1,
+        "Audio": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2683312,
+      "name": "Running An Impactful Mastermind Group",
+      "slug": "running-an-impactful-mastermind-group",
+      "chapter_count": 8,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 8
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2379416,
+      "name": "Sales Copy Mastery with Chat GPT",
+      "slug": "sales-copy-mastery-with-chat-gpt",
+      "chapter_count": 8,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 8
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2949265,
+      "name": "Sales Letter & Landing Page Copywriting Made Easy with A.I.",
+      "slug": "sales-letter-&-landing-page-copywriting-made-easy-with-ai",
+      "chapter_count": 5,
+      "lesson_count": 5,
+      "text_file_count": 0,
+      "stub_file_count": 5,
+      "content_types": {
+        "HtmlItem": 5
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2166333,
+      "name": "Six Steps to Six Figures As A Coach",
+      "slug": "six-steps-to-six-figures-as-a-coach",
+      "chapter_count": 6,
+      "lesson_count": 6,
+      "text_file_count": 0,
+      "stub_file_count": 6,
+      "content_types": {
+        "HtmlItem": 6
+      },
+      "errors": []
+    },
+    {
+      "course_id": 625593,
+      "name": "Social Media Ads That Work",
+      "slug": "social-media-ads-that-work",
+      "chapter_count": 10,
+      "lesson_count": 89,
+      "text_file_count": 0,
+      "stub_file_count": 89,
+      "content_types": {
+        "HtmlItem": 88,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1691490,
+      "name": "Social Media Content Creation Made Easy",
+      "slug": "social-media-content-creation-made-easy",
+      "chapter_count": 12,
+      "lesson_count": 13,
+      "text_file_count": 0,
+      "stub_file_count": 13,
+      "content_types": {
+        "HtmlItem": 12,
+        "Download": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2302516,
+      "name": "Strategic Funnels Made Simple",
+      "slug": "strategic-funnels-made-simple",
+      "chapter_count": 3,
+      "lesson_count": 3,
+      "text_file_count": 0,
+      "stub_file_count": 3,
+      "content_types": {
+        "HtmlItem": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2276801,
+      "name": "Streamline Your Coaching Business With High Level - Adam Luckey",
+      "slug": "streamline-your-coaching-business-with-high-level-adam-luckey",
+      "chapter_count": 13,
+      "lesson_count": 13,
+      "text_file_count": 0,
+      "stub_file_count": 13,
+      "content_types": {
+        "HtmlItem": 13
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2127065,
+      "name": "Successful Selling For People Who Struggle To Sell",
+      "slug": "successful-selling-for-people-who-struggle-to-sell",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2332315,
+      "name": "Successful Webinars & Challenges",
+      "slug": "successful-webinars-and-challenges",
+      "chapter_count": 6,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 6,
+        "Lesson": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 3130400,
+      "name": "The Automated 6-Figure Business Blueprint",
+      "slug": "the-automated-6-figure-business-blueprint",
+      "chapter_count": 7,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 7
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1922649,
+      "name": "Tik Tok Ads Made Easy",
+      "slug": "tik-tok-ads-made-easy",
+      "chapter_count": 9,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 9
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2253093,
+      "name": "Time Optimization Playbook: Work Smart & Live Well",
+      "slug": "time-optimization-playbook",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2781801,
+      "name": "Total Online 6 Figure Roadmap",
+      "slug": "total-online-6-figure-roadmap",
+      "chapter_count": 13,
+      "lesson_count": 13,
+      "text_file_count": 0,
+      "stub_file_count": 13,
+      "content_types": {
+        "HtmlItem": 13
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1758457,
+      "name": "Transformational Coaching Made Simple",
+      "slug": "transformational-coaching-made-simple",
+      "chapter_count": 10,
+      "lesson_count": 11,
+      "text_file_count": 0,
+      "stub_file_count": 11,
+      "content_types": {
+        "HtmlItem": 11
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2220777,
+      "name": "VIP Bonuses: April 1st Get Dream Coaching Clients With Paid Advertising",
+      "slug": "get-dream-coaching-clients-with-paid-advertising",
+      "chapter_count": 5,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 5,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2266738,
+      "name": "VIP Bonuses: April 27th Growing Your 6-Figure Coaching Email List The Fun Way",
+      "slug": "vip-bonuses-april27th-growing-your-6-figure-coaching-email-list-the-fun-way",
+      "chapter_count": 6,
+      "lesson_count": 10,
+      "text_file_count": 0,
+      "stub_file_count": 10,
+      "content_types": {
+        "HtmlItem": 7,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2231655,
+      "name": "VIP Bonuses: April 4 Develop Your Signature Group Coaching Program From Scratch",
+      "slug": "develop-your-signature-group-coaching-program-from-scratch",
+      "chapter_count": 6,
+      "lesson_count": 12,
+      "text_file_count": 0,
+      "stub_file_count": 12,
+      "content_types": {
+        "HtmlItem": 8,
+        "Pdf": 3,
+        "Download": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2726810,
+      "name": "VIP Bonuses: April 6 - Get More Paid Membership Subscriptions & Clients with Facebook Ads",
+      "slug": "vip-bonuses-april-6-get-more-paid-membership-subscriptions-clients-with-facebook-ads",
+      "chapter_count": 4,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 4,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2231672,
+      "name": "VIP Bonuses: April 8 Build Your 6-Figure Client-Getting Marketing Funnel",
+      "slug": "build-your-6-figure-client-getting-marketing-funnel",
+      "chapter_count": 6,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 6,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2382266,
+      "name": "VIP Bonuses: August 12 - Grow Your Online Mentorship to 6 Figures Using A.I",
+      "slug": "vip-bonuses-aug-12th-grow-your-online-mentorship-to-6figures-using-AI",
+      "chapter_count": 6,
+      "lesson_count": 10,
+      "text_file_count": 0,
+      "stub_file_count": 10,
+      "content_types": {
+        "HtmlItem": 7,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2375472,
+      "name": "VIP Bonuses: August 5 - Get More Mentorship Clients with Paid Ads & A.I",
+      "slug": "vip-bonuses-aug-5th-get-more-mentorship-clients-with-paid-ads-and-AI",
+      "chapter_count": 4,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 4,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2575287,
+      "name": "VIP Bonuses: December 16 - Plan and Create Your Online Course or Coaching Program the Easy Way",
+      "slug": "vip-bonuses-december-16-plan-create-your-online-course-coaching-program-the-easy-way",
+      "chapter_count": 7,
+      "lesson_count": 11,
+      "text_file_count": 0,
+      "stub_file_count": 11,
+      "content_types": {
+        "HtmlItem": 8,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2558284,
+      "name": "VIP Bonuses: December 2 - Create Your Own 6-Figure Online Course",
+      "slug": "vip-bonuses-dec-2nd-create-your-own-6-figure-online-course",
+      "chapter_count": 4,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 5,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2569951,
+      "name": "VIP Bonuses: December 9 - Get More Course Sales Or Coaching Clients with Facebook Ads",
+      "slug": "vip-bonuses-december-9-get-more-coaching-clients-with-facebook-ads",
+      "chapter_count": 4,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 4,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2671044,
+      "name": "VIP Bonuses: February 24 - Create Your Own 6 Figure Online Membership From Scratch",
+      "slug": "vip-bonuses-feb-24-create-your-own-6-figure-online-membership-from-scratch",
+      "chapter_count": 4,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 6,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2091722,
+      "name": "VIP Bonuses: Get More Clients With Paid Advertising",
+      "slug": "get-more-clients-with-paid-avertising",
+      "chapter_count": 8,
+      "lesson_count": 15,
+      "text_file_count": 0,
+      "stub_file_count": 15,
+      "content_types": {
+        "HtmlItem": 11,
+        "Pdf": 3,
+        "Lesson": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2100663,
+      "name": "VIP Bonuses: Growing Your Email List The Fun Way",
+      "slug": "growing-your-email-list-the-fun-way",
+      "chapter_count": 8,
+      "lesson_count": 10,
+      "text_file_count": 0,
+      "stub_file_count": 10,
+      "content_types": {
+        "HtmlItem": 6,
+        "Pdf": 3,
+        "Lesson": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2603962,
+      "name": "VIP Bonuses: January 13 - Create Your Own 6 Figure Online Course or Coaching Program From Scratch",
+      "slug": "vip-bonuses-jan-13-create-your-own-6-figure-online-course-coaching-program-from-scratch",
+      "chapter_count": 4,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 6,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2614517,
+      "name": "VIP Bonuses: January 27 - Get More Course Sales or Coaching Clients with Facebook Ads",
+      "slug": "vip-bonuses-jan-27-get-more-course-sales-or-coaching-clients-with-Facebook-ads",
+      "chapter_count": 5,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 6,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2336574,
+      "name": "VIP Bonuses: July 1 Monetize Your Email List Into 6 Figure Success",
+      "slug": "vip-bonuses-july-1st-monetize-your-email-list-into-6-figure-success",
+      "chapter_count": 9,
+      "lesson_count": 13,
+      "text_file_count": 0,
+      "stub_file_count": 13,
+      "content_types": {
+        "HtmlItem": 10,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2367623,
+      "name": "VIP Bonuses: July 29th - Start A Profitable Online Mentorship Using A.I",
+      "slug": "vip-bonuses-july-29th-start-a-profitable-online-mentorship-using-AI",
+      "chapter_count": 5,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 5,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2343796,
+      "name": "VIP Bonuses: July 8 Growing Your 6 Figure Coaching Business with Live Zoom Events",
+      "slug": "vip-bonuses-july-8th-grow-your-coaching-business-with-live-zoom-events",
+      "chapter_count": 7,
+      "lesson_count": 11,
+      "text_file_count": 0,
+      "stub_file_count": 11,
+      "content_types": {
+        "HtmlItem": 8,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2315781,
+      "name": "VIP Bonuses: June 17th Start Your 6-Figure Group Coaching Business with AI",
+      "slug": "vip-bonuses-june-17th-start-your-6-figure-group-coaching-business-with-AI",
+      "chapter_count": 5,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 5,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2330478,
+      "name": "VIP Bonuses: June 24th Get More Clients with Paid Ads and AI",
+      "slug": "vip-bonuses-june-24th-get-more-clients-with-paid-ads-and-AI",
+      "chapter_count": 4,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 4,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2780805,
+      "name": "VIP Bonuses: June 5: Create & Launch Your 6 Figure Group Coaching Community Offer",
+      "slug": "vip-bonuses-Create-Launch-Your-6-Figure-Group-Coaching-Community-Offer",
+      "chapter_count": 3,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 7
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2686004,
+      "name": "VIP Bonuses: March 2 - Create Your Own 6 Figure Online Course From Scratch",
+      "slug": "vip-bonuses-march-2-create-your-own-6-figure-online-course-from-scratch",
+      "chapter_count": 7,
+      "lesson_count": 10,
+      "text_file_count": 0,
+      "stub_file_count": 10,
+      "content_types": {
+        "HtmlItem": 7,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2220791,
+      "name": "VIP Bonuses: March 28th Growing Your Email List Step-By-Step",
+      "slug": "growing-your-email-list-step-by-step",
+      "chapter_count": 5,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 4,
+        "Pdf": 3,
+        "Lesson": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2716676,
+      "name": "VIP Bonuses: March 30 - Build Your Own Paid Subscribers Area From Scratch",
+      "slug": "vip-bonuses-march-30-build-your-own-subscribers-area-from-scratch",
+      "chapter_count": 4,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 6,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2689397,
+      "name": "VIP Bonuses: March 9 - Get More Course Sales or Coaching Clients with Facebook Ads",
+      "slug": "vip-bonuses-march-9-get-more-course-sales-or-coaching-clients-with-Facebook-ads",
+      "chapter_count": 4,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 4,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2272454,
+      "name": "VIP Bonuses: May 2nd Start A 6 Figure Group Coaching Business from Scratch",
+      "slug": "vip-bonuses-may-2nd-start-a-6-figure-group-coaching-business-from-scratch",
+      "chapter_count": 7,
+      "lesson_count": 10,
+      "text_file_count": 0,
+      "stub_file_count": 10,
+      "content_types": {
+        "HtmlItem": 7,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2272542,
+      "name": "VIP Bonuses: May 6th Grow Your 6-Figure Group Coaching Business With Paid Ads",
+      "slug": "vip-bonuses-may-6th-grow-your-6-figute-group-coaching-business-with-paid-ads",
+      "chapter_count": 6,
+      "lesson_count": 10,
+      "text_file_count": 0,
+      "stub_file_count": 10,
+      "content_types": {
+        "HtmlItem": 7,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2536237,
+      "name": "VIP Bonuses: November 11 - Start Your 6 Figure Group Coaching Business From Scratch with A.I",
+      "slug": "vip-bonuses-nov-11th-start-your-6-figure-group-coaching-business-friom-scratch-with-ai",
+      "chapter_count": 4,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 5,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2532689,
+      "name": "VIP Bonuses: November 4 - Get More Coaching Clients with Facebook Ads",
+      "slug": "vip-bonuses-nov-4th-get-more-coaching-clients-with-facebook-ads",
+      "chapter_count": 5,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 5,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2518989,
+      "name": "VIP Bonuses: October 28 - Create Your Own 6 Figure Digital Course From Scratch",
+      "slug": "vip-bonuses-oct-28th-create-your-own-6-figure-digital-course-from-scratch",
+      "chapter_count": 5,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 6,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2425387,
+      "name": "VIP Bonuses: September 16 - Get More Mentorship Clients with A.I + Facebook Ads",
+      "slug": "vip-bonuses-sept-16th-get-more-mentorship-clients-with-AI-and-facebook-ads",
+      "chapter_count": 4,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 4,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2433787,
+      "name": "VIP Bonuses: September 23 - Get More Mentorship Clients using Live Webinars + A.I.",
+      "slug": "vip-bonuses-sept-23rd-get-more-mentorship-clients-using-live-webinars-and-ai",
+      "chapter_count": 6,
+      "lesson_count": 9,
+      "text_file_count": 0,
+      "stub_file_count": 9,
+      "content_types": {
+        "HtmlItem": 6,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2416631,
+      "name": "VIP Bonuses: September 9 - Start A Highly Profitable Online Group Mentorship with A.I",
+      "slug": "vip-bonuses-sept-9th-start-a-highly-profitable-online-group-mentorship-with-AI",
+      "chapter_count": 4,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 5,
+        "Pdf": 3
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2145646,
+      "name": "VIP Bonuses: Start & Grow Your Group Coaching to 6 Figures",
+      "slug": "start-grow-group-coaching-6-figures",
+      "chapter_count": 11,
+      "lesson_count": 27,
+      "text_file_count": 0,
+      "stub_file_count": 27,
+      "content_types": {
+        "HtmlItem": 14,
+        "Pdf": 2,
+        "Lesson": 11
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2716775,
+      "name": "VIP Bundle: April 10-12 Low Cost High Impact & Offer Launchpad",
+      "slug": "April-10-12-Low-Cost-High-Impact-Offer-Launchpad",
+      "chapter_count": 7,
+      "lesson_count": 14,
+      "text_file_count": 0,
+      "stub_file_count": 14,
+      "content_types": {
+        "HtmlItem": 14
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2225831,
+      "name": "VIP Bundle: April 10th-14th Grow Your Group Coaching Business With Zoom Events",
+      "slug": "grow-your-group-coaching-business-with-zoom-events",
+      "chapter_count": 13,
+      "lesson_count": 32,
+      "text_file_count": 0,
+      "stub_file_count": 32,
+      "content_types": {
+        "HtmlItem": 31,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2372560,
+      "name": "VIP Bundle: August 14th-18th Create & Launch Your Profitable Group Mentorship Offer ",
+      "slug": "August-14th-18th-Create-Launch-Your-Profitbale-Group-Mentorship-Offer",
+      "chapter_count": 6,
+      "lesson_count": 17,
+      "text_file_count": 0,
+      "stub_file_count": 17,
+      "content_types": {
+        "HtmlItem": 16,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2574877,
+      "name": "VIP Bundle: December 18-22 Create & Launch Your 6 Figure Course or Coaching Offer",
+      "slug": "December-18-22-Create-Laucnh-Your-6-Figure-Course-or-Coaching-Offer",
+      "chapter_count": 8,
+      "lesson_count": 19,
+      "text_file_count": 0,
+      "stub_file_count": 19,
+      "content_types": {
+        "HtmlItem": 18,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2612820,
+      "name": "VIP Bundle: Jan 29 - Feb 2: Start & Grow Your Course or Group Coaching to 6 Figures",
+      "slug": "Jan29-Feb2-Start-Grow-Your-Course-or-Coaching-Offer-to-6-Figures",
+      "chapter_count": 8,
+      "lesson_count": 19,
+      "text_file_count": 0,
+      "stub_file_count": 19,
+      "content_types": {
+        "HtmlItem": 19
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2324053,
+      "name": "VIP Bundle: July 10-14th Build & Launch Your 6-Figure Group Coaching Offer ",
+      "slug": "July-10th-14th-Build-Launch-Your-6-Figure-Group-Coaching-Offer",
+      "chapter_count": 6,
+      "lesson_count": 17,
+      "text_file_count": 0,
+      "stub_file_count": 17,
+      "content_types": {
+        "HtmlItem": 16,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2096960,
+      "name": "VIP Bundle: Launch Your 6 Figure Coaching Offer",
+      "slug": "vip-launch-your-coaching-offer-22",
+      "chapter_count": 9,
+      "lesson_count": 26,
+      "text_file_count": 0,
+      "stub_file_count": 26,
+      "content_types": {
+        "HtmlItem": 14,
+        "Pdf": 2,
+        "Lesson": 10
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2677932,
+      "name": "VIP Bundle: March 11 - 13: A.I. Offer Launchpad",
+      "slug": "March11-13-AI-Offer-Launchpad",
+      "chapter_count": 7,
+      "lesson_count": 14,
+      "text_file_count": 0,
+      "stub_file_count": 14,
+      "content_types": {
+        "HtmlItem": 14
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2268068,
+      "name": "VIP Bundle: May 8th-12th Launch & Scale Your 6-Figure Group Coaching Offer",
+      "slug": "May-8th-12th-Launch-Scale-Your-6-Figure-Group-Coaching-Offer",
+      "chapter_count": 7,
+      "lesson_count": 18,
+      "text_file_count": 0,
+      "stub_file_count": 18,
+      "content_types": {
+        "HtmlItem": 15,
+        "Lesson": 2,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2529770,
+      "name": "VIP Bundle: November 13-17 Start & Grow Your Group Coaching to 6 Figures",
+      "slug": "November-13-17-Start-Grow-Your-Group-Coaching-to-6-Figures",
+      "chapter_count": 7,
+      "lesson_count": 18,
+      "text_file_count": 0,
+      "stub_file_count": 18,
+      "content_types": {
+        "HtmlItem": 17,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2422206,
+      "name": "VIP Bundle: September 25-29 Build & Launch Your Profitable Group Mentorship",
+      "slug": "September-25-29-Build-Launch-Your-Profitable-Group-Mentorship-Offer",
+      "chapter_count": 6,
+      "lesson_count": 17,
+      "text_file_count": 0,
+      "stub_file_count": 17,
+      "content_types": {
+        "HtmlItem": 16,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1955653,
+      "name": "Virtual Event Playbook",
+      "slug": "virtual-event-playbook",
+      "chapter_count": 8,
+      "lesson_count": 8,
+      "text_file_count": 0,
+      "stub_file_count": 8,
+      "content_types": {
+        "HtmlItem": 8
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2332740,
+      "name": "Wealth Mindset Coaching",
+      "slug": "wealth-mindset-coaching",
+      "chapter_count": 6,
+      "lesson_count": 7,
+      "text_file_count": 0,
+      "stub_file_count": 7,
+      "content_types": {
+        "HtmlItem": 6,
+        "Lesson": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 1935024,
+      "name": "Wealthy Coach Academy: Start Here",
+      "slug": "wealthy-coach-academy-start-here",
+      "chapter_count": 4,
+      "lesson_count": 20,
+      "text_file_count": 0,
+      "stub_file_count": 20,
+      "content_types": {
+        "HtmlItem": 20
+      },
+      "errors": []
+    },
+    {
+      "course_id": 423450,
+      "name": "Website Building Made Easy",
+      "slug": "website-building-made-easy",
+      "chapter_count": 16,
+      "lesson_count": 128,
+      "text_file_count": 128,
+      "stub_file_count": 0,
+      "content_types": {
+        "HtmlItem": 127,
+        "Pdf": 1
+      },
+      "errors": []
+    },
+    {
+      "course_id": 2925462,
+      "name": "Writing 7 Figure Email Campaigns",
+      "slug": "writing-7-figure-email-campaigns",
+      "chapter_count": 4,
+      "lesson_count": 4,
+      "text_file_count": 0,
+      "stub_file_count": 4,
+      "content_types": {
+        "HtmlItem": 4
+      },
+      "errors": []
+    }
+  ]
+}

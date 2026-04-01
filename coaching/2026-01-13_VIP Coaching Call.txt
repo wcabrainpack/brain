@@ -1,0 +1,572 @@
+VIP Coaching Call
+Date: 2026-01-13T21:50:54.000Z
+Duration: 59 min
+Otter ID: hxL2dzXSR2z9TgFlvXsf9EvlJDg
+---
+
+[0:00] David T: Okay, or Yeah, up in this bed that I'm in, in this little cabin where I'm okay, i
+
+[8:29] David T: All right, I was gonna yesterday. I was on a I was doing a training, so I couldn't really tune in on yours yesterday meeting.
+
+[10:44] Jeremiah Krakowski: Well, that's okay. Let me see what you sent me over here about an hour ago in boxer. Okay, sales page is updated.
+
+[15:16] Jeremiah Krakowski: Well, yep, sales page looks good.
+
+[17:53] David T: Really, what I probably want to talk about a little bit is starting to set up my ad. Okay, I have one link I sent you. Had just some he ran it through an AI script and came up with some potential ideas. But I keep thinking about stuff like at night or something, when I don't take notes, yeah, and I need to maybe keep my phone and, like, do some voice notes or something.
+
+[25:36] Jeremiah Krakowski: Yeah, I always well, you know why that is why you come up with the ideas then,
+
+[27:26] David T: because you're relaxed,
+
+[27:52] Jeremiah Krakowski: your nervous system isn't in, like, the state of, like, trying to do everything and then, literally, the creativity just, like, sparked,
+
+[30:39] David T: float free, yeah?
+
+[31:06] Jeremiah Krakowski: And so that's why I always, I'm, like, the kind of this, the secret in in business is you figure out how to kind of have that state of mind when you're in the middle of all the crazy chaos. Yeah, you know, it's like, it's like, it's a total shift. You're like, like, how can you be in the middle of just craziness going on? And yet you have that same kind of creativity that you would at the end of the day, type of a thing, and it's just, it's, it's, it's, it's a hard thing to do, but I think I've been able to do it, and I know it's one of the key factors I think of like being an entrepreneur, is kind of being able to do that with your nervous system and but either way, finding moments in time in your life where you can be relaxed and you can unplug and you can disconnect, then that's where the a lot of the creativity flows from. So, but yeah, keep something to document it when those things come up.
+
+[47:41] David T: Yeah, I probably should have, like, a button on the home screen of my phone or something, so when something pops through my mind, I can capture it quickly. That's probably what I should do, not to find what app I want to use for that probably just the voice memos, and just go back and listen to them or upload them into GPT later, or some AI and expand on them.
+
+[54:34] Jeremiah Krakowski: Have you seen this new Do you have a MacBook? I do this Claude co work that just came out.
+
+[57:02] David T: I saw you post about it is it is an app I can download. I guess
+
+[58:53] Jeremiah Krakowski: you need a clawed Max account to be able to use it. But what it does is it can take control of your computer and like, do work for you?
+
+[61:27] David T: Oh, so does it require an app to be installed? Does it work through the browser?
+
+[62:31] Jeremiah Krakowski: Yeah, the app needs to be installed. So, but it's pretty cool. I was able to have it like I told it, okay, rewrite these emails from this autoresponder campaign and go set them up. And it literally just, it did all the work for it by itself, autonomously.
+
+[66:52] David T: Wow, so just knew where to click and how to log in and all that, huh?
+
+[67:53] Jeremiah Krakowski: Yeah. Well, it figured it out. It didn't even really know how. It just kind of figured it out on its own.
+
+[69:12] David T: Oh, did it?
+
+[69:34] Jeremiah Krakowski: So, like a lot of it is just it goes in and it can trial and error. Now, what it's doing, it's really,
+
+[71:25] David T: I don't know what your methodology is for keeping your passwords, but the passwords have to be stored in the browser or something, because mine
+
+[73:28] Jeremiah Krakowski: are, it made me log it in. So I had to log so
+
+[74:23] David T: you had to log in for it. Okay,
+
+[74:55] Jeremiah Krakowski: yeah, I had to log in, and then I had to, like, a couple times just like, approve what it was doing. But, oh,
+
+[76:14] David T: okay, yeah,
+
+[77:21] Jeremiah Krakowski: it was, it was pretty cool.
+
+[78:07] David T: And Claude is better at writing, I think, than GPT, I think, is what you've mentioned in the past.
+
+[79:37] Jeremiah Krakowski: Yeah, but Claude, Claude cowork, Claude code are really good, like I just finished this. This AI app for my mom, a real change.ai. We just launched, and Claude code was able to go in and give me all the stuff that I needed to be able to get this all set up.
+
+[86:18] David T: So, okay, which is pretty cool. So what platform is the app this website hosted on?
+
+[89:02] Jeremiah Krakowski: This is with lovable,
+
+[89:29] David T: okay, so this, this is an actual lovable site, yeah, but
+
+[90:32] Jeremiah Krakowski: then it had a bunch of errors with lovable and it wasn't working fully, and so Claude code was able to go in and fix all the issues. Okay, yeah, so Claude, that's that's the thing about pwd code right here, is it's really good at, like, fixing issues when it comes to software development and figuring out what, where the issues come from.
+
+[97:26] David T: Yeah, okay, which is cool. That's an interesting actually. That brings up an interesting question here.
+
+[100:08] Jeremiah Krakowski: So here's your ads. These are the different ad ideas. Yeah, these a
+
+[101:08] David T: lot of them. Some of them, some of them are not just, are just not going to work, just because the thing couldn't. That's like, just a document, I think, that they use to build from or something. But the rest of them are images,
+
+[106:10] Jeremiah Krakowski: and it looks like this was mostly just generated with AI to
+
+[107:20] David T: Yeah, he used an AI, something, whatever. I'm not sure what he has, but
+
+[108:31] Jeremiah Krakowski: yeah, so I was able to pull up a lot of those different
+
+[109:42] David T: ad who basically just scanned my web page, and I started creating scenarios or hooks and different angles and stuff and like, that's one thing about him as he felt like my sales copy could have been more, a little bit more story oriented, would have helped us better. But yeah,
+
+[115:19] Jeremiah Krakowski: we talked about that as well. Yeah, I've been going in and creating, like, custom gpts and stuff. So like, if I paste their output right here into the GPT that I made yesterday, we made this on the call with the group I showed them.
+
+[119:40] David T: Oh, okay, so I can watch that when I go, when I Yeah, whoops.
+
+[121:49] Jeremiah Krakowski: Oh, wait, where's the oh, this is the preview. Okay, let me paste that. Let me see what this says right here. So what it would do is it'll generate different this is a lot of text here, but, like, It doesn't necessarily give me specific ads right.
+
+[132:13] Speaker 1: See I
+
+[135:31] Jeremiah Krakowski: so I guess trying to audit it, someone take this and just say,
+
+[138:53] Jeremiah Krakowski: I still think that chat GPT is the best at writing ads copy. Okay, if tech isn't your thing, this is for you, a simple playbook that walks you through checking pre funded programs. For anyone who's not super techie, it's opposite of a complicated side hustle. Guide you through how to check programs you may qualify for submit, see. So this is where it's like, this is it gets too complicated, so I just tell it to simplify it into four sets of ad copy. If tech isn't your thing, this for you payouts playbook is a simple guy that walks you step by thrips through checking pre funded programs you make qualified for submitting claims when you
+
+[154:42] David T: do well, you know one, one thing that his that his thing picked up, was that really didn't interpret some of my copy correctly, or didn't there wasn't enough information, because I'm not really guiding people into programs they may qualify for. Okay, I'm sending people into bank offers that they will qualify for if they do a couple of things, not like you have to check and see if you can if you can qualify you. As long as you do the things you'll you'll get the money.
+
+[161:31] Jeremiah Krakowski: And sometimes what I'll do is I'll loop it into the same thing. So let's now loop back in your sales letter to my sales letter and use this as the final offer to write for simplified ads copy and do that, or I'm gonna loop this in. So what I found is like, yeah, with the paid chat GPT, you can create a custom GPT that makes stuff like this for you, give yourself a raise without a boss, a business or anyone's permission, hit the payouts playbook for 37 bucks to get a simple system, about 30 minutes, no selling, no recruiting, no social media if you bought make money, courses that promise the world, most of them were designed. Weren't designed to pay you. This is different, this repeatable mechanism that you can set up, no funnels, no content.
+
+[174:02] David T: See these? These are like better, I think these are more,
+
+[174:40] Jeremiah Krakowski: yeah, these are actually like much better ad copy that you can use. Yeah. I Let's see I so then I would say, like, I like number two, and this is just how I like to use AI. I've been using it for a while to do this. Make me four versions similar to this tone. So I kind of like the style of the second one that it made it there. So now let's make four different versions that are kind of in that tone, right there. You bought different courses. This is this great. Everything you tried online has failed. Here's the truth, probably not you. Most symptoms are complicated. On purpose, this one isn't see. There you go. So those would be some great kind of some ideas to test some copy with. Now, I actually like some of the creative graphics that he made that was pretty cool.
+
+[190:27] David T: Yeah, there was some it did come up with some interesting graphics, and I figure I could use some of those graphics as inspiration for other graphics. You know that maybe,
+
+[192:44] Jeremiah Krakowski: yeah, I just sent you those in there, but that'll be, that'll be a good, a good start to that. Have you dove into the ads manager and felt comfortable in there?
+
+[195:37] David T: I've just dabbled with it. I need to take a little bit more of a deeper, deeper tour.
+
+[197:19] Jeremiah Krakowski: I'm really looking forward to when I need to play around with it. I should, like, when you could just use an AI agent to kind of go in and set it all up for you. Yeah, I
+
+[202:25] Jeremiah Krakowski: want to see if, like, I wonder if Manus could actually just do that, or something, or Claude call.
+
+[203:50] David T: I wonder,
+
+[204:16] Jeremiah Krakowski: let me see I can help you build out your ads, campaigns, target audience, see, show campaign structure. Can you actually take over my browser and set it up. If I give you the details and log into my ads manager, yes, I can help set it up through your ads manager. Look at that so like, that's pretty cool. Yeah. Being able to have the agent be able to kind of go in and do that, and I want to, I want to. I'm not necessarily tested at doing that, but I would be willing to bet it could probably do most of the work. Yeah, that way we're just, we're getting to a place where I'm like, let me see if an AI agent can do the work, and I can just tell it like
+
+[219:57] David T: what your objective is, you know, yeah, and it figures out all the details. I am always
+
+[221:17] Jeremiah Krakowski: starting to think like aI first on that sense, because then I could have a VA do that for me or for other people easily, too.
+
+[224:46] David T: You just kind of develop the initial framework of what they need to take, give to the AI
+
+[226:10] Jeremiah Krakowski: and meta purchased Manus. So meta owns Manus.
+
+[227:09] David T: Now, okay, I don't think
+
+[227:44] Jeremiah Krakowski: they've integrated anything into it with the ads manager, necessarily, but I would, I mean, there's no reason they would their business is ads. Why would they buy a $2 billion product and not integrate it into you?
+
+[231:00] David T: Would think, yeah, make it easier for people to run ads.
+
+[231:53] Jeremiah Krakowski: Basically turn the ads manager into an agent driven system. It's a no brainer. Have it generate videos and graphics and all that for you. And use the agent to make your ads like, yeah, and then you can go in there and kind of adjust and tweak and do all that, right? So, if I so, if we go in here and we go into to the ads manager to take a look at some of the ads that are running. See, I am just amazed by that. Fact. It's so interesting.
+
+[245:00] Jeremiah Krakowski: I adjusted my budget on this campaign the other day, and it completely, like, jacked up the results to it. That's why it's like, sometimes it's like, okay, why? Why did this happen? Let me turn it off for a few days and then see what's going on. You know. But to create a campaign like you do, create and then what we want to do is we want to make sure so you don't have a meta pixel on this page right now.
+
+[253:03] David T: No, I don't. I need to put that on there. Okay, do
+
+[256:55] Jeremiah Krakowski: okay, there's that. There's where I can go purchase so, yeah, so you'll want to, you'll want to get that meta pixel set up before anything else. I don't know
+
+[259:04] David T: if you want me to see anything on your screen. I'm not seeing anything.
+
+[259:49] Jeremiah Krakowski: Yeah. So the meta, the meta pixel, is what tells the ads. It tells the ads manager who to target specifically,
+
+[262:07] David T: right, right, yeah. If I'm familiar with the pixel, I just haven't put one on there yet, yeah, yeah. So, yeah, okay,
+
+[265:04] Jeremiah Krakowski: let me. Let me try something. It was, it was interesting. I was like, I was running these two separate campaigns. I don't want to spend more than 50 bucks a day. It's converting really well, but I want to keep the budget really low. Yeah. So it's like, I would rather get a trickle of like five people a day in and then just have it like spend. Let you know what's 50? That's 1500 a month. Yeah. So spend, you know, that much over the course of 30 days, because it's like the it's like a low, a low amount while I'm building another campaign out to get to get leads in, I was spending like 120 a day, and so I think lowering it to that will be good. That's something that I do often. It's all like, lower the cost, yeah, and then it'll often times give me the same result as I was paying double for.
+
+[281:42] David T: Oh, interesting. Yeah.
+
+[282:44] Jeremiah Krakowski: I frequently happens with the ads manager
+
+[283:32] David T: now is that, what changes do you make when you lower the cost? You just run the same creative and on that, I
+
+[284:55] Jeremiah Krakowski: just lowered the cost. That's all I did. I didn't do any because this was running really well at like, one budget, but I didn't want to pay that much for it, so
+
+[286:48] David T: I just changed the budget to a different
+
+[287:14] Jeremiah Krakowski: I just changed the budget. That's it. Okay. Um, okay, so do you know how to set up the pixel and all that?
+
+[290:03] David T: I used to as well. It was been a while. I think, I think they've changed some terminology.
+
+[291:46] Jeremiah Krakowski: Do you want to dive in? Do you have are you at your computer?
+
+[292:33] David T: Yeah, I'm on my computer. You want
+
+[292:57] Jeremiah Krakowski: to share your screen? And we can kind of go through that together. Because I think, let me, I think just that's going to be like, it wouldn't kind of get you, like to the place where you can, like, launch the ads.
+
+[296:22] David T: Yeah, let me, that'll
+
+[296:50] Jeremiah Krakowski: be a great one here. I
+
+[300:19] David T: Let's see, is that my page? Okay, let me share my screen here. Just a second.
+
+[302:55] Jeremiah Krakowski: That'll be good.
+
+[307:24] David T: Okay, I got to figure out here which account I'm using. I think it's this one here with my picture on it, but I'm not sure if that's my personal account or my page that I created,
+
+[310:32] Jeremiah Krakowski: that's your personal account,
+
+[311:26] David T: but that's okay. What's up? I do have a page that I created that I was gonna start posting on,
+
+[313:27] Jeremiah Krakowski: so you have the different business profiles that
+
+[314:23] David T: would be up here, right? These are the business profile, yeah,
+
+[315:02] Jeremiah Krakowski: which is B nanza. You know
+
+[315:43] David T: that that's maybe where actually, this is it right here? Here we go. Let me switch to that one. That's my David Joel page. That's the one I want to associate with this product, I guess
+
+[319:51] Jeremiah Krakowski: is that a you're a class member in a lawsuit.
+
+[321:15] David T: What's that
+
+[321:37] Jeremiah Krakowski: you're a class member in a lawsuit over Facebook's, oh,
+
+[323:23] David T: I guess they have a close up for now.
+
+[324:48] Jeremiah Krakowski: Did you submit for that?
+
+[325:11] David T: I've submitted stuff before. I got like, you know, like you know, like 15 or 20 bucks whenever it's not
+
+[326:24] Jeremiah Krakowski: a big deal, that's so they were, they identified your ads account as a class member.
+
+[327:34] David T: Maybe, I don't know. I mean, I haven't run ads in six years. So, yeah,
+
+[329:10] Jeremiah Krakowski: okay, you haven't run ads in six years. What happens when you click, create, okay, go under Billing real quick. I just want to see under the billing section, oh, on
+
+[332:24] David T: the left,
+
+[332:47] Jeremiah Krakowski: yeah, it won't reveal any click that. Let's see this and payments.
+
+[335:35] David T: I think I did put in an updated credit card, yeah.
+
+[336:21] Jeremiah Krakowski: Okay, so is that? Is that a good card? Yeah, it's a good card. You can spend up to 350 Okay, great. So this is a good, actual, yeah, this. So this is a good, usable Ads account that you can use today to write ads. So great. A lot of people, when they haven't run them in forever, it, they'll say, like, you can spend like 20 bucks a day, or like you can't run them for like, 14 days, or, like, you gotta prepay the account. So this is, at least, this is set up to where you should you it looks like you should be able to run. It looks like the card is going to expire next month, so you
+
+[344:38] David T: might, yeah, I was just noticing that. I'll have to see if they've sent me a new card yet.
+
+[345:41] Jeremiah Krakowski: Yeah. So just want to update that. I think Facebook, they turn off your ads once your card expires. Okay, too. So they looks like they got all that built into their system. Like, yeah, they won't let you run ads and things like that. Okay, so now let's go click on there's this little symbol on the side with a big circle and three small circles under it. Yep, Events Manager, so according to Facebook, anytime somebody clicks a button on your website, or does that, that's called an event.
+
+[354:53] David T: Gotcha, yeah, okay,
+
+[355:17] Jeremiah Krakowski: okay, so click on data sets. Okay, so you have one data set. This isn't what you're doing right now.
+
+[358:23] David T: That's yeah, long ago. It doesn't exist.
+
+[359:22] Jeremiah Krakowski: So we will. So we want to create a new data set. Okay? Let me see create. What's it say under Create? Right? There. No. Scroll down, okay, press connect data, yeah, there you go. Look at that web. Next, select an exit, create a new data set. There you go, great. And then type in just the name of it, David
+
+[369:28] David T: Joel, this, should I put this into?
+
+[370:17] Jeremiah Krakowski: David Joel, yeah, no, yeah.
+
+[374:24] Jeremiah Krakowski: Okay, associate it with your David Joel ad account. There you go. Perfect. That's actually a lot easier than it used to be. Yeah? So, okay, that's that. So the data set, they don't even necessarily use the word pixel anymore, right?
+
+[379:14] David T: They don't. I haven't. I've seen that. It's called
+
+[379:45] Jeremiah Krakowski: a data set. Now people
+
+[380:10] David T: just know it as the pixel
+
+[380:33] Jeremiah Krakowski: refresh this page. No, I
+
+[385:22] Jeremiah Krakowski: There you go. Now there's the data, Joel, now that ID, that's kind of your the ticket that you're looking for. Okay, set up meta pixel. So there's the word pixel. So set up meta pixel. Where is it at? It's right in the middle there, oh no, Down Under, send events from a server. Oh So, set up meta pixel. Oh, there it is. Just press install code manually, and then, okay, let's go to systemi, io,
+
+[395:54] David T: yeah, okay, let me open a new probably not logged in.
+
+[398:43] Jeremiah Krakowski: I found if I can make you do this right now, it'll help you get past the excuse of doing this later.
+
+[400:59] David T: Give me a second here while I get my code.
+
+[402:23] Speaker 1: Okay. Do
+
+[408:37] David T: Now, let me go to
+
+[411:04] Speaker 0: let's see here.
+
+[414:20] Jeremiah Krakowski: I hope they release Claude co work for Windows right now it's only on Mac.
+
+[416:20] David T: Oh, interesting. They must be Mac developers. I
+
+[417:06] Jeremiah Krakowski: have, like a beefy Windows computer. It has an NVIDIA RTX 3080 on it,
+
+[418:54] David T: yeah. And,
+
+[419:21] Jeremiah Krakowski: like a Intel Core, I nine processor. And then I have this, like really cheap MacBook Air.
+
+[422:02] David T: What did you just get it recently? I've
+
+[422:39] Jeremiah Krakowski: had this for like two years, and then I've had the I've had the 3080 for like three years, okay, almost four years, but like, an i nine or the 3080 like, still super capable.
+
+[426:10] David T: Oh, absolutely, absolutely. Oh, okay, so I'm in this. Okay, great.
+
+[428:54] Jeremiah Krakowski: Go under funnel settings, okay, that's not it.
+
+[431:06] David T: Remember, I guess we could always ask somebody ask
+
+[432:10] Jeremiah Krakowski: AI, no, click on, oh, do they have a little AI bot there?
+
+[433:42] David T: No, I'm just saying. I wonder if it's under now, do you see that
+
+[435:02] Jeremiah Krakowski: little you see that little sparkle in the bottom corner? Oh, down home. How do I add my Facebook pixel? I can I think that no need to work harder than we need to.
+
+[440:59] Jeremiah Krakowski: Great. There you go. Oh, you can add it. Okay, yep, go to your funnel, click Edit
+
+[442:40] David T: one page only, funnel, edit the page. Edit settings after you
+
+[443:51] Jeremiah Krakowski: go, no scroll down or on all pages, go to Menu Settings, sales, funnel settings,
+
+[445:50] David T: menu settings.
+
+[446:16] Jeremiah Krakowski: So where's the where is settings? There you go.
+
+[447:36] David T: Probably under here, right there. Yep,
+
+[448:42] Jeremiah Krakowski: sales funnel,
+
+[450:32] Jeremiah Krakowski: tracking code, scroll down real quick. Click on integrations. Let me see, I want to see. No, okay, yeah, so just click on yep, right there, sales funnel. Just paste that pixel code right there, yep, press save. Okay, now I go to your, hey, look, there's your pixel. It's on the page. Okay, it's built in there, into the AI. Go to type into the AI. How do I associate it with my purchase and add to cart links what I associate? Yeah, there you go, Chief,
+
+[468:31] Jeremiah Krakowski: we're really are living in like a world where just every answer you want is probably attached to a chat bot somewhere.
+
+[471:14] David T: Okay, okay, great. Order
+
+[471:43] Jeremiah Krakowski: Form page, settings tracking, copy that code. Look at it even gave you the code. Love this. So I
+
+[473:11] David T: had to order form page and the funnel go to Settings tracking, yeah. Event, that's it.
+
+[474:54] Jeremiah Krakowski: So copy that. Yep, click that. Copy button they give you too. That's even
+
+[476:13] David T: that's nice. Yeah, you've been making some some good upgrades in system.
+
+[477:08] Jeremiah Krakowski: Io, yeah, that's great. This is awesome. Okay, go back to your pages. It really is a great platform. I dove into it. I did a course on it, just because it's, I mean, it's the cheapest funnel building
+
+[482:10] David T: they're going to do add order form here, out there.
+
+[483:16] Jeremiah Krakowski: It's, like, it's, it's free, or like, 29 bucks a month, something like that, right?
+
+[484:16] David T: It's, yeah, it's, really, think it said to go into Edit Page, yeah. And there's a settings up here.
+
+[486:35] Jeremiah Krakowski: There you go, scroll down. Look at that tracking. Okay, look you can put the event, Facebook event, just put scroll down.
+
+[490:41] David T: Those are the four events like, oh,
+
+[491:01] Jeremiah Krakowski: okay, so there's no Add to Cart. Press Edit Header code that is, paste that in there. There you go. Save it. Okay, so now I'm on this order page. On my end, I
+
+[496:48] Jeremiah Krakowski: Oh, hey, it says, Add to Cart now. Okay, so, so here's, here's what I see on my end. I'm just gonna let me see if I can share also one.
+
+[500:31] David T: I guess I lost my chat that I was having. Can I? Can you see my screen? Give me a second here? Not yet. Maybe I have to stop sharing myself.
+
+[503:43] Jeremiah Krakowski: Yeah, try that, and then I
+
+[507:48] David T: do you see it? Not yet.
+
+[509:11] Speaker 1: I'm sharing it right now. Let me try again.
+
+[511:01] David T: There it comes. There it is. Okay.
+
+[512:14] Jeremiah Krakowski: So this is the meta pixel helper right here in Chrome. Oh, yeah, yeah, I look. It says, Add to Cart right there. Okay, so that's loading now your thank you page, go to your thank you page.
+
+[515:25] David T: We do my thank you page, Stephanie, and
+
+[517:42] Jeremiah Krakowski: then I want to give you some special code that I love, that has helped my campaigns do. Well, okay, because it really it gives you some good data. I
+
+[523:28] Speaker 0: whoops, supposed to edit the page. There's
+
+[528:15] David T: nothing didn't show anything. Nope. What
+
+[533:32] David T: do you think about that
+
+[534:14] Jeremiah Krakowski: it's not showing me your screen for some reason. It's only showing me the toolbar on your browser. That was weird. It's only sharing with me the like the top toolbar of your browser.
+
+[537:21] David T: Let me. Let me. Try again here. That's weird. Yeah, I see what you're saying. Hang on a second. It will just show the entire desktop. See yourself in here. Go back to this. You see it now? Yeah, so when I click Edit Header code, there's nothing in there.
+
+[545:09] Jeremiah Krakowski: That's okay. Instead, do the drop down, select Event, press purchase.
+
+[547:55] David T: Okay. I can send you the link to this page if you want to look at
+
+[550:37] Jeremiah Krakowski: it, sure. Yeah, send me. Oh, it's just paths, playbook.com/t, y, cool. Well, you're already further ahead now, right now. Did you save the page? I believe I did. Interesting. It did not put that purchase. It's not showing up. Press go and edit the page again. That's interesting. All right. Edit the header code.
+
+[561:58] David T: Something's wrong, isn't it?
+
+[562:23] Jeremiah Krakowski: Can you paste the other one in there? Just paste what you had before from the meta. Just see whatever you had pasted before into the other page. Is it gonna just let you Okay, sorry.
+
+[566:03] David T: Well, I, you know, I have a, I think I have a thing that let me see my paste history here, but I can't remember where it's at shoot. I
+
+[572:03] Jeremiah Krakowski: Well, here, do you see the do you see
+
+[572:47] David T: the other page and get it out?
+
+[573:43] Jeremiah Krakowski: No, it's, it's right here. I'm just going to type it into the chat window for you. Go, oh, okay, there you go.
+
+[576:54] David T: Should I just take the whole thing and paste it in there?
+
+[577:40] Jeremiah Krakowski: Just copy that script part, script to
+
+[579:30] David T: script here. You know, for some reason,
+
+[580:27] Jeremiah Krakowski: see the script part where it says script to script by
+
+[581:49] David T: talking again, can you hear me? I don't hear you in I don't hear a thing
+
+[584:59] Jeremiah Krakowski: in zoom. It's
+
+[596:31] David T: okay, I think I found the problem. Why don't you say something? Can you hear me? Yeah, okay, I somehow managed to click a mute button up in my sound bar on just zoom.
+
+[601:02] Jeremiah Krakowski: Oh, I gotcha. Okay, so now
+
+[602:55] David T: did I take this entire script here and type it in there? Another page
+
+[603:51] Jeremiah Krakowski: copy from like, script tag to script tag,
+
+[605:19] David T: the whole thing. I know we got the add to cart here, but I guess we will change that tag at the bottom.
+
+[608:20] David T: Or should I just do the whole just the script, just in, can
+
+[609:03] Jeremiah Krakowski: you share your screen?
+
+[609:44] David T: Oh, that's interesting. Oh, I stopped sharing my screen, didn't I?
+
+[611:09] Jeremiah Krakowski: Yes, you stopped sharing it. Okay?
+
+[614:40] Jeremiah Krakowski: Okay, yeah, so copy from script tag to script tag. There you go. Copy that.
+
+[616:15] David T: Got it. Go back to my other page. I'm change
+
+[620:42] David T: changes to purchase, change
+
+[621:03] Jeremiah Krakowski: it to purchase with a capital P.
+
+[623:29] Jeremiah Krakowski: There you go, okay, and then forward slash t, y is the link. Yeah, okay. Now that's pulling up. Okay. Now last thing, what's your your main page that you're sending traffic to? Sales page? There it is. I got it. Yeah. Okay. Now, what we want to do is,
+
+[630:35] Jeremiah Krakowski: is, let me have log do this. I want to write some code when someone scrolls down this page and they hit my i I'm
+
+[638:35] Jeremiah Krakowski: going to give you some code that you can paste into Your Site that'll make some really cool so it's this, I want it to fire the Facebook pixel when someone scrolls that far on desktop or mobile that fires initiate checkout. I
+
+[646:43] Jeremiah Krakowski: here's a function. There you go. So add an ID. Okay, let's see. I'm using systemi.io to make my sales page. Can you go to your sales page and Oh, whoops, I got I shared the wrong I shared the wrong browser. That's my plod code page. This is it right here.
+
+[655:50] Speaker 1: Okay, do edit
+
+[658:18] Jeremiah Krakowski: your funnel. Okay, there we go. If content includes, there we go. Okay, so copy this into, I want to go under chat, and I'm going to paste it for you. Okay, copy that script into onto your sales page. I'm this
+
+[668:36] Jeremiah Krakowski: is one of my favorite scripts for sales pages. Is something that does this. So the idea is, is it's also going to track
+
+[671:05] David T: that goes in my header code. Yeah.
+
+[671:36] Jeremiah Krakowski: It goes right there. Yep.
+
+[672:26] David T: What happened? Not copy,
+
+[674:45] David T: interesting. There you go. All right, so what's supposed to happen? When, when
+
+[678:14] Jeremiah Krakowski: that save that, okay. Should it save it?
+
+[680:27] David T: Nice. I just hit save. Okay.
+
+[681:49] Jeremiah Krakowski: So now it's still not working.
+
+[685:02] David T: Did it save it? Well, I don't know if you're watching, but I went down here to settings. I put it I
+
+[687:04] Jeremiah Krakowski: saw you did that when you click Save,
+
+[688:27] David T: that was saved, went up to the page up here and saved it. Let me exit.
+
+[690:36] Jeremiah Krakowski: Okay, let me see. Okay. I'm going to tell it see. I'm
+
+[698:49] Speaker 1: Okay,
+
+[700:52] Jeremiah Krakowski: try that code now. Okay, do
+
+[706:51] David T: all right, let's See, okay, it's been saved. We
+
+[726:40] Jeremiah Krakowski: world, let's try that one again. Let's try pasting that one in. Okay,
+
+[737:38] Jeremiah Krakowski: all right, okay, that worked. So what it does is,
+
+[740:54] David T: well, I see something on the screen. If I go and look at it. You won't okay.
+
+[743:53] David T: Come on, be down here about 15 minutes. Yeah,
+
+[746:06] Jeremiah Krakowski: you know what? Though, I do see a problem on your page. Okay, I'll show you just a sec what it is I'm
+
+[748:51] David T: going to stop sharing so you can Hey, you see mine. Not yet. No, oh, wait, there it is. Found. It did I know it again. Okay, this shows up on a new tab. I didn't see this feature. See it? What am I looking at? Meta pixel.
+
+[755:07] Jeremiah Krakowski: Okay, so watch as you scroll down the page. As soon as you get to this part of the page, it fires initiate checkout. Okay, so that's a that will actually show up in your ads manager when you're on the ad.
+
+[758:47] David T: So if somebody far, you'd be able to see that they
+
+[759:27] Jeremiah Krakowski: for anybody who has actually read reading down the page itself, it's gonna track that they got that far.
+
+[761:38] David T: I got you, okay, and you can use that as another targeting, yeah,
+
+[762:50] Jeremiah Krakowski: but it also helps meta know that, like, okay, it creates inside of the their AI, it figures out, okay, initiate checkout, comes before Add to Cart, okay? And it's going to try to optimize for each layer, okay. Now this is the problem that I just noticed on this page. If somebody's browser like shrinks to this size, some of the text blocks get all,
+
+[770:33] David T: all whacked out, don't they? Yep. And let me contact the let me do some playing around with that, and contact the developer and see what he
+
+[773:04] Jeremiah Krakowski: can Yeah, for me, yeah, because that's,
+
+[774:44] David T: it's under the sink,
+
+[775:09] Jeremiah Krakowski: it's, it's, it's, it's supposed to be responsive, but it's like, yeah, it gets to a point where
+
+[776:36] David T: it's responsive to a phone, but not to
+
+[777:42] Jeremiah Krakowski: Yeah, it kind of clicks over to a phone right here, and that works fine. But if somebody is like, has like, their browser a small window like this, it's gonna look like this.
+
+[780:44] David T: I mean, yeah, we don't want that.
+
+[781:29] Jeremiah Krakowski: So that'll that will need to be fixed as well. So now we have your pixel set up. So now the main thing is, is you set the ads. You set the ad up itself.
+
+[787:58] Jeremiah Krakowski: One of our ladies in in the group, she's been trying to make offers for like, three years now, yeah, she just made 300 bucks selling her own offer. Oh, really this past week. And she's, like, the least technical person, you know? Oh, wow, that person so telling you if she could do it, anybody can she. And the biggest thing she said was, what helped her was she finally just kind of, she realized she had fear around launching the ads and launching an offer, and kind of breaking past that fear and the limitation that she was putting on herself was the biggest
+
+[798:20] David T: yesterday's call that you had that revelation, or
+
+[799:02] Jeremiah Krakowski: Yeah, yeah, she was on there. So cool. Anyways, yeah, when you create, when you create a campaign, now you can go under sales as the campaign objective. And this I'll use, I usually do ad set budget, but you can also do campaign budget. Doesn't really matter. Conversion. You want to set
+
+[806:46] David T: this subset of a campaign, I guess,
+
+[807:20] Jeremiah Krakowski: yeah, yeah. A campaign has an ad set in it, which has ads inside of it, so each one's a container,
+
+[808:59] David T: yeah, yeah.
+
+[809:38] Jeremiah Krakowski: That whole container concept was really hard to teach people when it first came out. It's like, it's like, it's like, you have containers inside of containers, and they can, can have more containers. Yeah, so anyways, yeah, maximum number of conversions website and app. That's what you want to set right there. And then you do your conversion goal. You
+
+[820:11] Jeremiah Krakowski: Oh no, sorry, this. See this where it gets me messed up. Multiple, that's not what you want. You want. You want
+
+[821:41] David T: single Gotcha, okay,
+
+[822:23] Jeremiah Krakowski: website, there you go. Then you can select your data set right here, which says kill data set, and then you have your conversion event. And what I like to do is add to cart, or you can do the Initiate checkout. But add to cart is pretty good because it's people that are clicking the Add to Cart link. Yeah. CART link, yeah. And then you can set your targeting. You set up the ads with the the graphic and the copy right here, yep. And one other thing with the copy that I sent you, you're going to want to have the number, the dollar sign, $37 in all of the ads. Okay, so you want it very obvious that it's a paid offer, because here's what ends up happening. Meta is going to send you a bunch of traffic to people that are not going to want to pay money,
+
+[837:15] David T: yeah, but if
+
+[837:35] Jeremiah Krakowski: you include in the in the ad itself, $37 Mm, hmm, everybody's going to ignore it that doesn't want to pay, but people that are willing to pay for something, they it will then show the ad to them, and so that right there literally changes the ad pointing to the right people. So if we go into what I sent you there, you just kind of like, write it like this, like, so it says $37 right there, but you can put it at the beginning of of this, like copy right here. So, like, you would like, kind of write it like this, and you just put like $37 like at the beginning there, right or $37 class or something like that. That's how I do it. And then some of these headlines aren't that great. Yes, we have here. So let me pull up
+
+[852:01] David T: more headlines. Write me
+
+[852:22] Jeremiah Krakowski: 20 better meta headlines for this. So I wrote some good copy. Let's come up with some better I usually only use one headline. I want it to be real, kind of succinct.
+
+[857:38] David T: So this cat ad copy coaches are something I get access to somehow
+
+[859:20] Jeremiah Krakowski: in chat GPT? Yeah, I can give you a link to it.
+
+[860:38] David T: I can play with it some more.
+
+[861:03] Jeremiah Krakowski: Yeah, I can give you this link right here. What I need to do is, I need to. I need to. Then I should just load up all my ads training and do it. And I should make gpts for just every little kind of function. Yeah, that you guys do. You know, it's funny. I said I would do that, like four years ago, and I never did. There you go. So I'm finally using the gpts for people. Yeah, there's that, there's that ad copy one right there, the meta copy coach. It's really good. I just I kind of prompted it as far as what to do to write good ads. And they're pretty good. So just Ben it pulls it from the landing pages.
+
+[873:54] Jeremiah Krakowski: Oh, poop, what do we have? No one of the headlines I liked that it gave us was it was like so you could do $37
+
+[879:31] Jeremiah Krakowski: No business or selling needed. Could be your headline right there, yeah, or like, $37 Yeah, just $37 and so, like, that would be the headline. So, like, if we go into into meta, that's going to be this, like, bolded text right here,
+
+[885:55] David T: right? That's the bolded text, yeah.
+
+[886:42] Jeremiah Krakowski: Or it's like this bolded text right here,
+
+[887:36] David T: right? That's where it shows up. So
+
+[888:15] Jeremiah Krakowski: it kind of show up there for it. Here's, there's my ad. See, look 495, Instagram ads playbook, and I even have it in my video right there, right this has been my best ad right here, with the girl. And then I have me in the corner right there, and then I pop on the screen and I like, yeah, sell it. And then it goes straight over to the page right here. That ad is working great. I've had some people. They're like, Oh, you're using like. The like. You shouldn't use AI in your ad, but it's converting and selling like, amazing. So Right?
+
+[897:48] Speaker 2: Exactly what's working on Instagram you're a course creator or a coach. If you've been trying to figure out Instagram ads that actually work, listen up. You need to grab Jeremiah Krakowski. It walks you through step by step, exactly what's working on Instagram ads right now, creative targeting, set up all of it so you can run campaigns that bring in your result.
+
+[902:56] Jeremiah Krakowski: Listen, could you hear it? Yeah, I could, yeah. So that's, I mean, that ad is working great. So I made that with Sora. I didn't even take the Sora watermark off of it.
+
+[906:41] David T: I see that, yeah,
+
+[907:23] Jeremiah Krakowski: still works. Yeah, the copy is simple. Want to run simple, low cost Instagram ads for your coaching business. I put together a $5 masterclass. I mean, it's, it's so simple, that's why it's converting so well. It's like, it's so clear what they're getting, right, and it stops the scroll when they see the girl there and that. And then they're interested in, like, what they offer is,
+
+[914:24] David T: yeah, yeah. And
+
+[915:03] Jeremiah Krakowski: then they click here, and it's like, it's, oh, it's the same guy who is on the page. He's right here, okay, yeah, there's some congruency there as well, yeah. So I think that that's a that's also just a big factor is the authenticity of that type of an ad, absolutely. So that's kind of, that's kind of where the stage you're at now is kind of play around with either use Sora to make some ads, and I just used, I used in shot to just edit myself into the video in shot on my phone.
+
+[923:36] David T: Oh, okay, yeah, that's all I used superimposed yourself on there, yep.
+
+[925:03] Jeremiah Krakowski: So all right, so let's get that going. What you could do is you can invite me to your ads manager so that I can take a look at the ads. Once you get it set
+
+[929:11] David T: up, okay, just send you an invite to your to your Facebook account, yes, or your email.
+
+[931:29] Jeremiah Krakowski: You need to send it to my email and then tell me that you invited me. So send it to this email right here. I just put it in boxer.
+
+[933:32] David T: Okay, then, do you
+
+[933:51] Jeremiah Krakowski: know how to invite somebody to your ads account? Yeah,
+
+[934:31] David T: I've done that before. I think, I think, figure it out.
+
+[935:20] Jeremiah Krakowski: Okay, great, yeah, invite me to it, and then I can go in and I can take a look at all that.
+
+[936:40] David T: Okay, all right, all right, I'll do that. Cool, sweet.
+
+[940:24] David T: All right, well, I think this is good. I appreciate your help. Yeah, no problem.
+
+[942:20] Jeremiah Krakowski: All right, you have a good one. You
+
+[942:46] David T: too. Bye, okay, soon. Bye.
+

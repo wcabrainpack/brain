@@ -1,0 +1,362 @@
+VIP Coaching Call
+Date: 2025-11-04T23:41:25.000Z
+Duration: 61 min
+Otter ID: 8fPuJSRu2BT8R4x_DTFY4wMoDZ8
+---
+
+[3:46] Jeremiah Krakowski: All right, Mr. David Joel, how you doing? David Joel,
+
+[7:20] Speaker 1: I'm running around like a chicken with its head cut off. Yeah. Why is that? Well, I was I'm trying to leave to California, and my daughter's still in a hotel, and we got a fundraiser going on GoFundMe, yeah, and that's raised about 3700 so far. Nice, but I'm trying to find a place for them to live that's, you know, something that's affordable. So I was spent half the day doing that and getting back over here. I just haven't had a chance to do any business stuff today. And then last two days I was gone in Cincinnati. I bought a car yesterday because I hated the one I had.
+
+[19:10] Jeremiah Krakowski: Yeah. What'd you have?
+
+[20:18] Speaker 1: I had a 2023, Nissan Rogue, okay. What'd you get? I like, I like the car. I just hated the engine. Yeah, what'd you get? 2025 Nissan Pathfinder. Okay, I like the whole Nissan interior and everything. I just didn't like that engine in that other car.
+
+[24:58] Jeremiah Krakowski: Yeah, this is the Pathfinder. It's a
+
+[25:41] Speaker 1: little bit bigger. Yeah, it's got a v6 instead of a three cylinder.
+
+[26:39] Jeremiah Krakowski: Oh, yeah, yeah, the Nissan three cylinder.
+
+[27:45] Speaker 1: Yeah, the turbo is what I didn't like. The Turbo thing has this weird hum, whining sound that come kicks in a certain RPMs, and it just drives me insane.
+
+[30:16] Jeremiah Krakowski: Yeah, we were, we were looking at the Nissan Armada, or the Infinity QX, 80, oh, yeah, yeah. For a while, basically the same vehicle, yeah, but we decided on a Ford Expedition instead. So okay, we got a ford expedition that had like 30,000 miles on it, and picked that up, and then they were able to give us, like, a five year extended warranty on it.
+
+[38:16] Speaker 1: Oh, good. Was it like a certified, pre owned type situation? No, it
+
+[39:19] Jeremiah Krakowski: wasn't certified. But they, because we got it from a Ford dealership, they were able to warranty it as if it was, Oh, good. So we found out there's a little bit of frame damage on the front end of it, not bad enough that we need to fix it, but they won't fix it because they claim that it happened after I bought the vehicle, because that's when I found it,
+
+[45:22] Speaker 1: even though I, like, we never hit anything, I
+
+[46:16] Jeremiah Krakowski: didn't hit anything. So, like, I'm like, my insurance won't cover it because I have no evidence that I hit anything. But, yeah, my with the dealership won't fix it because they don't know if it happened before, you know, after I bought it. So, like, oh, yeah, right. It's only the front bumper. It looks like it was in a wreck before that was never disclosed. So drives fine.
+
+[52:27] Speaker 1: So that's cool. Well, we
+
+[53:36] Jeremiah Krakowski: got to get some some stuff going for you. You know, get some stuff going in gear
+
+[55:21] Speaker 1: this. Let me tell you what I did do, as in his last last
+
+[56:05] Jeremiah Krakowski: week, yeah,
+
+[57:04] Speaker 1: I'm in this training thing with this guy named the infamous Joel. And he's a AI type guy. He does AI automations and stuff. And he's, I engaged with him back in the in the fall, because he's doing some stuff I want to learn how to do. And I was going down this path, and it seemed like something like, there was, like, this old material that was like from May, and it wasn't working. I finally got on a call with him, and we discussed, he says, oh, man, that's, that's the old stuff. Let's start you over with the new and so I got, I got all my stuff that I was working on fixed, and I can move to the next step. And he's doing, he's doing business consulting and stuff too, but he's got this AI thing where he has a an avatar that he automates, sticks the picture in there, and his whole thing, writes the script, does the video, post it on Instagram. I mean, it'll get ready to post on Instagram. He'll review it before it does, yeah, on his social media. And it's got, like, affiliate links on the in the description. And it does an automation, if somebody comments, it'll reply and all that all. I mean, he says, once you have this all dialed in, you need to about once a week, you need to spend about an hour reviewing your ads and see how they're doing and make any tweaks and then let it run again. And he's also been setting up automations for businesses and getting paid pretty high funding. Yeah. So anyway, this is all with the AI stuff we talked about last time and I had. Kind of been stuck for like, a month, and I finally moved forward. So that's the one thing I can say that I that I did
+
+[82:01] Jeremiah Krakowski: that's good. Did you go and start making, like, start using it to start create
+
+[83:10] Speaker 1: something? Not yet. No, I had to fix my website and my paypal links. I got that part done. And there's one more thing I got to do before I can go to the next step before we get ready to run the automations. Yeah?
+
+[86:41] Jeremiah Krakowski: Well, I think you could create, like 10 you create multiple pages with different avatars too, that do stuff, you know, start with one and then create a second one, right? Do that?
+
+[90:17] Speaker 1: Yeah, the way, I do want to make one of myself, for sure, but I want to have, like, he has this redheaded, kind of, like, groovy chick, you know that he, that's his, his avatar that does all his videos and stuff. It's kind of cool.
+
+[93:44] Jeremiah Krakowski: Yeah, yeah, I see it. I'm looking at his right here. Um, and so does he do it where, like, he'll generate it, and then he can, can he just talk on a video? And then it'll superimpose it onto that one. I don't know if
+
+[98:07] Speaker 1: he's doing that. I think he's loading it. He's putting a script in there, and the AI just uses the script to create a video.
+
+[99:52] Jeremiah Krakowski: Okay, is it using, Hey, Jen,
+
+[101:25] Speaker 1: I'm gonna have to look. I can't remember which one it's using, but there's a
+
+[102:24] Jeremiah Krakowski: couple of ways to do it. Yeah, he
+
+[103:12] Speaker 1: used recently, actually, let me go look at the notes, because he sent me some notes, and let me find here.
+
+[105:01] Jeremiah Krakowski: There's a few ways to do it. Another. Another one is where you can you have the avatar, and then you're able to, like, record a video of yourself with with the motion so you're like, the motion capture, and then your audio. And then doesn't matter who you are, you can then use runway to superimpose that onto the video, and then you can use 11 labs to change the sound of the voice.
+
+[114:26] Speaker 1: Now here's the thing he's currently using, because it puts every all the tools in one thing. Okay, he used to, used to use a couple different tools, and now this is like, the one thing that like, does all the stuff
+
+[117:43] Jeremiah Krakowski: I see. So, yeah, so that's creating characters and doing that that way. Okay, for for video. I wonder what it's using for video. Either way, like, this is all like, that's a, there's a great need in the marketplace for that right now. People are wanting that this is his,
+
+[126:31] Speaker 1: this is his girl that he I just sent you her. I forget what she calls her. There's, there's a name he has for her. He talks about her all the time. So I looked
+
+[132:07] Speaker 1: at my list of things to do. There's only one thing left to do before I can go to the next step here. And I was hoping to do it this morning, but I ran out of time, so maybe this evening I can Okay, then I got to get on another call with him so we can do the next thing that we're supposed to implement.
+
+[138:15] Jeremiah Krakowski: The the movements and the motion seem, yeah, yeah, it's probably using a combination of strategies Well, either way. So like to sell something like that again, through ads. Is he selling like a paid mini course as the front end.
+
+[145:11] Speaker 1: He does have a funnel that I'm going to be able to take advantage of, that basically will sell some of his stuff. He does have a tool that he's got, a rebranded, go high level, that people can use too. But so there's that, and then it's more, just more like the understanding of how to use the tool, how to use the automations. He's got a whole bunch of NH, n, a n, a n scripts that he's continuously developing and putting into the school group that we're in. Okay? So once, once I have the thing set up, then I can start experimenting with it. I think I just need to, I think I just need to create an avatar at this point.
+
+[156:44] Jeremiah Krakowski: So, yeah, make an avatar and start, start using that. Just get it going. And
+
+[158:42] Speaker 1: then I found this other guy that emailed me the other day, and. And I had a call with him. He's got a beta tool up that does ad creation, and it's, it's, he's going to automate ads completely with it. And it was a pretty cool demo. He gave me beta access to it to try it out, and we ran a very rudimentary version of my sales page. I don't really have a sales page. I don't really have sales page. I have an order page. And he just ran that through there and did a couple other things. It was actually pretty good. The ads it came up with, it was unbelievable. In
+
+[167:44] Speaker 0: fact, yeah, that's awesome. So
+
+[168:56] Speaker 1: right on the cusp of something here, just a couple more things. We're using
+
+[169:53] Jeremiah Krakowski: those tools, and then it's like getting, getting it going, getting because here's the thing, with ads like, you don't need a community built. Yeah. AD, it needs to trigger the per like, somebody who sees it to take action. Yes, right. And so if it's the right thing that people want at the right time in front of the right person, you can trigger that action, like, like, I'm about to launch my offer. We just finished testing all the things like that. About doing Instagram ads. Oh, okay, and it's going to be like, a $4.95 cent Instagram ads playbook. Okay, right here. And so it gives you three day access, pass 495, plus lifetime money back, guarantee. So five bucks. And then my my offer on this, I give people a 14 day trial of my Academy, which gives them I'm also bundling five courses for free that they get to keep, and they get 14 day access to my AI tool to ask questions of, okay, and so that's kind of the offer on the back end of this, for five bucks to do that. And then I did the money back guarantee, because I thought, well, if they asked for their money back, it was just a free lead that wasn't going to convert anyways. Yeah, right. So it's not really a big deal to give their money back on a free lead, and we're doing a similar offer like that, not even like the like. It could definitely be improved. This one right here with my mom, we're doing right now, okay, $9.97 the menopause optimization blueprint.
+
+[200:01] Speaker 1: Is this the thing the class she did the About a month ago? Yeah,
+
+[200:51] Jeremiah Krakowski: we've sold 1000 of these. Okay, um, in like a month cool, and we're selling like 10 to 20 a day, with the ad spend set to 100 bucks a day. And then the upsell, people get a one time coupon to join her Academy right here, which includes her AI bot and her coaching. And so the coupon bumps this price down to 97 a month. Okay, is what it does. Yeah, I
+
+[210:39] Speaker 1: think I've been getting her emails about the $97 offer rate lately.
+
+[211:58] Jeremiah Krakowski: Yeah, yeah. So and then she also to all these people. She were also then sending emails to them about affiliate products that support what she's promoting,
+
+[215:11] Speaker 1: right, right? Yeah, I've gotten some of those. I have Yeah, she is, yeah,
+
+[216:24] Jeremiah Krakowski: she's making, you know, about 15k a month just off the affiliate offers, right? And then her menopause Academy, I think, is right at around like 30k Her stocks community is right around 40k so like, and she maybe shows up for all those for like, two hours a day. So yeah, she has a seven figure business that's generating seven figures from that. And then she with trading stocks. She made over a million dollars this year in profit trading. Cool, so, and that's like, that's my mom's kind of sweet spot, like, 2 million profit without a lot of work. Yeah, yeah. She's, she's like, I'm 6061 she'll be 62 almost. And so she's like, that's my that's my retirement right there,
+
+[230:34] Speaker 1: right yeah, let that ride for a while. And then
+
+[231:43] Jeremiah Krakowski: so, yeah, well, we got, we got her up to, like, the peak of when we were building stuff. She did 20,000,001 year. And then we sustained her right around 6 million. When I was doing a lot of the ads, I got her up from she was doing like 80,000 a month, and then that, when she put everything into a membership, it dropped down to 20,000 a month. So she was, like, freaking out, because it was like, she would sell, we're selling all these courses and all this stuff, and it was making like 80,000 a month. Put it all in. A membership, and now I was only making 20,000 a month, but then within a month of that, there was back up to 60,000 and we were able to scale that, plus a VIP, up to over 6 million a year. Oh, good, yeah, half a million a month with that, just by scaling it with opt in offers and ads. I think we were running 80,000 a month in ads at that point. Yeah. So what I'm seeing though a big shift in the marketing landscape in 2020 in 2019, it was really trendy to, like, take your freebie and do like, a five day challenge. And then that, like, really blew up. Everybody was doing five day challenges. And now those, and then free challenges, and then kind of webinars that supported the five day challenge was the big thing from like, 2022 to 2024 and then that's when I think AI took off a lot. And what I noticed was a lot of like the free webinars and the challenges were not converting as well on everything. And now what's been the answer to that with ads is running five to $10 paid webinars or paid, basically paid, like single session masterclasses that people pay five to 10 bucks for, because kind of like
+
+[264:56] Speaker 1: going to your community college for a one day seminar, yeah, and then
+
+[266:00] Jeremiah Krakowski: you get and then you get upsold. And so you can close 20 to 30% of those people into whatever your paid offer is on the top end of that. So you have, like, a $500 class, or $1,000 class, or it's, you know, 97 a month, or whatever it is on the top end of that. But I drew this chart yesterday in our class, and I talked about this. I don't know if you had a chance to watch the training yesterday. No, I yesterday. No, I didn't. I was actually driving yesterday and watching that, because it was really, like, at least the first half was all on. Like, the science of this that we're seeing. Do you know who Neil Patel, is it? I do. Yeah. So he had, he did a whole data analysis of people's buying behavior off of paid ads, and they found that people were almost 10 times more likely to buy something that's $10 or less. Okay, so this is like, how likely
+
+[280:25] Speaker 1: they were to buy something that was like, a no brainer. It's like, almost like, Ah, whatever. Yeah.
+
+[281:26] Jeremiah Krakowski: But then once it bumped to like, 2050, 100 bucks, it was like, it dropped off dramatically interesting. So so that whereas, if you're running paid ads at this $10 or less range, because they're more likely to purchase, you can actually pay for your total ad spend by doing this, right? So that's what we're seeing with Sandy's, is we're paying for and even making a small profit each day on our daily ad spend with this $10 class. And even when we ran it for five bucks, it was the same thing it was. It was costing us $4 to get somebody to pay $5
+
+[294:17] Speaker 1: right? Okay, yeah. And so
+
+[295:00] Jeremiah Krakowski: that five, that $5 $7 $10 price point, I really like $5 because it's, like, really a no brainer, but it's high enough that I think that people take it seriously and so that, which is what I'm doing with my Instagram, one that I'm launching this week. The idea is like, if I can get, if I can get a sale for five bucks, or every $5 I spend on ads, I'm going to just raise that ad spend as high as I can on that and get as many sales as I can and run as ads as I can to
+
+[304:09] Speaker 1: it. That makes sense. Yeah. And so
+
+[305:09] Jeremiah Krakowski: it becomes your your ad cost, your front end advertising doesn't cost you anything, and you can get a lot more reach than just organic traffic, and then all that it really relies on. Now your job is, how good are you at follow up, and how good are you at selling in the actual product itself that determines your profit margins on the top end. So you don't really make anything off of selling a five to $10 deal, but you're not losing
+
+[312:32] Speaker 1: anything either. Yeah, it's basically giving a free way to build your list, and you're getting a
+
+[313:34] Jeremiah Krakowski: bunch of people in front of you that you can then make an offer to, and then that's where you're probably
+
+[314:42] Speaker 1: at least they have already invested a little bit. They're willing to buy right
+
+[315:45] Jeremiah Krakowski: that. That's how we used to do it with ads. 10 years ago, that kind of stopped working as well. For a while, that kind of dropped off and stopped working. And so that's why now, like. That's everything sort of returned back to that way of doing it that we're seeing is, is is profitable, where you charge a little bit for it, and you get people in, and then you're able to now, now the difference maker is again, making sure your sales copy is written in a way that's going to convert to people making sure that's an offer that people actually want. Because obviously, if they don't want it, nobody's gonna purchase it. Like, if I put a $10 training out there on like how to make a great webinar, I probably wouldn't get as many people as if I did one like how to run your Instagram ads, yeah, like, how to make AI content, or I did one, how to Well, I mean, I'll test out a couple of different ones, but I'm planning on rolling out a bunch of these at this at this price point, and just ramping up here. Now that I now that we got, I got some solid data, since we sold almost 1000 of these and we and I didn't see a drop off in the sales, which is really interesting. So normally, with ads like you'll see a drop off in the sales over time. Okay, with what we're doing with my mom's offer, there's not been any drop off. It's just still been consistent every day, a bunch of sales coming in
+
+[341:57] Speaker 1: with the same Facebook is finding the people that are,
+
+[342:38] Jeremiah Krakowski: yeah, people that are going to purchase, and then they're purchasing, and it's just showing it to those people. So, yeah, it's really, I think, a good strategy, and it's, and it's something I've noticed now, like, if you look at most people that are running ads, that are out there, they're either running ads to book a call with them, and that's usually to sell you on, like an agency offer or a high ticket but I think a lot of the high ticket stuff is moving away from that, from for coaching. Most of the coaches are selling these low priced offers that then end up selling their programs on the back end of
+
+[352:46] Speaker 1: them, on the back end, yeah. And so it's kind of,
+
+[353:53] Jeremiah Krakowski: it's what's working right now. And I don't think it's going to necessarily work forever, because I think more and more people are going to start doing this, and
+
+[355:53] Speaker 1: then I think we'll reach a burnout stage, maybe, or something, or just, yeah,
+
+[356:59] Jeremiah Krakowski: every offer type reaches a burnout stage. But I think that we're at the place where it's not there yet, because I don't think, I don't think people are ready fully yet, because I know I wasn't 100% they're they're so used to like doing the free webinars that they're not sure if they could sustain it by charging five to $10 for the same webinar and then realizing, Oh, if you charge five to $10 for a webinar, that actually might sustain you really well, yeah,
+
+[364:50] Speaker 1: because it's helped carrying the advertising cost first of all, I guess, yep. And it's bringing in people that are little bit more likely to be willing to spend money, even though it's a little bit but yeah,
+
+[368:15] Jeremiah Krakowski: and another way to do it too is you could charge $5 for that, and then, like, if I see that conversions are low, what I could do is I could create a pre recorded five day challenge that I charge another 10 bucks for to that audience, run that to them, and Then that would convert people longer, because they're more invested with me, yeah, type of a thing so, but I don't think webinars are dead. I just think we need to start charging money for them, for for master but I think, like, if you have a master class or something, that's like a front end offer that you're running ads to, it's gonna be hard to get enough people at like a 20, 3040, $50 price point. Whereas you're going to get a lot of volume that you can sell to with that $10 or less price point, you're not going to make it necessarily a profit. Here's what ends up happening if you're going to market like a $50 masterclass, yeah, it's going to, it's going to possibly cost you $200 in ads just to get somebody get somebody to pay you 50 bucks, yeah? Whereas it'll cost you $9 get somebody to pay you 10 bucks. Yeah, I'd rather just get a like 10 people to pay me 10 bucks, then try to force it with the $50 deal that losing me money, right? And that's kind of where those numbers are settling out with with the advertising. And now I think we can reach some scale with
+
+[392:06] Speaker 1: that interesting, Yep, yeah,
+
+[393:06] Jeremiah Krakowski: take that to the offer that you're building. You start charging five to 10 bucks for it, and then sell some kind of a like, 500 or $1,000
+
+[397:01] Speaker 1: offer upgrade, yeah, or have
+
+[397:27] Jeremiah Krakowski: paint like payment plans, and that'll, that'll help you. Mm. That'll help you with that.
+
+[401:21] Speaker 1: So, so, yeah, I'll go back and watch. How would you translate that to what you're doing? Yeah, I want to. I've thought about going in with a kind of a low end, front end offer, and then offering something a little bit more supportive, or whatever, you know, to for those who feel like they want to have the extra help, you know, yeah, yeah. Well, it's not
+
+[408:14] Jeremiah Krakowski: necessarily people who want extra help. What you're going to do is you're going to get people who buy from you, who they have an urgent need to get, to get a result from it.
+
+[411:16] Speaker 1: So, yeah, getting, getting the result
+
+[412:20] Jeremiah Krakowski: to the result quick. A lot of people don't buy necessarily coaching anything like that, because they need help. It's because everything they've tried
+
+[415:09] Speaker 1: hasn't worked. Yeah, what they want is something that works, and they want something that works, and they want you. They want somebody who can help them get get it to
+
+[417:04] Jeremiah Krakowski: work, and they're willing to make an investment into that. And so then that's where you package. You got a low ticket front end offer, and then we have a mid ticket back end offer, and then that's where you get your margins will start to pick up from there. And if you, and if you, if you have the ability to, you can even have people like if they want to book a call with you to chat about the offer, you could do that as well, yeah, or they could book some time to connect with you and then to buy it from you, the higher end offer,
+
+[426:55] Speaker 1: right, right? I've seen some people do that. I've noticed that.
+
+[428:50] Jeremiah Krakowski: So let's get that going. So you have your landing page ready?
+
+[430:40] Speaker 1: Well, I have a order page ready. I, what I don't have is a kind of a sales, sales oriented landing page. Okay, that is something that I have to work on.
+
+[434:10] Jeremiah Krakowski: Here's, here's what I would do. Take, you're gonna do this, AI avatar thing.
+
+[436:20] Speaker 1: I am gonna do that. Yeah, okay, so let's take, I'm gonna use that to like, do content online, on Facebook and Instagram that will help to generate curiosity about the offer. You know, yeah, use that to be my spokesperson, sort of, I found
+
+[443:54] Jeremiah Krakowski: this. You see, this is how I like to do this part of it. So, like, you know of a couple people that are running offers for this, so let me, let me just show you, like this is how I would, I would do it okay? So we have his right here, automated affiliate that's right here, right? He doesn't have a lot of sales copy on here, though, interesting. So this goes into like his book, a call page, okay, what was the other one?
+
+[455:29] Speaker 1: Who is the lady? Face forward, oh yeah, Katie cross,
+
+[458:32] Speaker 1: that's her school.
+
+[461:54] Speaker 1: See, yeah, she's sending people to her school page. I know that she's getting ready to do a launch this weekend, I think.
+
+[464:30] Jeremiah Krakowski: So here's what I'll here's what I like to do. Like you can find a lot of this through YouTube. Okay, so he's reviewing it. Very welcome. Does he have an affiliate link right here? Details emailed to you.
+
+[471:25] Jeremiah Krakowski: It's my spam email address.
+
+[473:59] Speaker 1: Sends your to her affiliate landing page, basically with his, you know, obviously embedded affiliate link.
+
+[475:51] Jeremiah Krakowski: Oh, interesting. So she uses,
+
+[476:49] Speaker 1: a lot of the people on standstore do that. I see that they're all using, like an unlike an
+
+[477:55] Jeremiah Krakowski: image. Now they're using images because Stan store doesn't make good sales letters very well. Do. By itself. I see. Let me see if this works, though.
+
+[483:36] Jeremiah Krakowski: Now it didn't copy the images, though. So
+
+[485:56] Jeremiah Krakowski: here's what I'll do, watch this print. These are little tricks that I like to do that, yeah, I quickly write sales letters. Okay, free convert right here.
+
+[489:59] Speaker 1: I've installed a Chrome extension that lets me save a web page to a JPEG.
+
+[491:43] Jeremiah Krakowski: Okay, let me see that's not the one I was looking for. Yeah, so you have a, you have an extension that does that. There's a website that I just find,
+
+[498:53] Speaker 1: web page to PDF or to JPEG,
+
+[502:31] Speaker 0: I submit, convert,
+
+[506:32] Jeremiah Krakowski: then go to chatgpt I'm creating and creating a lead magnet offer similar to this. This offer, can you take this sales copy and turn it into some copy for me to create a $10 product I can sell? I'm cell
+
+[513:02] Speaker 1: and, yeah, attach the image that you just created. Oh, it's still converting Interesting.
+
+[516:03] Jeremiah Krakowski: Yeah, so it'll just read the image.
+
+[518:23] Jeremiah Krakowski: There we go, download
+
+[520:40] Jeremiah Krakowski: it's going to do it as a zip file.
+
+[522:09] Speaker 1: Oh, okay, I don't think, I don't think you can compress JPEGs very much. Whoopsie. There we go.
+
+[527:04] Jeremiah Krakowski: No, you can't compress JPEGs, but they probably are just trying to package it. Yeah, way, that way.
+
+[531:17] Speaker 0: Oops.
+
+[533:43] Jeremiah Krakowski: Okay, it's on the desktop. So we're gonna go add photos and files desktop. I
+
+[537:04] Jeremiah Krakowski: have so many just random screenshots and stuff on here. Let me see
+
+[541:42] Speaker 1: where is it?
+
+[545:49] Jeremiah Krakowski: Okay, so there we uploaded the photo, okay, of her sales letter to chat GPT creating a lead magnet offer similar to this. Can you write? Take this sales copy and turn it into some for me to create? To create a $10 product? So, like, that's what I would do is, as you could literally take what's already a proven offer that works, and then have chat GBT write you some of your own copy. I can send you what this creates, and then you just put that on a landing page with some images, and you have your landing page now.
+
+[557:21] Speaker 1: That's way easier than it used to be. That's for
+
+[557:51] Jeremiah Krakowski: sure. Yeah, that's how I do most of the sales copy and sales letters that I do. Yeah, it was I'll take. I'll take like, three or four kind of similar offers that are out there, and then I'll and then I'll start to rewrite certain sections of it in a way that I know might convert better, right? Might read better, right?
+
+[563:32] Speaker 1: Yeah, absolutely, to do that for sure. Yeah.
+
+[568:42] Jeremiah Krakowski: Go awesome. Here's a clean original sales page you can paste into a landing page builder, the $10 reels AI, so you can do like the the $10 AI video starter kit create scroll stopping videos in just six minutes without a team fancy gear, guessing what to post, perfect for coaches and experts who want to reach more get more leads just Like you you're posting, but view stall followers, don't convert your talking head. Clips feel flat. You got ideas, but blank screens. Perfectionism kills momentum. You keep using hearing, use hooks, use B roll, but you don't know how to what you'll have by tonight three ready to post videos done for you inside. So this gives you like kind of just something that you could start with right for some sales copy. Now it's interesting. I've been testing organic content, some AI generated reels on my page this, this one's AI generated right here of me just cutting potential. Potatoes and carrots, and then I added and then this text is not AI generated. I wrote this up. Okay, so I came up with this text with a hook right there. But that one's reading Well, this one's reading well, too. Mm,
+
+[593:13] Jeremiah Krakowski: I don't make cringey AI videos do this instead. So leading with like a negative hook, right? Freebies aren't worth it to run ads to anymore. Negative hook, when motivation fades, negative hook. So I'm starting with that kind of
+
+[597:43] Speaker 1: negative, yeah.
+
+[598:48] Jeremiah Krakowski: I'm testing that out too with certain videos that I have right here, where I'll have videos of me, but then I'm adding a hook to the beginning of it where I'm like, Oh, I have such high standards. Why are things not working out how I want them to check this out. And then I go into a video of myself talking, yeah, okay, but I'm using AI to help me with some of these different, different hooks, right?
+
+[607:49] Speaker 1: Okay, so the biggest thing is, like, that sounds like something I can do,
+
+[608:51] Jeremiah Krakowski: yeah, use AI to do. Like, most of the stuff that we have to do for marketing, we have to come up with ideas. We have to come up with and do that, have the AI, like, get you 80% of the way there, and then rewrite it a little bit, you know, make it sound a little more natural, and that'll work a lot better.
+
+[614:07] Speaker 1: Yeah, that way.
+
+[616:14] Jeremiah Krakowski: Did what I did, what I texted you the other day. I know you responded. You said, got
+
+[617:27] Speaker 1: it? Did it? Yeah, it helped. In fact, I listened to a webinar yesterday. There was a five day challenge right now going on, and I was listening to it on the way when I was traveling Valerie el her, or whatever her name is, she's a coach. That's you want to
+
+[620:59] Jeremiah Krakowski: hear something funny? Yeah? What's that I grew up going to church with her? Oh, really, yeah. I used to spend a bunch of time at her house with her and her sister. When I was younger, I had the biggest crush on her, too.
+
+[624:45] Speaker 1: Oh, my bad. She's kind of cute. Yeah, no, I wouldn't be, I wouldn't be hard,
+
+[626:10] Jeremiah Krakowski: but I grew I grew up. We were, we were friends in Michigan growing up. So yeah, that's awesome.
+
+[628:22] Speaker 1: Yeah, she had an amazing, she had an amazing presentation yesterday. It was really good. I want to listen to it again.
+
+[630:34] Jeremiah Krakowski: That's awesome. I'll have to check that out. I have not seen what she's been doing lately.
+
+[631:45] Speaker 1: Yeah, she's been kind of under the radar. I haven't really seen much. All of a sudden, I noticed an ad or a post from she's doing a five day free challenge, okay? And it's to help you figure out what your offer is and get an offer. And yesterday was all about mindset and about position. You know, your internal, yeah, approach, very it was really good. That's awesome. I'm just wondering if she's listening to like, what's his name? I. Myron golden or something, because some of the stuff she talked possibly similar. I mean, it was her version of it, but I've, I've heard similar things from him before.
+
+[642:10] Jeremiah Krakowski: Yeah. Does she still have the the training you can opt into?
+
+[643:32] Speaker 1: Maybe I have to look and see I've been getting her emails. I could probably see, hang on a second. I stuck her in a in her own folder. I
+
+[645:43] Jeremiah Krakowski: want to see the the one that you just watched. I'd love to hear it.
+
+[648:13] Speaker 1: Let's see that was yesterday. I wonder if it's in her Facebook group. Maybe I can find a link in there. She has a Facebook group, and she had sending people in there to do some activities. Okay?
+
+[651:40] Jeremiah Krakowski: Yeah, she's using evergreen webinars and stuff too. So, yeah, just know, just knowing who she is, I know that she's a she's a good she's a good person. She's legit, yeah, so
+
+[655:51] Speaker 1: I kind of ran across her a few years ago when she was doing more prolific posting at the time. But I think she's kind of done something different, because apparently she's had some really good success with folks that she's coaching. She kind of went through her original how things started for her and how slow it was, and how she figured out that she needed somebody to help her, you know? And, yeah, figure out what, where she was going off the rails, but Right?
+
+[665:59] Speaker 1: I have to find her Facebook page. I'm not married. I'm not, no, I found it. She's got a group somewhere that it's probably in my emails here somewhere. Yeah, I found it. Okay.
+
+[671:28] Speaker 1: Huntington Beach, California. I wonder if she lives there. That's just where her mailing address is.
+
+[672:30] Jeremiah Krakowski: No, that's where she lives. Yeah, yeah, she lived there for a long time. Oh, okay, yeah. Well, cool. That's awesome. Very cool. So, yeah. So what I had sent you the other day was just like, like, sometimes we just, we have to, when our backs up against the wall, we have to just take action and just do the thing that we know we need to do. And taking a deep breath, like, when you first came on the call, you said that you were running around like a chicken with your head cut off, and so. So part of it is, like, there's a good advantage to that. The other, the other part is, is like, you know, when we can take a deep breath, we can breathe through the tough things that are going on, we can start to get more creative on certain things. And we can, we can hear our inner voice and our intuition better. Do you? Do you? Do Do you often, like, hear, like any kind of like intuition or inner voice that directs you for things?
+
+[692:37] Speaker 1: I don't know how to bring it up more frequently, but the only time I seem to really do it is like, when I'm like, you're doing, like walking somewhere, doing like your treadmill or, well, sometimes in the middle of night, I wake up and a thought comes through my head, and I, you know, I should write it down somewhere, but I'm not prepared to. And I'm not prepared to. I don't have the environment, something sitting there. And
+
+[699:03] Jeremiah Krakowski: those are great Those are great examples, because what's happening is is physically, your body is doing something that is automatic. You're either walking, you're on a treadmill, you're sleeping, and so your mind is able to relax enough that then you get a thought that pops up and does and and pops in like that, right? I've found that you can, you can cultivate that throughout your day to where you experience that often and on demand when you whenever you want it to
+
+[709:48] Speaker 1: that would be cool, yeah,
+
+[710:23] Jeremiah Krakowski: and where you kind of like, and so for me, like, I'm really struggling to again, walking on a treadmill or doing something like that, that helps kind of break us of, like, when we're doing something else, that helps break us up from what we're focused on. So we're focusing on something else, like I'll have ideas and stuff while I'm making breakfast, or while I'm making a meal, or something like that. Those they pop in at certain times, yeah,
+
+[718:23] Speaker 1: because your brain isn't in that mode of working and trying to look supposed to be doing. So it's worth I.
+
+[719:52] Jeremiah Krakowski: Yeah. Whereas oftentimes, if you're just like, hey, I want to come up with ideas for my business, our mind goes blank if we're focused on that thing for our business. So what I try to do is I combine some sort of activity that kind of takes my mind off of business with the internal intention of where I want my mind to go. So I know that I want my mind to come up with ideas creatively for solutions to things that I am unsure of. Sometimes I'll even do it like before bed, I'll like, think about that thing that I want a solution to, and then I'll fall asleep with that thing in mind. Oh, okay. And then I'll come and I'll wake up with the solution to it as well. And I've done that for a long time. And so it's just using your mind in a way that gives you the information you need when you need it, and it can come in a lot of different ways, like you said, treadmill, things like that. Sometimes, like, if I'm playing a video game, it can if I'm watching a TV show. So I'll use, like, strategic procrastination when I need creativity, just like subtle amounts of it. But then also, if I can just sit, be still and calm, like calm down to where I'm not thinking of anything like that. Have you ever done any kind of just like meditation, where you're observing your thoughts as they go by and things like that?
+
+[745:50] Speaker 1: And meditation is something I've not really just participated in, really, except in specific structured environments, like if I'm going through, like a class or like a Jeff, I did a meditation.
+
+[750:28] Jeremiah Krakowski: One of the best thing that helped me with it was just this app from headspace, yeah, right here. And what they have is they have, and there's a lot of them on YouTube too, just like a recorded mindfulness meditation, okay,
+
+[756:18] Speaker 1: to meditation from Ian Stanley, that's supposed to be about money generation. You said it works. It actually works.
+
+[758:05] Jeremiah Krakowski: Yeah, that that works. I'm more look for like, calming your nervous system, managing anxiety, inner peace type meditations, okay? Because then I'm because then what happens is you get creative thoughts that come out of this. Oh, okay, that's a different because you're creating that sort of meditation of inner peace, and then, and so, like, a lot of times, they'll have you like, focus on your breath, and then they'll have you like, focus on, like, doing a body scan from the top of your body down, type of a thing. Oh, okay. Have you done anything like that before? No, so that's really effective. I do it just throughout the day, and I learned how to with the headspace app. Oh, okay, and it was actually that was Rick Pino that told me about it when I was working with him, he told me about headspace. He said it helps him, just like, get a lot of creative ideas, when he has a lot going on, he'll just take some time, 20 minutes, to just kind of go through the meditation inside the app. It's on your phone, and they have a free version of it, and then, like the paid one is, it says it's $12 a month. But you could probably, here's the thing. Let me see, I would bet somebody's just put a lot of them, the main ones, on YouTube, and space meditation. I'm sure they've tried to take them down meditation to reset, decompress your mind and body. That's probably a good one, right there? One right there for for stress, settling a racing mind, breathing stress away. Bring joy into your day. So those ones that are on on YouTube here would be the perfect type of, like, they would go through that process, okay? And then what I learned was, like, how to kind of do that without needing it to be guided, just how to, like, take myself through it anytime I need to within a couple of minutes, oh, okay, just to kind of like, breathe through and like, calm, calm yourself down, and stuff like, stuff like that. It's helpful just for creating, like creativity and getting ideas. And it seems so silly, but I found that as an actual tool of creating in my business and in my. Life. It actually works really well, oh yeah, as an actual tool of coming up with ideas for my business, coming up with ideas for what I want to build, if I'm stuck on something, if you got a lot of stress going on around you, it helps you kind of find this, like centered place where, for a moment, your mind and body sort of forget all the crap that's going on, okay? And then, and then it opens your mind to being able to have these creative thoughts. And then, and then you remember all the stuff that's going on in your life and all that. And it kind of comes goes back to where you were, but, like, it's not a permanent thing. It's the practice that we can that we can get into as part of while building in the middle of chaos or chaotic moments that can help. Oh,
+
+[814:45] Speaker 1: okay, yep, that's interesting. Yeah, I'm I've had some interest, because a lot of people, of course, talk about meditation and how beneficial it is. And I'm now you, you know, kind of reinforcing that again, this is something I probably should
+
+[818:47] Jeremiah Krakowski: I'd say the main benefit is, like, what I've told you, is it just helps you hear your intuition more often and kind of more on demand. Okay? Cuz a lot of the meditation will then have you sort of, like, observe thoughts as they go by, right? But not grab onto them. And then sometimes. So there's kind of two ways to do the meditation. I'll do it where, like, I'll observe the thoughts and let them go by, but then what I'll do is, and that's just like, calms you down. But what I'll do is I'll observe thoughts that come in if they're related to my business. Oh, I'll start to grab onto the ones that are related to my business as they come up, yeah, in the meditation and scientifically, what's happening is, is just the neural network in your brain is just firing random synapses of sort of its stored memory. It's kind of like a memory dump in a computer, like, like a computer has garbage collection if the memory and the RAM get too filled up. Meditation sort of does that to your brain, a
+
+[837:44] Speaker 1: little bit like a human version of garbage collection out
+
+[838:30] Jeremiah Krakowski: Pretty much, yeah, exactly software development, and then it lets everything run a lot quicker that way. But yeah, it's exactly what it is, exactly. Probably the best way to describe it only as somebody who understands computer science would understand right explanation, right exactly, but that's exactly what it what it does, and then, and then, sometimes what you'll find is, like, in the garbage collection, you'll find gold in there too, that you can grab on to. And that's, that's, that's not about it, yeah, too. So not, not everybody, like, necessarily, is going to encourage you to do that with meditation, yeah, but that's how I found it can benefit me, is like, grabbing on to ideas that I want. Okay, it could be, well, it could be as simple as, like, you're stuck with this offer that you're creating and you're you're not sure what, like, what the next three steps are, you just kind of go into the meditation with the intention to have clarity on that, those three things, and then now, where I got I got myself in trouble a little bit was I was trying to then just meditate for everything that was going on in My life. Oh, and that didn't work, because then I was literally just kind of like, I couldn't seem to, like do it. So I found, like, I don't do it as often, because I was doing like, multiple times a day. I wasn't necessarily reaping the benefits of it. I was just getting really relaxed and kind of numbed out.
+
+[864:12] Speaker 1: Interesting, yeah,
+
+[864:39] Jeremiah Krakowski: like, then I wasn't necessarily getting the benefits I was looking for from it. So I found that, like, you can, you can kind of overdo meditation a little bit, and then you're like, Okay, that's not helping, but, but, like, in small amounts, it can be really helpful. Business standpoint, yeah,
+
+[870:41] Speaker 1: wow, yeah, that's very helpful,
+
+[871:31] Jeremiah Krakowski: yeah, because you add that on to everything that like you've been doing, you've been learning, and it especially applies to situations like what you're experiencing now, where there's a lot of chaos going on in your life, helps you kind of take control of that inner chaos up here.
+
+[877:00] Speaker 1: Yeah, the chaos going on right now is I can't find the key to my car. I have two keys. Yeah, I gave her one now I can't find mine. It just disappeared. So today, tonight, I have to find it.
+
+[881:15] Jeremiah Krakowski: We attached to borrow her
+
+[881:36] Speaker 1: key to use the car earlier, we attached air tags to our car keys, yeah,
+
+[883:12] Jeremiah Krakowski: so that helps us find them.
+
+[883:34] Speaker 1: Well, yeah, I have an air tag on my key chain, but my car, my car keys aren't on that right now because I just got a new a new car, a new car, and so the key is around here somewhere. I just haven't figured out. I took this. I took this little thing off of it. Here they it came with this little card, this little thingy here that has a code on it. So that's funny. It's neat to replace the key. They know which key I need.
+
+[890:25] Jeremiah Krakowski: The zoom is blurring it out.
+
+[891:03] Speaker 1: Oh yeah, it's this little
+
+[892:29] Jeremiah Krakowski: it's funny, I can't sit here say something.
+
+[893:01] Speaker 1: It's a it's a ring. It's a ring with a little, little card attached to it. Oh, okay. And the card has a five digit code on it that tells them, you know, if I need to replace a key, or they want to buy a second one, they know which code that my car uses or whatever. Yeah, so I took that off the key and it's on my desk, but the key isn't here. Awesome.
+
+[899:54] Jeremiah Krakowski: I'm going to send you a checklist of
+
+[903:27] Jeremiah Krakowski: some stuff that you see. I'm going to send you a checklist of some stuff just from what we've talked about, okay, that we can go over
+
+[909:19] Jeremiah Krakowski: and that then, then you can have kind of like certain action steps of what to do after this. I'll send it to you over in in boxer, okay, are you still able to access Voxer? Do you just want to use Facebook Messenger?
+
+[913:20] Speaker 1: I have Yeah. Voxer, it's coming through here. Okay, let me see here.
+
+[923:44] Jeremiah Krakowski: Okay, I got chat GBT turning it into a checklist for you of action steps. Oh, okay, and then I'll send that to you in boxer. All right, that's something I again, I use AI to help us with staying organized and
+
+[936:22] Jeremiah Krakowski: see it's reviewing our transcript, and then It's creating it so it's going through all these steps,
+
+[943:19] Jeremiah Krakowski: decide On your avatar, build the avatar, launch the sales page. So
+
+[947:26] Jeremiah Krakowski: I send that to you in boxer. It's just some stuff from our call here today. Okay, I see it there steps for you to remember, so that'll help. Okay, yeah, absolutely. Send me over to the stuff that you're working on there, and I can take a look at it and give you some feedback as well. Oh, let me grab the it's not like fully finished sales copy, but the sales copy kind of flow, idea that it generated with chat, GPT for the sales letter, too. I just pasted that in there. There you go.
+
+[958:55] Speaker 1: Cool, great. I'll look at that. That's all. Righty, awesome. I get to go and clean up, rearrange my garage real quickly in about 15 minutes so I can fit my new, bigger car in there.
+
+[962:31] Jeremiah Krakowski: Okay, there you go. Alright, have fun with that.
+
+[964:00] Speaker 1: We gotta start packing too. I gotta start getting my stuff packed where I'm probably going to be not doing much for the next three or four days while I'm driving to California? Yeah, I am going to be working probably when I get to a hotel in the evenings for this guy in Florida, because I need to build some hours up so I can send him a bigger invoice this weekend. Yeah, but I definitely want to work on the AI stuff, with the avatar and stuff. Those are like, because that's going to be my next stage I can do with the famous, infamous Joel, so he can get my automation running. There you go. Perfect. I want to take some pictures of myself too, so I can use those to feed the AI to create my own like twin, whatever. And I'm not person to take very many pictures of myself. So I want to go out and get a few different angles and stuff that'll help you know representative avatar, yeah, that's Great.
+
+[979:47] Jeremiah Krakowski: Alrighty, cool. Sounds good. We'll talk to you soon.
+
+[982:07] Speaker 1: All right, sounds like a plan. Take care. Bye. You.
+

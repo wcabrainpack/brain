@@ -1,0 +1,803 @@
+WCA Live Training - January 26, 2026
+
+Jeremiah Krakowski: Alright. Hello? And welcome in today. Let's go to our… Livestream into the Facebook group. Custom streaming URL into the Facebook group. And we'll see who… Pops on here.
+
+Tiffany Quinones: Hello!
+
+Jeremiah Krakowski: Hello.
+
+Tiffany Quinones: Do you have snow where you're at? It's just pure ice outside.
+
+Jeremiah Krakowski: Alright. I wanted to… apply to… Somebody who made a post in the group before we get going. Yeah, we've had a snow and ice storm, the info about creating a web banner in Canva, so let me… Kind of pull this up right here. In the members area, I talk about this a little bit in the… In the funnel building course? We don't have a Canva course, though, and frankly, right now, I would suggest using AI to make most of your graphics, to be honest. But in this, I do go over, like, creating your landing page, and I touch a little bit on using templates in Canva to do that. I'm not even necessarily making graphics anymore for my landing pages, I'm putting Videos on them. That's how I'm doing it. So, but under the beginner courses, there is… the… and this shows you right here, AI Content Building. This will actually show you how to create graphics with AI. This one's really good. 7-figure… funnel building, designing your landing page. Again, I talk about the Canva graphic a little bit on here. a little bit of that. I think there was a lesson I had in my previous funnel building course That's in the learning library as well, if you're talking about something that I previously had. And so, I'm just gonna… tell Audrey that she can watch this. In the recording. Let me see here. Okay, right here… Is the total online six-figure roadmap, so we're gonna look at… Introduction to funnel building, building your landing page. Again, I talked a lot about stock photos using Canva right here. Yeah, creating header images in Canva, so that's right there. And then… there's also… my old… funnel building course. like I said, we don't have a Canva course, but… This should help you. Funnel building made easy for Squarespace. So it would be, again… This one on adding images and stuff like that, I think I went over some Canva stuff there. So hopefully that helps. for Audrey to… Kinda no… Where to find all that stuff, the best way to look for it… And I'll just mention to her that it was the… This is the first thing I talked about in today's call, so go find the weekly calls. In the archive… January 26th. later this week, and I show you where to find this in the members. Very odd. I'd suggest… using AI, ChatGPT, to make most of your Graphics now, for your landing pages. Not Canva, the AI content, of course, is a big one for this. That's been a big shift. So that's been a big shift lately, is, again, using AI to make a lot of your Content, and things like that, and all those different types of things, so… Graphics and stuff like that. Okay, let's see, let's go into… broadcasting this on Zoom here for this. I see we have Dorothy, we have Adele, we have Tiffany in here. Okay, go live. And I'm excited today for today's call. I've been just playing around with so many different things. The past couple of days, past couple of… past week, We're living in a new world, everybody. The new world of… You not having to do most of the work yourself at all, and not having to hire expensive VAs or even service providers to do it. And I'm thinking now, because I'm building a workflow where if somebody wants to hire me, they can hire me at a much more affordable rate. And I can just have my AI agents do a lot of this work. for them. So, let me see, live training… January 26, 2025… Join us on… Zoom here… okay, I'm gonna… Copy the invite link… Then we're gonna go… Live. Alright. So, again, as I mentioned, I just answered Audrey's question from the group. At the beginning of this call, so it's in the members area, it's not in this Facebook version, if she's watching this beginning part of the Facebook version, so go check that out over in the members area, just how to find the info on website banner creation. I'm recommending most people use something like ChatGPT or Gemini to do that, and we're living in a new world right now. a new world with artificial intelligence, where I'm just gonna give you guys just a taste of it, but I'm not gonna necessarily go over the details. I have a bot now, on my computer, it's called ClaudeBot. And this bot is able to take over my computer and do work for me, so… Let me see, just a list of what it has done so far. Since last night, without me even touching my computer. It prepared an outline for today's call. It went over all of my content, made me a list of content and YouTube videos that I can create. It created over 200 replies that I can approve and deny for X. I… it created an app Where I can approve and deny different posts for X right here. Literally, I can go through here, I can look at these different replies, trying to get some engagement going on X by doing that, just by having to do that. It's set up to do it without hitting rate limits. It mapped out all of my… Wealthy Coach Academy calls and my VIP calls into a content universe, and it's gonna start to look at what we talk about on these trainings every single week, and it's going to create a digest for me of what to talk about on my YouTube and to make content for. So now, all of that side of my business that I just talked about, I was manually doing by filtering stuff into it. ClaudeBot did it all automatically for me, and here's the beautiful part. It's now… it now created a program for itself to do that every week for me, without me having to tell it or remind it. It's gonna create articles and documents for me, and it's gonna send me these PDFs and give me access to these files that I can use. I gave it logins to my X account, my Facebook account, my TikTok, so it can analyze all my content. I gave it logins to our members area. I gave it a login to, my Otter.ai account to get my transcripts. Soon, it's gonna log into the new AI app that I created for that as well. it can… it can actually create apps, it can log into my Manus account and create apps for me. So, this is, like, almost insane. It's a human virtual assistant, basically. Human level. I'm talking actually better than human level. This is better than a VA that I hired in the Philippines could do for me, and it's free. And it's running on this MacBook right here called ClaudeBot. I'm thinking of possibly buying maybe a Mac Mini that it can run on. The only recommendation that people say about doing it, don't run it on your main computer. Run it on something, so I actually wiped this computer clean, and then I installed it. Because you're giving it so much access, it literally is a bot. It uses Claude, and then it can control your entire computer. Every software, it can log into everything, it can literally do everything. It can send text messages. I had to send a text to my wife yesterday saying… introducing itself to her. She thought it was a little weird. So all that to say, that's where we're moving into with AI. And I'm gonna make a YouTube video where I walk you through it. ClaudeBot is actually very technical to build. You have to use the terminal and do all… it's kind of technical, it's a lot more technical. Claude itself… just released sort of a version of it. Again, for you guys, the two versions that I would recommend is either over here on Claude, they have Claude Co-Work. right here, Let's see, so Claude… Claude Co-work. is a product that Claude just came out with, and anybody with a $20 account can use it. It can take over some parts of your computer and do work for you and do stuff like this, but it's not quite at the level of CloudBot, where it can literally take over your whole terminal and literally just go in the backend of the Mac and just… go to town doing anything. That's… it's dangerous. It's kind of scary. It's kind of like, okay, you know, it's… I'm trusting it to do this. You can spin it up on a virtual server and do that. I'm researching, okay, how do you make sure it's fully secure so, like, hackers can't get in, so somebody can't, like, hack my account and get access to the different logins that I've fed into it and stuff like that. So again, that's why I'm cautious to, like, share that, but that's where things are going. And mark my words, within 6 to 12 months. That's the level, that level will be available to everybody. Manis.im, again, similar type of thing. Claudebot is, like, Manus and co-work on, like. another level, because it just is so fast at what it's able to do, and how it's able to just… it just remembers my whole life. It remembers my business. It's creating a memory of all the stuff that I'm doing. I had it… I had it map out… I gotta keep… I gotta say this one quietly. I had it… I had it map out, 3 months' worth of date night ideas for me. And so the idea is, is that it's gonna… It's gonna come up with It comes up with all this stuff, and it's able to… Look at my life, And then do the work for me without me having to touch it. And then here's the other crazy part. It's connected… Through… Telegram right here. All I gotta do, I can be anywhere, and I can text it. for what I want it to do. So, like, right here, give me something that you would like it to do, and I can have it go do it, if you guys want me to tell it to do something. Actually, here, make a post on X… X… Just a normal post that says… Says CloudBot is a game changer. I gave it my… Whole business, and it… returned with… All my tasks done without me touching… anything in… Just a few hours. Alright. So, I just told it to go make this post right here, I texted it to kind of do that. Now, it's gonna take a little bit of time to actually go do this, because it has to, like, read it and then process it. But it's amazing, like, what's happening now with… with, with these tools. It's really incredible. So that text that I just sent it. It's gonna appear over here. on its… screen. Oh, here we go. It did it. It did it already. It told me it just did it. So we go right here over to X, I can have Claudebot actually, like, manage my social media as a social media manager. There we go. Let me… let me show you. That was actually a lot faster than I thought it would be. CloudBot is a game changer, I gave it my whole business, and it returned it with all my tasks done without me touching anything in just a few hours. Literally took what I just told it, and it posted it there for me. Now, that's a simple example right there, but… It's amazing. The creator of CloudBot right here, Peter, he just posted that the search terms on Google Trends is actually going above clawed code over the last 3 days. It's hit an inflection point right there. So yeah, Clawed bot, it's like a claw. Clawed. Like a little, little, lobster. So, it's amazing, just kind of what it's able to do and all that. So, anyways, that's where things are going, and that's not what today's training is about, but I just wanted to show you that here at the beginning, because of how exciting that is. Again, Manus and co-work are going to be a lot easier, but you can go grab Clawbot there. I'll make a video for it on… on, my YouTube channel, where I'll walk you through kind of the different ways that we're using it, that we're doing stuff, and how to set it up yourself. There's a lot of great tutorials as well out there on this topic that you can check out. Now, what I want to talk about today is… an offer… First, focus. And again, the idea of… doing an offer, a $5 offer, getting rid of lead magnets and all that. We've been talking about that for the last couple of weeks. Now, you might be asking. tips for evergreen funnels, 5-day course. You might be wondering, what are the best ways to gain traction and things like that with stuff. This is the best way, because it defeats burnout. It shows you… it's how to connect all the pieces, and the tools that you use are very simple to put all of this together, okay? And we're gonna talk about, too, what are the best kind of social media posts. that are getting the most traction for you, and right now, I'm actually literally using the outline that Claudebot put together for me. About this that I'm gonna be teaching you. This is based on what we've been talking about the last couple of weeks. We're gonna talk a little bit about AI agents and things like that that we're using, and all those different types of things, and how you can use them. But what I want you to do is this, is I want you to really think about your business. from a place, and I want you to feel something, okay? I want you to feel… That your business is very easy for you. to build. That your business is not… striving. is not… Stressing. is not… triggering. is not something that is going to trigger you. Now I want to think… I want you to think about… and sit there for a little bit, and this is interactive, and I want you to post a little bit in the comments. When you think about that, what are the top things that come to mind? when you think about that, that might be preventing that from being the reality for you. What's… what's coming up? for me, I think about, relationship with family and kids is the biggest number one, I would say, stressor, my time. is the biggest thing. Having a tool like ClaudeBot here, I just bought myself… My entire morning. To not have to stress. Now, I had to go… I had to go into my workday here at 11, But I was able to do that instead of my normal time of 8.30, 9 o'clock on a Monday. Because I was able to buy that time back because of what the AI was able to allow me to do, okay? And what we're looking at here is an evergreen automated business. Let's see… is that… now, I haven't watched the Hermosi interview at all. This is literally just… this is all Jeremiah Krakowski type of stuff. So I want you to think about that. the ease, the idea of ease, no stress in building your business. You can literally just go do everything. And it just works. And it just produces the result that you want. And then what comes to mind as the all… the all-encompassing reality check slap to the face. That's kind of stressful and pulls you out of that ease and flow that you're feeling. Dorothy says, the process of closing the clients. Awesome. Adele, no, Tiffany says, I have to create contract… okay. There's that. So, a couple things I'll tell you on that. Number one, you don't… you can use AI to make up most of the contracts that you're doing now. And have it kind of review it. That'll work great for you. You can use very simple tools to have people write stuff down. For the process of closing clients, again, we're starting to look at different AI workflows that can help you come up with that process. I would say the process of closing clients is you have to have some kind of a presentation, some kind of video sales presentation. And put that on autopilot, have that automated, have email follow-up. have follow-up Con- like, emails, content, text messages, social media posts, things like that. But now, again, a lot of the brainstorming and mapping that out… the process of closing a client, we can have the help of AI to do that, and again, one of the best ways that it can help with us is mapping it out for us. So, let's just do this. In my business, map out a blueprint of… The process of closing clients. Here's a client closing blueprint built for your world. Online offers, coaching, warm traffic, DMs, calls, Look at this. So now, this outline, and this is… this is some of… this is one of the coolest things. I don't know if you have this turned on in your ChatGPT, I have memory turned on in my ChatGPT. Where… where I can… it's personalized. with information about me, there's memories that it has about me that it can go through. It references my chat history for memory, and so it knows a lot about what I do based on that, okay? Now, this can apply for most of you right here. Define what you're doing. One clear promise, right? You don't want to have more than that. One clear mechanism, how you do it. Three buyer types you best serve. Pricing proof library, short wins, case studies, stuff like that, okay? Door number one, you can do the DM comment funnel. Comment, DM me, have auto-replies. going with… Manychat. ManyChat can be a great tool for you to auto-reply with people, and there's ManyChat AI that… I've not played with it, but I know they're… they're… they're building it into ManyChat to be able to even do a lot of that. One of the things CloudBot, I can have it start doing is replying to my DMs for me. It's gonna be better than Manus, I can tell you that much. One of the things CloudBot was able to do is I was able to have it analyze my style, the way that I talk. And then actually mirror that in its responses. The other one would be, like, an application funnel. Add to a webinar, some kind of an application. Or they can fill out a calendar link. Or you can have it to where they just straight sign up off of a… a call like that. So they don't even need to apply. If you have a webinar, they can just go buy it from you if the cost is less than $200 a month, like my program is. You know, I have to do a call with somebody if it's for, like, a high-ticket offer, but I don't if it's for less than that. The other would be, you know, ask clients for intros, who do you know, type of a thing. Pre-fall qualification, what are you trying to change right now? What have you tried? What… what if this doesn't change in 90 days? The pre-frame. This is a decision call. prep it. Mini questionnaire, proof link. So this would be, like, if you're doing, sort of, calls to DMs, things like that. And then kind of the process of closing people if you're doing calls, these types of blueprint. You connect, you diagnose the problem. You look at the cost urgency for them to solve that problem, help them make a decision, prescribe it. And then the prescription is inviting them to what you offer. Now, again, you can do all of this through a webinar. We do most of our stuff through automated webinar sequences that actually sell the person on joining with a 14-day trial, and then an upsell with bonuses. We then have a VIP, once they are in, that is $900… Month. the 14-day trial, Is $197 a month, and the first month is discounted to $77. After the trial. So, that's that right there. So, again, I'm giving it some context as far as what my offer stack is, and it's gonna modify that process of closing clients for that. Okay, so you're not closing on calls. Webinar to trial checkout, get them to a yes, low friction. Trial the paid member, make them feel the win. This is one area that I need to work on a little bit right here. Is this kind of retention thing? Well, I think we're retaining about 60% of people who do the trial, which is pretty good, but I think we can improve that to 75-80%, and that's what I'm going to have a lot of my AI help me with. I'm gonna have it go through and help me with a lot of that stuff. So… And then member to that. So, Big Promise, who it's for? A mechanism, your unique way that it works, proof, the cost of staying stuck, The path to success? Offer reveal, first steps plan. Risk reversal, meet expectation, and then you do your hard… your hard sell at the very end, call to action. Checkout page must restate the promise. Tell them exactly what happens in the next 14 days. handle… I could… I'm actually, like, learning some stuff off of this myself. I could add a little bit of this to my landing page, my offer. could throw this right into CloudBot, now have it start to do this. I'm almost like… I'm selling you guys on these agents, I know I am, but… and how amazing that it is to be able to, like, have a VA, a virtual assistant. I'm actually gonna get rid of… I got rid of one of my VAs, I'm gonna get rid of another one of them. Because Claudebot is literally able to take over almost her entire job. By doing this, so… Let's see, your trial onboarding, yeah, so I have an email sequence with this, I need to optimize that. Billing step… Yep, there you go. Okay. no close assists. Map out going from a $5 class to free trial. Sale and the sales process of webinars. Follow-up emails to get that initial close. from FB&IG ads, okay? So again, and ChatGPT 5.2 thinking is very smart at this stuff. ChatGPT is very good at marketing. knowledge. It knows so much about sales and marketing, it's just incredible at what it knows about sales and marketing. It's just… it's just the GOAT, I would say, at this stuff. ChatGPT really is kind of the marketing, and Gemini are really the marketing ones. Claude is a little bit better at more admin-type stuff. Here's the full blueprint right here. $5 class, Class consumption. Automated webinar invite, webinar show-up, webinar follow-up sequence for 3 days, 3 to 4 days after, and then free trial onboarding. Okay, so we go into the Facebook ads to sell the class. We got the $5 class, the checkout page, we have the bridge… By the way, it's not a course, I love this. It already knows this. It's not a course, but you're selling it as if it's a course or masterclass, but it's really just a bridge into your main program, is all it is. This works, I have a full system, I want to see what I'm missing, I can do this. You build context, you promise it, you show the mechanism, one fast win, you bridge the gap, and you invite them. It closes into your program for you. Email follow-up sequence. Immediate. Do this first. Watch this. Invite. And so, again, Dorothy, that's the process. Very simply mapped out for you of closing clients. Right there. Yep, podcast a paid member. Again, I would… I would still… I would still have your podcast be less of that sequence, so actually, let's talk about that. Let's map out podcast to paid member. Map out a… map out a sequence. And hopefully what I'm doing is I'm showing you guys how to work with your AI to help you come up with these ideas. Now, not all of it's going to be perfect, but this is great right here. Podcast episode has a single call to action. Again. The podcast is gonna lead them to a $5 class. or a lead magnet. So you're not gonna send them necessarily to your coaching program. off of the podcast. You're gonna send them to that micro course, or that bridge class, and then you're gonna do the whole sequence that we just talked about, the automated webinar, into your program type of a thing. Go grab the guide, join the $5 class. And if there are people who know you really well, you could… you could mention getting a… joining you for a trial like that. I do this kind of same sequence in my YouTube videos as well. Okay? So, that's… that's kind of what we're mapping out right there. That's what we're doing. That's what we're putting together. when we're… when we're creating those types of offers. What you want to do is you want to… Stop attracting tire kickers. What's a tire kicker? Somebody who… if we think about, like, they… they just… they kick the tires a little bit, but they're not gonna do anything. It's like… it's a… it's a term at car dealerships. People would visit a car dealership, new cars, they'd kick the tires a little bit. But they never leave with buying a car. That's called a tire kicker, a time waster. You don't want time wasters with you, and I'll tell you, when I've done free classes, I've gotten a lot of tire kickers. Again, great people, I'm sure they got great families and stuff like that, and they're doing great things in the world, but they're not who you want to talk to. Okay? Having a $5 class qualifies them really fast. Plus, Meta's algorithm is gonna optimize for purchases. It's gonna find people who are more likely to make a purchase. It proves their commitment by getting them to spend $5. So, like, I'm almost never probably gonna do A free class again? My free stuff can just be on my YouTube. You gotta go pay 5 bucks for something. Maybe I'll have my AI make little mini free stuff. I'll have an agent do free stuff for me, but I'm not gonna put much investment into that. And all roads lead into paid microclasses. And that's the new Evergreen funnel that we're doing. We can have paid 5-day challenges, 5-day courses, we can have paid… webinars. You just literally do the webinar as paid. You charge people 5 to 10 bucks. And you pre-qualify people for your next level membership. It's the same kind of funnel we were doing with free, but you go into the paid. And I love this, Deborah, she was on here, she was talking about after 3 years, she finally got multiple sales. I think she made her first $300 or $900, or something like that. I think she said she made, like, 900 bucks. After 3 years of struggling to make those sales. Tiffany's got over 677 podcast downloads. And more than that, probably, I'm sure, right? Hit over 100 new podcast downloads in 48 hours! building out these offers this way, this is what produces those results. She's now at 729. And so, what you can do… is… you can utilize AI to help you get up and running for your offer. You don't need to be the one that's doing all the work, that's, like, having to put all this together. You can have the AI analyze what's the best thing to offer for $5. It's gonna be some kind of a taste, a taster… Of what you do that's gonna solve some kind of a problem. But it's not gonna solve their entire problem. So that you can get them to… What you have for sale? And… the technology. Are we gonna waste time and things aren't gonna convert? Are we gonna be embarrassed by things like that? That's… that's actually the three things. right here. This is… this is actually hilarious, and kinda… Kinda… kinda crazy. Those are the 3 areas right now. that I would say that we suffer from the most. We're either worried that we're gonna say the wrong things and make a fool of ourselves. We're worried that we don't know how to use the technical tools, and we're not going to use them right, or that we're going to put time into this stuff, and it's not going to convert to results. How many of you would say, like, one of those three things is kind of our main hesitation? Like, the underlying, if we talk about the sales process, or I'm not sure how to map it out, or I'm not sure about the right contracts to do, or things like that? It's always about those things. We want to make sure it converts, and it all boils down to… I'm gonna go into putting my coaching hat here, guys. Our need for control. Our need to control everything. As humans, we want to control everything. But success comes from letting go of control. Putting stuff out there, being willing to put stuff out there. Even if you're… we're not 100% sure how it's going to work out. Even when I launch offers, I'm not 100% sure that it's going to produce the result that I'm looking for, but I gain the momentum to put it out there, and that momentum, as we've seen, like, with what Deborah and what Tiffany have been doing. Is what produces those results. And then what you want to look at is, like, what's my next level here? Well, it's like a recipe, you can always tweak the seasoning, that's so good, I love that. That's a good one-liner right there, Tiffany. Tiffany's turning into a great coach herself, that's starting to know this stuff. Right here. We can break through in any area where we're stuck. The biggest thing that's holding us back is what's between our two ears. We stop ourselves from reaching our goals, Because we literally think up A version of the worst-case scenario of how stuff could happen? And then we talk ourselves out of… Doing the very thing that's gonna help us be successful. And it's our limiting beliefs. That stop us from doing that. And again, I'm not gonna get, like, too woo-woo here, we're gonna go talk about more on practical aspects here, but I want to just pause here for a second. I want you to look at what are those fears that we have? What are those worries? What are those doubts? What are those insecurities? What are those things that That we're unsure of. What are they when it comes to launching our business that we're not sure of? We want to look at what those underlying decisions are. Can you type it in the chat, or can you come up and mention that? So again, Tiffany says… Is it gonna convert? Is it gonna get the results that I want? Will… will I find people who want to hire me? Can I deliver? What's the outcome that you want? What if your offer was converting? What would that look like? How many clients would you get each month? If my offer was converting, what does that mean? Right now, we're applying meaning that if we don't deliver. It's, I'm not good enough to get clients, I can't deliver results, I'm gonna fail, I'm gonna waste my effort. People won't want what I'm offering. That's actually the underlying belief that comes from that. That's actually one of the underlying beliefs that comes from it. Which one is it, Tiffany?
+
+Tiffany Quinones: If I don't show up, then… My podcast won't grow, and people won't, won't take the next step. That's what goes through my head.
+
+Jeremiah Krakowski: Yeah. And… but what kind of outcome do you want? You want it to grow, you want people to take the next step.
+
+Tiffany Quinones: I do, yeah.
+
+Jeremiah Krakowski: And so you think, if I'm not consistent, I'll fail. It's all on me. I'm not good enough unless I perform.
+
+Tiffany Quinones: That actually showed up today. Yesterday, too.
+
+Jeremiah Krakowski: People won't choose me unless I prove myself constantly.
+
+Tiffany Quinones: Yeah, all of it. What you're saying, it has… yeah, it shows up.
+
+Jeremiah Krakowski: So we gotta… we gotta change those beliefs into this, and right now, I'm actually… I'm using, the decision matrix from David Baer to kind of go through some of this a little bit. and the, and the, the little GPT that I made that kind of helps with this. This is the new belief. The right people will take the next step with me, because the value lands, and they're already looking for it. I don't need to control trying to make sure the right people do it. I win through consistency, not pressure. Missing a day does not miss momentum. Doesn't that feel freeing? My podcast grows because my message creates momentum. Even when I'm resting. So you see what I'm saying? And those are the beliefs that we want to shift into. And then what we want to do is we want to find evidence of those. in our lives. The belief we want to shift into is, I'm chosen. My presence with people is enough, and the right people will take the next step. I don't have to prove myself for the right clients to choose me. Okay, now here's the evidence-finding part. Find a memory or something in your life Where somebody signed up from one conversation, where people chose you instead of you trying to strive. A time where you had breakthrough, where you took a break, and you took time off, and things still work together. When somebody binge-listened to your podcast and they reached out, or referrals that you got. You got… you got evidence right now, that's awesome. Like, what?
+
+Tiffany Quinones: Well, you ready? Just over the last week. my podcast went from 682 to today 729. That's evidence number one. Evidence number two is I created a series out of thin air. I didn't realize I was gonna do it, but I did it, and my nephew reached out to me in my DMs over the weekend. told me, of course, that I'm his favorite auntie, of course. And, then proceeded to tell me, I listened to the podcast, and it resonate… it resonated… he said, I haven't resonated with anything so much, keep going, thank you, I love you. And I was like, wow. So then, I've gotten a chance on Thursday and Friday to actually speak in front of people, and they are listening intently, and I was able to introduce myself to, like, top business owners. And what I do, and they listened, and I have a mentor friend who is, connecting me to people who are also looking for what I offer. So, it's… it's evidence, and I didn't have to show up every single day for my podcast to grow, because I look at the numbers, and people are, like, literally, literally binge-listening to the three podcasts I created over the weekend.
+
+Jeremiah Krakowski: I love that.
+
+Tiffany Quinones: I'm not kidding, I'm like, holy smokes. The first one had, like, 5 downloads on the first day, the second one had 4, and then I did one yesterday. I think there's, like, 3 or 2, but still, I don't care. And my podcast… Five new demons.
+
+Jeremiah Krakowski: Growth without having to prove yourself.
+
+Tiffany Quinones: Yeah, yeah.
+
+Jeremiah Krakowski: Creative capacity is innately inside of you.
+
+Tiffany Quinones: Yeah, it is.
+
+Jeremiah Krakowski: That things deeply resonate, that you have authority in the rooms that you're in.
+
+Tiffany Quinones: Huh? I do.
+
+Jeremiah Krakowski: That you have demand for it?
+
+Tiffany Quinones: I do, I have absolutely…
+
+Jeremiah Krakowski: binging it. And so… this decision, people choose me because my message resonates and my value is real. I don't have to prove myself.
+
+Tiffany Quinones: That sounds awesome. I feel actually more energized than I did when I got on the call.
+
+Jeremiah Krakowski: You should!
+
+Tiffany Quinones: I do.
+
+Jeremiah Krakowski: A lot of our ener… the energy that we feel around business, this is, again, the energetics of it. The energy that we feel in our business comes from… the limiting beliefs. Oftentimes. We're… we're… we have a… we have a… we have a… the highest level of energy that we can get to. Is capped by whatever limiting beliefs we have. So what we end up doing is, is we end up telling ourselves, I gotta prove myself, all this. That's the energy we're operating out of, even when you hop on a call like this. I gotta prove myself, I gotta… And so now, if you shift into… people choose me. I'm what… I'm amazing, and I don't have to prove myself. And listen, I get it, Adele, Dorothy, anybody else who's watching, you want to know the technical… what do I do here? What do I say on the Facebook ads and all that? But I want you to be listening to what I'm sharing right here, as well. The beliefs that we have, that's what holds us back the most. It really is. It really is what holds us back the most. Okay? Thanks, Tiffany, and I just appreciate you sharing all that, it's amazing.
+
+Tiffany Quinones: You're doing a great job. You know, I… real quick, I want to say thank you, because, like. I, like… I remember when I first came in this space, I mean, you've watched the growth, but I don't know what it is. It's like something just snapped. I'm like, that's it. I'm gonna go revive my podcast, because I finally realized like, I'm doing everything you're telling me, but… what actually works for me is to speak, because I realize I also have evidence, like, I actually started my speaking career in a church.
+
+Jeremiah Krakowski: Yeah.
+
+Tiffany Quinones: Because they would hand me… I got… they got the trust to be handed the microphone to give edifying words to the people in the church, and my messaging started, like, stop carrying around your heavy backpack, your junk drunk. That's exactly what I would say all the time. But I get these downloads from the Holy Spirit to be able to share. That's where it started, and then I, you know, captivated people with my story, but… The also other cool thing is that, literally, the other evidence…
+
+Jeremiah Krakowski: I've never heard you say that.
+
+Tiffany Quinones: Yeah, because I always kind of forget, but then I've even shared that in my podcast, and I'm like, this is where I got my start, like, literally.
+
+Jeremiah Krakowski: Yeah.
+
+Tiffany Quinones: And then when I did my first ever Facebook recording, before I got an iPhone, I had to record it, then upload it. People were very captivated by the message, November 1st, 2014. So, I just remember that. But also, the other evidence is the people that I'm meeting now exactly want what I have, because they're all doing the same thing, and they're all building communities, and I'm like, bingo. So, things are falling into place just a whole lot different than I thought, but it's, building my confidence, because now I'm at a place where I can receive the thing that I have strived so hard and worked for, but now it just is coming easier And it looks different, but I'm still getting results by implementing things I'm learning. But it's not forced this time. And when I talk, I notice people… people, like, listen, like, very intently to what I'm saying, so I'm like, okay, I'm paying attention, God, thank you. And thank you.
+
+Jeremiah Krakowski: I love that.
+
+Tiffany Quinones: Yeah.
+
+Jeremiah Krakowski: Yeah, you bet. Alright, Dorothy, what's going on, Dorothy?
+
+Dorothy Watkins: Hi! Yeah, so I'm getting my, £5, course ready, which I'm starting on Monday, so we're doing it in a bit of a kind of really… quick thing, but I just thought it would be quite nice as a lead-in for people coming into the membership, you know? Yeah. And so I can record this with 5 one-hour sessions, which is then going to go into the Evergreen. So it's gonna be a great intro course. So… Yeah, so I'm doing that, and then really the question is about scaling the Facebook ads, because we're building up to get everything ready for the 11th of Feb. when we're going to actually launch some Facebook ads. So, it's how to approach it And I haven't got a huge budget right now, although I'm finding that, you know, I think I am going to get a really nice flow of people coming in, because I've got a decent, you know, it's a small email list, but it's choice… it's a choice email list of actual yoga students, you know. So, And my goal is, is that I'm just gonna try and focus on getting one new client a day. So I remember that story that your mum said about when she focused on just selling one bread maker a day?
+
+Jeremiah Krakowski: Yeah.
+
+Dorothy Watkins: You know, and that it's really good to have.
+
+Jeremiah Krakowski: Yeah, that's what I loved about the, the $5 thing, is you'll end up getting… I was getting, without even trying, like, 5… By… you know… 5 sales a day to the different $5 courses that I was in, 5 to 10 minimum. And so the idea behind that is, is, like. that shows you that the momentum is working right there. When it comes to scaling, First off. I don't even think about scaling until I'm… Testing my campaign initially.
+
+Dorothy Watkins: Right, yeah.
+
+Jeremiah Krakowski: Okay. Yeah. And so that's… that's one of the, like, important things to remember, is… that I think sometimes we skip ahead to, like, okay, I want scaling, I want things to scale, and we're not even necessarily getting the initial testing working, so have we… have we tested ads yet to kind of see how they are doing?
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: Have we done that yet?
+
+Dorothy Watkins: We haven't done that yet, no, that's all gonna happen on the… around the 11th of Feb. Yeah.
+
+Jeremiah Krakowski: So, what's your starting budget for that?
+
+Dorothy Watkins: Well, I would say that, you know, around about, kind of, the 300 mark. And how, how over what period of time, if you, you had 300 quid? For a £5 intro course, how would you, sort of, span that over a period of time?
+
+Jeremiah Krakowski: 14 days.
+
+Dorothy Watkins: Okay.
+
+Jeremiah Krakowski: Yeah. So you're looking at… You're looking at… what's the… what's that? 300…
+
+Dorothy Watkins: Yeah, so that's £300, yeah.
+
+Jeremiah Krakowski: 300 pounds divided by 14, what's the math on that? That's $20 a day?
+
+Dorothy Watkins: Okay.
+
+Jeremiah Krakowski: a day.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: What's the… what's the math gonna add up… add up to for that?
+
+Dorothy Watkins: Yeah, something like £15 a day, 15 to 20 a day is, yeah, something like that.
+
+Jeremiah Krakowski: So…
+
+Dorothy Watkins: Yeah, 14 days, yeah.
+
+Jeremiah Krakowski: Okay.
+
+Dorothy Watkins: Yeah. And, so, because initially, with… building an evergreen, am I sort of starting it so that I'm testing it all first until I've got something that actually works, and then we set it off just going, you know? Once we've got an ad that works and a video that works, is that kind of how we do it?
+
+Jeremiah Krakowski: Well, you figure out how many people are actually signing up for the ad and the offer.
+
+Dorothy Watkins: Yeah. Yeah.
+
+Jeremiah Krakowski: So how many people are signing up? How many people are… Registering…
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: How many people are coming through the front door?
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: And then you look at those numbers, and then you analyze, okay, how many of them are opening the follow-up email sequences?
+
+Dorothy Watkins: Yeah. Yeah.
+
+Jeremiah Krakowski: How many of them are then clicking over to your sales page to purchase from you, or are they booking calls with you on the back end?
+
+Dorothy Watkins: Mmm.
+
+Jeremiah Krakowski: You start looking at those numbers.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: The numbers that you're looking for are related to How many people are… responding…
+
+Dorothy Watkins: Hmm.
+
+Jeremiah Krakowski: to the offer that you had. So when I put out an offer, this is my process once I launch the ads. And this is my process to go into scaling. Now, here's what I'll tell you. With Evergreen. I actually scaled it with time, which is really cool. I've scaled it by updating the ads and running it for… 4 10-day sprints. I ran it for 10 days, turned it off for, like. 10 days. Ran it for 10 more days with new ads, turned it off for 10 days. Ran it for 10 more days, and so I got, like. 200 people who bought the, the, the class. over the course of, I think, like, a month and a half or so. Yeah. And kind of turning it on and off at that… at those levels. Yeah. Now, I would bring in a budget of, like, 100 bucks a day.
+
+Dorothy Watkins: Okay.
+
+Jeremiah Krakowski: at that point, But what I was looking for is this. I'm looking for, okay, how many people are signing up? Okay, I'm getting 5 to 10 people a day. Buying it at this point for 5 bucks. And so, I'm making between $25 and $50 a day off of this.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: And then on the back end, it took a couple of days and even weeks for me to actually find this number. It took a few months for me to actually get the full numbers across the board on one offer.
+
+Dorothy Watkins: Hmm.
+
+Jeremiah Krakowski: I had to look at, okay, what's the percentage that buy the $5 class that take the trial? Well, it's 1 in every 3 people.
+
+Dorothy Watkins: Okay.
+
+Jeremiah Krakowski: What percentage of those people stick? It's 60%. So, 60% of 1 in every 3 people Okay, so we look at 5… times 3… And it's costing me maybe… I think I scaled my ads down to, like, 60 bucks a day… say I'm getting 5 people a day, so it's costing me about $12. Every 3, I would get a trial, so that's $36.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: And then, let's see, 36… This is where the math kind of gets a little… Wonky here. Okay, so 36 bucks to get… the trial… points, we're looking at one in every… 1 in every three… How does… how does the math work on this? Is somebody a math whiz? I guess I could ask AI, but I say, okay, if 1 in every 3 people buys a trial. But then… 60% sick long-term. For the first month, and 75% for the remaining months… If it costs me $12 to get one person, what is the cost to get… The first month's sale of $77, and the second… of 197. combined. With a 14-day trial. Across a 60 plus 14 day period. This is what I'm looking for. This is, again, some kind of crazy math that it's doing. But these are the… these are the numbers off of my Instagram ads campaign that I came up with.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: Right here. Okay, we're gonna break down the variables, and then what I'm looking at is the back end. We're looking at, Who ends up signing up for… VIP, Which is usually about… 25%.
+
+Dorothy Watkins: Mmm.
+
+Jeremiah Krakowski: Of who comes in to here. Okay, so at 2 months… Here's what it's the cost per sale to make $274. It's calculating the expected cost. For me on this. $60 for the first month payers. So I'm just barely breaking even on that. The cost for both payments is 80 bucks, there we go. So my campaign, it's costing me 80 bucks to make that $200 and… That initial $275 after 75 days.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: Okay? So after 75 days, I have a 3.4X return on my ad spend. Now, if 25% purchase VIP at $900… And really, like, the… let's see, the average… Person stays for, 7 to 9… Let's say… let's say not, let's say 7 months. At $197 after the second month, and 25% of these, purchase VIP at $900 a month. for a minimum… Of 4 months. Come up with my… 6 to 9 month… value… For this $80… acquisition. Because we're already in the profit zone after… after… the… the trials crossover, so that's how I know, like, this… this… the campaign works well. But where the math really starts to work out. is once you start adding in VIP and recurring payments, and the average length of time that one of those persons stays, who stays on board. So we're looking at $1,249 right there. It's kind of the average amount of revenue that I'm gonna be getting. just from WCA at $80 acquisition, And then with the upsell, to VIP at $900. What are we… what are we looking at? We're looking at… Total revenue net after CAC, Of 2,100 and… $49. for an $89 cost, for an $80 cost. So that's a 26X return on my ad spend. Okay? So, $80 CAC, which is Customer Acquisition Cost. And within that 9 months, the cost to acquire a customer During a 9-month period, to make that roughly 2 grand. It's about 80 bucks. Once you throw a VIP in there. And so, that's a 20 to 25X return. on the value. of acquisition. Oh, yeah, look, so it goes even higher. 24 to 30x return. Okay? Oh, VIP does replace the 197, so it's a 20 to 29… anyways, those are incredible numbers and returns right there. That's how now we can scale the ads.
+
+Dorothy Watkins: Hmm.
+
+Jeremiah Krakowski: might take us a couple of months to kind of look at that, and then we find what are the campaigns that are working the best. Now, when it comes to scaling the ads, it's really… Updating your creative. Updating your graphics, and things like that.
+
+Dorothy Watkins: So I have another tool that I just created with AI. I've not given access to it.
+
+Jeremiah Krakowski: Necessarily, like. publicly, right now, I'm not giving access to it, but I'm thinking I need… this needs to be something… that I… I will be giving access to publicly. is… It's right here. it generates ads for me by just throwing a sales copy in there. So now I have an agent that's creating these ads. Meta loves cheap signals. You want sales? Train the algorithm on purchases. So I might save this as an ad. Now, not all of these are going to be good. But my AI is gonna go in, and it's gonna help find me. That one's a little too complicated, okay. Get premium clients on a tiny budget, that one's pretty good. See, so this is actually my process for doing this. I'm gonna look at one of these ads. And I can refresh these with AI by putting some of these new ads up. I'm gonna go through the history here, what it created, we're gonna look at… Couple of these. Okay, this was one I was just testing. What is this one? Oh yeah, this one turned my whole… That one's a ton of text, but let's try that one as an ad, too. We can run that one. Okay… Let's see, stop… Burning money on Instagram ads? $10 a day turns into real buyers, okay, we could run that one. Oh, here's another good one, the napkin trick. $10 ads equals simple video, paying clients. So this AI bot, it literally goes in here, all I gotta do… Is give it my sales letter and throw a couple reference images in there. And then it's gonna give me ads. It runs through, like, 5 layers of creating copy that I told the bot to create. I used Lovable to actually create this whole thing. Which is really cool. And so those are ads. Now, to scale my ads campaign, I'm gonna have, either Claudebot, my VA, or myself, I'm gonna go in and I'm gonna upload those ads into the Ads Manager, and I'm now gonna refresh my campaign with new ads. I turned the ads off the other day because the sales started going down a little bit, so that's when I turned them off. Now I gotta refresh them. I need some new videos from Sora. I need some new images. These images are really good, they're a lot better than some of the images that I ran before, and that's why I think that they're gonna convert well. That's why I think that there are going to be some great options that I can share with people. Oh, this one was one of my favorites that I generated right here. Cold DMs, tech overwhelm, $100 a day ad spend. The new method, sales, not just leads, get access for $4.95. And I'm gonna run an image like that as an ad. So I thought that was just really, really cool that we were able to kind of… Come up with some of those different… those different things. This one's another… Kind of crazy looking.
+
+Dorothy Watkins: live videos are still better than, you know, you talking as a live video. Is that better? No, it's not now.
+
+Jeremiah Krakowski: No.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: No, that's… that stopped about 2 years ago.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: Live video for coaching is good, but I think a lot of people We're in a… we're in a… a… I want fast, instantaneous, quick results. we're in a chat GPT society, we're in a… TikTok society, we're in a… And so, most people that are out there, they just want those quick answers. That's why having an instant webinar that they can… they can buy for $5, now that they spent $5, they're far more likely to go through it. I… I will have… If I do a free webinar, I'd be lucky if maybe 10% of people watch the free webinar. With a $5 class, I'll have at least 50-75% watching all the way through the webinar. Which is awesome.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: And then I refresh my ads, I do stuff like that. There is a course as well, Dorothy, in the members area. Of this program.
+
+Dorothy Watkins: Great.
+
+Jeremiah Krakowski: ads optimization. Have you seen that one?
+
+Dorothy Watkins: No, I don't know if I've done that one.
+
+Jeremiah Krakowski: It's under the Learning Library. I made it, like, I made it, I think. A year and a half ago, but it's still super relevant. Ads optimization simplified. So this is all about scaling your ads right here.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: This is a whole course on scaling your ads, optimizing your graphics and videos. what to look for to optimize those. So I did a whole course. You're looking for a feedback loop, you're looking for what are the ads that did really well. So when I'm running an ad, I'll upload all these ads, and then I'll look at what are the two or three that did really well, and what do they all have in common? And I'm going to create more based on those. I'm gonna show you my best converting ad. Right now, it's amazing. How simple it was. So I had Sora 2 actually generate it for me with video. And then I threw my face on top of it. Let me see here… It's right here. This is my best converting ad, right here. It's this… this girl is AI-generated.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: If you're a course creator or a coach, and you've been trying to figure out Instagram ads that actually work, listen up. You need to grab Jeremiah Krakowski's new class. It walks you through, step by step, exactly what's working on Instagram ads right now, creative, targeting, setup, all of it, so you can run campaigns that bring in real results. Listen, it's true. It's only $5, I show you exactly what's working right now, step by step, to get results with your Instagram ads, so you're not burning money. banning your account, struggling, so you actually get results. Check it out, it's only $5, there's not even a money-back guarantee, you're gonna love it. Yeah, I even throw a money-back guarantee on my $5 class. You wanna know how many people have asked for their $5 back out of $200?
+
+Dorothy Watkins: Probably none.
+
+Jeremiah Krakowski: Zero.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: Zero! So it's like, it's so free and cheap and inexpensive to offer a money-back guarantee. On a class like that. I… I got one person, they… they… one person super complained about the $5 class. Everybody else said that was awesome. One person complained, but they didn't ask for their money back.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: So… But yeah, that… so that ad, I mean, it was Sora. to do that. So again, a lot of what we're doing for ad creatives, we're combining video, AI videos, stuff like that with it. And so, again, there's another course in the members area all about AI content creation. As well. That's in the beginner courses.
+
+Dorothy Watkins: Okay.
+
+Jeremiah Krakowski: AI Content Creation Made Easy course. I think you got a link to it as well in the Google Drive with the free courses that you got, too. But, so it talks about, like, creating a digital twin right here. How to clone yourself with AI. We create a digital… Dorothy, right here.
+
+Dorothy Watkins: Brilliant.
+
+Jeremiah Krakowski: A digital Dorothy for videos, audios… And then I show, like, how to generate scenes with Sora and stuff like that. So we created, like, Digital Sandy and all those, and those are some of her best…
+
+Dorothy Watkins: Post.
+
+Jeremiah Krakowski: Which is awesome. And then using ChatGPT to come up with a lot of the ideas for it. So, how to come up with AI content, things like that, I think it's just, it's really cool. How we're able to do this and put all this together.
+
+Dorothy Watkins: to…
+
+Jeremiah Krakowski: Create our ads, more than anything else. more than anything else, I think ads need to just be mostly AI-generated at this point. put more… I put way more thought and effort into my… YouTube videos, my front end… post. I try to put as little I just have the AI tell me what to do based on my offer for ads.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: because… I keep it really methodical, really algorithmic, very much I take my whole emotions out of it. Because a big part of it is the algorithms now on Meta, Instagram, X, TikTok, they're all AI-driven anyways that's deciding who they show your offer to in the first place. So, again, the ads optimization course, the AI content creation course, and the… Learning about, like, creating an evergreen campaign, that's all in the Start Here course is the automation, the automated business blueprint. That one's all about, how do we build that whole evergreen system? That's gonna be what's working for scaling stuff for you.
+
+Dorothy Watkins: Yeah, fantastic. Yeah, and it's amazing how it's all developed since I was in the group, you know.
+
+Jeremiah Krakowski: That's changed tremendously.
+
+Dorothy Watkins: Oh.
+
+Jeremiah Krakowski: The reason that I see is it's just… As business owners in the traditional sense, let's look back at… 20 years ago, 10 years ago. You want to be the business owner that has a team of designers, developers, stuff that you hire at $3,000 to $5,000 salaries that do all this stuff for you. Now, AI can kind of take over most of that, and even now with this… these different agents, like CloudBot and stuff, they can even be your admin.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: Which is amazing.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: So, just kind of putting all that stuff together.
+
+Dorothy Watkins: So is Claudebot, does that have a fee, a monthly fee?
+
+Jeremiah Krakowski: No.
+
+Dorothy Watkins: Okay.
+
+Jeremiah Krakowski: Well, it attaches itself to any existing AI stuff you have, so I am paying for Claude Max for other stuff that I'm doing. Over at Claude, but the actual Claude bot is not, no.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: No, it's a free… it's a… it's open source software, is what it is. So, it's a… it's just… it's free right here.
+
+Dorothy Watkins: Yeah. AI that actually does things. Clears your inbox, sends emails, manages your calendar, checks in for flights.
+
+Jeremiah Krakowski: And it does a lot more than that, too. That's what they say it does, but it does way more than that now.
+
+Dorothy Watkins: Yeah, so a combination.
+
+Jeremiah Krakowski: Yeah, works on that.
+
+Dorothy Watkins: And then ChatGPT for the marketing, because I do use ChatGPT a lot. It's just so great when you're, like, putting together a newsletter or whatever, and you just write.
+
+Jeremiah Krakowski: Yeah.
+
+Dorothy Watkins: I would say Claude is probably better at writing newsletters and emails, though. Oh, okay, yeah.
+
+Jeremiah Krakowski: That's what I'm using mostly, Claude Opus 4.5.
+
+Dorothy Watkins: Yeah. Brilliant.
+
+Jeremiah Krakowski: Right now, I'm using it to develop different apps and stuff, like, we just developed… Sandy's AI app with it.
+
+Dorothy Watkins: Hmm. And then…
+
+Jeremiah Krakowski: I just developed an affiliate program for the backend, so we built out a whole affiliate backend admin and stuff like this with, Claude.
+
+Dorothy Watkins: Yeah.
+
+Jeremiah Krakowski: And had the AI build the whole thing. It ran through all the security and everything, it did all that stuff, how it connects to the shopping cart. So we're, again, we're moving to, like, AI just kind of runs your business, and you stay as a top-level visionary. and somebody who shares your ideas, and then you create things that then filter into the AI to be able to To do the work for you.
+
+Dorothy Watkins: Hmm.
+
+Jeremiah Krakowski: And that's… that's, that's my big message right now. Get out of the weeds of doing all the stuff in your business, have AI be the one that does it for you.
+
+Dorothy Watkins: Yeah, nice.
+
+Jeremiah Krakowski: Because then you're gonna be able to iterate and reach more people much faster that way.
+
+Dorothy Watkins: Lovely. Yeah, thank you. We've got lots to get on with this week.
+
+Jeremiah Krakowski: Yeah, you bet.
+
+Dorothy Watkins: Yeah, cheers.
+
+Jeremiah Krakowski: We were talking about and dreaming about this is where AI was headed a year ago, now it's here.
+
+Dorothy Watkins: Yeah. Well, I feel like I've got a lot to catch up on, you know.
+
+Jeremiah Krakowski: The beautiful part is the way that you reach and sell to people hasn't changed much. I'm just recommending that you charge for a mini-course instead of doing, like, free webinars or free challenges. That's about the only difference.
+
+Dorothy Watkins: The human aspect of human-to-human connection stays the same.
+
+Jeremiah Krakowski: You're just having the AI help you build out the marketing assets.
+
+Dorothy Watkins: Hmm.
+
+Jeremiah Krakowski: Yep.
+
+Dorothy Watkins: Right. Lovely.
+
+Jeremiah Krakowski: Because you can roll out… I mean, I could roll out a landing page in 10 seconds with AI, instead of… a week. So…
+
+Dorothy Watkins: Bam. Amazing.
+
+Jeremiah Krakowski: Right.
+
+Dorothy Watkins: Okay.
+
+Jeremiah Krakowski: This is a word problem, that's funny. When 24 elephants and 12… Adele, what's going on, Adele?
+
+Adele Best: Hi, Jeremiah, just a quick question, a couple of questions. So… I think I'd sent you a video, I think you saw, about… a girl who was really sick, and she automated her entire YouTube channel.
+
+Jeremiah Krakowski: Yeah, I followed her for a while.
+
+Adele Best: Yeah, she was on my Facebook page, she was always talking.
+
+Jeremiah Krakowski: Boy.
+
+Adele Best: else. Yeah.
+
+Jeremiah Krakowski: Dr. McCoy, that's what it is, yeah.
+
+Adele Best: Yeah, yeah, I always thought she sold, like, health drinks or something, because she's always talking about health, and then I stumbled across.
+
+Jeremiah Krakowski: She's talking about a lot of health stuff now, yeah, so she has a whole…
+
+Adele Best: But, so the interesting thing is, Jeremiah.
+
+Jeremiah Krakowski: To see where she sets this up in businesses.
+
+Adele Best: Yeah, so she was, like, so sick that she had no choice but to create a clone. And, the funny thing was that…
+
+Jeremiah Krakowski: Emily McCoy, she's, she's great.
+
+Adele Best: performed so much better than her actual videos, so her workflow is she uses Claude to map out her videos, she writes her scripts with Claude, and then she gets the AI twin to do them, and then she spends her money on the post-production, she gets somebody in the Philippines to do the post-production. Absolutely genius. So…
+
+Jeremiah Krakowski: how AI is even gonna start to be able to do the post-production for you.
+
+Adele Best: Oh, wow, well, you'll have to share with me how to do that, because I was thinking, right.
+
+Jeremiah Krakowski: That's the one… that's the one piece that, yes, if you're gonna have AI do your clone, you have to invest in somebody to do the post-production.
+
+Adele Best: Yeah, yeah, so I was gonna… I was gonna exactly do that, look for somebody in the Philippines that can do that. Maybe you can contact, because I think you've got someone that does that for you.
+
+Jeremiah Krakowski: No, she was… not anymore. I moved away from having her, because she wasn't really growing a new skill or anything.
+
+Adele Best: Okay.
+
+Jeremiah Krakowski: I want to find a new…
+
+Adele Best: Is there any… is there any app, or would I be able to, create a… A chat agent that can do that.
+
+Jeremiah Krakowski: Well, you can use Claude for most of that.
+
+Adele Best: Yeah, so I was thinking, Jeremiah, around the narcissism stuff, and, like, to build a YouTube channel fast, and then direct them into a school community. Could I use that strategy? But then I thought I'd remember… I thought I remember seeing a YouTube video about a couple of months ago that's saying that YouTube was cracking down on AI content. like, AI-generated content? That's my only reticence. What do you think about that? Whoa.
+
+Jeremiah Krakowski: Sorry, what was that last part?
+
+Adele Best: I saw a YouTube there was something on YouTube, and it was saying that in 2026, YouTube is gonna crack down on, like, AI-generated… you know the way, there's quite a lot of.
+
+Jeremiah Krakowski: Right.
+
+Adele Best: generated channels, so… but anyway, I mean, using.
+
+Jeremiah Krakowski: But how the… but, well, here's the thing, though, check this out.
+
+Adele Best: Hmm.
+
+Jeremiah Krakowski: Have the AI generate your script, and then you just record yourself Off the script template.
+
+Adele Best: Yeah, definitely. So, I mean, I'm definitely going to use that strategy.
+
+Jeremiah Krakowski: They're not gonna crack down on that.
+
+Adele Best: No, no, so, like, bulk records things and then send them to somebody to, like, clean them up and make them look pretty is a fast way to join a YouTube channel on narcissism, and then I'm going to direct them into school community. That's one thing I'm going to do. The other thing that I'm still working on is I want to do a 497 offer, right? And I want to run ads to it. So, I want to… and I'm gonna niche down, I'm gonna do… I'm gonna target Christians or faith-based people, how to create their first high-ticket offer. 497Offer. So, what kind of ad spend would I need to probably launch that? Would I need, like, a grand, couple of grand? Obviously, I'll do some organic content first. Bob.
+
+Jeremiah Krakowski: For example, like.
+
+Adele Best: Leanne Lopez, she's running a… she's running a course this week telling how she ran one 497 offer in 2025, she put $117K ad spend behind it, and it 10x'd to over a million dollars. I don't have 110K ad… ad budget. But she 10x'd, you know, her spend. Sounds like a good return, so…
+
+Jeremiah Krakowski: Yeah, but what is she… she's running her ads still to some kind of a, like, a paid micro-webinar, right?
+
+Adele Best: It's a micro-offer. It's 497. It's in her… it's in her Kajabi.
+
+Jeremiah Krakowski: $4.97?
+
+Adele Best: No, 497.
+
+Jeremiah Krakowski: 497.
+
+Adele Best: 497, yeah.
+
+Jeremiah Krakowski: Yeah, but you said that you went through… was it a webinar with her?
+
+Adele Best: Yeah, I have, but…
+
+Jeremiah Krakowski: Okay.
+
+Adele Best: Well, no, so she's been posting on her Instagram this week that… that she ran that offer, a 497 offer, in 2025, and she put $117K ad spend behind it, and it generated over a 1.5 million.
+
+Jeremiah Krakowski: dollars, just one… Yeah, there's just… there's a lot of details missing there that she's not sharing. I guarantee you there's a lot of, like, front-end…
+
+Adele Best: Yeah.
+
+Jeremiah Krakowski: Building, audience, nurture… To close those sales? She wasn't just putting 100K ad spend to a 497 offer, I promise you're not.
+
+Adele Best: Okay.
+
+Jeremiah Krakowski: Nobody is doing that. That makes for a great social media headline. Here's how I would translate that in my business.
+
+Adele Best: Yeah.
+
+Jeremiah Krakowski: There's the… there's a… the year that I… when I… the first year when I launched this program, I did a million dollars in it, so I would say I… I spent, I think, $100K in ad spend. So I put $100K behind a $166 offer and made a million dollars.
+
+Adele Best: So you 10 extra ad spend, too.
+
+Jeremiah Krakowski: Easily. But, like… there's a lot of details and nuance about that, such as I also ran a new webinar every week. I also was doing 5-day challenges once a month. See what I'm saying?
+
+Adele Best: Yeah, well, I was listening to some other ads person during the week, and they were saying, oh, all these $5 and $10 a day don't work, because it doesn't give the algorithm enough data to train the pixel to find people.
+
+Jeremiah Krakowski: Yeah, at some point, that is… that is actually partially true.
+
+Adele Best: And they said it's like driving a Maserati in a car park.
+
+Jeremiah Krakowski: That's partially true. You can have it spend enough to where you can validate and prove your offer, and then you have to raise your ad spend.
+
+Adele Best: So that's why I'm asking, like, how much… how much money would I need to run ads? For a beginner.
+
+Jeremiah Krakowski: Like, seriously. Yeah, usually about 3… about $300 to $1,000 a month is the right price point.
+
+Adele Best: Okay, so I need, like.
+
+Jeremiah Krakowski: But you're gonna be bringing in far more than that. I showed the math where my offer is making more than the $80 I'm spending.
+
+Adele Best: Yeah, yeah, yeah, so obviously it's a bit of a risk, so I'm gonna have a couple of grand, like, in a couple of weeks.
+
+Jeremiah Krakowski: Start out with that, like, kind of $5, $10, $20 a day to see, okay, is it bringing in 2 people, 5 people, 10 people, 20 people, okay, out of those 20 people, did I get 2 clients? Okay, great, now let me add a little bit more to this ad spend, and stuff like that. And then what that does is you start to validate your offer…
+
+Adele Best: Okay.
+
+Jeremiah Krakowski: And then you start to scale it up.
+
+Adele Best: So we don't have to, like, drop the whole ground at once, we can just do it in micro increments.
+
+Jeremiah Krakowski: No, and you're only gonna spend it over the course of, like, a couple of days. Usually my offers, I usually start at, like, a $50 a day test budget. Usually, the algorithm seems to like $50 a day.
+
+Adele Best: Okay, $50 a day for, like.
+
+Jeremiah Krakowski: Some people, some people, they don't have more than $5 to $10 a day to start with.
+
+Adele Best: Yeah, well, I am gonna have a…
+
+Jeremiah Krakowski: All they have, you could totally validate with $5 to $10 a day.
+
+Adele Best: Yeah.
+
+Jeremiah Krakowski: But it's just gonna take you longer.
+
+Adele Best: I've been working really, really hard all over December. That's why it looks like I'm not doing anything. I'm working very, very hard to generate cash, and then I've got this high-ticket coaching three days thing I'm doing with an Irish coach in March. I'm hoping to make some money out of that. So, I'm gen… I want to generate cash to… to do ads, to do… Yeah, do ads. Learn how to do ads. So, I was just wondering, like, what budget do I need, and… Yeah, it's a risk, but I'm gonna do it, because A, I want to learn ads, and if I don't make any return, at least I've learned how to do ads. And then the best outcome would be that I make some kind of return. So… I either learn or make a return. So I'm doing it. that's the mindset I have, because Katie Cross, she made, $600K in one year, and she said her ad spend was about I think she said 55K or something, or 50 or 60K.
+
+Jeremiah Krakowski: Yeah, most people usually do about 50 to 100K in their tests for the first years, yep.
+
+Adele Best: Yeah, so she 10X'd her ad spend.
+
+Jeremiah Krakowski: They're making way more than that, back.
+
+Adele Best: Yeah.
+
+Jeremiah Krakowski: in return.
+
+Adele Best: Yeah So.
+
+Jeremiah Krakowski: And you're not just putting this money up front and hoping that it produces results. You scale, when you've validated and tested, that there's a response and a reaction from real people.
+
+Adele Best: Yeah, Tiffany's…
+
+Jeremiah Krakowski: getting validation from her podcast that there's a response and a reaction. Deborah, remember, remember Deborah mentioned she got those.
+
+Adele Best: Yeah.
+
+Jeremiah Krakowski: Deborah's proven that she…
+
+Adele Best: Has a product that people will pay for.
+
+Jeremiah Krakowski: Has something that people want to pay for, now we lean into that deeper.
+
+Adele Best: Okay.
+
+Jeremiah Krakowski: Here's, again, some example. Remember, I ran a webinar every week for a year straight. This is something that Russell Brunson said to do. I tested it out, I'd say it was way too much work. for what I'm willing to do now. Which is why now I'm automating everything. But I'd like to do where, like, my automations can run a webinar maybe every week or so. So I have a whole automated sequence, right?
+
+Adele Best: Yeah.
+
+Jeremiah Krakowski: Might even have used an AI twin that does my webinar for me.
+
+Adele Best: I want to have something as automated as possible, so I want to start the YouTube channel.
+
+Jeremiah Krakowski: But for you to do something as automated as possible, you're not gonna start automated.
+
+Adele Best: Yeah.
+
+Jeremiah Krakowski: Nobody is. You don't want to start automated, you want to start with doing it as a person. And then you automate the stuff that's repeatable.
+
+Adele Best: Yeah, so once it's proved, you can start automating.
+
+Jeremiah Krakowski: Yep.
+
+Adele Best: Yeah. Okay, cool. I'm sitting in the car at my daughter's car, I've got 4% battery, so I better jump off, so…
+
+Jeremiah Krakowski: Right. Bye. Awesome. Oh, this is great, this is an awesome diagram right here, look at this.
+
+Adele Best: Sorry, one more question, Jeremiah. Are you going to show us how to create a chat, or a…
+
+Jeremiah Krakowski: level is data. This is sorting the data, this is arranging it, this is presenting it visually. And this is explaining data with a story. This is literally how we learn what to do with ads. and campaigns, as we turn raw data into a story, and that's what sells our clients. We figure out what is that moment Where people are responding. Hey, you wanted me to show you what?
+
+Adele Best: So what you've been talking about this week, about a… I don't know what you call it, like, ChatGPT agent? virtual assistant, are you gonna show us how to do that?
+
+Jeremiah Krakowski: Well, last week I showed quite a bit. The week before, I showed quite a bit of that as well. You… did you… you watched those, right?
+
+Adele Best: I sort of half-watched it, yeah.
+
+Jeremiah Krakowski: Okay.
+
+Adele Best: I was…
+
+Jeremiah Krakowski: So I went over, like, using, like, start with using, like, GPTs.
+
+Adele Best: Yeah, yeah, yeah.
+
+Jeremiah Krakowski: the GPT builder, create a new GPT for the task you're wanting to do.
+
+Adele Best: Okay.
+
+Jeremiah Krakowski: That's the, like, like, it's almost like, like, to learn to use agents, you kinda gotta, like. Stair-step your way into it a little bit.
+
+Adele Best: Okay.
+
+Jeremiah Krakowski: to know how they work. So, like, the GPT builder. you can go into ChatGPT, ExploreGBTs, and create one right here. by talking to their little bot about the GPT you want to create.
+
+Adele Best: Yeah, and just load up, load of data, just to try.
+
+Jeremiah Krakowski: Now the next level, Manus and Lovable. I can describe to both of these an agent that I want created as software. Now, I take it a step further, I actually go into Claude, because Claude is really good at doing this. I describe the agent that I want, and I tell it, write me a prompt that I can paste into Manus to create this agent. So, I want an agent… App, micro app, that turns transcripts… into social media post ideas. map out… directions in a prompt for Manis. like a PRD on doing this. PRD is Product Project Requirements Document.
+
+Adele Best: Okay.
+
+Jeremiah Krakowski: Wait, I'm not… oh, no, I hit my usage limit on this Claude account. I had to literally get a second Claude account yesterday.
+
+Adele Best: How much is Claude? I have never got it before.
+
+Jeremiah Krakowski: Well, they got different price points, so I've been using it to make software and do all this crazy stuff, so I'm on their $200 a month plan.
+
+Adele Best: Yeah.
+
+Jeremiah Krakowski: I use their… I use their weekly limit already with my mom's software, so I told her she's gonna have to pay for, my second, account.
+
+Adele Best: Turned it all up and hurry up. That's the only thing I was thinking about creating an AI twin for YouTube. You'd have to be on, like, the creator prescription, or whatever subscription. It's, like, $160 a month, so that's the only thing.
+
+Jeremiah Krakowski: I don't know about that, but… So let's say I tell this to do this right here. Okay, this is my other account. I want an agent to do this, I'll create a PRD-styled prompt right here. So this is… so right here, again, it's creating this… And I can copy this, build a Syngro micro app that does XYZ, UX report… so it's literally describing How to make an app. That does this stuff. And then I copy this prompt right into Manus or into Lovable.
+
+Adele Best: Oh, right, okay. So you prompt it in Claude, and take it into Livable.
+
+Jeremiah Krakowski: Yeah, Claude or chat GPT. And then I take this whole… Thing right here. I… I copy it. I can go into Manus, and I can say. create this. Okay? I'm gonna do the same with Lovable. Create this, okay? paste that right into Lovable. And it's literally gonna… both of these are gonna go to work. Building me a micro app.
+
+Adele Best: Wow. That's an agent.
+
+Jeremiah Krakowski: that does that thing that I gave it. And then what you do is you just go back and forth with either of them. about, okay, what's not working. So it's like, okay, it's not producing the outputs, it gave me an error. Okay, great, let me get… so you tell it it produced an error. Okay, great, I'm gonna go check the error logs and see why it made an error, and then it'll fix it.
+
+Adele Best: Mmm.
+
+Jeremiah Krakowski: Same with Manus, same thing, you can tell it, okay, it produced this error, can you go do this? So you just tell it what's not working. And then it fixes it. And it does that, okay? So here's the thing, so it's, okay. So, we're gonna build it right there. So it created a blueprint, we're gonna tell it to go build this little mini app. for us, with Manus. And Lovable's doing the same thing, we're gonna enable… AI Cloud right here on Lovable Cloud. And so it starts writing all these different, step-by-step project to-dos. Project to-do list, and that's just gonna go down one by one, each to-do, and start testing it out and building it.
+
+Adele Best: Okay, and then…
+
+Jeremiah Krakowski: that Lovable does.
+
+Adele Best: How do you then take that from that to, like, automating your entire business?
+
+Jeremiah Krakowski: Well, you just build a couple of these out.
+
+Adele Best: Alright, okay. So, like, all the tasks that you would do on a weekly basis just create.
+
+Jeremiah Krakowski: Right, and then what I could do is I could take the links to all of them, I could give it to Manis.
+
+Adele Best: Huh.
+
+Jeremiah Krakowski: Or I could give it to Claudebot, because Manis and Claudebot are kind of the only two. Or I could give it to… Claude Cowork. and I can say, these are our web apps that I created that do this. I'm gonna start feeding you data every week. I want you to create a, a plan to go grab this every week, because both of these have what's called cron jobs. So you know what a cron job is?
+
+Adele Best: No, I've never heard that.
+
+Jeremiah Krakowski: a cron job, you can build cron jobs, I think, into… Manus, and you can with, It's where it automatically, once a week, is gonna go check It's gonna go log into my Otter.ai account, or it's gonna go log into this app and download the transcript for me. It's gonna go grab those things. So, what I'm doing is I'm telling the agent that I want it to automatically go grab those things and do that. That's where Claudebot is so unique. is it's able to actually just do that just by talking to it, like ChatGPT.
+
+Adele Best: So, CloudBot is, like, a kind of an agent that will go into other applications and pull down data.
+
+Jeremiah Krakowski: Yeah, but you… currently, you… they only recommend you install this to, like, a separate computer or a virtual…
+
+Adele Best: Okay, is it using a lot of CPU?
+
+Jeremiah Krakowski: No, it's more of a safety-security factor.
+
+Adele Best: Oh, right, okay.
+
+Jeremiah Krakowski: It doesn't use very much CPU at all. Amazon Virtual Machine. This is the version that some people are grabbing. is they're grabbing these virtual machines right here from Amazon, and a virtual machine, they're free. You can grab a virtual machine for free.
+
+Adele Best: Yeah, that's.
+
+Jeremiah Krakowski: cost, if you run it 24-7 on Amazon with CloudBot, is, I think, like, $6 a month.
+
+Adele Best: Oh, wow.
+
+Jeremiah Krakowski: So it's a virtual computer. that you get to log into. You literally log into it. You can do a Windows or a Linux computer. So, look, the $8 a month price tier right here, look at that.
+
+Adele Best: Yeah. Wow.
+
+Jeremiah Krakowski: And the free version gives… so then CloudBot is installed on this little virtual computer. And then it can do the work for you from that virtual computer. So you don't want it to be on your main computer, you want it to be inside of a virtual Yeah. Or, I have it right now running on my MacBook, my MacBook Air.
+
+Adele Best: Yeah, yeah, yeah.
+
+Jeremiah Krakowski: my main computer, it's a separate computer that I have it running on.
+
+Adele Best: Yeah, I feel like, like, within the space of 7 days, every time we come onto this call, it's like the AI is rising ahead so fast.
+
+Jeremiah Krakowski: It is.
+
+Adele Best: It's frightening.
+
+Jeremiah Krakowski: It can be frightening, or it can be exciting.
+
+Adele Best: Well, it's exciting, yeah, it's like… but we gotta, like… it's just, like, keeping up with it, but I feel like we've got.
+
+Jeremiah Krakowski: This is the… this is… this is the inflection point that's happened, so…
+
+Adele Best: Yeah. Watching some of Julia's videos has been very eye-opening about just what's coming down the tracks in, like, 3 years, and we can't stop it, it's coming. So, all these people that are saying, oh, I don't want to use AI, well, you're going to be left behind then, because all your competition is. So… You know? Alright, I've only got 1% battery, so I'm gonna stop talking. Thanks, Jeremiah.
+
+Jeremiah Krakowski: Yeah, you bet. And then, what I'm doing is I'm using Claude Code. Claude Code can go into my Manus, or into my Lovable account. And it can improve the code by fixing things like that through clawed code, so… Those are just some of the different ways that we can do that. Look at this. Here's this, here's this little app right here, Postcraft. Not witchcraft, it's postcraft. So let's… let's take a transcript right here. Let's go… let's go to Otter, let's go grab a transcript. And we're gonna test out these micro-apps. Lookit, Manus just built us a little micro-app right here, too. So this is what I mean by a micro-app agent. Let me go grab my mom's call, because that's all I have right here. This is her stocks call from today. I'm gonna go grab this. So you saw, all I did was I just prompted these to build me an app. That did those things. I'm just gonna copy this to my clipboard, I'm gonna go paste this into… Manus, right here, we're gonna say, let's make me some Instagram… TikTok, let's do provocative posts… 3 posts per platform. Okay, let's go see Lovable. We're gonna do Provocative… 3 posts for platform for all of these right here. Generate posts. So now, what it's gonna do is it's gonna generate me… with the AI, Because these literally have AI built into them, even. Okay, so this didn't generate any posts on Manus. Okay, so you didn't generate me any posts… It's just blank when I click Generate, okay? So we're gonna tell Manus that, and this is how we do it, this is how it works. Okay, this one worked on Lovable, lookit, now we have posts right here. Here's some ex-posts. Most people shouldn't be allowed to trade. Why? Because they can't control their impulses. I just made $250,000 this morning while sitting under a cozy blanket. It wasn't… I should send this to my mom, this is hilarious. It took her call and turned it into all these. LinkedIn posts. I never thought I'd be teaching patience in a high-stakes trading class, but here we are. Today, I watched my portfolio climb 250 grand, which it did. Instagram post. Woke up to $250,000 profit while the world outside was literally frozen, while everyone stood panic-scrolling. So this is… it's a… like, how quickly that was. Now, once you have this. You could literally just do this multiple times a day. We could run… we could run some humorous ones here. We could run… yeah, so Manis is… it's thinking, it's trying to fix its thing. Lovable seems to be a little bit better at Manus at doing most of this stuff. At kind of building these that actually work. And I think the value that you get for the cost on Levable for building little apps is pretty good. Even just their $20 a month tier is pretty good at this. Whereas with, with Manus, Takes a little bit more than 20 bucks a month to build out. some of these on Manus, so… But here's the cool thing about Manus, it's able to take control of my web browser and actually test it out for me. So it's testing it right now in its preview window. to see what it does, and it's able to see what the issues are. It's actually testing the app by itself autonomously. Which is awesome. See, analyzing transcript… Okay, there we go. It worked. Very cool. I ran out of rock salt, started using sugar. If you see a diabetic husky licking my deck stairs, mind your business. Oh my gosh. Your brain doesn't understand just kidding. When you tell a person, stop gaslighting yourself. Hot take, most of your trading losses aren't due to… Money's great, let's see… Well, Texas ice storm, get creative. Salt plus sugar equals no more ice, yes. This is taken from the transcript of my mom's post. So we just built a little AI agent. That can make social media content. In… in minutes, that way. Which is awesome, that was inlovable. We just told it that one prompt. Remember, we started with Claude, we told Claude to actually make us… the details, and this is why Lovable is able to do this so quickly. is Claude actually created the details of how to build the app, the agent, the app, right here. And then we pasted that… those details into those. So if you had just told them you wanted to make this micro-app, it would not have worked as well as pasting the Claude output. So… but that's the one… one thing with that. Then, if you're using ClaudeBot. I can just tell Clodbot to go in there and, like, manage all this for me. Mana says that it fixed its issue, and now it's working. It's pretty cool. So now it's able to… Manis is now able to analyze the transcripts with just one little extra prompt. And what was the cost on this in tokens from Manus? 118 credits. You could build that with the initial count, so you build… so Manis isn't even that expensive either. at building little micro-apps. I would say Lovable usually works a little bit better on the front end, though, and they look a lot nicer, which is cool. So… Like, that's it. Like, I just showed you guys, like, the initial stage of how to build these. I'm taking it to, like, the whole next kind of psychotic level a little bit, but… Yeah. And what I want to do is, every task I do in my business, everything I have a VA do, stuff like that. I'm gonna build out tools that do this, and then I can tell, like, Claudebot to go, okay, go create the transcript, go make me some draft posts, go take all this. Now, sure, there's some manual stuff I have to do, but… It's… it's so powerful, the ability to be able to put all this together like this. If you're trying to come up with, like, ideas, you know, for your business, on your own. And you're trying to… and you're not using AI agents to kind of help streamline a lot of the process. You're just… You're… you're working with… Really outdated tools in your business at this point. So, no, no hate against anybody, no, like. Kinda beating you down, I'm just telling you. That's it. Alright? I love it. Absolutely love it. And so, listen. This has been so good. Let me ask you this, let's go back to the, the, since I got some of you still on here, I wanna, I wanna kinda get some breakthrough here with this, with you guys. when you think about using AI agents or building this stuff, what is the fear, worry, hesitation, doubt that comes in mind? Where you're like, I'm not ready yet, I'm not sure I could do this, I'm not sure what to do, all that. What is the things that kind of pop in your mind? about those. The same thing that we did earlier, we can get to the root of that. What do you… what do you guys think it is? That's slowing you down from going to the next level with your AI creations. You don't know what the prompts are to figure it out. Well, I'll tell you this. Half the time anymore, I don't even know what the prompts are, I tell the AI to come up with the prompt for me. So… That's… that's why I stopped kind of giving out prompt packs, is I want to teach you, now, figure out how to describe what you're wanting, and then have the AI generate the prompt for you, and then adjust it by talking to it like a person. So, like, right here, let's just kinda… Go through this right here. This is the, the, the decision matrix mind hack process. And again, we've been… we've been talking about this, David's book. so powerful. I read it… I listened to the audiobook 3 times in the last week. He's just a great… this… his book is so good. I'm not… I actually have a little bit of trouble watching his videos and listening to his content, weirdly enough. I don't resonate with it, but I resonate with the book so much. Like, it's so good, that that's kind of what I just lean in on, is the book so much. The Changed Mind book, it's just so good. Okay. What does success look like? The outcome you're looking for? What steps? What are the constraints? Oh, interesting. Decision matrix. You feel like… you feel lost about prompts. I don't know enough, I'm gonna do it wrong. I need the perfect prompt for it to work. Right? I can start with a simple outcome, first prompt, and improve as I go. That's it. So… And I know, Tiffany, you got evidence of that in how you've used AI as well. I hear too.
+
+Tiffany Quinones: Oh, yes.
+
+Jeremiah Krakowski: as you go.
+
+Tiffany Quinones: Yeah, and the cool thing is, too, is the, I learn by repetition, because I also find that if I try to copy your wording, it… it's not my wording, so it kind of throws me off, and then I think it has to be some other way. But I just… I've been implementing. Like, I can take the thing you just shared with us about how you turned Sandy's transcripts into AI content, so then I got this idea, I'm gonna go do the same exact thing with my podcast transcript.
+
+Jeremiah Krakowski: Mmm.
+
+Tiffany Quinones: And now I've got tons of ideas, but… Yeah, now I realize I don't need to know, really, the, like, perfect prompt. It's just, like, go… and the way I operate, you know, as a quick start, it's like, I don't need a cookie cutter.
+
+Jeremiah Krakowski: Well, that's it. This prompt I put into Lovable, that's the perfect prompt that Lovable needs.
+
+Tiffany Quinones: Yeah.
+
+Jeremiah Krakowski: for any app. All I did was, I want an agent microapp that turns transcripts into this, map out the directions in a prompt for Manis, or Orlovable, or whatever. like a product… product requirement documents for doing this, a PRD style. PRD is a term. or what this document is, it's called Project Requirements Document. And so I mapped it out, and now that's the perfect prompt right there. And I didn't need to know that.
+
+Tiffany Quinones: Right. Yeah, lovable. I don't know, here, I'll turn my camera back on. lovable. It, like… Cuts!
+
+Jeremiah Krakowski: All the time and half of everything that I have had to use over the years.
+
+Tiffany Quinones: So, thank you for sharing that with us, because, I've been using it, and I'm like, I will gladly pay to hire… that's like hiring my assistant, and it can create… In fact, recently, just last week, it created an email series where I just told it the prompt of, I want this email series to nurture my email list first before selling my $10 offer.
+
+Jeremiah Krakowski: Nice.
+
+Tiffany Quinones: So it created a whole, like, 21-day series, so I have been, you know, doing a little edits here and there, but I've sent it.
+
+Jeremiah Krakowski: Wow.
+
+Tiffany Quinones: And the percentage rate, the last… one that people opened was, like, 26%. I count that as, like, a huge deal. And then the Lovable app also recently created a… testimonials page, where I went back and I reached out to previous people whose spaces I have been in, like the business owners, asking for testimonials on how I, enriched their community, like, before, during, after, and then, I created a second page to that where I was able to then, I call it a love wall, where it's previous testimonials that I've gathered from previous clients. And I put that on there, so now… and I did that over the weekend.
+
+Jeremiah Krakowski: Awesome.
+
+Tiffany Quinones: And I upgraded it today, I just tweaked a few things, but it's… it's so simple.
+
+Jeremiah Krakowski: I created this, it's I loaded up a bunch of emails from my mom. that I wrote myself, but I loaded them up, and I created an email generator, that drafts Sandy-style emails.
+
+Tiffany Quinones: That's cool.
+
+Jeremiah Krakowski: all the emails that I'm writing out now for my mom. I'm just editing what it's creating right here. It's literally writing them exactly how we send them. So this just cut down 75% of my time for writing these emails for Sandy.
+
+Tiffany Quinones: Yeah. I'm on her email list, too, so it's neat to see. Plus, too, the mindset that I was in when I started this whole business thing is that I had to sound like my mentors and do exactly what they were doing, but it wasn't until I figured it out that I'm not them. I can model what they're doing, but not mimic, so that has been a game changer. Actually, it has been a game changer, because now I'm like, I'm flying! So…
+
+Jeremiah Krakowski: It's pretty cool.
+
+Tiffany Quinones: Yeah.
+
+Jeremiah Krakowski: We got a few hundred people already to Sandy's AI, app that we created.
+
+Tiffany Quinones: Yeah!
+
+Jeremiah Krakowski: It's awesome.
+
+Tiffany Quinones: Those apps, I'm telling you, whatever you both, like, they're so helpful. Because they just are, so…
+
+Jeremiah Krakowski: Well, I built… I built… I built the Sandy AI in Lovable.
+
+Tiffany Quinones: Oh, that's totally cool. That's totally cool, because it takes the…
+
+Jeremiah Krakowski: I loaded all her transcripts and stuff up into it.
+
+Tiffany Quinones: Yeah, that's fair.
+
+Jeremiah Krakowski: But, yup, and then… and then I use Claude Code to kind of refine it. But, yeah, it's awesome.
+
+Tiffany Quinones: Yeah. Yeah, I wonder.
+
+Jeremiah Krakowski: We're in a new… we're in a new… a new era of a lot of this stuff.
+
+Tiffany Quinones: Yeah.
+
+Jeremiah Krakowski: start dreaming about, too, like, what could I create? What app could I create in my business? What are some apps I could use to automate what I do in my business? A simple one for you, Autumn… what?
+
+Tiffany Quinones: I already started! It's fine.
+
+Jeremiah Krakowski: Yeah, and then you can start creating those things. Again, I think Lovable is, like, the fastest, easiest way that anybody can use to do that.
+
+Tiffany Quinones: Oh, yeah.
+
+Jeremiah Krakowski: Now, if you start making, like, 20, 30 apps and stuff, yeah, your lovable account's gonna get a little bit more expensive.
+
+Tiffany Quinones: Right.
+
+Jeremiah Krakowski: But if you're the only one using them, the cost is still pretty negligible, because the server costs are almost zero.
+
+Tiffany Quinones: Yeah.
+
+Jeremiah Krakowski: And then what I look for is… now, one of the things that I will say is they charge… they upcharge their AI as… Kind of pricey.
+
+Tiffany Quinones: Hmm.
+
+Jeremiah Krakowski: their AI cloud. You can load more credits into it, but what I do is I get.
+
+Tiffany Quinones: Yes.
+
+Jeremiah Krakowski: I get what's called an API key from OpenAI, from Google, from Anthropic, and I load that in there, the API key, and then it starts using the API keys for the things. Oh! So the API key is just a connection into Claude, ChatGPT, all that, that Lovable's app can use to then generate the outputs.
+
+Tiffany Quinones: Oh, okay. Okay.
+
+Jeremiah Krakowski: So you gotta go create an API key with those, and set up your billing, and how they charge you. And just be careful, you don't want the API key to get out there public or anything, or you'll… I did that accidentally, I ended up with, like, a $700 bill by accident, because people stole my API. Oh. You can set limits, though, inside of them, where, like, it's not gonna charge you above, like, this much a month. And so, that's… helpful, but…
+
+Tiffany Quinones: Okay.
+
+Jeremiah Krakowski: Unfortunately, that's the only thing, like, there's hackers and stuff that can get involved with this, but Lovable has a lot of good, like, secure… they have, like, a security check and all of that.
+
+Tiffany Quinones: Yup.
+
+Jeremiah Krakowski: Lovable is kind of its own version of Clawed Code, a little bit. It has a lot of the same under… Underpinnings to it. That makes sure that the security and stuff is in there, so the quality of what's in Lovable is really good. Manus isn't quite as good, but the reason why I like Manus is it can do a little bit more. It's… it can actually go into the browser and go to different websites and view different things and take action, versus Lovable can't necessarily… do that. as much.
+
+Tiffany Quinones: Yeah.
+
+Jeremiah Krakowski: But, they should add that in there, which is interesting. That's where CloudBot is just crazy, though, because then CloudBot can take control of my whole computer and just do everything for me. Like, I just can't believe, like, it did all that work this morning for me, and I didn't even have to touch anything. I just was texting it while I was washing the dishes, telling it what I wanted it to create. I was just dreaming up, like. Workflows and agents, and it literally just built them all. Inside of itself.
+
+Tiffany Quinones: Yeah.
+
+Jeremiah Krakowski: So… Which is pretty cool.
+
+Tiffany Quinones: Yeah, thanks.
+
+Jeremiah Krakowski: Already. Already, y'all. We're gonna log off here. Have a good one. Let's build our businesses. Bye-bye.

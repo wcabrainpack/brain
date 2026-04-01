@@ -1,0 +1,594 @@
+{
+  "extractedAt": "2026-03-30T22:16:04.044Z",
+  "source": "members-area course_player API via authenticated browser session",
+  "pageWsUrl": "ws://127.0.0.1:18800/devtools/page/6E43BF632F33B47302AD1829FB8B890B",
+  "totalPages": 7,
+  "totalCourses": 58,
+  "totalContents": 1925,
+  "totalTextLessons": 1177,
+  "totalEmptyLessons": 748,
+  "totalErrors": 0,
+  "courses": [
+    {
+      "slug": "ai-clone",
+      "name": "Jeremiah's AI Clone",
+      "id": 3206913,
+      "chapterCount": 1,
+      "contentCount": 1,
+      "lessonFilesDir": "courses/ai-clone/lessons",
+      "readme": "courses/ai-clone/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "academy-weekly-training-archives",
+      "name": "Academy Weekly Training Archives",
+      "id": 1951779,
+      "chapterCount": 46,
+      "contentCount": 230,
+      "lessonFilesDir": "courses/academy-weekly-training-archives/lessons",
+      "readme": "courses/academy-weekly-training-archives/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "learning-library-of-classes",
+      "name": "Learning Library Of Classes",
+      "id": 2765013,
+      "chapterCount": 43,
+      "contentCount": 575,
+      "lessonFilesDir": "courses/learning-library-of-classes/lessons",
+      "readme": "courses/learning-library-of-classes/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "beginner-courses",
+      "name": "Beginner Courses",
+      "id": 2765014,
+      "chapterCount": 9,
+      "contentCount": 59,
+      "lessonFilesDir": "courses/beginner-courses/lessons",
+      "readme": "courses/beginner-courses/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "intermediate-courses",
+      "name": "Intermediate Courses",
+      "id": 2765015,
+      "chapterCount": 6,
+      "contentCount": 39,
+      "lessonFilesDir": "courses/intermediate-courses/lessons",
+      "readme": "courses/intermediate-courses/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "writing-7-figure-email-campaigns",
+      "name": "Writing 7 Figure Email Campaigns",
+      "id": 2925462,
+      "chapterCount": 4,
+      "contentCount": 4,
+      "lessonFilesDir": "courses/writing-7-figure-email-campaigns/lessons",
+      "readme": "courses/writing-7-figure-email-campaigns/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "private-vault-virtual-events",
+      "name": "Private Vault of Webinars & Challenges",
+      "id": 1988729,
+      "chapterCount": 79,
+      "contentCount": 395,
+      "lessonFilesDir": "courses/private-vault-virtual-events/lessons",
+      "readme": "courses/private-vault-virtual-events/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "wealthy-coach-academy-start-here",
+      "name": "Wealthy Coach Academy: Start Here",
+      "id": 1935024,
+      "chapterCount": 4,
+      "contentCount": 20,
+      "lessonFilesDir": "courses/wealthy-coach-academy-start-here/lessons",
+      "readme": "courses/wealthy-coach-academy-start-here/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-1-on-1-resources",
+      "name": "Ultimate VIP 1-on-1 Experience Resources",
+      "id": 3107512,
+      "chapterCount": 3,
+      "contentCount": 25,
+      "lessonFilesDir": "courses/vip-1-on-1-resources/lessons",
+      "readme": "courses/vip-1-on-1-resources/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "mailerLite-made-easy",
+      "name": "MailerLite Made Easy",
+      "id": 2891304,
+      "chapterCount": 4,
+      "contentCount": 4,
+      "lessonFilesDir": "courses/mailerLite-made-easy/lessons",
+      "readme": "courses/mailerLite-made-easy/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "7-figure-webinars",
+      "name": "7 Figure Webinars",
+      "id": 2976107,
+      "chapterCount": 5,
+      "contentCount": 5,
+      "lessonFilesDir": "courses/7-figure-webinars/lessons",
+      "readme": "courses/7-figure-webinars/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "build-and-grow-your-6-figure-group-coaching-membership",
+      "name": "Build and Grow Your 6 Figure Group Coaching Membership",
+      "id": 2972795,
+      "chapterCount": 1,
+      "contentCount": 3,
+      "lessonFilesDir": "courses/build-and-grow-your-6-figure-group-coaching-membership/lessons",
+      "readme": "courses/build-and-grow-your-6-figure-group-coaching-membership/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "find-your-ultimate-coaching-niche-holiday-bundle",
+      "name": "Find Your Ultimate Coaching Niche Holiday Bundle",
+      "id": 2958062,
+      "chapterCount": 4,
+      "contentCount": 6,
+      "lessonFilesDir": "courses/find-your-ultimate-coaching-niche-holiday-bundle/lessons",
+      "readme": "courses/find-your-ultimate-coaching-niche-holiday-bundle/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "sales-letter-&-landing-page-copywriting-made-easy-with-ai",
+      "name": "Sales Letter & Landing Page Copywriting Made Easy with A.I.",
+      "id": 2949265,
+      "chapterCount": 5,
+      "contentCount": 5,
+      "lessonFilesDir": "courses/sales-letter-&-landing-page-copywriting-made-easy-with-ai/lessons",
+      "readme": "courses/sales-letter-&-landing-page-copywriting-made-easy-with-ai/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "evergreen-marketing-funnel-secrets",
+      "name": "Evergreen Marketing Funnel Secrets",
+      "id": 2885105,
+      "chapterCount": 7,
+      "contentCount": 7,
+      "lessonFilesDir": "courses/evergreen-marketing-funnel-secrets/lessons",
+      "readme": "courses/evergreen-marketing-funnel-secrets/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "black-friday-2024",
+      "name": "Black Friday 2024",
+      "id": 2942707,
+      "chapterCount": 6,
+      "contentCount": 6,
+      "lessonFilesDir": "courses/black-friday-2024/lessons",
+      "readme": "courses/black-friday-2024/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "creating-a-world-class-digital-course",
+      "name": "Creating A World Class Digital Course",
+      "id": 2799092,
+      "chapterCount": 5,
+      "contentCount": 5,
+      "lessonFilesDir": "courses/creating-a-world-class-digital-course/lessons",
+      "readme": "courses/creating-a-world-class-digital-course/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "new-years-bundle",
+      "name": "New Years Celebration Training Bundle",
+      "id": 2129386,
+      "chapterCount": 9,
+      "contentCount": 19,
+      "lessonFilesDir": "courses/new-years-bundle/lessons",
+      "readme": "courses/new-years-bundle/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-Create-Launch-Your-6-Figure-Group-Coaching-Community-Offer",
+      "name": "VIP Bonuses: June 5: Create & Launch Your 6 Figure Group Coaching Community Offer",
+      "id": 2780805,
+      "chapterCount": 3,
+      "contentCount": 7,
+      "lessonFilesDir": "courses/vip-bonuses-Create-Launch-Your-6-Figure-Group-Coaching-Community-Offer/lessons",
+      "readme": "courses/vip-bonuses-Create-Launch-Your-6-Figure-Group-Coaching-Community-Offer/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-march-30-build-your-own-subscribers-area-from-scratch",
+      "name": "VIP Bonuses: March 30 - Build Your Own Paid Subscribers Area From Scratch",
+      "id": 2716676,
+      "chapterCount": 4,
+      "contentCount": 9,
+      "lessonFilesDir": "courses/vip-bonuses-march-30-build-your-own-subscribers-area-from-scratch/lessons",
+      "readme": "courses/vip-bonuses-march-30-build-your-own-subscribers-area-from-scratch/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "April-10-12-Low-Cost-High-Impact-Offer-Launchpad",
+      "name": "VIP Bundle: April 10-12 Low Cost High Impact & Offer Launchpad",
+      "id": 2716775,
+      "chapterCount": 7,
+      "contentCount": 14,
+      "lessonFilesDir": "courses/April-10-12-Low-Cost-High-Impact-Offer-Launchpad/lessons",
+      "readme": "courses/April-10-12-Low-Cost-High-Impact-Offer-Launchpad/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "March11-13-AI-Offer-Launchpad",
+      "name": "VIP Bundle: March 11 - 13: A.I. Offer Launchpad",
+      "id": 2677932,
+      "chapterCount": 7,
+      "contentCount": 14,
+      "lessonFilesDir": "courses/March11-13-AI-Offer-Launchpad/lessons",
+      "readme": "courses/March11-13-AI-Offer-Launchpad/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "Jan29-Feb2-Start-Grow-Your-Course-or-Coaching-Offer-to-6-Figures",
+      "name": "VIP Bundle: Jan 29 - Feb 2: Start & Grow Your Course or Group Coaching to 6 Figures",
+      "id": 2612820,
+      "chapterCount": 8,
+      "contentCount": 19,
+      "lessonFilesDir": "courses/Jan29-Feb2-Start-Grow-Your-Course-or-Coaching-Offer-to-6-Figures/lessons",
+      "readme": "courses/Jan29-Feb2-Start-Grow-Your-Course-or-Coaching-Offer-to-6-Figures/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-jan-27-get-more-course-sales-or-coaching-clients-with-Facebook-ads",
+      "name": "VIP Bonuses: January 27 - Get More Course Sales or Coaching Clients with Facebook Ads",
+      "id": 2614517,
+      "chapterCount": 5,
+      "contentCount": 9,
+      "lessonFilesDir": "courses/vip-bonuses-jan-27-get-more-course-sales-or-coaching-clients-with-Facebook-ads/lessons",
+      "readme": "courses/vip-bonuses-jan-27-get-more-course-sales-or-coaching-clients-with-Facebook-ads/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-jan-13-create-your-own-6-figure-online-course-coaching-program-from-scratch",
+      "name": "VIP Bonuses: January 13 - Create Your Own 6 Figure Online Course or Coaching Program From Scratch",
+      "id": 2603962,
+      "chapterCount": 4,
+      "contentCount": 9,
+      "lessonFilesDir": "courses/vip-bonuses-jan-13-create-your-own-6-figure-online-course-coaching-program-from-scratch/lessons",
+      "readme": "courses/vip-bonuses-jan-13-create-your-own-6-figure-online-course-coaching-program-from-scratch/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "December-18-22-Create-Laucnh-Your-6-Figure-Course-or-Coaching-Offer",
+      "name": "VIP Bundle: December 18-22 Create & Launch Your 6 Figure Course or Coaching Offer",
+      "id": 2574877,
+      "chapterCount": 8,
+      "contentCount": 19,
+      "lessonFilesDir": "courses/December-18-22-Create-Laucnh-Your-6-Figure-Course-or-Coaching-Offer/lessons",
+      "readme": "courses/December-18-22-Create-Laucnh-Your-6-Figure-Course-or-Coaching-Offer/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-december-16-plan-create-your-online-course-coaching-program-the-easy-way",
+      "name": "VIP Bonuses: December 16 - Plan and Create Your Online Course or Coaching Program the Easy Way",
+      "id": 2575287,
+      "chapterCount": 7,
+      "contentCount": 11,
+      "lessonFilesDir": "courses/vip-bonuses-december-16-plan-create-your-online-course-coaching-program-the-easy-way/lessons",
+      "readme": "courses/vip-bonuses-december-16-plan-create-your-online-course-coaching-program-the-easy-way/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-dec-2nd-create-your-own-6-figure-online-course",
+      "name": "VIP Bonuses: December 2 - Create Your Own 6-Figure Online Course",
+      "id": 2558284,
+      "chapterCount": 4,
+      "contentCount": 8,
+      "lessonFilesDir": "courses/vip-bonuses-dec-2nd-create-your-own-6-figure-online-course/lessons",
+      "readme": "courses/vip-bonuses-dec-2nd-create-your-own-6-figure-online-course/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-december-9-get-more-coaching-clients-with-facebook-ads",
+      "name": "VIP Bonuses: December 9 - Get More Course Sales Or Coaching Clients with Facebook Ads",
+      "id": 2569951,
+      "chapterCount": 4,
+      "contentCount": 7,
+      "lessonFilesDir": "courses/vip-bonuses-december-9-get-more-coaching-clients-with-facebook-ads/lessons",
+      "readme": "courses/vip-bonuses-december-9-get-more-coaching-clients-with-facebook-ads/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "November-13-17-Start-Grow-Your-Group-Coaching-to-6-Figures",
+      "name": "VIP Bundle: November 13-17 Start & Grow Your Group Coaching to 6 Figures",
+      "id": 2529770,
+      "chapterCount": 7,
+      "contentCount": 18,
+      "lessonFilesDir": "courses/November-13-17-Start-Grow-Your-Group-Coaching-to-6-Figures/lessons",
+      "readme": "courses/November-13-17-Start-Grow-Your-Group-Coaching-to-6-Figures/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-nov-4th-get-more-coaching-clients-with-facebook-ads",
+      "name": "VIP Bonuses: November 4 - Get More Coaching Clients with Facebook Ads",
+      "id": 2532689,
+      "chapterCount": 5,
+      "contentCount": 8,
+      "lessonFilesDir": "courses/vip-bonuses-nov-4th-get-more-coaching-clients-with-facebook-ads/lessons",
+      "readme": "courses/vip-bonuses-nov-4th-get-more-coaching-clients-with-facebook-ads/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-oct-28th-create-your-own-6-figure-digital-course-from-scratch",
+      "name": "VIP Bonuses: October 28 - Create Your Own 6 Figure Digital Course From Scratch",
+      "id": 2518989,
+      "chapterCount": 5,
+      "contentCount": 9,
+      "lessonFilesDir": "courses/vip-bonuses-oct-28th-create-your-own-6-figure-digital-course-from-scratch/lessons",
+      "readme": "courses/vip-bonuses-oct-28th-create-your-own-6-figure-digital-course-from-scratch/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-sept-23rd-get-more-mentorship-clients-using-live-webinars-and-ai",
+      "name": "VIP Bonuses: September 23 - Get More Mentorship Clients using Live Webinars + A.I.",
+      "id": 2433787,
+      "chapterCount": 6,
+      "contentCount": 9,
+      "lessonFilesDir": "courses/vip-bonuses-sept-23rd-get-more-mentorship-clients-using-live-webinars-and-ai/lessons",
+      "readme": "courses/vip-bonuses-sept-23rd-get-more-mentorship-clients-using-live-webinars-and-ai/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-sept-16th-get-more-mentorship-clients-with-AI-and-facebook-ads",
+      "name": "VIP Bonuses: September 16 - Get More Mentorship Clients with A.I + Facebook Ads",
+      "id": 2425387,
+      "chapterCount": 4,
+      "contentCount": 7,
+      "lessonFilesDir": "courses/vip-bonuses-sept-16th-get-more-mentorship-clients-with-AI-and-facebook-ads/lessons",
+      "readme": "courses/vip-bonuses-sept-16th-get-more-mentorship-clients-with-AI-and-facebook-ads/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "September-25-29-Build-Launch-Your-Profitable-Group-Mentorship-Offer",
+      "name": "VIP Bundle: September 25-29 Build & Launch Your Profitable Group Mentorship",
+      "id": 2422206,
+      "chapterCount": 6,
+      "contentCount": 17,
+      "lessonFilesDir": "courses/September-25-29-Build-Launch-Your-Profitable-Group-Mentorship-Offer/lessons",
+      "readme": "courses/September-25-29-Build-Launch-Your-Profitable-Group-Mentorship-Offer/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-sept-9th-start-a-highly-profitable-online-group-mentorship-with-AI",
+      "name": "VIP Bonuses: September 9 - Start A Highly Profitable Online Group Mentorship with A.I",
+      "id": 2416631,
+      "chapterCount": 4,
+      "contentCount": 8,
+      "lessonFilesDir": "courses/vip-bonuses-sept-9th-start-a-highly-profitable-online-group-mentorship-with-AI/lessons",
+      "readme": "courses/vip-bonuses-sept-9th-start-a-highly-profitable-online-group-mentorship-with-AI/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-aug-12th-grow-your-online-mentorship-to-6figures-using-AI",
+      "name": "VIP Bonuses: August 12 - Grow Your Online Mentorship to 6 Figures Using A.I",
+      "id": 2382266,
+      "chapterCount": 6,
+      "contentCount": 10,
+      "lessonFilesDir": "courses/vip-bonuses-aug-12th-grow-your-online-mentorship-to-6figures-using-AI/lessons",
+      "readme": "courses/vip-bonuses-aug-12th-grow-your-online-mentorship-to-6figures-using-AI/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-june-24th-get-more-clients-with-paid-ads-and-AI",
+      "name": "VIP Bonuses: June 24th Get More Clients with Paid Ads and AI",
+      "id": 2330478,
+      "chapterCount": 4,
+      "contentCount": 7,
+      "lessonFilesDir": "courses/vip-bonuses-june-24th-get-more-clients-with-paid-ads-and-AI/lessons",
+      "readme": "courses/vip-bonuses-june-24th-get-more-clients-with-paid-ads-and-AI/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "July-10th-14th-Build-Launch-Your-6-Figure-Group-Coaching-Offer",
+      "name": "VIP Bundle: July 10-14th Build & Launch Your 6-Figure Group Coaching Offer ",
+      "id": 2324053,
+      "chapterCount": 6,
+      "contentCount": 17,
+      "lessonFilesDir": "courses/July-10th-14th-Build-Launch-Your-6-Figure-Group-Coaching-Offer/lessons",
+      "readme": "courses/July-10th-14th-Build-Launch-Your-6-Figure-Group-Coaching-Offer/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-may-2nd-start-a-6-figure-group-coaching-business-from-scratch",
+      "name": "VIP Bonuses: May 2nd Start A 6 Figure Group Coaching Business from Scratch",
+      "id": 2272454,
+      "chapterCount": 7,
+      "contentCount": 10,
+      "lessonFilesDir": "courses/vip-bonuses-may-2nd-start-a-6-figure-group-coaching-business-from-scratch/lessons",
+      "readme": "courses/vip-bonuses-may-2nd-start-a-6-figure-group-coaching-business-from-scratch/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "May-8th-12th-Launch-Scale-Your-6-Figure-Group-Coaching-Offer",
+      "name": "VIP Bundle: May 8th-12th Launch & Scale Your 6-Figure Group Coaching Offer",
+      "id": 2268068,
+      "chapterCount": 7,
+      "contentCount": 18,
+      "lessonFilesDir": "courses/May-8th-12th-Launch-Scale-Your-6-Figure-Group-Coaching-Offer/lessons",
+      "readme": "courses/May-8th-12th-Launch-Scale-Your-6-Figure-Group-Coaching-Offer/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-bonuses-may-6th-grow-your-6-figute-group-coaching-business-with-paid-ads",
+      "name": "VIP Bonuses: May 6th Grow Your 6-Figure Group Coaching Business With Paid Ads",
+      "id": 2272542,
+      "chapterCount": 6,
+      "contentCount": 10,
+      "lessonFilesDir": "courses/vip-bonuses-may-6th-grow-your-6-figute-group-coaching-business-with-paid-ads/lessons",
+      "readme": "courses/vip-bonuses-may-6th-grow-your-6-figute-group-coaching-business-with-paid-ads/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "grow-your-group-coaching-business-with-zoom-events",
+      "name": "VIP Bundle: April 10th-14th Grow Your Group Coaching Business With Zoom Events",
+      "id": 2225831,
+      "chapterCount": 13,
+      "contentCount": 32,
+      "lessonFilesDir": "courses/grow-your-group-coaching-business-with-zoom-events/lessons",
+      "readme": "courses/grow-your-group-coaching-business-with-zoom-events/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "get-dream-coaching-clients-with-paid-advertising",
+      "name": "VIP Bonuses: April 1st Get Dream Coaching Clients With Paid Advertising",
+      "id": 2220777,
+      "chapterCount": 5,
+      "contentCount": 8,
+      "lessonFilesDir": "courses/get-dream-coaching-clients-with-paid-advertising/lessons",
+      "readme": "courses/get-dream-coaching-clients-with-paid-advertising/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "plan-out-your-course-or-coaching-vip",
+      "name": "Plan Out & Create Your Signature Coaching Program or Online Course The Easy Way",
+      "id": 2148826,
+      "chapterCount": 7,
+      "contentCount": 11,
+      "lessonFilesDir": "courses/plan-out-your-course-or-coaching-vip/lessons",
+      "readme": "courses/plan-out-your-course-or-coaching-vip/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "march-7th-launch-your-6-figure-coaching-offer",
+      "name": "March 7th: Launch Your 6 Figure Coaching Offer",
+      "id": 2192115,
+      "chapterCount": 6,
+      "contentCount": 9,
+      "lessonFilesDir": "courses/march-7th-launch-your-6-figure-coaching-offer/lessons",
+      "readme": "courses/march-7th-launch-your-6-figure-coaching-offer/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "start-grow-group-coaching-6-figures",
+      "name": "VIP Bonuses: Start & Grow Your Group Coaching to 6 Figures",
+      "id": 2145646,
+      "chapterCount": 10,
+      "contentCount": 27,
+      "lessonFilesDir": "courses/start-grow-group-coaching-6-figures/lessons",
+      "readme": "courses/start-grow-group-coaching-6-figures/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "coaching-payment-plan",
+      "name": "Coaching Payment Plan",
+      "id": 1757935,
+      "chapterCount": 1,
+      "contentCount": 1,
+      "lessonFilesDir": "courses/coaching-payment-plan/lessons",
+      "readme": "courses/coaching-payment-plan/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "build-your-own-6-figure-coaching-business-vip-upgrade-package",
+      "name": "Build Your Own 6 Figure Coaching Business - VIP Upgrade Package",
+      "id": 1965569,
+      "chapterCount": 4,
+      "contentCount": 12,
+      "lessonFilesDir": "courses/build-your-own-6-figure-coaching-business-vip-upgrade-package/lessons",
+      "readme": "courses/build-your-own-6-figure-coaching-business-vip-upgrade-package/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "september-build-your-own-6-figure-coaching-business-vip-upgrade-package",
+      "name": "Build Your Own 6 Figure Coaching Business - VIP Upgrade Package",
+      "id": 1995197,
+      "chapterCount": 3,
+      "contentCount": 19,
+      "lessonFilesDir": "courses/september-build-your-own-6-figure-coaching-business-vip-upgrade-package/lessons",
+      "readme": "courses/september-build-your-own-6-figure-coaching-business-vip-upgrade-package/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "create-launch-your-coaching-business-to-six-figures",
+      "name": "Create & Launch Your Coaching Business To 6 Figures - VIP Package",
+      "id": 2026724,
+      "chapterCount": 4,
+      "contentCount": 23,
+      "lessonFilesDir": "courses/create-launch-your-coaching-business-to-six-figures/lessons",
+      "readme": "courses/create-launch-your-coaching-business-to-six-figures/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "lead-magnet-vip-package",
+      "name": "Lead Magnet VIP Package",
+      "id": 2029330,
+      "chapterCount": 4,
+      "contentCount": 7,
+      "lessonFilesDir": "courses/lead-magnet-vip-package/lessons",
+      "readme": "courses/lead-magnet-vip-package/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "6-figure-video-ad",
+      "name": "Let's Write Your 6-Figure Video Advertising Script",
+      "id": 2036692,
+      "chapterCount": 7,
+      "contentCount": 10,
+      "lessonFilesDir": "courses/6-figure-video-ad/lessons",
+      "readme": "courses/6-figure-video-ad/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "grow-your-coaching-business-to-6-figures",
+      "name": "Grow Your Coaching Business To 6 Figures",
+      "id": 2068711,
+      "chapterCount": 5,
+      "contentCount": 19,
+      "lessonFilesDir": "courses/grow-your-coaching-business-to-6-figures/lessons",
+      "readme": "courses/grow-your-coaching-business-to-6-figures/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "get-more-clients-with-paid-avertising",
+      "name": "VIP Bonuses: Get More Clients With Paid Advertising",
+      "id": 2091722,
+      "chapterCount": 8,
+      "contentCount": 15,
+      "lessonFilesDir": "courses/get-more-clients-with-paid-avertising/lessons",
+      "readme": "courses/get-more-clients-with-paid-avertising/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "vip-launch-your-coaching-offer-22",
+      "name": "VIP Bundle: Launch Your 6 Figure Coaching Offer",
+      "id": 2096960,
+      "chapterCount": 8,
+      "contentCount": 26,
+      "lessonFilesDir": "courses/vip-launch-your-coaching-offer-22/lessons",
+      "readme": "courses/vip-launch-your-coaching-offer-22/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "growing-your-email-list-the-fun-way",
+      "name": "VIP Bonuses: Growing Your Email List The Fun Way",
+      "id": 2100663,
+      "chapterCount": 7,
+      "contentCount": 10,
+      "lessonFilesDir": "courses/growing-your-email-list-the-fun-way/lessons",
+      "readme": "courses/growing-your-email-list-the-fun-way/README.md",
+      "errors": 0
+    },
+    {
+      "slug": "grow-your-coaching-program-with-paid-ads",
+      "name": "Grow Your Coaching Program With Paid Ads",
+      "id": 2140038,
+      "chapterCount": 7,
+      "contentCount": 14,
+      "lessonFilesDir": "courses/grow-your-coaching-program-with-paid-ads/lessons",
+      "readme": "courses/grow-your-coaching-program-with-paid-ads/README.md",
+      "errors": 0
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,62 @@
+# WCA - Live Q&A (Jan 19, 2025)
+# Duration: 1 hr 35 min
+# Speakers: Jeremiah (61%), Adele (13%), Rae (8%), Tiffany (7%), Deborah (7%), Dorothy (4%)
+
+## Keywords
+AI tools, email automation, marketing strategies, content creation, audience building, ads, outreach, funnels, low ticket offers, high ticket offers, transcription business, social media engagement, follow-up messages, business growth, coaching, AI agents, podcast hosting, lead magnet, micro offer, organic content, AI podcast, transcription business, digital products, Manus, Claude co work, automated funnels, workflow automation, social media content, AI training, business scaling.
+
+## Summary
+Jeremiah discussed his recent AI projects, including building a chatbot for his team and an email automation tool. He praised Tiffany Quinones and Deborah Scott for their successes, emphasizing the importance of overcoming internal barriers. Deborah shared her experience with ChatGPT and her app development journey. Tiffany talked about her podcast's growth (approaching 700 downloads) and the challenges of content creation. Dorothy outlined her plan for daily yoga membership ($47/month), funnel setup, and ads launching Feb 11. Rae expressed frustration with the content hamster wheel, and Jeremiah explained the shift from content-first to offer-first marketing. Adele discussed her 10k transcription month and plans for low-ticket funnels. Jeremiah demonstrated how Manus can automatically respond to Instagram DMs as a setter.
+
+## Key Topics
+1. AI email automation bot for Sandi's business
+2. Building arealchange.ai with Lovable + Claude Code
+3. Crack Chat - Jeremiah's Poe-like app with model comparison
+4. Deborah's success: 6 new students, believers tap GPT
+5. Passion.io vs alternatives for course hosting
+6. "Specialize anything, increase price 10x"
+7. Tiffany's podcast growth (100 jump in 48 hours, nearing 700)
+8. Lovable + MailerLite integration (API keys)
+9. Dorothy's yoga membership ($47/mo) and evergreen funnel
+10. "Charge $5-10 on front end instead of free lead magnets"
+11. Rae's content hamster wheel frustration
+12. SHIFT: "Offers build audience, not content" 
+13. Outreach vs Ads (2015 rules vs 2026 rules)
+14. Adele's 10k transcription month, offloading to VA
+15. Manus automated Instagram DM responses (live demo!)
+
+## Major Insights
+
+### The Audience Shift (Claude Opus via Crack Chat)
+- "When you have no audience, YOU are the algorithm"
+- Old way: Post → Algorithm → People see → Sales
+- New way: YOU find people → Start conversations → Make offers → Sales
+- "80% of first sales come from direct outreach, not content"
+
+### Content Hamster Wheel vs Offer-First
+- Content validates you're legit (once a week is enough)
+- Sales come from OFFERS and FOLLOW-UP
+- Content amplifies sales mechanisms, not the other way around
+- Stop the hamster wheel, start making offers
+
+### 2015 vs 2026 Marketing Rules
+- Old: Mass copy-paste, cold pitching = bad
+- New: Personalized human messages, conversation-first approach
+- "People who say outreach is gross are lying, broke, or lucky (built audience in 2016)"
+
+### Manus Instagram DM Demo
+Jeremiah live-demonstrated Manus:
+- Logs into Instagram
+- Reviews DMs
+- Identifies lead magnet recipients
+- Crafts personalized follow-up messages
+- Sends automatically
+- "Used 200 credits - dirt cheap"
+- Messages sounded natural and human
+
+## Action Items
+1. Stop content hamster wheel - focus on offers and outreach
+2. Run ads to $5-10 micro offers (algorithm finds qualified buyers)
+3. Follow up manually (or via AI) with ad responders
+4. Use Manus/Claude co-work for automated DM outreach
+5. Create AI agents for repetitive tasks

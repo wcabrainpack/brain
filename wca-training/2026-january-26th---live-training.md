@@ -1,0 +1,511 @@
+# January 26th - Live Training
+
+**Course Type:** WCA
+**Chapter:** January 2026
+**Duration:** 0min
+**Word Count:** 18565
+**Content ID:** 72222536
+
+---
+
+**Topics Discussed:**
+Member-area navigation + where to find trainings
+
+-
+Replying to a group question about creating a web banner in Canva
+
+Where to locate the relevant lessons inside the members area
+
+- Weekly call archive reference (January 26)
+
+-
+Courses/lessons mentioned as resources
+
+Funnel building course(s)
+
+Designing/building landing pages
+
+- Using Canva templates and stock photos
+
+- Creating header images in Canva
+
+- Learning library / older funnel building course content
+
+- “AI content building / AI content creation” beginner course (graphics with AI)
+
+- “Ads Optimization Simplified” (ads scaling/optimization)
+
+- “Start Here / automated business blueprint” (evergreen/automation system)
+
+## Shift from Canva/graphics to AI-first creative
+
+- Recommending AI (ChatGPT/Gemini) for most landing-page graphics instead of Canva
+
+-
+Landing page preference shift
+
+Using videos on landing pages rather than designed graphics
+
+## AI agents overview (new “world” framing)
+
+- Theme: AI reduces manual work and reduces need for expensive VAs/service providers
+
+- Goal: offer more affordable client services by letting AI agents do much of the work
+
+## ClawdBot (agent that can control a computer) — capabilities shown
+
+-
+What it did autonomously
+
+Prepared an outline for the call
+
+- Reviewed content and generated a list of content/YouTube video ideas
+
+- Created 200+ engagement replies for X (Twitter)
+
+- Built a mini app/workflow to approve/deny X replies (and avoid rate limits)
+
+- Mapped coaching/VIP calls into a “content universe”
+
+- Planned weekly digests based on training topics
+
+- Created recurring weekly automation for itself (no reminders needed)
+
+-
+Accounts/logins it was given access to (for analysis/automation)
+
+X, Facebook, TikTok
+
+- Members area
+
+- Otter.ai (transcripts)
+
+- Mention of logging into app-building tools/accounts (e.g., Mantis)
+
+-
+Remote control/command interface
+
+Connected through Telegram so it can be “texted” tasks from anywhere
+
+-
+Live demo
+
+Text command → it created and posted an X post (“ClawdBot is a game changer…”)
+
+## AI tool landscape comparisons
+
+-
+Claude “Cowork” vs ClawdBot
+
+Cowork: easier, limited control, available with ~$20 plan
+
+- ClawdBot: deeper control (terminal/back-end), more powerful, more risk
+
+- Manus (manus.im) mentioned as similar category
+
+-
+ChatGPT / Gemini positioning
+
+Strong for marketing/sales strategy and copy ideas
+
+-
+Claude positioning
+
+Strong for admin workflows, writing, and building software/apps
+
+## Security + operational cautions with agents
+
+-
+Risks acknowledged
+
+Granting broad access to logins
+
+- Potential hacking/exposure concerns
+
+-
+Safety practices discussed
+
+Don’t run full-control agents on your main computer
+
+- Use a wiped/clean secondary machine (example: separate MacBook)
+
+-
+Option: run agents on a virtual server/virtual machine
+
+Amazon virtual machine cost discussion (low monthly cost)
+
+- General “this is powerful and scary/dangerous” framing
+
+## Business strategy focus: paid micro-offer ($5) + evergreen funneling
+
+-
+“Offer-first” focus
+
+Recommending a $5 offer as the front door
+
+- De-emphasizing lead magnets/free classes
+
+-
+Why paid micro-offers
+
+Filters out “tire kickers” / time-wasters
+
+- Meta optimizes for purchasers (better traffic quality)
+
+- Buyers are more likely to consume paid content than free
+
+-
+Funnel variations discussed
+
+Paid $5 class / paid webinar / paid 5-day challenge
+
+- Bridge offer concept (micro offer as bridge, not “full solution”)
+
+- All roads lead into paid micro-classes → then membership/high-ticket
+
+## Evergreen funnels + automation (practical flow)
+
+-
+Closing paths described
+
+DM/comment funnel → automation (e.g., ManyChat)
+
+- Application funnel vs direct checkout
+
+- Webinar-driven sales (automated webinar sequences)
+
+-
+Webinar-to-trial-to-membership flow (Jeremiah’s example)
+
+Automated webinar → 14-day trial → discounted first month → recurring pricing
+
+- Upsell path to VIP membership
+
+-
+Onboarding/retention mentioned
+
+Trial-to-paid retention rate cited and desire to improve it
+
+## Client closing process + sales assets
+
+-
+What was “blocking ease” for attendees
+
+Closing clients
+
+- Creating contracts
+
+-
+Suggestions
+
+Use AI to draft/review contracts
+
+- Put sales presentation on autopilot (video/webinar)
+
+-
+Build follow-up systems
+
+Email follow-up
+
+- Content follow-up
+
+- Text messages
+
+- Social posts
+
+-
+“Client closing blueprint” outline (AI-generated)
+
+Define: clear promise, mechanism, buyer types, pricing, proof
+
+- Pre-qualification questions / pre-frame
+
+- Call structure: connect → diagnose → cost/urgency → decision → prescribe → invite
+
+## Podcast → paid member strategy
+
+-
+Podcast CTA strategy
+
+Direct podcast listeners to a $5 class (or lead magnet), not straight to coaching
+
+- Then run the automated webinar → program pathway
+
+- Evidence of traction discussed (podcast downloads growth + binge listening behavior)
+
+## Mindset/limiting beliefs + “ease” in business
+
+-
+Guided reflection prompt
+
+What prevents business from feeling easy / non-stressful?
+
+-
+Three common fears called out
+
+Fear of embarrassment / saying the wrong thing
+
+- Fear of tech/tools complexity
+
+- Fear effort won’t convert to results
+
+- “Need for control” as underlying root issue
+
+-
+Belief shifting exercise (with Tiffany)
+
+Identifying underlying beliefs (“I must prove myself constantly”)
+
+- Creating replacement beliefs (“consistency not pressure,” “message creates momentum”)
+
+- Evidence-finding to reinforce new beliefs
+
+-
+David Bayer framework references
+
+“Decision matrix” process
+
+- “Changed Mind” book (mentioned as especially resonant)
+
+- Using a custom GPT to help with the process
+
+-
+Tiffany’s personal evidence + positioning
+
+Speaking background (church origins)
+
+- Message resonance and confidence building
+
+- Community-building niche alignment
+
+## Facebook/Instagram ads: testing, optimization, and scaling
+
+-
+Dorothy’s scenario
+
+Launching a £4–£5 intro course (recorded sessions → evergreen asset)
+
+- Initial ad budget ~£300 over ~14 days (daily budget math discussion)
+
+-
+Testing vs scaling principle
+
+Don’t focus on scaling before validating initial performance
+
+- Track the funnel metrics end-to-end (front door to backend)
+
+-
+Metrics and math Jeremiah used (example)
+
+Cost per purchase / customer acquisition cost (CAC)
+
+- Conversion rates from $5 buyer → trial → retained members
+
+- Backend value modeling (including VIP upsells)
+
+- ROAS and multi-month LTV framing
+
+-
+Scaling tactics
+
+Creative refresh (new images/videos/copy)
+
+- Sprint approach (run 10-day bursts, pause, restart with new creatives)
+
+- Identify winners → make more variants based on common elements
+
+-
+Meta platform behavior
+
+Purchases as “cheap signals”
+
+- AI-driven platform optimization (Meta/TikTok/X all algorithmic)
+
+## Ad creative production using AI
+
+-
+Tools and methods
+
+Sora-generated video scenes + overlaying the creator’s face
+
+- AI images vs traditional “live video” creatives (live ads deemed less effective now)
+
+-
+Example ad shown
+
+AI-generated spokesperson video pitching the $5 class
+
+- Including a money-back guarantee on a $5 offer
+
+-
+AI-generated ad copy tool mentioned
+
+An internal app that generates ads from sales copy + reference images
+
+- Built using AI (Lovable mentioned as part of the build)
+
+## YouTube automation + AI content policy concerns
+
+-
+Adele’s reference case
+
+Creator automated entire YouTube channel due to illness
+
+- Workflow: Claude maps videos + writes scripts + AI twin presents + outsourced post-production
+
+-
+Adele’s planned strategy
+
+Narcissism niche channel → direct viewers into a Skool community
+
+- Using AI for scripts, recording herself from templates, then outsourcing editing
+
+-
+Concern discussed
+
+Fear YouTube will “crack down” on AI-generated content (future policy uncertainty)
+
+## High-ticket / mid-ticket offer ads budget discussion (Adele)
+
+-
+Target offer idea
+
+$497 faith-based offer (helping Christians create first high-ticket offer)
+
+-
+Budget expectations
+
+Suggested starting ranges: ~$300–$1,000/month as practical baseline
+
+- Testing with $5–$20/day possible; $50/day often “cleaner” for algorithm learning
+
+- Emphasis on incremental scaling after validation (not dropping large sums up front)
+
+-
+Industry claims referenced (with skepticism about missing context)
+
+Leanne Lopez example (large ad spend → large revenue claim; nuance noted)
+
+- Kitty Cross example (ad spend vs revenue)
+
+## “Start manual, then automate” principle
+
+-
+Advice given
+
+Don’t begin fully automated
+
+- Start human-led to validate, then automate repeatable pieces once proven
+
+-
+Weekly live webinar grind referenced
+
+Running a webinar weekly for a year (Russell Brunson suggestion)
+
+- Desire to automate webinar delivery (potentially via AI twin)
+
+## Building AI “micro apps” / agents (how-to shown live)
+
+-
+Stair-step approach to agents
+
+Start with ChatGPT GPT Builder (“create a new GPT” for a task)
+
+- Next level: Manus and Lovable (build task-specific apps)
+
+- Advanced: ClawdBot / Claude Code for deeper automation and code improvements
+
+-
+Using Claude to generate a PRD-style prompt
+
+“Product Requirements Document” prompt used to specify an app precisely
+
+- Copy/paste PRD into Manus or Lovable to build the app
+
+-
+Micro-app example built on-call
+
+Input: transcript (pulled from Otter)
+
+- Output: platform-specific social posts (IG/TikTok/LinkedIn/X), including “provocative” variants
+
+-
+Debugging loop explained
+
+If app errors/blank output: report error → agent checks logs → fixes
+
+- Manus capability highlighted: can autonomously test in a browser preview window
+
+-
+Cost/plan notes
+
+Manus credits usage mentioned
+
+- Lovable noted as often better UX/looks and strong value even at lower tiers
+
+## Automation scheduling (“cron jobs”) concept
+
+-
+Concept introduced
+
+Cron jobs = scheduled recurring automation (e.g., weekly)
+
+-
+Example automations envisioned
+
+Auto-login to Otter → fetch transcript weekly
+
+- Pipe transcript into micro-apps → generate drafts
+
+- Feed outputs into workflows managed by agents (ClawdBot / Cowork / Manus)
+
+## API keys + usage limits + security pitfalls
+
+-
+Using API keys inside Lovable apps
+
+OpenAI / Google / Anthropic API keys to power app outputs
+
+-
+Cautions
+
+Don’t expose API keys publicly (hacker risk)
+
+- Set billing limits/quotas to prevent runaway charges
+
+-
+Claude usage limits
+
+Mention of hitting Claude plan limits and needing a second account
+
+## Email/newsletter + testimonial asset creation with AI
+
+-
+Email automation examples
+
+Generating nurture sequences (e.g., a 21-day email series) with Lovable/AI
+
+- Tracking open rates as validation
+
+- Drafting emails in a specific “voice” (Sandy-style email generator)
+
+-
+Social proof pages
+
+Building a testimonials page and a “love wall” via Lovable
+
+- Collecting testimonials from past community collaborations
+
+## Role of VAs vs AI (team structure shift)
+
+- Replacing or reducing VA roles due to AI agents
+
+-
+Reframing the entrepreneur role
+
+Move out of “weeds”
+
+- Operate as visionary/creator while AI handles execution/admin
+
+**Transcript:**
+A live stream into the Facebook group. Custom streaming URL into the Facebook group. We'll see who pops on here. Hello, hello. Do you have snow where you're at? It's just pure ice outside. I All right, I wanted to reply to somebody who made a post in the group before we get going. Yeah, we've had a snow and ice storm info about creating a web banner in Canva. So let me kind of pull this up right here in the members area. I talk about this a little bit in the in the funnel building course. We don't have a Canva course, though, and frankly, right now, I would suggest using AI to make most of your graphics, to be honest. But in this I do go over like creating your landing page, and I touch a little bit on using templates in Canva to do that. I'm not even necessarily making graphics anymore for my landing pages. I'm putting videos on them. It's how I'm doing it so. But under the beginner courses, there is the and this shows you right here, AI content building. This will actually show you how to create graphics with AI. This one's really good, seven figure funnel building, designing your landing page. Again, I talk about the Canva graphic a little bit on here, a little bit in that. I think there was a lesson I had in my previous funnel building course that's in the learning library as well, if you're talking about something that I previously had. And so I'm just going to tell Audrey that she can watch this in the recording. Let me see here. Okay, right. Here is the total online six figure roadmap. So we're going to look at introduction to funnel building, building your landing page. Again. I talked a lot about stock photos using Canva right here. Yeah, creating header images in Canva. So that's right there. And then there's also my old funnel building course. Like I said, we don't have a Canva course, but this should help you. Funnel building made easy for Squarespace. So it would be again this one on adding images and stuff like that. I think I went over some Canva stuff there. So hopefully that helps for Audrey to kind of know where to find all that stuff, the best way to look for it. And I'll just mention to her that it was the this is the first thing I talked about in today's call. So go find the weekly calls in the archive, January 26 into this week, and I show you where to find this in the members area. I'd suggest using AI ChatGPT to make most of your graphics now for your landing pages, not Canva, the AI content, course, is a big one for this. That's been a big shift. So that's been a big shift lately is again, using AI to make a lot of your kind uh, content and things like that and all those different types of things. So, um, graphics and stuff like that. Okay, let's see. Let's go into broadcasting this on zoom here for this, I see we have Dorothy, we have Adele, we have Tiffany in here. Um, okay, go live. And I'm excited today for today's call. I have been just playing around with so many different things the past couple of days, past couple of past week, we're living in a new world. Everybody, the new world of you not having to do most of the work yourself at all, and not having to hire expensive VAs or even service providers to do it. And I'm thinking now, because I'm built, I'm building a workflow where if somebody wants to hire me, they can hire me at a much more affordable rate, and I can just have my AI agents do a lot of this work for them. So let me see live training, January 26 2025 join us on zoom here. Okay, I'm gonna copy the invite link. Then we're gonna go live. All right. So again, as I mentioned, I just answered Audrey's question from the group at the beginning of this call. So it's in the members area. It's not in this Facebook version, if she's watching this beginning part of the Facebook version. So go check that out over in the members area. Just how to find the info on website, Banner creation, I'm recommending most people use something like ChatGPT or Gemini to do that, and we we're living in a new world right now, a new world with artificial intelligence, where I'm just going to give you guys just a taste of it, but I'm not going to necessarily go over the details. I have a bot now on my computer. It's called clawed bot, and this bot is able to take over my computer and do work for me. So let me see just a list of what it has done so far since last night without me even touching my computer. It prepared an outline for today's call. It went over all of my content. Made me a list of content and YouTube videos that I can create. It created over 200 replies that I can approve, approve and deny for x. I it created an app where I can approve and deny different posts for X right here, literally, I can go through here, I can look at these different replies trying to get some engagement going on x by doing that, just by having me do that, it's it's set up to do it without hitting rate limits. It mapped out all of my wealthy coach Academy calls and my VIP calls into a content universe. And it's going to start to look at what we talk about on these trainings every single week, and it's going to create a digest for me of what to talk about on my youtube and to make content for so now all of that side of my business that I just talked about, I was manually doing by filtering stuff into it. Plod bot did it all automatically, automatically for me. And here's the beautiful part. It's now. It now created a program for itself to do that every week for me, without me having to tell it or remind it. It's going to create articles and documents for me, and it's going to send me these PDFs and give me access to these files that I can use. I gave it logins to my x account, my Facebook account, my Tiktok so I can analyze all my content. I gave it logins to our members area. I gave it a login to my otter AI account to get my transcripts. Soon, it's going to log into the new AI app that I created for that as well. It can, it can actually create apps. It can log into my Mantis account and create apps for me. So this is like almost insane. It's a human virtual assistant, basically human level, I'm talking actually better than human level. This is better than a VA that I hired in the Philippines could do for me, and it's free, and it's running on this macbook right here, called claw bot, thinking of possibly buying maybe a Mac Mini that can run on the only recommendation that people say about doing it, don't run it on your main computer. Run it on something. So I actually wiped this computer clean, and then I installed it because you're giving it so much access. It literally is a bot. It uses clawed and then it can control your entire computer, every software it can log into, everything it can literally do everything. It can send text messages. I had it sent a text to my wife yesterday, saying, introducing itself to her. She thought it was a little weird. So all that to say that's where we're moving into with AI, and I'm going to make a YouTube video where I walk you through it. Claw bot is actually very technical to build. You have to use the terminal and you'll it's kind of technical. It's a lot more technical. Claude itself just released, sort of a version of it again for you guys. The two versions that I would recommend is either, over here on Claude, they have Claude cowork right here. Let's see so Claude. Claude cowork is a product that Claude just came out with, and anybody with a $20 account can use it. It can take over some parts of your computer and do work for you and do stuff like this. But it's not quite at the level of clawed bot, where it can literally take over your whole terminal and literally just go in the back end of the Mac and just go to town doing anything that's it's dangerous, it's kind of scary. It's kind of like, okay, you know, it's, I'm trusting it to do this. You can spin it up on a on a virtual server and do that. I'm researching, okay, how do you make sure it's fully secure? It's like, hackers can't get it. So somebody can't, like, hack my account and get access to the different logins that I fed into it and stuff like that. So again, that's why I'm cautious. Like share that, but that's where things are going. And Mark my words, within six to 12 months, that's the level, that level will be available to everybody. Manus, dot, I am, again, similar type of thing. Clawed bot is like Manus and Cowork on like, another level, because it just is so fast at what it's able to do and how it's able to just it just remembers my whole life. It remembers my business. It's creating a memory of all the stuff that I'm doing. I had it. I had it map out. I gotta keep I gotta say this one quietly. I had it. I had it map out three months worth of date night ideas for me and and so the idea is, is that it's gonna, it's gonna come up with, it comes up with all this stuff, and it's able to look at my life and then do the work for me without me having to touch it. And then here's the other crazy part. It's connected through telegram right here. All I gotta do, I can be anywhere, and I can text it for what I want it to do. It's like right here, give me something that you would like it to do, and I can have it go do it if you guys want me to tell it to do something. Actually here make a post on x, x, just a normal post that says, says, Claude bot is a game changer. I gave it my whole business, and it returned with all my tasks done without me touching anything in just a few hours. All right, so I just told it to go make this post right here. I texted it to kind of do that. Now it's going to take a little bit time to actually go do this, because it has to, like, read it and then process it. But it's amazing, like, what's happening now with, with with these tools, it's really incredible. So that text that I just sent it, it's going to appear over here on its screen. Oh, here we go. It did it. It did it already. It told me it just did it. So we go right here, over to x. I can have Claude bot actually, like, manage my social media as a social media manager. There we go. Let me. Let me show you that was actually a lot faster than I thought it would be. Clawed bot is a game changer. I gave it my whole business, and it returned it with all my tasks done without me touching anything in just a few hours, literally took what I just told it and it posted it there for me. Now that's a simple example right there, but it's amazing. The the creator of ClawdBot right here, Peter, he just posted that the search terms on Google Trends is actually going above Clawd code over the last three days, it's hit an inflection point right there. So yeah, ClawdBot. It's like a claw Clawd like a little little lobster. So it's amazing, just kind of what it's able to do and all that. So anyways, that's where things are going, and that's not what today's training is about, but I just wanted to show you that here at the beginning, because of how exciting that is. Again, Manus and Cowork are going to be a lot easier, but you can go grab ClawdBot there. I'll make a video for it on on my YouTube channel where I'll walk you through kind of the different ways that we're that we're using it, that we're doing stuff and how to set it up yourself. There's a lot of great tutorials as well out there on this topic that you can check out. Now what I want to talk about today is an offer. First focus, and again, the idea of doing an offer, a $5 offer, getting rid of lead magnets and all that. We've been talking about that for the last couple of weeks now. You might be asking tips for evergreen funnels five day. Course, you might be wondering, what are the best ways to gain traction and things like that, with with stuff, this is the best way, because it defeats burnout. It shows you it's how to connect all the pieces and the tools that you use are very simple to put all of this together. Okay? And we're going to talk about two what are the best kind of social media posts that are getting the most traction for you. And right now, I'm actually, literally using the outline that ClawdBot put together for me about this that I'm going to be teaching you, this is based on what we've been talking about the last couple of weeks. We're going to talk a little bit about AI agents and things like that that we're using, and all those different types of things, and how you can use them. But what I want to, I want you to do is this, is I want you to really think about your business from a place, and I want you to feel something. Okay. I want you to feel that your business is very easy for you to build, that your business is not striving, is not stressing, is not triggering. Is not something that is going to trigger you. Now I want to think. I want you to think about and sit there for a little bit, and this is interactive, and I want you to post a little bit in the comments. When you think about that, what are the top things that come to mind when you think about that that might be preventing that from being the reality for you? What's what's coming up? For me, I think about relationship with family and kids is the biggest number one, I would say, stressor my time is the biggest thing. Having a tool like ClawdBot here, I just bought myself my entire morning to not have to stress. Now I had to go, I had to go into my work day here at 11, but I was able to do that instead of my normal time of 839, nine o'clock on a Monday, because I was able to buy that time back because of what the the AI was able to allow me to do okay? And what we're looking at here is an evergreen, automated business. Let's see, is that I haven't watched the hermosi interview at all. This is literally just, this is all Jeremiah Krakowski type of stuff. So I want you to think about that, the ease, the idea of ease, no stress, in building your business, you can literally just go do everything, and it just works, and it just produces the result that you want. And then what comes to mind as the all the all encompassing reality check slap to the face that's kind of stressful and pulls you out of that ease and flow that you're feeling. Dorothy says the process of closing the clients, awesome. Adele, no. Tiffany says, I have to create contract. Okay, there's that. So a couple things I'll tell you on that number one, you don't you can use AI to make up most of the contracts that you're doing now and have it kind of review it that that'll work great for you. You can use very simple tools to have people write stuff down for the process of closing clients. Again, we're starting to look at different AI workflows that can help you come up with that process. I would say the process of closing clients is you have to have some kind of a presentation, some kind of video, sales presentation, and put that on autopilot. Have the automated. Have email follow up, have follow up. Con like, emails, content, text messages, social media, posts, things like that. But now again, a lot of the brainstorming and mapping that out the process of closing a client, we can have the help of AI to do that. And again, one of the best ways that it can help with us is mapping it out for us. So let's just do this in my business, map out a blueprint of the process of closing clients. Here's a client closing blueprint built for your world Online offers, coaching, warm traffic, DMS, calls. Look at this. So now this outline, and this is this is some this is one of the coolest things. I don't know if you have this turned on in your ChatGPT. I have memory turned on in my chat GPT, where I can it's personalized with information about me. There's memories that it has about me that it can go through. It references my chat history for memory, and so it knows a lot about what I do based on that. Okay, now this can apply for most of you right here. Define what you're doing, one clear promise, right? You don't want to have more than that, one clear mechanism how you do it, three buyer types you best serve, pricing, proof, library, short wins case study, stuff like that. Okay, door number one, you can do the DM, comment funnel. Comment DM, me have Auto Replies going with many chat, many chat can be a great tool for you to auto reply with people. And there's many chat AI that I've not played with it. But I know they're they're they're building it in too many chats, able to even do a lot of that. One of the things ClawdBot, I can have it start doing is replying to my DMs. For me, it's going to be better than Manus, I can tell you that much. One of the things ClawdBot was able to do is I was able to have it analyze my style, the way that I talk, and then actually mirror that in its responses. The other one would be like an application funnel, add to a webinar, some kind of an application where they can fill out a calendar link, or you can have it to where they just straight sign up off of a a call like that. So they don't even need to apply. If you have a webinar, they can just go buy it from you if the cost is less than $200 a month, like my program is, you know, I have to do a call with somebody if it's for, like, a high ticket offer. But I don't if it's for less than that. The other would be, you know, ask clients for intros. Who do you know type of a thing, pre fall, pre fall qualification. What are you trying to change right now? What have you tried? What? What if it this doesn't change in 90 days. The pre frame. This is a decision call prep. It mini questionnaire proof link. So this would be if you're doing sort of calls to DMS, things like that, and then kind of the process of closing people, if you're doing calls these type of blueprint, you connect. You diagnose the problem, you look at the cost, urgency for them to solve that problem. Help them make a decision, prescribe it, and then the prescription is inviting them to what you offer. Now again, you can do all of this through a webinar. We do most of our stuff through automated webinar sequences that actually sell the person on joining with a 14 day trial and then an upsell with bonuses. We then have a VIP once they are in that is 900 month the 14 day trial is $197 a month, and the first month is discounted to 77 after the trial. So that's that, right there. So I again, I'm giving it some context as far as what my offer stack is, and it's going to modify that process of closing clients for that. Okay, so you're not closing on calls. Webinar to trial, checkout, get them to a yes, low friction trial, the paid member, make them feel the win. This is one area that I need to work on a little bit right here is this kind of retention thing. I think we're retaining about 60% of people who do the trial, which is pretty good, but I think we can improve that to 75 to 80% and that's what I'm going to have a lot of my AI help me with. I'm going to have it go through and help help me with a lot of that stuff. So and then remember to that so big promise, who it's for, a mechanism, your unique way that it works, proof the cost of staying stuck, the path to success. Offer, reveal first steps, plan risk reversal, meet expectation, and then you do your hard your hard sell at the very end. Call to Action. Checkout page must restate the promise, tell them exactly what happens in the next 14 days. Handle I could, I'm actually like, learning some stuff over this myself. I could add a little bit of this to my landing page. My offer. Could throw this right into ClawdBot now haven't started to do this. I'm almost like, I'm selling you guys on these agents. I know I am, but how amazing that it is to be able to, like, have a va, a virtual assistant. I'm actually going to get rid of, I got rid of one of my VAs. I'm going to get rid of another one of them, because ClawdBot is literally able to take over almost her entire job by doing this. So let's see your trial. Onboarding, yeah, so I have an email sequence with this. I need to optimize that billing step. Yep, there you go. Okay, no, close. Assist. Map out going from $5 class to free trial sale and the sales process of webinars follow up emails to get that initial close from FB and iG ads. Okay, so again and ChatGPT 5.2 thinking is very smart at this stuff. ChatGPT is very good at marketing knowledge. It knows so much about sales and marketing. It's just incredible at what it knows about sales and marketing. It's just, it's just the goat, I would say, at this stuff. ChatGPT really is kind of the marketing and Gemini are really the marketing ones. Clawd is a little bit better at more admin type stuff. Here's the full Blueprint, right here, $5 Class, Class consumption, automated webinar, invite, webinar, show up, webinar, followup sequence for three days, three to four days after and then free trial onboarding. Okay, so we go into the Facebook ads to sell the class. We got the $5 class. The Checkout page. We have the bridge, by the way, it's not a course. I love this. It already knows this. It's not a course, but you're, you're, you're selling it as if it's a course or masterclass, but it's really just a bridge into your main program. Is all it is. This works. I have a full system. I want to see what I'm missing. I can do this. You build context, you promise it. You show the mechanism. One fast win. You bridge the gap and you invite them. It closes into your program for you. Email followup sequence, immediate, do this first watch this invite and so again. Dorothy, that's the process very simply mapped out for you of closing clients right there. Yep. Podcast to paid member again, I would, I would still, I would still have your podcast be less of that sequence. So actually, let's talk about that. Let's map out podcast to paid member. Map out a map out a sequence. And hopefully what I'm doing is I'm showing you guys how to work with your AI to help you come up with these ideas. Now, not all of it's going to be perfect, but this is great right here. Podcast episode has a single call to action again, the podcast is going to lead them to a $5 class or a lead magnet. So you're not going to send them necessarily to your coaching program off of the podcast. You're going to send them to that micro course or that bridge class, and then you're going to do the whole sequence that we just talked about, the automated webinar into your program. Type of a thing. Go grab the guide, join the $5 class. And are there people who know you really well? You could, you could mention getting a joining you for a trial like that. I do this kind of same sequence in my YouTube videos as well. Okay, so that's, that's kind of what we're mapping out right there. That's what we're doing. That's what we're putting together when we're when we're creating those types of offers. What you want to do is you want to stop attracting tire kickers. What's a tire kicker? Somebody who, if we think about like, they just, they kick the tires a little bit, but they're not going to do anything. It's like, it's a it's a term. At car dealerships, people would visit a car dealership new cars, they kick the tires a little bit, but they never leave with buying a car that's called a tire kicker, a time waster. You don't want time wasters with you. And I'll tell you when I've done free classes, I've gotten a lot of tire kickers. Again, great people. I'm sure they got great families and stuff like that, and they're doing great things in the world, but they're not who you want to talk to. Okay, having a $5 class qualifies them really fast. Plus meta 's algorithm is going to optimize for purchases. It's going to find people who are more likely to make a purchase. It proves their commitment by getting them to spend five bucks. So like, I'm almost never, probably going to do a free class again. My free stuff can just be on my YouTube. You gotta go pay five bucks for something. Maybe I'll have my AI make little mini free stuff. I'll have an agent do free stuff for me, but I'm not going to put much investment into that. And all roads lead into paid micro classes. And that's the new evergreen funnel that we're doing. We can have paid five day challenges, five day courses. We can have paid webinars. You just literally do the webinar as paid. You charge people five to 10 bucks, and you pre qualify people for your next level membership. It's the same kind of funnel we were doing with free, but you go into the paid and I love this Deborah. She was on here. She was talking about, after three years, she finally got multiple sales. I think she made her first 300 or $900 or something like that. I think she said she made like nine said she made like 900 bucks after three years of struggling to make those sales. Tiffany's got over 677 podcast downloads and more than that. Probably, I'm sure, right, hit over 100 new podcast downloads in 48 hours. Building out these offers this way. This is what produces those results. She's now at 729, and so what you can do is you can utilize AI to help you get up and running for your offer. You don't need to be the one that's doing all the work that's like having to put all this together. You can have the AI analyze what's the best thing to offer for $5 it's going to be some kind of a taste, a taster of what you do that's going to solve some kind of a problem, but it's not going to solve their entire problem so that you can get them to what you have for sale, and the technology. Are we going to waste time and things aren't going to convert? Are we going to be embarrassed by things like that? That's, that's actually the three things right here. This is, this is actually hilarious and kind of, kind of, kind of crazy. Those are the three areas right now that I would say that we suffer from the most. We're either worried that we're going to say the wrong things and make a fool of ourselves. We're worried that we don't know how to use the technical tools and we're not going to use them right, or that we're going to put time into this stuff and it's not going to convert to results. How many of you would say, like, one of those three things is kind of our main hesitation, like the underlying if we talk about the sales process, or I'm not sure how to map it out, or I'm not sure about the right contracts to do, or things like that. It's always about those things we want to make sure it converts. And it all boils down to, I'm going to go into putting my coaching hat here guys, our need for control, our need to control everything. As humans, we want to control everything. But success comes from letting go of control, putting stuff out there, being willing to put stuff out there, even if you're we're not 100% sure how it's going to work out. Even when I launch offers, I'm not 100% sure that it's going to produce the result that I'm looking for, but I gain the momentum to put it out there. And that momentum, as we seem like, with what Deborah and what Tiffany have been doing, is what produces those results. And then what you want to look at is like, what's my next level here? Well, it's like a recipe. You can always tweak the seasoning. That's so good. I love that. That's a good one liner, right there. Tiffany, Tiffany's turning into a great coach herself. No, that's starting to know this stuff right here. We can break through in any area where we're stuck. The biggest thing that's holding us back is what's between our tier two ears. We stop ourselves from reaching our goals because we literally think up a version of the worst case scenario of how stuff could happen, and then we talk ourselves out of doing the very thing that's going to help us be successful, and that's our limiting beliefs that stop us from doing that. And again, I'm not going to get like two woo here. We're going to go talk about more on practical aspects here, but I want to just pause here for a second. I want you to look at what are those fears that we have? What are those worries? What are those doubts? What are those insecurities? What are those things that we're unsure of? What are they when it comes to launching our business that we're not sure of, we want to look at what those underlying decisions are. Can you type it in the chat, or can you come up and mention that. So again, Tiffany says, is it going to convert? Is it going to get the results that I want. Will Will I find people who want to hire me? Can I deliver what's the outcome that you want? What if your offer was converting? What would that look like? How many clients would you get each month if my offer was converting? What does that mean? Right now we're applying meaning that if we don't deliver, it's I'm not good enough to get clients. I can't deliver results. I'm going to fail, I'm going to waste my effort. People won't want what I'm offering. That's actually the underlying belief that comes from that. That's actually one of the underlying beliefs that comes from it. Which one is it? Tiffany, if I don't show up, then my podcast won't grow and people won't won't take the next step. That's what goes through my head. Yeah, and but what kind of outcome Do you want? You want it to grow. You want people to take the next step? I do yeah. And so you think, if I'm not consistent, I'll fail. That's all on me. I'm not good enough unless I perform. That showed up today yesterday, too. People won't choose me unless I prove myself constantly. Yeah, all of it is what you're saying. It has, yeah, it shows up. So we gotta, we gotta change those beliefs into this. And right now, I'm actually, I'm using the decision matrix from David Bayer to kind of go through some of this a little bit, and the and the, the little GPT that I made that kind of helps with this. This is the new belief the right people will take the next step with me, because the value lands and they're already looking for it. I don't need to control trying to make sure the right people do it. I win through consistency, not pressure. Missing a day does not miss momentum, doesn't that feel free. My podcast grows because my message creates momentum, even when I'm resting. I so you see what I'm saying. And those are the beliefs that we want to shift into. And then what we want to do is we want to find evidence of those in our lives. The belief we want to shift into is I'm chosen. My presence with people is enough, and the right people will take the next step. I don't have to prove myself for the right clients to choose me. Okay, now here's the evidence finding part, find a memory or something in your life where somebody signed up from one conversation, where people chose you instead of you trying to strive a time where you had breakthrough, or you took a break and you took time off, and things still work together. When somebody binge listened to your podcast and they reached out or referrals that you got, you got, you got evidence right now that's awesome, like, what? Well, you're ready. Just over the last week, my podcast went from 682 to today 729 that's evidence number one. Evidence number two is I created a series out of thin air. I didn't realize I was going to do it, but I did it, and my nephew reached out to me in my DMs over the weekend, told me, of course, that I'm his favorite auntie, of course, and then proceeded to tell me, I listened to the podcast and it resonate. It resonated. He said, I haven't resonated with anything so much. Keep going. Thank you. I love you. I was like, wow. So then I've gotten a chance on Thursday and Friday to actually speak in front of people, and they are listening intently, and I was able to introduce myself to like, top business owners and what I do, and they listened, and I have a mentor friend who is a connecting me to people who are also looking for what I offer. So it's it's evidence, and I didn't have to show up every single day for my podcast to grow, because I look at the numbers and people are like, literally, literally binge listening to the three podcasts I created over the weekend. I love that. I'm not kidding. I'm like, holy smokes. The first one had like five downloads on the first day. The second one had four. And then I did one yesterday. I think there's like three or two, but still, I don't care. And my podcast five, no evidence of growth without having to prove yourself. Yeah, yeah. Creative capacity is innately inside of you. Yeah. It is that things deeply resonate, that you have authority in the rooms that you're in. I do that you have demand for it. I do binging it. And so this decision, people choose me because my message resonates and my value is real. I don't have to prove myself. That sounds awesome. I feel actually more energized than I did when I got on the call, you should I do a lot of our energy, the energy that we feel around business, this is, again, the energetics of it, the energy that we feel in our business, comes from the limiting beliefs. Oftentimes we're we have a we have a we have a the highest level of energy that we can get to is capped by whatever limiting beliefs we have. So what we end up doing is, is we end up telling ourselves, I gotta prove myself. All this, that's the energy we're operating out of. Even when you hop on a call like this, I gotta prove myself. I gotta and so now if you shift into people, choose me. I'm what? I'm amazing. I don't have to prove myself and listen. I get it. Adele Dorothy, anybody else who's watching you want to know the technical What do I do here? What do I say on the Facebook ads and all that? But I want you to be listening to what I'm sharing right here as well the beliefs that we have, that's what holds us back the most. It really is. It really is what holds us back the most. Okay, thanks, Tiffany. And I just appreciate you sharing all that. It's amazing. Yeah, job, you know, I real quick. I want to say thank you, because, like, I like, I remember when I first came in this space. I mean, you've watched the growth, but I don't know what it is. It's like, something just snapped. I'm like, That's it. I'm going to go revive my podcast, because I finally realized, like, I'm doing everything you're telling me, but what actually works for me is to speak, because I realized I also have evidence, like I actually started my speaking career in a church, yeah, because they would hand me, I got they got the trust to be handed the microphone to give edifying words to the people in the church. And my messaging started like, stop carrying around your heavy backpack, your junk trunk. That's exactly what I would say all the time. But I get these downloads from the Holy Spirit to be able to share. That's where it started. And then I, you know, captivated people with my story. But the also, other cool thing is that, literally, the other evidence ever heard you say that yeah, because I always kind of forget, but then I've even shared that in my podcast, and I'm like, this is where I got my start. Like, literally, yeah. And then when I did my first ever Facebook recording before I got an iPhone, I had to record it, then upload it. People were very captivated by the Message, November 1, 2014 so I just remember that. But also the other evidence is the people that I'm meeting now exactly want what I have, because they're all doing the same thing. They're all building communities, and I'm like, bingo. So it things are falling into place, just a whole lot different than I thought, but it's building my confidence, because now I'm at a place where I can receive the thing that I have strived so hard and worked for it, but now it just is coming easier, and it looks different, but I'm still getting results by implementing things I'm learning, but it's not forced this time. And when I talk, I notice people, people like, listen, like, very intently to what I'm saying. So I'm like, Okay, I'm paying attention. God, thank you, and thank you. Love that. Yeah, you bet all right, Dorothy, what's going on? Dorothy, hi, yeah. So I'm getting my five pounds course ready, which I'm starting on Monday. So we're doing it in a bit of a kind of really quick thing, but I just thought it would be quite nice as a lead in for people coming into the membership, you know. And so I can record this with five one hour sessions, which is then going to go into the Evergreen. So it's going to be a great intro, course. So yeah, so I'm doing that, and then really the question is about scaling the Facebook ads, because we're building up to get everything ready for the 11th of Feb, when we're going to actually launch some Facebook ads. So it's how to approach it. And I haven't got a huge budget right now, although I'm finding that, you know, I think I'm going to get a really nice flow of people coming in, because I've got a decent, you know, it's a small email list, but it's choice. Is a choice email list of actual yoga students, you know, so and my goal is, is that I'm just going to try and focus on getting one new client a day. Remember that story that your mum said about when she focused on just selling one bread maker a day? Yeah, you know, and that it's really good. That's, that's what I loved about the the $5 thing is you'll end up getting, I was getting without even trying, like five by, you know, five sales a day to the different $5 courses, five to 10 minimum. And so the idea behind that is is like that shows you that the momentum is working right there when it comes to scaling, first off, I don't even think about scaling until I'm testing my campaign initially, right? Yeah, okay, yeah. So that's, that's one of the like important things to remember, is that I think sometimes we skip ahead to like, Okay, I want scaling. I want things to scale. And we're not even necessarily getting the initial testing working. So have we, have we tested ads yet to kind of see how they are doing? Yeah, have we done that yet? We haven't done that yet. No, that's all gonna happen on the around the 11th of Feb. Yeah. So what's your starting budget for that? Well, I would say that you know, round about, kind of the 300 mark, and how, over what period of time, if you were you had 300 quid for a four or five pound intro, course, how would you sort of span that over a period of time, 14 days, okay, yeah, looking at, you're looking at, what's the, what's that 300 Yeah, so that's 300 pounds, yeah, 300 pounds divided by 14. What's, what's the math on that? That's $20 a day, okay, $10 a day, yeah, what's, what's the math kind of add up, add up to for that, yeah? Something like 15 pounds a day. 15 to 20 a day is, yeah? Something like that, yeah, yeah. 14 days, yeah, okay, yeah. And so, because, initially, with building an evergreen, am I sort of starting it so that I'm testing it all first, until I've got something that actually works, and then we set it off, just going, you know, once we've got an ad that works and a video that works, is that kind of how we do it? Well, you figure out how many people are actually signing up for the ad and the offer. Yeah, yeah. So how many people are signing up? How many people are registering Yeah. How many people are coming through the front door? Yeah. And then you look at those numbers, and then you analyze, okay, how many of them are opening the the followup email sequences? Yeah, yeah. How many of them are then clicking over to your sales page to purchase from you. Are they booking calls with you? On the back end, you start looking at those numbers. Yeah, the numbers that you're looking for are related to how many people are responding to the offer that you had. So, so when I put out an offer, this is my process, once I launched the ads, and this is my process to go into scaling. Now here's what I'll tell you with Evergreen, I actually scaled it with time, which is really cool. I scaled it by updating the ads and running it for 410 day sprints. I ran it for 10 days, turned it off for like 10 days, ran it for 10 more days with new ads, turned it off for 10 days, ran it for 10 more days. And so I got like 200 people who bought the the class over the course of, I think, like a month and a half or so, yeah, by kind of turning it on and off at that at those levels? Yeah, I was doing a budget of like 100 bucks a day, okay, at that point. But what I was looking for is this. I'm looking for, okay, how many people are signing up? Okay, I'm getting five to 10 people a day. Buying it at this point for five bucks. And so I'm making between 25 and $50 a day off of this. Yeah. And then on the back end, it took a couple of days and even weeks for me to actually find this number. It took a few months for me to actually get the full numbers across the board on one offer. I had to look at, okay, what's the percentage that buy the $5 class that take the trial? Well, it's one in every three people, okay, what percentage of those people stick? It's 60% so 60% of one in every three people, okay, so we look at five times three, and it's costing me maybe. I think I scaled my ads down to like 60 bucks a day. Say I'm getting five people a day, so it's costing me about $12 every three I would get a trial. So that's 36 bucks. Yeah, and then let's see 36 this is where the math kind of gets a little a little wonky here. Okay, so 36 bucks to get the trial points. We're looking at one in every one in every three. How does, how does the math work on this? Somebody a math whiz? I guess I could ask AI, but I say, Okay, if one in every three people buys a trial, but then 60% sick long term for the first month and 75% for the remaining months. If it costs me 12 hours to get one person, what is the cost to get the first month sale of $77 and the second of 197 combined with a 14 day trial across a 60 plus 14 day period. This is what I'm looking for. This is, again, some kind of crazy math that it's doing. But these are the these are the numbers off of my Instagram ads campaign that came up with, yeah, right here. Okay, we're going to break down the variables, and then what I'm looking at is the back end. We're looking at who ends up signing up for VIP, which is usually about 25% mm, of who comes in to here. Okay, so at two months, here's what it's the cost per sale to make $274 it's calculating the expected cost for me on this $60 for the first month payers. So I'm just barely breaking even on that. The cost for both payments is 80 bucks. There we go. So my campaign, it's costing me 80 bucks to make that 200 and that initial $275 after 75 days, yeah. Okay, so after 75 days, I have a 3.4x return on my ad spend. Now if 25% purchase 'vip at $900 $900 and really like the let's see the average person stays for seven to nine. Let's say, let's say not. Let's say seven months at 197, after the second month, and 25% of these purchase VIP at 900 a month for a minimum of four months, come up with My six to nine month value for this $80 acquisition, because we're already in the profit zone after after the the trials crossover. So that's how I know like this, this, the campaign works well. But where the math really starts to work out is once you start adding in VIP and recurring payments and the average length of time that one of those persons stays, who stays on board? So we're looking at $1,249 right there. It's kind of the average amount of revenue that I'm going to be getting just from WCA at $80 acquisition, and then with the upsell to 'vip at 900 what are we what are we looking at? We're looking at total revenue after CAC of $2,149 i for an $89 cost, for an $80 cost. So that's a 26x return on my ad spend. Okay, so $80 CAC, which is customer acquisition cost, and within that nine months, the cost to acquire a customer during a nine month period. To make that roughly two grand. It's about 80 bucks once you throw a VIP in there. And so that's a 20 to 25x return on the value of of acquisition. Oh yeah, look at it. So it goes even higher, 24 to 30x return. Okay. Oh, VIP does replace the 197 so it's a 20 to 29 anyways, those are incredible numbers and returns right there. That's how now we can scale the ads. It might take us a couple of months to kind of look at that and then we find what are the campaigns that are working the best. Now, when it comes to scaling the ads, it's really updating your creative updating your graphics and things like that. Yeah. So I have another tool that I just created with AI, I'm not I've not given access to it, necessarily, like publicly. Right now I'm not giving access to it, but I'm thinking, I need this needs to be something that I I will be giving access to publicly. Is it's right here. It generates ads for me by just throwing a sales copy in there. So now I have an I have an agent that's creating these ads. Metal loves cheap signals you want sales train the algorithm on purchases. So I might save this as an ad. Now, not all these are going to be good, but my AI is going to go in, and it's going to help find me that one's a little too complicated. Okay, get premium clients on a tiny, tiny budget, that one's pretty good see. So this is actually my process for doing this. I'm going to I'm going to, I'm going to look at what are these ads, and I can refresh these with AI. By putting some of these new ads up. I'm going to go through the history here what it created. We're going to look at a couple of these. Okay, this is when I was just testing. What is this one? Oh, yeah, this one turned my whole that one's a ton of text, but let's try that one as an ad too. We can run that one. Okay, let's see stop burning money on Instagram ads, $10 a day turns into real buyers. Okay, we could run that one. Um, oh, here's another good one, the napkin trick. $10 ads equals simple video paying clients. So this AI bot. It literally goes in here. All I gotta do is give it my sales letter and throw a couple reference images in there, and then it's going to give me ads. It runs through like five layers of creating copy that I told the bot to create. I use loveable to actually create this whole thing, which is really cool. And so those are ads. Now to scale my ads campaign, I'm going to have either ClawdBot, my VA or myself. I'm going to go in and I'm going to upload those ads in the ads manager, and I'm now going to refresh my campaign with new ads. I turned the ads off the other day because the sales started going down a little bit, so that's when I turned them off. Now I got to refresh them. I need some new videos from Sora. I need some new images. These images are really good. They're a lot better than some of the images that I ran before, and that's why I think that they're going to convert well, that's why I think that they're going to be some great options that I can share with people. Oh, this one was one of my favorites that I generated right here. Cold DMS, tech overwhelm, $100 a day ad spend. The new method sales, not just leads, get access for 495, and I'm going to run an image like that as an ad. So I thought that was just really, really cool, that we were able to kind of come up with some of those different those different things. This one's another kind of crazy. Would you say live videos are still better than you know you talking as a live video? Is that better? No, it's not now. No, yeah, no, that's that stopped about two years ago. Yeah, live video for coaching is good, but I think a lot of people, we're in a I want fast, instantaneous, quick results. We're in a ChatGPT society. We're in a TikTok society. We're in a quick and so most people that are out there, they just want those quick answers. That's why having an instant webinar that they can they can buy for five bucks. Now that they spent five bucks, they're far more likely to go through it. I will have, if I do a free webinar, I'd be lucky if maybe 10% of people watch the free webinar with a $5 class, I'll have at least 50 to 75% watching all the way through the webinar, which is awesome. Yeah. And then I refresh my ads. I do stuff like that. There is a course as well Dorothy in the members area of this program, great called ads optimization. Have you seen that one? No, I don't know if I've done that one. It's called, it's under the learning library. I made it like I made it, I think, a year and a half ago, but it's still super relevant ads optimization simplified. So this is all about scaling your ads, right here. Yeah, this is a whole course on scaling your ads, optimizing your graphics and videos. What to look for to optimize those so I did a whole course. You're looking for a feedback loop. You're looking for what are the ads that did really well? So when I'm running an ad, I'll upload all these ads, and then I'll look at what are the two or three that did really well? What do they all have in common? And I'm going to create more based on those. I'm going to show you my best converting ad right now. It's amazing. I'm how simple it was. So I had Sora to actually generate it for me with video. And then I threw my face on top of it. Let me see here, it's right here. This is my best converting ad right here. It's this. This girl is AI generated your course creator or a coach, and you've been trying to figure out Instagram ads that actually work. Listen up. You need to grab Jeremiah Krakowski's new class. It walks you through step by step, by step exactly what's working on Instagram ads right now, creative targeting. Setup all of it so you can run campaigns that bring in real results. Listen, it's true. It's only five bucks. I show you exactly what's working right now, step by step to get results with your Instagram ad, so you're not burning money banning your account struggling so you actually get results. Check it out. It's only $5 is there even a money back guarantee? You're gonna love it. Yeah, I even throw a money back guarantee on my $5 class. You want to know how many people have asked her for their $5 back out of 200 probably, None. Zero. Yeah, zero. So it's, it's, it's, like, it's so free and and cheap and inexpensive to offer a money back guarantee on a class like that. I got one person, they they suit. One person super complained about the $5 class. Everybody else said that was awesome. One person complained, but they didn't ask for their money back. Yeah, so, but yeah, that. So that ad, I mean, it was Sora to do that. So again, a lot of what we're doing for ad creatives, we're combining video, AI videos, stuff like that with it. And so again, there's another course in the members area. All about AI content creation as well. That's in the beginner courses, okay, AI content creation Made Easy course. I think you got a link to it as well in the Google Drive with the free courses that you got too. But so it talks about like creating a digital twin, right here, how to clone yourself with AI. Well, you create a digital Dorothy right here. Brilliant, a digital Dorothy for videos, audios. And then I show like, how to generate scenes with Sora and stuff like that. So we created, like, digital Sandy and all those. And those are some of her best posts, which is awesome, and then using ChatGPT to come up with a lot of the ideas for it. So how to come up with AI content, things like that. I think it's just, it's really cool how we're able to do this and put all this together to create our ads more than anything else, more than anything else. I think ads need to just be mostly AI generated at this point. Put more. I put way more thought and effort into my YouTube videos, my front end post, I try to put as little. I just have the AI tell me what to do based on my offer for ads. Yeah, yeah. Because I keep it really methodical, really algorithmic. Very much. I take my whole emotions out of it, because a big part of it is the algorithms. Now on meta, Instagram, X, TikTok, they're all AI driven. Anyways, that's deciding who they show your offer to in the first place. So again, the ads optimization course, the AI content creation course, and the learning about the like creating an evergreen campaign, that's all in the Start Here Course is the automation, the automated business blueprint that one's all about, how we build that whole evergreen system that's going to be What's working for scaling stuff for you. Yeah, fantastic, yeah. And it's amazing how it's all developed since I was in the group. You know, it's changed tremendously. The reason that I see is is just as business owners in the traditional sense, let's look back at 20 years ago. 10 years ago, you want to be the business owner that has a team of designers, developers, stuff that you hire at three to $5,000 salaries that do all this stuff for you. Now, AI can kind of take over most of that. And even now, with this, these different agents like ClawdBot and stuff, they can even be your admin, yeah, which is amazing, yeah, just kind of putting all that stuff together. There is ClawdBot. Does that have a fee, a monthly fee? No, okay. Well, it attaches itself to any existing AI stuff you have. So I am paying for Clawd max for other stuff that I'm doing over at Clawd, but the actual ClawdBot is not, no, yeah, no, it's a free it's a it's open source software. Is what it is cool. So it's, it's just, it's free right here, yeah, AI that actually does things, clears your inbox, send emails, manages your calendar, checks in for flights, and it does a lot more than that, too. That's what they say it does, but it does way more than that. Yeah, so a combination, and then ChatGPT for the marketing. Because I do use ChatGPT A lot. It's just so great when you're like, putting together a newsletter or whatever, and you just write, yeah, you know, qual is probably better at writing newsletters and emails though. Oh, okay, yeah, that's what I'm using, mostly Clawd Opus 4.5 Yeah, right now I'm, I'm using it to develop different apps and stuff like we just developed Sandy's AI app with it, and then I just developed an affiliate program for the back end. So we built out a whole affiliate back end admin and stuff like this with Clawd, yeah, that had the AI build the whole thing. It ran through all the security and everything, and did all that stuff how it connects to the shopping cart. So we're, again, we're moving to like AI, just kind of runs your business, and you stay as a top level visionary and somebody who shares your ideas, and then you create things that then filter into the AI to be able to to do the work for you. And that's, that's, that's my big message right now, get out of the weeds of doing all the stuff in your business. Have AI be the one that does it for you. Yeah? Nice. So then you're going to be able to iterate and reach more people much faster that way. Lovely. Yeah, thank you. I've got lots to get on with this week. Yeah, you bet, yeah. Cheers. We were talking about dreaming about this is where AI was headed a year ago. Now it's here, yeah? Well, I feel like I've got a lot to catch up on. You know, beautiful part is the way that you reach and sell to people hasn't changed much. I'm just recommending that you charge for a mini course instead of doing like free webinars or free challenges. That's about the only difference. Yeah, the human aspect of human to human connection stays the same. You're just having the AI help you build out the marketing assets. Yeah, right. Okay, cuz you can roll out, I mean, I could roll out a landing page in 10 seconds with AI instead of a week. So, yeah, nice thing, alright, okay, this is a word problem that's funny. When 24 elephants and 12, that's funny. Uh, Adele, what's going on? Adele, hi Jeremiah, just a quick question, couple of questions. So I think I'd sent you a video that you saw about a girl who was really sick, and she automated her entire YouTube channel. I followed her for a while. Yeah, she was on my Facebook page. She was always talking about her health, yeah, that's what it is, yeah, yeah, yeah. I always thought she sold, like, health drinks or something, because she always talking about health, and then I stumbled across a lot of health stuff now, yeah, so she has a whole but so the interesting thing is, JEREMIAH'S see where she sets this up in businesses, yeah? So she was like, so sick that she had no choice but to create a clone. And then the funny thing was, that boy she's, she's great, performed so much better than her actual videos. So her workflow is, she uses Clawd to map out her videos. She writes her scripts with Clawd, and then she gets the AI twin to do them. And then she spends her money on the post production. She gets somebody in the Philippines do the post post production. Absolutely genius. So now AI is even going to start to be able to do the post production for you. Oh, wow. Well, you have, you'll have to share it with me how to do that. Because I was thinking, right? That's the one, that's the one piece that, yes, if you're going to have ai do your clone, you have to invest in somebody to do the post production. Yeah, yeah. So I was going to, I was gonna exactly do that, look for somebody in the Philippines that can do that. Maybe you contact, because I think you've got someone that does that for you. No, she not anymore. I moved away from having her because she wasn't really growing a new skill or anything. Okay, I want to find out. Is there any, is there any app, or would I be able to create a chat agent that can do that? Well, you can use Clawd for most of that. Yeah. So I was thinking Jeremiah around the narcissism stuff, and like to build a YouTube channel fast and then direct them into school community. Could I use that strategy? But then I thought I'd remember. I thought I thought I remember seeing a YouTube video about a couple of months ago that's saying that YouTube was cracking down on AI content, like aI generated content. That's my only reticence. What do you think about that? Sorry. What was that? Last part I saw a YouTube it was something on YouTube, and it was saying that in 2026 YouTube is going to crack down on like aI generated. Either way, there's quite a lot of generated channels So, but anyway, I mean using it, but Well, here's the thing, though, check this out. Have the AI generate your script, and then you just record yourself off the script template? Yeah, definitely. So, I mean, I'm definitely going to use that strategy, not going to crack down on that, like, bulk records things and then send them to somebody to, like, clean them up and make them look pretty. Is a fast way to join a YouTube channel on narcissism, and then I'm going to direct them into school community. That's one thing I'm going to do. The other thing that I'm still working on is I want to do a 497 offer, right? And I want to run ads to it. So I want to, and I'm going to niche down. I'm going to do, I'm going to target Christians or faith based people, how to create their first high ticket offer, 497 doc, 497 offer. So what kind of ad spend would I need to probably launch that? Would I need, like, a grand, couple of grand, obviously, I'll do some organic content first. But for example, like Leanne Lopez, she's running them. She's running a course this week telling how she ran 1497, offer in 2025, she put 117k ad spend behind it, and it 10x to over a million dollars. I don't have 110k add budget, but she 10x you know, her spend sounds like a good return, so Yeah, but what is she? She's running her at her ad, still to some kind of a like a paid micro webinar, right? It's a micro offer. It's 497 it's in her it's in her good job. $4.97 No, 497-400-9074 197 Yeah, yeah. But you said that you went through, was it a webinar with her? Um, yeah, I have, but okay, well, no, so she's been posting on her Instagram this week that that she ran that offer 497, offer in 2025, and she put 117k ad spend behind it, and it generated over $1.5 million just one, yeah, there's just, there's a lot of details missing there that she's not sharing. I guarantee you there's a lot of like, front end, yeah, building audience nurture to close those sales. She wasn't just putting 100k ad spend to a 497, offer, I promise you not. Okay, no, nobody is doing that. That makes for a great social media headline. Here's how I would translate that in my business. Yeah, there's the there's the year that I when I the first year when I launched this program, I did a million dollars in it. So I would say, I I spent, I think, 100k in ad spend. So I put 100k behind $166 offer, and made a million dollars. So you 10 extra ad spend too easily, but like, there's a lot of details and nuance about that, such as I also ran a new webinar every week. I also was doing five day challenges once a month. See, I'm saying, Yeah, well, I was listening to some other ads person during the week, and they were saying, all these $5 and $10 a day don't work because it doesn't give the algorithm enough data to train the pixel to find people, yeah, at some point that is, that is actually partially true, and they said it's like driving a Maserati in a car park. You can, you can have it spend enough to where you can validate and prove your offer, and then you have to raise your ad spend. So that's why I'm asking, like, how much? How much money would I need to run ads for a beginner. Like, seriously, usually about three, about 300 to $1,000 a month is the right price point. Okay, so I need, like, but you're going to be bringing in far more than that. I showed the math where my offer is making, yeah, $80 I'm spending, yeah, yeah. So obviously it's bit of a risk. So I'm going to have a couple of grand, like, in a couple of weeks. Start out with that, like, kind of 510, $20 a day to see. Okay, is it bringing in two people, five people, 10 people, 20 out of those 20 people that I get two clients. Okay, great. Now let me add a little bit more to this ad spend and stuff like that. And then what that does is you start to validate your offer, okay? And then you start to scale it up. So we don't have to, like, drop the whole ground at once. We can just do it in micro increments, and you're only going to spend it over the course of, like, a couple of days, usually my offers, I usually started, like, a $50 a day test budget. Usually that the algorithm seems to like, $50 a day. Okay, $50 a day for like, some people, some people, they don't have more than five to $10 a day to start with, yeah, well, I am gonna have, you could totally validate with five to $10 a day. Yeah, it's just gonna take you longer. I've been working really, really hard all over December. That's why it looks like I'm not doing anything. I'm working very, very hard to generate cash. Generate cash, and then I've got this high ticket coaching three days. Thing I'm doing with an Irish coach in March. I'm hoping to make some money out of that. So I'm generally, I want to generate cash to to do ads, to do yeah, do ads, learn how to do ads. So I was just wondering, like, what budget do I need? And, yeah, it's a risk, but I'm going to do it because a I want to learn ads, and if I don't make any return, at least I've learned how to do ads. And then the best, the best outcome, would be that I make some kind of return, so I either learn or make a return. So I'm doing it. That's the mindset of because kitty cross, she made 600k in one year, and she said her ad spend was about think she said 55k or something, or 50 or 60k Yeah, most people usually do about 50 to 100k in their tests for the first years. Yep. Yeah. So she 10x her ad spend. They're making way more than that back, yeah, in return, yeah. So, and you're not just putting this money up front and hoping that it produces results you scale, when you validated and tested that there's a response and a reaction from real people. Yeah, Tiffany's getting validation from her podcast that there's a response and a reaction Deborah. Remember Deborah mentioned she got those sales. So now Deborah's proven that she has a product that people will pay for. Has something that people want to pay for. Now we lean into that deeper. Okay, here's again, some example. Remember, I ran a webinar every week for a year straight. This is something that Russell Brunson said to do. I tested it out. I'd say it was way too much work for what I'm willing to do now, which is why now I'm automating everything. But I'd like to do where, like I my automations can run a webinar maybe every week or so. So I have a whole automated sequence, right? Might even have used an AI twin that does my webinar for me. I want to have something as automated as possible. So I want to start the YouTube. But for you to do something as automated as possible, you're not going to start automated? Yeah, nobody is. You don't want to start automated. You want to start with doing it as a person, and then you automate the stuff that's repeatable, yeah? So once it's proved you can start automating? Yeah, yeah. Okay, cool. I'm sitting in the car, my daughter's car. I've got 4% battery, so I better jump off. So right? Thanks, awesome. Oh, this is great. This is an awesome diagram, right here. Look at this. Sorry, one more question. Jeremiah, are you going to show us how to create a chat or a top level is data. This is sorting the data. This is arranging it, this is presenting it visually, and this is explaining data with a story. This is literally how we learn what to do with ads and campaigns. As we turn raw data into a story, and that's what sells our clients. We figure out, what is that moment where people are responding, hey, you wanted me to show you what? So what you've been talking about this week, about a, I don't know what you call it, like CHATGPT agent, virtual assistant. Are you going to show us how to do that? Well, last week, I showed quite a bit. The week before, I showed quite a bit of that as well. You did you watch those? Right? I sort of half watched it. Yeah. I was, I was over like, using like, start with using like, GPT 's. Yeah, the GPT builder, create a new GPT for the task you're wanting to do. Okay, that's the like, like, it's almost like, like, to learn to use agents. You kind of gotta, like, stair step your way into it a little bit, okay, to know how they work. So like the GPT builder, you can go into CHATGPT, explore GPT 's and create one right here by talking to their little bot about the GPT you want to create, yeah, and just load up, load of data, just to try now the next level, Manus and lovable, I can describe to Both of these an agent that I want created as software. Now I take it a step further. I actually go into Clawd, because Clawd is really good at doing this. I describe the agent that I want, and I tell it, write me a prompt that I can paste into Manus to create this agent. So I want an agent, app, micro app that turns transcripts into social media, post ideas, map out directions in a prompt for Manus, like a PRD on doing this. PRD is product, project, requirements, document. Okay, wait, I'm not. Oh, no, I hit my usage limit on this Clawd account. I had to literally get a second Clawd account yesterday. How much is Clawd? I've never got it before. Well, they got different price points, so I've been using it to make software and do all this crazy stuff. So I'm on their $200 a month plan. Yeah, I use their I use their weekly limit already with my mom's software. So I told her she's gonna have to pay for my second account. That's the only thing I was thinking about, creating an AI twin for YouTube. You'd have to be on, like the Creator, prescription or or whatever. Subscription. It's like $160 a month. So that's the only thing you know about that. But so let's say I tell this to do this right here. Okay, this is my other account. I want an agent to do this. I'll create a PRD styled prompt right here. So this is so right here. Again, it's creating this, and I can copy this build a single micro app that does XYZ UX report. So it's literally describing how to make an app that does this stuff. And then I copy this prompt right into Manus or into lovable. All right, okay, so you prompt it in Clawd and take it into lovable, yeah, Claude or CHATGPT, and then I take this whole thing right here. I'm I copy it, I can go into Manus, and I can say, create this. Okay, I'm going to do the same with lovable. Create this. Okay, I'm gonna paste that right into lovable, and it's literally going to both of these are going to go to work building me a micro app. Wow. That's an agent that does that thing that I gave it. And then what you do is you just go back and forth with either of them about, okay, what's not working? So it's like, okay, it's not producing the outputs. It gave me an error. Okay, great. Let me get so you tell it, it produced an error. Okay, great. I'm going to go check the error logs and see why it made an error, and then it'll fix it. Same with Manus, same thing. You can tell it, okay, it produced this error. Can you go do this? So you just tell it what's not working, and then it fixes it. And it does that. Okay, so here's the thing, so it's okay, so we're going to build it right there. So it created a blueprint. We're gonna tell it to go build this little mini app for us with Manus. And lovable is doing the same thing. We're gonna enable AI cloud right here on lovable cloud. We're and so it starts writing all these different step by step, product to do's, product to do list, and that's just going to go down one by one, each to do, and start testing it out and building it okay, and then lovable does. How do you then take that from that to, like, automating your entire business, well, you just build a couple of these out, all right, okay, so, like, all the tasks that you would do in a weekly basis, just create right? And then what I could do is I could take the links to all of them. I could give it to Manus, uh huh. Or I could give it to Clawdbot, because Manus and Clawdbot are kind of the only two. Or I could give it to Clawd Cowork, and I could say, these are our web apps that I created that do this. I'm going to start feeding you data every week. I want you to create a plan to go grab this every week, because both of these have what's called cron jobs. So you know what a cron job is, No, I've never heard that a cron job. You can build cron jobs, I think, into Manus, and you can with it's where it automatically, once a week, is going to go check it's going to go log into my otter AI account, or it's going to go log into this app and download the transcript for me, it's going to go grab those things. So what I'm doing is I'm telling the agent that I wanted to automatically go grab those things and do that. Wow, that's where Clawdbot is so unique is it's able to actually just do that, just by talking to it like CHATGPT. So Clawdbot is like a kind of an agent that will go into other applications and pull down data, yeah, but you currently, they only recommend you install this to like a separate computer or a virtual Okay? CPU, no, it's more of a of a safety security factor, all right, okay. It doesn't use very much CPU at all. Amazon, virtual machine. This is the version that some people are grabbing. Is they're grabbing these virtual machines right here from Amazon. And a virtual machine, they're free. You can grab a virtual machine for free, and the total cost, if you run at 24/7 on Amazon with Clawdbot is, I think, like six bucks a month. Oh, wow. So it's a virtual computer that you get to log into. You literally log into it. You can do a Windows or a Linux computer. So look the $8 a month priced here, right here. Look at that. Yeah, wow. And the free version gives you so then Clawdbot is installed on this little virtual computer, and then it can do the work for you from that virtual computer. So you don't want it to be on your main computer. You want to be inside of a virtual Yeah, or I have it right now running on my MacBook, my MacBook Air, yeah, not my main computer. It's a separate computer that I have it running on. Yeah, I feel like, like, in, like, within the space of seven days. Every time we come onto this call, it's like, the AI is risking ahead so fast it is. It's frightening. It can be frightening or can be exciting. Well, it's exciting, yeah, it's like, but we gotta like, it's just like, keeping up with it. But I feel like we've got this is, this is the inflection point that's happened. So, yeah, watching some of Julia's videos has been very eye opening about just what's coming down the tracks in like, three years. And we can't stop it. It's coming. So all these people that are saying, I don't want to use AI, well, you're going to be left behind then, because all your competition is So, you know, all right, I've only got 1% battery, so I'm gonna thanks. Jeremiah, yeah, you bet. And then what I'm doing is I'm using Clawd code. Clawd code can go into my Manus or into my lovable account, and it can improve the code by fixing things like that through Clawd code. So those are just some of the different ways that we can do that. You look at this, here's this, here's this little app right here, PostCraft, not witchcraft, it's PostCraft. So let's, let's take a transcript right here. Let's go. Let's go to otter. Let's go grab a transcript, and we're going to test out these micro apps. Look at Manus just built us a little micro app right here too. So that's what I mean by a micro app agent. Let me go grab my mom's call, because that's all I have right here. This is her stocks call from today. I'm going to go grab this. So you saw all I did was I just prompted these to build me an app that did those things. I'm just going to copy this to my clipboard. I'm going to go paste this into Manus right here. We're going to say, let's make me some Instagram, TikTok. Let's do provocative posts, three posts per platform. Okay, let's go see lovable. We do provocative, three posts for platform for all of these, right? Here generate posts. So now what it's going to do is it's going to generate me with the AI, because these literally have aI built into them even. Okay? So this didn't generate any posts on Manus. Okay, so you, you didn't generate me any posts. It's just blank when I click Generate. Okay, so we're gonna tell Manus that, and this is how we do it. This is how it works. Okay, this one worked on lovable. Look at now we have posts right here. Here's some ex post. Most people shouldn't be allowed to trade. Why? Because they can't control their impulses. I just made $250,000 this morning while sitting under a cozy blanket. It was I should send this to my mom. This is hilarious. It took your call and turned it into all these LinkedIn posts. I never thought I'd be teaching patients in the high stakes trading class, but here we are today. I watched my portfolio climb 250 grand, which it did Instagram post, woke up to $250,000 profit while the world outside was literally frozen, while everyone stood panic scrolling. So this is it's like how quickly that was. Now, once you have this, you could literally just do this multiple times a day. We could run, we could run some humorous ones here. We could run, yeah, so Manus is it's thinking it's trying to fix its thing. Lovable seems to be a little bit better at Manus, at doing most of this stuff, at kind of building these that actually work. And I think the value that you get for the cost on lovable for building little apps, is pretty good. Even just their $20 a month tier is pretty good at this, whereas with with Manus takes a little bit more than 20 bucks a month to build out some of these on Manus. So but here's the cool thing about Manus, it's able to take control of my web browser and actually test it out for me. So it's testing it right now in its preview window to see what it does, and it's able to see what the issues are. It's actually testing the app by itself, autonomously, which is awesome. See analyzing transcript I'm okay, there we go. It worked. Very cool. I ran out of rock salt. Started using sugar. If you see a diabetic Husky looking at my deck stairs, mind your business. Oh my gosh. Your brain doesn't understand. Just kidding when you tell person truth, stop gas on yourself. Hot take once you're treating all most of your trading losses aren't due to money's Great. Let's see what Texas ice storm. Get creative, salt plus sugar equals no more ice. Yes, this is taken from the transcript with my mom's post. So we just built a little AI agent that can make social media content in in minutes that way, which is awesome. That was in loveable, we just told it that one prompt, remember, we started with Clawd. We told Clawd to actually make us the details. And this is why lovable was able to do this so quickly. Is Clawd actually created the details of how to build the app, the agent, the app right here, and then we pasted that, those details into those so if you had just told them you wanted to make this micro app, it would not have worked as well as pasting the Clawd output. So, but that's the one, one thing with that. Then, if you're using Clawdbot, I can just tell Clawdbot to go in there and like, manage all this for me. Manus says that it fixed its issue, and now it's working. It's pretty cool. So now it's able to Manus is now able to analyze the transcripts with just one little extra prompt. And what was the cost on this in tokens from Manus, 118 credits. You could build that with the initial account so you built so Manus isn't even that expensive either at building a little micro apps, I would say lovable. Usually works a little bit better on the front end, though, and they look a lot nicer, which is cool. So, like, That's it, like I just showed you guys, like the initial stage of how to build these. I'm taking to, like, the whole next kind of psychotic level, a little bit. But yeah, and what I want to do is every task I do in my business, everything I have a VA, do stuff like that. I'm going to build out tools that do this, and then I can tell, like Clawdbot to go, Okay, go create the transcript. Go make me some draft posts. Go take all this now, sure, there's some manual stuff I have to do, but it's, it's so powerful, the ability to be able to put all this together like this, if you're trying to come up with like ideas you know, for your business, on your own, you're trying to, and you're not using AI agents to kind of help streamline a lot of the process. You're just, you're you're working with really outdated tools in your business at this point. So no no hate against anybody, no like kind of beating you down. I'm just telling you, that's it, all right. I love it. I absolutely love it. And so listen, this has been so good. Let me ask you this. Let's go back to the the since I got some of you still on here, I want to, I want to kind of get some breakthrough here with us, with you guys, when you think about using AI agents or building this stuff, what is the fear or worry, hesitation, doubt that comes in mind where you're like, I'm not ready yet. I'm not sure I could do this. I'm not sure what to do all that. What is the things that kind of pop in your mind about those, the same thing that we did earlier, we can get to the root of that. What do you what do you guys think it is that's slowing you down from going to the next level with your AI creations? You don't know what the prompts are to figure it out. Well, I'll tell you this half the time anymore. I don't even know what the prompts are. I tell the AI to come up with the prompt for me. So that's that's why I stopped kind of giving out prompt packs, is I want to teach you now figure out how to describe what you're wanting, and then have the AI generate the prompt for you, and then adjust it by talking to it like a person. So like, right here, let's just kind of go through this right here. This is the the decision matrix, mind hack process. And again, we've been, we've been talking about this, David's book so powerful. I read it. I listened to the audiobook three times in the last week. He's just a great this. His book is so good. I'm not. I actually have a little bit of trouble watching his videos and listening to his content. Weirdly enough, I don't resonate with it. But I resonate with the book so much like it's so good, that that's kind of what I just lean in and on, is the book so much. The changed mind. Book is just so good. Okay, what does success look like? The outcome you're looking for, what steps? What are the constraints? I Oh, interesting decision matrix. You feel like you feel lost about prompts. I don't know enough. I'm going to do it wrong. I need the perfect prompt for it to work right. I can start with a simple outcome, first prompt and improve as I go. That's it so and I know, Tiffany, you got evidence of that in how you've used AI as well. Keep it sure do, oh yeah, learning as you go, yeah. Yeah. And the cool thing is, too, is the I learned by repetition, because I also find that if I try to copy your wording, it, it's not my wording, so it kind of throws me off. And then I think it has to be some other way. But I just I've been implementing like I can take the thing you just shared with us about how you turned Sandy's transcripts into AI content. So then I got this idea. I'm going to go do the same exact thing with my podcast transcript. And now I've got tons of ideas, but yeah, now I realized I don't need to know really the like, perfect prompt. It's just like, go, yeah. And the way I operate, you know, as a quick start, it's like, I don't need a cookie cutter. Well, that's it. This, this prompt wouldn't a lovable that's the perfect prompt that lovable needs. Yeah, for mini app, all I did was I want an agent micro app that turns transcripts into this map out the directions in a prompt for Manus or or lovable or whatever, like a product, product requirement documents for doing this a PRD style PRD is the term for what this document is. It's called project requirements document. And so it mapped it out, and now that's the perfect prompt, right there, and I didn't need to know that, right? Yeah, lovable, I don't know here I'll turn my camera back on. Lovable, it like cuts all the time in half of everything that I have had to use over the years. So thank you for sharing that with us, because I've been using it, and I'm like, I will gladly pay to hire that's like hiring my assistant, and they can create, in fact, recently, just last week, it created an email series where I just told it the prompt of, I want this email series to nurture my email list first before selling my $10 offer. So it created a whole, like, 21 day series. So I have been, you know, doing a little edits here and there, but I've sent it and the percentage rate, the last one that people opened was like 26% I count that as, like, a huge deal. And then the lovable app also recently created a Testimonials page where I went back and I reached out to previous people whose spaces I have been in, like the business owners, asking for testimonials on how I enriched their community, like before, during after. And then I created a second page to that, where I was able to, then I call it a love wall, where it's previous testimonials that I've gathered from previous clients. Yeah, and I put that on there. So now, and I did that over the weekend, awesome. And I upgraded it today. I just tweaked a few things. But it's, it's so simple, yep, I created this. It's a I loaded up a bunch of emails from my mom that I wrote myself, but I loaded them up and I created an email generator that drafts Sandy style emails. That's cool. All the emails that I'm writing out now my mom, I'm just editing what it's creating right here. It's literally writing them exactly how we send them. So this just cut down 75% of my time for writing these emails for Sandy. Yeah, I'm on her email list too. So it's, it's neat to see, plus, too. The the mindset that I was in when I started this whole business thing is that I had to sound like my mentors and do exactly what they were doing. But it wasn't until I figured it out that I'm not them. I can model what they're doing, but not mimic. So that has been a game changer. Actually, it has been a game changer because now I'm like, how I'm flying so very cool. Yeah, we got a few 100 people already to Sandy's AI app that we created. Yeah, those apps, I'm telling you, whatever you both like, they're so helpful, because they just are. So I built, I built the sandy AI in loveable, oh, that's totally cool. That's totally cool because it takes the I loaded all her transcripts and stuff up into it. Yeah, that's quite Yep. And then, and then I use Clawd code to kind of refine it. But yeah, it's awesome. Yeah, yeah. One of them. We're in a new, a new era of a lot of this stuff. Yeah, start dreaming about too, like, what could I create? What app could I create in my business? What are some apps I could use to automate what I do in my business? One for you on what I already started, and then you can start creating those things again. I think lovable is like the fastest, easiest way that anybody can use to do that. Oh, yeah. Now if you start making, like, 2030, apps and stuff, yeah, your lovable accounts gonna get a little bit more expensive, right? But if you're the only one using them, the cost is still pretty negligible, because the server costs are almost zero, yeah. And then what I look for is now, one of the things that I will say is they chart, they up, charge their AI is kind of pricey. Their AI cloud, you can load more credits into it, but what I do is I get, I get what's called an API key from OpenAI, from Google, from anthropic. I load that in there, the API key, and it starts using the API keys for the things, oh. API key is just a connection into Clawd chat, GPT, all that that lovables app can use to then generate the outputs. Oh, okay, okay, so you got to go create an API key with those and set up your billing and how they charge you. And just be careful. You don't want the API key to get out there public or anything, or you'll I did that accidentally. I ended up with like, a $700 bill because people stole my API. Oh, you can set limits, though, inside of them, we're like, it's not going to charge you above, like, this much a month. And so that's helpful. But okay, unfortunately, that's the only thing. Like, there's hackers and stuff that can get involved with this. But lovable has a lot of good like, secure they have, like, that security check and all of that. Yeah, lovable is kind of its own version of Clawd code a little bit. It has a lot of the same under underpinnings to it that make sure that the security and stuff is in there. So the quality of what's in lovable is really good. Manus isn't quite as good. But the reason why I like Manus is it can do a little bit more. It's it can actually go into the browser and go to different websites and view different things and take action. Versus lovable can't necessarily do that as much. Yeah, but they should add that in there, which is interesting. That's where Clawdbot is just crazy, though, because then Clawdbot can take control of my whole computer and just do everything for me, just like, I just can't believe, like it did all that work this morning for me, and I didn't even have to touch anything. I just was texting it while I was washing the dishes, telling it what I wanted to create. I just dreaming up like workflows and agents, and it literally just built them all inside of itself. Yeah, so it's pretty cool. Yeah, thank you already, y'all. We're gonna log off here. Have a good one. Let's build our businesses. Bye, bye.

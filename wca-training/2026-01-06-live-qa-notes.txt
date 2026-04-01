@@ -1,0 +1,102 @@
+WCA Call - January 6th, 2026 - Live Q&A (Topic Notes - No Full Transcript)
+
+Topics Discussed:
+
+AI agent "Manus" (capabilities, use cases, pricing, and strategy)
+- What Manus is: general-purpose AI agent that can operate tools and UIs
+- Recent acquisition by Meta; speculation on roadmap
+- Pricing/credits model, referral link, free daily credits
+- Model options: Manus 1.6, 1.6 Light, Manus Max (cost vs. quality)
+- "Wide research" mode: spawns multiple sub-agents in parallel
+
+Concrete tasks performed:
+- Logging into AWeber/marketing email accounts
+- Extracting broadcast emails and automation emails
+- Rewriting email sequences into a file
+- Planning and writing a long-form ebook from 70+ hours/1000+ pages of transcripts
+- Generating graphics
+- Attempting but failing to re-upload emails (handoff to human VA)
+
+Prompting strategy:
+- Ask Manus to write the prompt that Manus should use
+- Iterative, page-by-page long-form writing with self-prompting
+- Quality comparison vs ChatGPT for long-form, autonomous iteration
+- Transcription support: accepts MP3/WAV; can transcribe audio
+- Cost-effectiveness vs hiring a VA (Philippines comparison)
+- Teaching Manus to optimize its own workflow (e.g., using preview "eyeball" icon)
+
+Using audio, ChatGPT, and other assistants for book creation and organization
+- Chat with AI while driving; voice mode constraints/limits
+- Uploading audio to ChatGPT for transcription/structuring
+- Using bullet points to guide dictation
+- Managing usage caps in voice mode
+
+Lovable (AI web/funnel builder)
+Capabilities:
+- Builds landing pages, thank-you pages, delivery pages
+- Can generate multiple versions; chat-to-edit page sections
+- Can host on lovable cloud with databases and AI tools
+- Generates ad/analytics pixel code integration (e.g., Facebook Pixel)
+
+Workflow examples:
+- Rapidly creating landing pages from Stand Store copy in 5–15 minutes
+- Prototyping in Lovable, then VA replicates into Squarespace/WordPress/HighLevel
+- Comparison vs ClickFunnels and traditional builders
+- Publishing and domains: lovable.app subdomains, custom domain option
+
+Ads/pixels:
+- Clarification that it creates/embeds pixel code; doesn't auto-create ad campaigns
+
+Marketing strategy and iteration philosophy
+- Reduce time from idea to executed campaign; iterate faster
+- Need for multiple offers/lead magnets; persistent, repeated connection
+
+Customer journey observations:
+- 14-day trial pattern: first-time cancellations, later return and long-term retention
+- Importance of consistent content and showing up
+- Life planning and workload balance with AI (holidays, birthdays, future parental leave)
+
+Overall AI "industrial revolution" analogy:
+- Shifting roles for designers/developers toward AI-augmented workflows
+- Human-in-the-loop: AI does 80–90%, human does final 10–20%
+
+Personal examples of AI in life and marketing
+- Creating a personalized birthday video for a child using AI voice/video
+- Higgs Field "Cinema Studio" for cinematic scene generation
+- Fun image generations (e.g., "90s rapper" photos)
+- Sora/Higgs Field usage anecdotes
+
+Tools landscape: comparisons and complementary uses
+ChatGPT vs Gemini vs Grok vs Perplexity vs NotebookLM vs Claude
+- ChatGPT: strong sales copy, familiar UX, some content policy frictions
+- Gemini: strong web-integrated search/AI mode; visual layout; guided learning
+- Grok: fewer content restrictions; useful for direct marketing Q&A
+- Perplexity: fast web-research with cited sources; good for "how to" discovery
+- NotebookLM: deep research, guided learning, visual layouts, presentations
+- Claude Code: command-line coding agent for multi-agent software building
+
+Insurance claim use case with ChatGPT:
+- Navigating roof claim, legal constraints, scripts for contractors/insurer
+- State-specific legality (e.g., Texas vs California)
+- Setting up a GC company to manage claim work legitimately
+
+Go High Level (GHL) exploration and AI features
+Existing AI agents in GHL:
+- Voice/conversation/lead engagement agents (appointment setting, responses)
+
+Discovery of "Build with AI (Beta)" in Funnels:
+- Generates funnel pages and sections from prompts/sales copy
+- Section-by-section editing; limitations vs Lovable's global chat edits
+- Ability to generate automations (emerging)
+- Live demo: creating hero, benefits, credibility, case studies; previewing
+- Beta quirks: placeholder author ("Sarah Matthews"), needing manual edits
+
+Dynamic countdown timers:
+- GHL capability vs Deadline Funnel
+- Testing via separate browsers/emails; learning via YouTube tutorials
+- Using ChatGPT for GHL tech support; screenshots; domain connection issues
+
+Pixels, ads, and anticipated Meta integrations
+- Facebook Pixel integration into landing pages
+- Speculation: Meta integrating Manus-like agent into Ads Manager to auto-build campaigns
+- Manus can already operate Ads Manager to launch ads

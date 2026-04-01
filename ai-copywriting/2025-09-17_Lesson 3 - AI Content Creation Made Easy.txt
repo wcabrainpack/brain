@@ -1,0 +1,86 @@
+Lesson 3 - AI Content Creation Made Easy
+Date: 2025-09-17T03:08:31.000Z
+Duration: 21 min
+Otter ID: En2bszzqMjL7QwHKGvV6uXIQ5ig
+---
+
+[0:10] Jeremiah Krakowski: All right, so in this training, I want to show you a workflow for creating AI generated videos that can actually talk and sound like you. There's a couple of tools, again, that we want to use for this and the best way to do this, and I've been experimenting over the last few days on how to set this up, just to show you all of this in the right way. Number 111, labs, is the tool that creates the best audios that sound just like you. And so I created one last night that is identical to me. I mean, it's kind of scary, almost, how good it is under voices. I have a professional cloned voice right here. And to get this account, you need at least the $11 level of their subscription, the creator level right here. It's $22 but I got the $11 level initially. And so you have to have a paid subscription with 11 labs. And then friendship is a garden where kindness blooms together. So that's, that's the sample of the audio here. But let's, let's do this. Let's go to text to speech. And the way you create it is you go here, professional voice clone. And I uploaded two hours of video of me talking teaching from multiple different courses and trainings and so it sounds exactly like I do in these videos. So if I go over here and I click, okay, professional voice, let's go to my professional voice clone, Jeremiah right there, and I'm going to say, Hello everyone, I'm Jeremiah's voice clone. We can generate speech, hello everyone, I'm Jeremiah's voice clone. So sounds a little too exaggerated on the style we're gonna adjust these just a little bit. Let's try again. Hello, everyone, I'm Jeremiah's voice clone. Hello, everyone, I'm Jeremiah's voice clone. So different, couple different styles right there. They have this v3 version, but it doesn't actually sound like me. But those are close enough that I think we can use this for our purposes and what we're trying to accomplish here. Okay, so right here, I loaded up into Higgs field. I created a character for myself. We've been using my mom's character for a couple of different ones, and what I did was, again, to create this character. I went under soul soul characters, and I uploaded 28 photos of me right here. You can see these photos in Higgs field, and it's gone, and it's generated in less than five minutes. It's actually generated my character that I can use. So it's right here, I can use my character has 28 different photos of me, all different scenes and things like that. If I, if I could just show you what that what that looks like here, here's what's like. Some of the photos looks like they were just I just kind of screenshotted stuff from videos of me and then uploaded it, then up and then uploaded a few different photos that I had, took a few new photos. So this has me in different scenes and different stuff like that. Okay, and so now what we're doing is we're having it generate a few different photos of me in different scenes. Let's see man in Art Gallery looking at camera, walking forward, and then let's try this man in woods with a flamethrower in his hands. Flamethrower is fire. He's around him. I wonder what that's going to generate, right? Kind of a, kind of a crazy concept, but
+
+[68:00] Speaker 1: we'll see. We'll see what this makes. Okay?
+
+[71:12] Jeremiah Krakowski: So these are in the queue. We're going to pause this till these come back up. While it's generating that, let's generate a script for what we're going to have this say, here's one thing that you can do, I actually was playing around with this is in chat, GPT. I might be able to take a transcript from a video that I that I did, and I've converted a lot of my different videos into blog posts. And so like, let's go to my blog and look at this. These are all converted from, uh. Uh, these are all converted from podcasts that I've done. We had aI then generate a blog post with it. And so then, if I take these blog posts, one of these blog posts, and I say, turn the following blog into a highly engaging Instagram reel. Really hook the the viewer in with the words bot as a selfie style video. Okay, so I'm going to then paste the blog post in there, and we're going to have chat GBT actually create a script for us for an Instagram reel that then we can have our character talk and create text to speech, okay? And now one of the things is, is that when you're using AI video like this, you're limited by only about eight to 10 seconds. And so if you created an entire reel that's a minute long, the way that I've seen it done right now, that works best for consistency is people will create one part of a scene in one setting, and then they'll literally switch the camera to another scene. So they'll create the whole audio, but then they'll switch the camera frame up, so it's kind of like, okay, I'm on a beach in one setting. Now I'm in a forest, now I'm in a big city, and things like that. And that, number one, keeps things engaged. That's what's working right now. Number two, you can really create some different content in that way. I think in the future we'll be able to have long, strung out videos, but right now it's limited in the consistency on this. Okay. Stop scrolling quick gut check. Have you ever hovered over send or rewritten a post 10 times because you're afraid too much that fear is costing you clients feel pleasing, looks harmless, but in marketing, it's a trap. You delay launches over, polish your message, and obsessed about unfollows. Okay, so I'm going to edit this and remove parts that I think are a bit too much.
+
+[114:09] Speaker 1: Here's the flips or Okay,
+
+[115:45] Jeremiah Krakowski: today, pick one move You've been avoiding to do. No apologies, no over edited. Okay, this is good. So I'm gonna, I'm gonna take this. I'm just going to use three of the paragraphs that it wrote. We're going to use 11 labs to create a speech clone of me saying these ever hovered over send or rewritten a post 10 times because you're afraid it's too much that fear is costing you clients. People pleasing looks harmless, but in marketing, it's a trap. You delay launches over, polish your message and obsess about unfollows today, pick one move You've been avoiding and do it. No apology, no over editing. Own your expertise. Speak with authority. This is funny, so it that actually does look like me, which is awesome. It's like, if I use this as the as the image, we can use this speech tool right here, and then we can upload, oh, and I can do is, I can take this, we can go video. So we'll generate a video. It'll say, man walking towards camera, smiling, right there will generate this as like a 10 second video. Okay?
+
+[144:28] Jeremiah Krakowski: And so what that's able to do is it's able to generate us a video using cling from that image right there, and then we could generate another image right here. This is so funny, the flamethrower one, if I do
+
+[150:19] Speaker 1: man standing in woods looking at camera, we'll do this one as well. Okay, these
+
+[153:10] Jeremiah Krakowski: are some different videos too that we created earlier, like with my mom, right there. So you want to start with just a just a single video of some kind. See, I'm a little bit bigger than this, so that's why I uploaded like a full body shot, so that now I. Um, it actually does look more like me
+
+[162:11] Speaker 1: in these.
+
+[163:16] Jeremiah Krakowski: Oh, look. Okay, we have now on the beach, walking forward.
+
+[165:15] Speaker 1: Okay, so there's on the beach,
+
+[166:59] Jeremiah Krakowski: man walking.
+
+[169:00] Speaker 1: See, we're
+
+[169:57] Jeremiah Krakowski: gonna go, okay, create image. We're gonna do a video of this beach shot, walking forward towards camera on beach. Okay, so we're going to generate these different three clips, and then from here we're going to download them. We're going to use them for our purpose of syncing the audio up with these videos.
+
+[180:09] Jeremiah Krakowski: All right, so now we have some of our videos generated. This one is actually kind of is blowing my mind,
+
+[182:11] Speaker 1: how good it is.
+
+[183:23] Jeremiah Krakowski: Like I would like maybe the lighting to be a little bit brighter, but, I mean, that's that's pretty awesome. This one's little weird, but I think it's a good attention grabber, right there. Maybe I would change my outfit or something like that. And then this one, this one didn't come out the best, but it's usable for something, just for our purposes of what we're doing right here. And then I generated a couple more. I'm just having fun with it, generating, like I had to do a selfie of me. Okay, those came out looking a little little off, not quite there with the face again. So these are gonna be hit or miss sometimes. So just keep that in mind.
+
+[197:03] Speaker 1: This one definitely yeah, so it created a scene right there that
+
+[199:53] Jeremiah Krakowski: not, not perfect, but those are some some concepts. Okay, so now and they, you can do this inside of of Higgs field. I wanted to do it inside of cling, though, because Higgs field has you upload an image, whereas cling has you upload actually the video itself to actually add in the lip syncing and all that talking avatar, all those things. And so in cling if we go under avatar lip sync, and then I drop in the video of me walking right here. Here's an example. Okay, then we downloaded our text to speech right over here from our prompt. And now in cling, let's see detecting character. Okay, great.
+
+[216:56] Speaker 1: So there's our there's our character,
+
+[218:01] Jeremiah Krakowski: right there. Upload some audio, 11 labs. Okay, so now what it's going to do is it's going to take this audio that I'm uploading and it's going to sync it to my character inside of here, inside a cling. So what I did was, the workflow was I generated an image by uploading my character image right here, generated the image images, and again, like I said, they're hit or miss. This one came out so weird with Sandy's hair right there. Sometimes it's hit or miss as far as the prompt that it enhances or generates. But like this, one came out amazing. Okay, so then we generated a video with that. We created a video, described the video in a video scene. We downloaded that video. Then we go to cling and we upload this with our speech. Okay, here's this. Have you ever hovered over send or rewritten a post 10 times because you're afraid it's too much? Okay, so we're gonna trim it right there at the end of that. Part of the clip, and that's going to be what we're going to
+
+[241:07] Speaker 1: generate easier is because they
+
+[242:15] Jeremiah Krakowski: Okay, so it's going to create a lip sync of me talking with that audio that we AI generated, the audio with 11 labs over this video and claim. Okay, so it's generating it right now. We'll come back to that. All right, so you ever hovered over send or rewritten? It's not perfect. You Ever Have you ever hovered over send or rewritten a post?
+
+[251:20] Speaker 1: Let me see if I want to download this
+
+[253:16] Jeremiah Krakowski: without the clay water matter times because so that's awesome. Here's the video right here. Have you ever hovered over send or rewritten a post 10 times because you're afraid it's too much. So part of it is because they had me smiling at the end. We're playing around with like, do we want to be smiling? Or do we want it to just generate that video? And so that's just an example of kind of how that works right there. Now, if I want to do the next part of the clip, let's say it's with the flamethrower right here. I can take this and again, the workflow is not perfect, but you can take this workflow, tweak it, adjust it, like for instance, I might generate the video where it doesn't have me smiling as part of it might be, or might be, a way that I would want to do that.
+
+[269:58] Jeremiah Krakowski: You know, we can also play around with Higgs field and see how it does as well with the lip sync. Have you ever hovered over send or rewritten a post 10 times? Have you ever hovered over send or rewritten a post 10 times because you're afraid it's too much? No.
+
+[276:56] Speaker 1: I I'll clip it right there.
+
+[279:19] Jeremiah Krakowski: Play with this one same thing. Upload the audio, but we want to pull in the next piece of audio here as well.
+
+[283:05] Speaker 1: Oh, interesting. I
+
+[285:50] Jeremiah Krakowski: wonder if that's in reference to the video or the audio I uploaded
+
+[287:17] Speaker 1: as a very weird, okay, yeah, that was, that was a glitch.
+
+[289:43] Jeremiah Krakowski: Have you ever hovered over, send or rewritten a post? It's going to clip this, remove this over here,
+
+[293:33] Jeremiah Krakowski: that fear is costing you clients. People pleasing looks harmless, but in marketing it's a trap. Looks harmless, but in marketing it's a trap. Okay, then we're gonna generate that one and see how that comes out. That's the next clip, because you're afraid. It's too much. If I take that audio right there,
+
+[301:01] Speaker 1: we're gonna take
+
+[301:57] Jeremiah Krakowski: see this is where, if we generate an image right here, I'm
+
+[304:05] Speaker 1: okay, let's go look at this.
+
+[307:31] Jeremiah Krakowski: Look very, very Chad right there. Oh my gosh. Look at the hair it gave me. Gave me Patrick mahomes hair
+
+[310:08] Speaker 1: so funny.
+
+[314:16] Speaker 1: So if we use this one with that audio clip, what would that look like, for example, with the Higgs field audio,
+
+[319:28] Jeremiah Krakowski: okay, so now we can see what this looks like. That fear is cost. Think you clients. Let's have it downloaded. People pleasing looks harmless, but in marketing, that fear is costing you clients. People pleasing looks harmless, but in marketing, it's a trap. So he would have wanted me to be looking at the camera and maybe a closer, tighter shot of that. And so you can again, adjust that and how you create your original shot, or things like that, to make those look better, to come across better that way. But you can see by doing this, you can create different avatars, different photos of you, different versions, different scenes, generate AI audio and then sync up the video of it to create ads. This is, this would be, this would be perfect for Facebook ads, maybe not necessarily content that I would put out there just yet, but definitely would use this for creating ads. And so it's really cool how you can use these tools to clone yourself virtually and do this type of stuff. It's pretty awesome. It's.
+

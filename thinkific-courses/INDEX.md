@@ -1,0 +1,154 @@
+# Thinkific Courses Export Index
+
+Generated: 2026-03-30 16:57 PDT
+
+- Total courses: 138
+- Total lesson files: 2773
+- Lessons with extracted text: 153
+- Stub-only lessons: 2620
+
+## Courses
+
+- `academy-weekly-training-archives` — **Academy Weekly Training Archives** (id: 1951779) | chapters: 46 | files: 230 | text: 0 | stubs: 230
+- `vip-1-on-1-resources` — **Ultimate VIP 1-on-1 Experience Resources** (id: 3107512) | chapters: 3 | files: 25 | text: 25 | stubs: 0
+- `1-99-black-friday-training-bundle` — **2023 Black Friday Training Bundle** (id: 2570717) | chapters: 8 | files: 18 | text: 0 | stubs: 18
+- `2024-income-accelerator-new-years-2-24-special` — **2024 Income Accelerator: New Years $2.24 Special** (id: 2610033) | chapters: 6 | files: 9 | text: 0 | stubs: 9
+- `5-minute-content-creation-blueprint` — **5 Minute Content Creation Blueprint** (id: 2480326) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `7-figure-squarespace-funnel-building` — **7 Figure Squarespace Funnel Building** (id: 2828682) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `7-figure-webinars` — **7 Figure Webinars** (id: 2976107) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `8-figure-funnel-frameworks-you-can-copy` — **8 Figure Funnel Frameworks You Can Copy** (id: 3020811) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `ai-ebook-writing-made-easy` — **A.I. eBook Writing Made Easy** (id: 2920206) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `ads-optimization-simplified` — **Ads Optimization Simplified** (id: 2643493) | chapters: 7 | files: 7 | text: 0 | stubs: 7
+- `ai-content-creation-made-easy` — **AI Content Creation Made Easy** (id: 3200549) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `audience-building-for-online-mentors` — **Audience Building For Online Mentors** (id: 2755869) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `automated-marketing-secrets` — **Automated Marketing Secrets** (id: 2166338) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `beginner-courses` — **Beginner Courses** (id: 2765014) | chapters: 9 | files: 59 | text: 0 | stubs: 59
+- `black-friday-2024` — **Black Friday 2024** (id: 2942707) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `build-and-grow-your-6-figure-group-coaching-membership` — **Build and Grow Your 6 Figure Group Coaching Membership** (id: 2972795) | chapters: 1 | files: 3 | text: 0 | stubs: 3
+- `build-your-own-6-figure-coaching-business-vip-upgrade-package` — **Build Your Own 6 Figure Coaching Business - VIP Upgrade Package** (id: 1965569) | chapters: 4 | files: 12 | text: 0 | stubs: 12
+- `september-build-your-own-6-figure-coaching-business-vip-upgrade-package` — **Build Your Own 6 Figure Coaching Business - VIP Upgrade Package** (id: 1995197) | chapters: 3 | files: 19 | text: 0 | stubs: 19
+- `ceo-mindset-mastery` — **CEO Mindset Mastery** (id: 3176173) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `chat-gpt-prompt-academy` — **Chat GPT Prompt Academy** (id: 2219099) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `coaching-payment-plan` — **Coaching Payment Plan** (id: 1757935) | chapters: 1 | files: 1 | text: 0 | stubs: 1
+- `copywriting-mastery` — **Copywriting Mastery** (id: 2025558) | chapters: 8 | files: 8 | text: 0 | stubs: 8
+- `create-launch-your-coaching-business-to-six-figures` — **Create & Launch Your Coaching Business To 6 Figures - VIP Package** (id: 2026724) | chapters: 4 | files: 23 | text: 0 | stubs: 23
+- `creating-a-world-class-digital-course` — **Creating A World Class Digital Course** (id: 2799092) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `easy-course-creation-blueprint` — **Easy Course Creation Blueprint** (id: 1313200) | chapters: 7 | files: 9 | text: 0 | stubs: 9
+- `effective-communication-skills-to-improve-your-teaching-speaking` — **Effective Communication Skills To Improve Your Teaching & Speaking** (id: 2127075) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `effortless-online-content-creation-blueprint` — **Effortless Online Content Creation Blueprint** (id: 3090367) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `email-marketing-the-fun-way` — **Email Marketing The Fun Way** (id: 2096406) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `evergreen-marketing-funnel-secrets` — **Evergreen Marketing Funnel Secrets** (id: 2885105) | chapters: 7 | files: 7 | text: 0 | stubs: 7
+- `facebook-instagram-ads-for-beginners-2025-edition` — **Facebook & Instagram Ads For Beginners: 2025 Edition** (id: 3052826) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `facebook-ad-basics-for-total-newbies` — **Facebook Ad Basics For Total Newbies** (id: 2379465) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `facebook-and-instagram-ads-made-easy-for-total-beginners` — **Facebook and Instagram Ads Made Easy For Total Beginners** (id: 2025570) | chapters: 9 | files: 9 | text: 0 | stubs: 9
+- `facebook-pixel-clarity` — **Facebook Pixel Clarity** (id: 2561504) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `find-your-ultimate-coaching-niche-holiday-bundle` — **Find Your Ultimate Coaching Niche Holiday Bundle** (id: 2958062) | chapters: 4 | files: 6 | text: 0 | stubs: 6
+- `niche-holiday-2022` — **Finding Your Coaching Niche - Holiday Bundle** (id: 2120693) | chapters: 3 | files: 6 | text: 0 | stubs: 6
+- `finding-your-niche-vip-bonuses` — **Finding Your Niche - VIP Bonuses** (id: 1988815) | chapters: 6 | files: 7 | text: 0 | stubs: 7
+- `finding-your-niche-vip-bonus-package-october` — **Finding Your Niche: VIP Bonus Package** (id: 2019666) | chapters: 6 | files: 7 | text: 0 | stubs: 7
+- `forbidden-advertising-navigating-ad-restrictions` — **Forbidden Advertising Navigating Ad Restrictions** (id: 2608748) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `friendly-followup` — **Friendly Followup** (id: 2259930) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `funnel-building-in-gohighlevel-made-easy` — **Funnel Building in GoHighLevel Made Easy** (id: 2862180) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `funnel-building-made-easy-for-squarespace` — **Funnel Building Made Easy for Squarespace** (id: 2080326) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `funnel-building-on-systeme-io-made-easy` — **Funnel Building On Systeme.io Made Easy** (id: 2608751) | chapters: 7 | files: 7 | text: 0 | stubs: 7
+- `funnel-launch-fast-track-with-steven-robbins` — **Funnel Launch Fast Track for ClickFunnels with Steven Robbins** (id: 2072806) | chapters: 2 | files: 5 | text: 0 | stubs: 5
+- `funnels-offer-copy-live` — **Funnels & Offer Copy Live** (id: 1981052) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `grow-your-coaching-business-to-6-figures` — **Grow Your Coaching Business To 6 Figures** (id: 2068711) | chapters: 5 | files: 19 | text: 0 | stubs: 19
+- `grow-your-coaching-program-with-paid-ads` — **Grow Your Coaching Program With Paid Ads** (id: 2140038) | chapters: 7 | files: 14 | text: 0 | stubs: 14
+- `how-to-start-a-6-figure-website-building-business` — **How To Start A 6-Figure Website Building Business** (id: 587462) | chapters: 2 | files: 14 | text: 0 | stubs: 14
+- `instagram-ads-made-easy` — **Instagram Ads Made Easy** (id: 2862185) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `intermediate-courses` — **Intermediate Courses** (id: 2765015) | chapters: 6 | files: 39 | text: 0 | stubs: 39
+- `irresistible-offers-that-sell` — **Irresistible Offers That Sell** (id: 984424) | chapters: 16 | files: 17 | text: 0 | stubs: 17
+- `ai-clone` — **Jeremiah's AI Clone** (id: 3206913) | chapters: 1 | files: 1 | text: 0 | stubs: 1
+- `landing-page-blueprint` — **Landing Page Blueprint** (id: 2219098) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `lead-magnet-vip-package` — **Lead Magnet VIP Package** (id: 2029330) | chapters: 4 | files: 7 | text: 0 | stubs: 7
+- `learning-library-of-classes` — **Learning Library Of Classes** (id: 2765013) | chapters: 43 | files: 575 | text: 0 | stubs: 575
+- `6-figure-video-ad` — **Let's Write Your 6-Figure Video Advertising Script** (id: 2036692) | chapters: 7 | files: 10 | text: 0 | stubs: 10
+- `black-friday-training-bundle` — **LIFETIME ACCESS - Black Friday $4.95 Training Bundle - LIFETIME MONEY BACK GUARANTEE** (id: 2087684) | chapters: 12 | files: 33 | text: 0 | stubs: 33
+- `mailchimp-made-easy` — **Mailchimp Made Easy** (id: 2443567) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `mailerLite-made-easy` — **MailerLite Made Easy** (id: 2891304) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `march-7th-launch-your-6-figure-coaching-offer` — **March 7th: Launch Your 6 Figure Coaching Offer** (id: 2192115) | chapters: 6 | files: 9 | text: 0 | stubs: 9
+- `mastering-individual-sales` — **Mastering Individual Sales** (id: 2538806) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `mastering-zoom-for-coaches` — **Mastering Zoom For Coaches** (id: 2578075) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `mindset-foundations-offer-launchpad-course` — **Mindset Foundations for Coaches and Course Creators (Offer Launchpad 2022)** (id: 2053481) | chapters: 1 | files: 8 | text: 0 | stubs: 8
+- `new-course` — **New Course** (id: 2815316) | chapters: 1 | files: 0 | text: 0 | stubs: 0
+- `new-course-1` — **New Course** (id: 2840657) | chapters: 2 | files: 0 | text: 0 | stubs: 0
+- `new-years-bundle` — **New Years Celebration Training Bundle** (id: 2129386) | chapters: 9 | files: 19 | text: 0 | stubs: 19
+- `offer-launchpad-mastermind-recordings` — **Offer Launchpad Mastermind Recordings** (id: 2183602) | chapters: 8 | files: 54 | text: 0 | stubs: 54
+- `outsourcing-and-team-building-made-easy-for-online-mentors-and-coaches` — **Outsourcing & Team Building Made Easy For Online Mentors & Coaches** (id: 2427481) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `plan-out-your-course-or-coaching-vip` — **Plan Out & Create Your Signature Coaching Program or Online Course The Easy Way** (id: 2148826) | chapters: 7 | files: 11 | text: 0 | stubs: 11
+- `power-of-other-people-s-stages-with-rick-pino-jeremiah-krakowski` — **Power of Other People's Stages with Rick Pino & Jeremiah Krakowski** (id: 2007041) | chapters: 1 | files: 1 | text: 0 | stubs: 1
+- `private-vault-virtual-events` — **Private Vault of Webinars & Challenges** (id: 1988729) | chapters: 79 | files: 395 | text: 0 | stubs: 395
+- `pro-video-editing-made-easy` — **Pro Video Editing Made Easy** (id: 2735322) | chapters: 7 | files: 7 | text: 0 | stubs: 7
+- `recurring-membership-profits` — **Recurring Membership Profits** (id: 2286064) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `robin-ernst-recordings` — **Robin Ernst Recordings** (id: 3180537) | chapters: 1 | files: 2 | text: 0 | stubs: 2
+- `running-an-impactful-mastermind-group` — **Running An Impactful Mastermind Group** (id: 2683312) | chapters: 8 | files: 8 | text: 0 | stubs: 8
+- `sales-copy-mastery-with-chat-gpt` — **Sales Copy Mastery with Chat GPT** (id: 2379416) | chapters: 8 | files: 8 | text: 0 | stubs: 8
+- `sales-letter-&-landing-page-copywriting-made-easy-with-ai` — **Sales Letter & Landing Page Copywriting Made Easy with A.I.** (id: 2949265) | chapters: 5 | files: 5 | text: 0 | stubs: 5
+- `six-steps-to-six-figures-as-a-coach` — **Six Steps to Six Figures As A Coach** (id: 2166333) | chapters: 6 | files: 6 | text: 0 | stubs: 6
+- `social-media-ads-that-work` — **Social Media Ads That Work** (id: 625593) | chapters: 10 | files: 89 | text: 0 | stubs: 89
+- `social-media-content-creation-made-easy` — **Social Media Content Creation Made Easy** (id: 1691490) | chapters: 12 | files: 13 | text: 0 | stubs: 13
+- `strategic-funnels-made-simple` — **Strategic Funnels Made Simple** (id: 2302516) | chapters: 3 | files: 3 | text: 0 | stubs: 3
+- `streamline-your-coaching-business-with-high-level-adam-luckey` — **Streamline Your Coaching Business With High Level - Adam Luckey** (id: 2276801) | chapters: 13 | files: 13 | text: 0 | stubs: 13
+- `successful-selling-for-people-who-struggle-to-sell` — **Successful Selling For People Who Struggle To Sell** (id: 2127065) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `successful-webinars-and-challenges` — **Successful Webinars & Challenges** (id: 2332315) | chapters: 6 | files: 7 | text: 0 | stubs: 7
+- `the-automated-6-figure-business-blueprint` — **The Automated 6-Figure Business Blueprint** (id: 3130400) | chapters: 7 | files: 7 | text: 0 | stubs: 7
+- `tik-tok-ads-made-easy` — **Tik Tok Ads Made Easy** (id: 1922649) | chapters: 9 | files: 9 | text: 0 | stubs: 9
+- `time-optimization-playbook` — **Time Optimization Playbook: Work Smart & Live Well** (id: 2253093) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+- `total-online-6-figure-roadmap` — **Total Online 6 Figure Roadmap** (id: 2781801) | chapters: 13 | files: 13 | text: 0 | stubs: 13
+- `transformational-coaching-made-simple` — **Transformational Coaching Made Simple** (id: 1758457) | chapters: 10 | files: 11 | text: 0 | stubs: 11
+- `get-dream-coaching-clients-with-paid-advertising` — **VIP Bonuses: April 1st Get Dream Coaching Clients With Paid Advertising** (id: 2220777) | chapters: 5 | files: 8 | text: 0 | stubs: 8
+- `vip-bonuses-april27th-growing-your-6-figure-coaching-email-list-the-fun-way` — **VIP Bonuses: April 27th Growing Your 6-Figure Coaching Email List The Fun Way** (id: 2266738) | chapters: 6 | files: 10 | text: 0 | stubs: 10
+- `develop-your-signature-group-coaching-program-from-scratch` — **VIP Bonuses: April 4 Develop Your Signature Group Coaching Program From Scratch** (id: 2231655) | chapters: 6 | files: 12 | text: 0 | stubs: 12
+- `vip-bonuses-april-6-get-more-paid-membership-subscriptions-clients-with-facebook-ads` — **VIP Bonuses: April 6 - Get More Paid Membership Subscriptions & Clients with Facebook Ads** (id: 2726810) | chapters: 4 | files: 7 | text: 0 | stubs: 7
+- `build-your-6-figure-client-getting-marketing-funnel` — **VIP Bonuses: April 8 Build Your 6-Figure Client-Getting Marketing Funnel** (id: 2231672) | chapters: 6 | files: 9 | text: 0 | stubs: 9
+- `vip-bonuses-aug-12th-grow-your-online-mentorship-to-6figures-using-AI` — **VIP Bonuses: August 12 - Grow Your Online Mentorship to 6 Figures Using A.I** (id: 2382266) | chapters: 6 | files: 10 | text: 0 | stubs: 10
+- `vip-bonuses-aug-5th-get-more-mentorship-clients-with-paid-ads-and-AI` — **VIP Bonuses: August 5 - Get More Mentorship Clients with Paid Ads & A.I** (id: 2375472) | chapters: 4 | files: 7 | text: 0 | stubs: 7
+- `vip-bonuses-december-16-plan-create-your-online-course-coaching-program-the-easy-way` — **VIP Bonuses: December 16 - Plan and Create Your Online Course or Coaching Program the Easy Way** (id: 2575287) | chapters: 7 | files: 11 | text: 0 | stubs: 11
+- `vip-bonuses-dec-2nd-create-your-own-6-figure-online-course` — **VIP Bonuses: December 2 - Create Your Own 6-Figure Online Course** (id: 2558284) | chapters: 4 | files: 8 | text: 0 | stubs: 8
+- `vip-bonuses-december-9-get-more-coaching-clients-with-facebook-ads` — **VIP Bonuses: December 9 - Get More Course Sales Or Coaching Clients with Facebook Ads** (id: 2569951) | chapters: 4 | files: 7 | text: 0 | stubs: 7
+- `vip-bonuses-feb-24-create-your-own-6-figure-online-membership-from-scratch` — **VIP Bonuses: February 24 - Create Your Own 6 Figure Online Membership From Scratch** (id: 2671044) | chapters: 4 | files: 9 | text: 0 | stubs: 9
+- `get-more-clients-with-paid-avertising` — **VIP Bonuses: Get More Clients With Paid Advertising** (id: 2091722) | chapters: 8 | files: 15 | text: 0 | stubs: 15
+- `growing-your-email-list-the-fun-way` — **VIP Bonuses: Growing Your Email List The Fun Way** (id: 2100663) | chapters: 8 | files: 10 | text: 0 | stubs: 10
+- `vip-bonuses-jan-13-create-your-own-6-figure-online-course-coaching-program-from-scratch` — **VIP Bonuses: January 13 - Create Your Own 6 Figure Online Course or Coaching Program From Scratch** (id: 2603962) | chapters: 4 | files: 9 | text: 0 | stubs: 9
+- `vip-bonuses-jan-27-get-more-course-sales-or-coaching-clients-with-Facebook-ads` — **VIP Bonuses: January 27 - Get More Course Sales or Coaching Clients with Facebook Ads** (id: 2614517) | chapters: 5 | files: 9 | text: 0 | stubs: 9
+- `vip-bonuses-july-1st-monetize-your-email-list-into-6-figure-success` — **VIP Bonuses: July 1 Monetize Your Email List Into 6 Figure Success** (id: 2336574) | chapters: 9 | files: 13 | text: 0 | stubs: 13
+- `vip-bonuses-july-29th-start-a-profitable-online-mentorship-using-AI` — **VIP Bonuses: July 29th - Start A Profitable Online Mentorship Using A.I** (id: 2367623) | chapters: 5 | files: 8 | text: 0 | stubs: 8
+- `vip-bonuses-july-8th-grow-your-coaching-business-with-live-zoom-events` — **VIP Bonuses: July 8 Growing Your 6 Figure Coaching Business with Live Zoom Events** (id: 2343796) | chapters: 7 | files: 11 | text: 0 | stubs: 11
+- `vip-bonuses-june-17th-start-your-6-figure-group-coaching-business-with-AI` — **VIP Bonuses: June 17th Start Your 6-Figure Group Coaching Business with AI** (id: 2315781) | chapters: 5 | files: 8 | text: 0 | stubs: 8
+- `vip-bonuses-june-24th-get-more-clients-with-paid-ads-and-AI` — **VIP Bonuses: June 24th Get More Clients with Paid Ads and AI** (id: 2330478) | chapters: 4 | files: 7 | text: 0 | stubs: 7
+- `vip-bonuses-Create-Launch-Your-6-Figure-Group-Coaching-Community-Offer` — **VIP Bonuses: June 5: Create & Launch Your 6 Figure Group Coaching Community Offer** (id: 2780805) | chapters: 3 | files: 7 | text: 0 | stubs: 7
+- `vip-bonuses-march-2-create-your-own-6-figure-online-course-from-scratch` — **VIP Bonuses: March 2 - Create Your Own 6 Figure Online Course From Scratch** (id: 2686004) | chapters: 7 | files: 10 | text: 0 | stubs: 10
+- `growing-your-email-list-step-by-step` — **VIP Bonuses: March 28th Growing Your Email List Step-By-Step** (id: 2220791) | chapters: 5 | files: 8 | text: 0 | stubs: 8
+- `vip-bonuses-march-30-build-your-own-subscribers-area-from-scratch` — **VIP Bonuses: March 30 - Build Your Own Paid Subscribers Area From Scratch** (id: 2716676) | chapters: 4 | files: 9 | text: 0 | stubs: 9
+- `vip-bonuses-march-9-get-more-course-sales-or-coaching-clients-with-Facebook-ads` — **VIP Bonuses: March 9 - Get More Course Sales or Coaching Clients with Facebook Ads** (id: 2689397) | chapters: 4 | files: 7 | text: 0 | stubs: 7
+- `vip-bonuses-may-2nd-start-a-6-figure-group-coaching-business-from-scratch` — **VIP Bonuses: May 2nd Start A 6 Figure Group Coaching Business from Scratch** (id: 2272454) | chapters: 7 | files: 10 | text: 0 | stubs: 10
+- `vip-bonuses-may-6th-grow-your-6-figute-group-coaching-business-with-paid-ads` — **VIP Bonuses: May 6th Grow Your 6-Figure Group Coaching Business With Paid Ads** (id: 2272542) | chapters: 6 | files: 10 | text: 0 | stubs: 10
+- `vip-bonuses-nov-11th-start-your-6-figure-group-coaching-business-friom-scratch-with-ai` — **VIP Bonuses: November 11 - Start Your 6 Figure Group Coaching Business From Scratch with A.I** (id: 2536237) | chapters: 4 | files: 8 | text: 0 | stubs: 8
+- `vip-bonuses-nov-4th-get-more-coaching-clients-with-facebook-ads` — **VIP Bonuses: November 4 - Get More Coaching Clients with Facebook Ads** (id: 2532689) | chapters: 5 | files: 8 | text: 0 | stubs: 8
+- `vip-bonuses-oct-28th-create-your-own-6-figure-digital-course-from-scratch` — **VIP Bonuses: October 28 - Create Your Own 6 Figure Digital Course From Scratch** (id: 2518989) | chapters: 5 | files: 9 | text: 0 | stubs: 9
+- `vip-bonuses-sept-16th-get-more-mentorship-clients-with-AI-and-facebook-ads` — **VIP Bonuses: September 16 - Get More Mentorship Clients with A.I + Facebook Ads** (id: 2425387) | chapters: 4 | files: 7 | text: 0 | stubs: 7
+- `vip-bonuses-sept-23rd-get-more-mentorship-clients-using-live-webinars-and-ai` — **VIP Bonuses: September 23 - Get More Mentorship Clients using Live Webinars + A.I.** (id: 2433787) | chapters: 6 | files: 9 | text: 0 | stubs: 9
+- `vip-bonuses-sept-9th-start-a-highly-profitable-online-group-mentorship-with-AI` — **VIP Bonuses: September 9 - Start A Highly Profitable Online Group Mentorship with A.I** (id: 2416631) | chapters: 4 | files: 8 | text: 0 | stubs: 8
+- `start-grow-group-coaching-6-figures` — **VIP Bonuses: Start & Grow Your Group Coaching to 6 Figures** (id: 2145646) | chapters: 11 | files: 27 | text: 0 | stubs: 27
+- `April-10-12-Low-Cost-High-Impact-Offer-Launchpad` — **VIP Bundle: April 10-12 Low Cost High Impact & Offer Launchpad** (id: 2716775) | chapters: 7 | files: 14 | text: 0 | stubs: 14
+- `grow-your-group-coaching-business-with-zoom-events` — **VIP Bundle: April 10th-14th Grow Your Group Coaching Business With Zoom Events** (id: 2225831) | chapters: 13 | files: 32 | text: 0 | stubs: 32
+- `August-14th-18th-Create-Launch-Your-Profitbale-Group-Mentorship-Offer` — **VIP Bundle: August 14th-18th Create & Launch Your Profitable Group Mentorship Offer ** (id: 2372560) | chapters: 6 | files: 17 | text: 0 | stubs: 17
+- `December-18-22-Create-Laucnh-Your-6-Figure-Course-or-Coaching-Offer` — **VIP Bundle: December 18-22 Create & Launch Your 6 Figure Course or Coaching Offer** (id: 2574877) | chapters: 8 | files: 19 | text: 0 | stubs: 19
+- `Jan29-Feb2-Start-Grow-Your-Course-or-Coaching-Offer-to-6-Figures` — **VIP Bundle: Jan 29 - Feb 2: Start & Grow Your Course or Group Coaching to 6 Figures** (id: 2612820) | chapters: 8 | files: 19 | text: 0 | stubs: 19
+- `July-10th-14th-Build-Launch-Your-6-Figure-Group-Coaching-Offer` — **VIP Bundle: July 10-14th Build & Launch Your 6-Figure Group Coaching Offer ** (id: 2324053) | chapters: 6 | files: 17 | text: 0 | stubs: 17
+- `vip-launch-your-coaching-offer-22` — **VIP Bundle: Launch Your 6 Figure Coaching Offer** (id: 2096960) | chapters: 9 | files: 26 | text: 0 | stubs: 26
+- `March11-13-AI-Offer-Launchpad` — **VIP Bundle: March 11 - 13: A.I. Offer Launchpad** (id: 2677932) | chapters: 7 | files: 14 | text: 0 | stubs: 14
+- `May-8th-12th-Launch-Scale-Your-6-Figure-Group-Coaching-Offer` — **VIP Bundle: May 8th-12th Launch & Scale Your 6-Figure Group Coaching Offer** (id: 2268068) | chapters: 7 | files: 18 | text: 0 | stubs: 18
+- `November-13-17-Start-Grow-Your-Group-Coaching-to-6-Figures` — **VIP Bundle: November 13-17 Start & Grow Your Group Coaching to 6 Figures** (id: 2529770) | chapters: 7 | files: 18 | text: 0 | stubs: 18
+- `September-25-29-Build-Launch-Your-Profitable-Group-Mentorship-Offer` — **VIP Bundle: September 25-29 Build & Launch Your Profitable Group Mentorship** (id: 2422206) | chapters: 6 | files: 17 | text: 0 | stubs: 17
+- `virtual-event-playbook` — **Virtual Event Playbook** (id: 1955653) | chapters: 8 | files: 8 | text: 0 | stubs: 8
+- `wealth-mindset-coaching` — **Wealth Mindset Coaching** (id: 2332740) | chapters: 6 | files: 7 | text: 0 | stubs: 7
+- `wealthy-coach-academy-start-here` — **Wealthy Coach Academy: Start Here** (id: 1935024) | chapters: 4 | files: 20 | text: 0 | stubs: 20
+- `website-building-made-easy` — **Website Building Made Easy** (id: 423450) | chapters: 16 | files: 128 | text: 128 | stubs: 0
+- `writing-7-figure-email-campaigns` — **Writing 7 Figure Email Campaigns** (id: 2925462) | chapters: 4 | files: 4 | text: 0 | stubs: 4
+
+## Notes
+
+- Thinkific Admin API currently exposes course/chapter/content metadata, but not full member-only lesson bodies.
+- This export writes real text where it is available directly in API fields or public/free lesson pages, otherwise it writes a title-only stub.
