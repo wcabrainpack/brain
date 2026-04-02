@@ -4,9 +4,7 @@ date: 2026-03-09
 lesson_name: "March 9th - Live Training: Agents as Easy as Brushing Your Teeth"
 zoom_meeting_id: "89279510557"
 zoom_uuid: "e3r8A3FmRJmqqvvnBZrsPA=="
-video_file: "/Users/clawdfamily/clawd/content/downloads/2026-03-09_WCA - LIVE TRAINING_shared_screen_with_speaker_view.mp4"
 transcript_source: "Zoom Cloud (VTT)"
-vtt_file: "/Users/clawdfamily/clawd/content/downloads/2026-03-09_WCA - LIVE TRAINING_audio_transcript.vtt"
 duration_minutes: 120
 status: transcript-ready
 participants:
@@ -100,7 +98,7 @@ Jeremiah opened by sharing a $50,000 AI agent build conversation he just had, th
 ## 💬 Full Transcript (VTT → Plain Text)
 
 > Source: Zoom Cloud Recording — audio_transcript (VTT)
-> VTT file: `/Users/clawdfamily/clawd/content/downloads/2026-03-09_WCA - LIVE TRAINING_audio_transcript.vtt`
+
 
 [Full raw transcript available in VTT file above — 1,342 lines, ~120 min]
 
