@@ -12,31 +12,19 @@ Use this corpus to: write copy, draft coaching content, match Jeremiah's voice, 
 
 ---
 
-## 🗺️ MANDATORY FIRST STEP — Read the Content Map
-
-```bash
-# Always start here — master navigation for the entire corpus
-cat ~/clawd/brain-pack/CONTENT-MAP.md
-```
-
-`CONTENT-MAP.md` contains the complete navigation guide: which folders have which content, which Thinkific courses are actually useful vs stubs, topic routing table, voice quotes, and reorganization proposals. **Read it before anything else.**
-
 ## Quick Start
 
 ```bash
-# 1. Read the content map (mandatory)
-cat ~/clawd/brain-pack/CONTENT-MAP.md
-
-# 2. Get the frameworks overview
+# 1. Get the frameworks overview (start every task here)
 cat ~/clawd/brain-pack/frameworks/jeremiah-frameworks-extracted.md
 
-# 3. Get orientation
+# 2. Get orientation
 cat ~/clawd/brain-pack/frameworks/START-HERE.md
 
-# 4. Browse a folder for relevant content
+# 3. Browse a folder for relevant content
 ls ~/clawd/brain-pack/wca-training/ | grep "2025"
 
-# 5. Sample files across a folder
+# 4. Sample files across a folder
 for f in $(ls ~/clawd/brain-pack/youtube-transcripts/*.md | head -5); do
   echo "=== $(basename $f) ===" && head -60 "$f" && echo ""
 done
